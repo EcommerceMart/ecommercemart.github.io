@@ -4,7 +4,7 @@ title:  "How to Use GitHub Actions for E-commerce Workflows"
 author: CodingRhodes
 categories: [ Ecommerce ]
 image: assets/images/How-to-Use-GitHub-Actions-for-Ecommerce-Workflows.jpeg
-tags: [Github,Ecommerce]
+tags: [Github, Ecommerce]
 ---
 In e-commerce development, repetitive tasks like testing, building, and deploying updates can take up a lot of time. GitHub Actions is a tool that automates these tasks, saving you time and reducing errors. In this guide, you’ll learn how to use GitHub Actions to improve your e-commerce workflows.
 

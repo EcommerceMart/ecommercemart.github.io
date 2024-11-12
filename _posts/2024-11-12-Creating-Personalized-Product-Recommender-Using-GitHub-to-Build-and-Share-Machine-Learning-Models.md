@@ -4,7 +4,7 @@ title:  "Creating a Personalized Product Recommender: Using GitHub to Build and 
 author: CodingRhodes
 categories: [ Ecommerce ]
 image: assets/images/featured_Developer-building-personalized-product-recommender-using-GitHub-and-machine-learning.jpeg
-tags: featured
+tags: [Github]
 ---
 Personalized product recommendation systems help e-commerce sites suggest products to customers based on their preferences and behaviors. In this guide, we'll walk through building a simple recommendation system using machine learning (ML) and show how to use GitHub to share and collaborate on the project. We’ll cover every step, from creating the model to collaborating with your team using GitHub.
 

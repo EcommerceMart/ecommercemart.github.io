@@ -4,7 +4,7 @@ title:  "How to Use GitHub’s Community Features to Gather Feedback on E-commer
 author: CodingRhodes
 categories: [ Ecommerce ]
 image: assets/images/featured_GitHub-logo-with-icons-for-Discussions-Issues-and-Pull-Requests.jpeg
-tags: featured
+tags: [Github]
 ---
 Gathering feedback from users and collaborators is essential for improving your e-commerce site and providing a great shopping experience. GitHub provides powerful community features like Discussions, Issues, and Pull Requests that can help you collect feedback on new features, find bugs, and create a collaborative community around your project. In this article, we’ll walk through these GitHub features and show how to use them to gather input on your e-commerce project.
 
