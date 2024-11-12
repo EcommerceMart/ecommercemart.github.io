@@ -1,12 +1,12 @@
 # Site
 name: 'Ecommerce Mart'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+description: 'Discover insightful blogs that merge the power of GitHub with e-commerce development. From version control tips to automation workflows, explore best practices, tools, and guides to enhance your e-commerce projects using GitHub.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'demowebsite'
 email: 'codingrhodes@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://github.us22.list-manage.com/subscribe/post?u=7cbb8f4ffba4384950451d221&amp;id=aae56f1824&amp;f_id=00d2c2e1f0'
 
 include: ["_pages"]
 permalink: /:title/
@@ -19,17 +19,9 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    # sal:
-    #   name:           Sal
-    #   site:           https://www.wowthemes.net
-    #   avatar:         assets/images/avatar1.jpg
-    #   bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-    #   email:          wowthemesnet@gmail.com
-    #   twitter:        https://twitter.com/wowthemesnet
-
     CodingRhodes:
       name:           Coding Rhodes
-      site:           https://www.wowthemes.net
+      site:           /
       avatar:         assets/images/Author-codingRhodes.jpeg
       bio:            "Hi, I am Coding Rhodes, the author of this article, Do let me know If you have any Questions"
       email:          CodingRhodes@gmail.com
@@ -39,12 +31,6 @@ authors:
 defaults:
 
   # all posts
-  - scope:
-      path: "_posts"
-    values:
-      layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
       
   # all pages
   - scope:

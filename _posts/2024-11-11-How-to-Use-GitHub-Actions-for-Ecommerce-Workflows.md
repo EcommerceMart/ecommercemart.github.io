@@ -22,6 +22,7 @@ For e-commerce, GitHub Actions can help with tasks like:
 + Sending notifications when specific events happen.
 
 ## Getting Started: Setting Up GitHub Actions
+
 ![GitHub Actions workflow setup screen in a GitHub repository]({{ site.baseurl }}/assets/images/GitHub-Actions-workflow-setup-screen-in-a-GitHub-repository.jpeg)
 
 ### Step 1: Create a New Workflow
