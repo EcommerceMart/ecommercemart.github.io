@@ -4,7 +4,7 @@ title:  "Leveraging GitHub Pages for a Minimalist E-commerce Store"
 author: CodingRhodes
 categories: [ Ecommerce ]
 image: assets/images/featured_Illustration-of-minimalist-ecommerce-store-built-with-GitHub-Pages.jpeg
-tags: [Github]
+tags: [featured]
 ---
 GitHub Pages is a simple, free way to create websites hosted directly on GitHub. For small businesses, entrepreneurs, or anyone wanting to test a concept, GitHub Pages offers a quick way to build a minimalist e-commerce site. This article explains how to set up a basic e-commerce site using GitHub Pages with the help of Jekyll or a headless CMS.
 

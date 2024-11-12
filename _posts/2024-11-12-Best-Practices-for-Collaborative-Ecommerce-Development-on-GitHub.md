@@ -4,6 +4,7 @@ title:  "Best Practices for Collaborative E-commerce Development on GitHub"
 author: CodingRhodes
 categories: [ Ecommerce ]
 image: assets/images/featured_Developers-collaborating-on-ecommerce-development-projects-using-GitHub.jpeg
+tags: [featured]
 ---
 Collaborating on an e-commerce development project with multiple team members can be challenging. GitHub provides tools that make it easier to work together, manage code, and ensure smooth development. In this guide, we'll cover best practices for organizing a GitHub repository, managing branches, handling pull requests, and conducting code reviews.
 
