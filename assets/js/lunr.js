@@ -1,6 +1,5 @@
 /**
  * lunr - http://lunrjs.com - A bit like Solr, but much smaller and not as bright - 2.1.5
- * Copyright (C) 2017 Oliver Nightingale
  * @license MIT
  */
 
@@ -57,7 +56,6 @@ var lunr = function (config) {
 lunr.version = "2.1.5"
 /*!
  * lunr.utils
- * Copyright (C) 2017 Oliver Nightingale
  */
 
 /**
@@ -208,7 +206,6 @@ lunr.Token.prototype.clone = function (fn) {
 }
 /*!
  * lunr.tokenizer
- * Copyright (C) 2017 Oliver Nightingale
  */
 
 /**
@@ -272,7 +269,6 @@ lunr.tokenizer = function (obj) {
 lunr.tokenizer.separator = /[\s\-]+/
 /*!
  * lunr.Pipeline
- * Copyright (C) 2017 Oliver Nightingale
  */
 
 /**
@@ -528,7 +524,6 @@ lunr.Pipeline.prototype.toJSON = function () {
 }
 /*!
  * lunr.Vector
- * Copyright (C) 2017 Oliver Nightingale
  */
 
 /**
@@ -726,7 +721,6 @@ lunr.Vector.prototype.toJSON = function () {
 /* eslint-disable */
 /*!
  * lunr.stemmer
- * Copyright (C) 2017 Oliver Nightingale
  * Includes code from - http://tartarus.org/~martin/PorterStemmer/js.txt
  */
 
@@ -947,7 +941,6 @@ lunr.stemmer = (function(){
 lunr.Pipeline.registerFunction(lunr.stemmer, 'stemmer')
 /*!
  * lunr.stopWordFilter
- * Copyright (C) 2017 Oliver Nightingale
  */
 
 /**
@@ -1110,7 +1103,6 @@ lunr.stopWordFilter = lunr.generateStopWordFilter([
 lunr.Pipeline.registerFunction(lunr.stopWordFilter, 'stopWordFilter')
 /*!
  * lunr.trimmer
- * Copyright (C) 2017 Oliver Nightingale
  */
 
 /**
@@ -1137,7 +1129,6 @@ lunr.trimmer = function (token) {
 lunr.Pipeline.registerFunction(lunr.trimmer, 'trimmer')
 /*!
  * lunr.TokenSet
- * Copyright (C) 2017 Oliver Nightingale
  */
 
 /**
@@ -1632,7 +1623,6 @@ lunr.TokenSet.Builder.prototype.minimize = function (downTo) {
 }
 /*!
  * lunr.Index
- * Copyright (C) 2017 Oliver Nightingale
  */
 
 /**
@@ -2000,7 +1990,6 @@ lunr.Index.load = function (serializedIndex) {
 }
 /*!
  * lunr.Builder
- * Copyright (C) 2017 Oliver Nightingale
  */
 
 /**
