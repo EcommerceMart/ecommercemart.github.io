@@ -157,4 +157,5 @@ Here’s a quick recap of the steps:
 2. Install Selenium and create a test script.
 3. Configure a GitHub Actions workflow to run the test.
 4. Monitor the test results to ensure your site is running smoothly.
+
 Automated testing with GitHub Actions and Selenium can help maintain a robust e-commerce site, giving users a seamless experience while saving time for your team.

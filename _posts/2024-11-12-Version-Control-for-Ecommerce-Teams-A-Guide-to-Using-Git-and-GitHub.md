@@ -127,4 +127,5 @@ Git and GitHub help e-commerce teams stay organized, keep track of every change,
 1. **Git** helps track changes and version control on your computer.
 2. **GitHub** provides a shared space online to store, review, and manage the project.
 3. **Version Control** ensures that team members don’t overwrite each other’s work and can collaborate effectively.
+
 With these tools, even non-developers can manage changes and work smoothly on e-commerce projects. Happy versioning!

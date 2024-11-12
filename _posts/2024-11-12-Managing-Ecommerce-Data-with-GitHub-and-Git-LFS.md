@@ -36,6 +36,7 @@ Now you’re ready to start using Git LFS with your Git projects!
 
 #### Step 2: Track Large Files with Git LFS
 Once Git LFS is installed, you can choose which types of files should be tracked. Let’s set it up for common e-commerce files, like images and videos.
+
 ![Screenshot showing Git LFS commands tracking large files, including images and videos, with a sample .gitattributes file listing tracked file types.]({{ site.baseurl }}/assets/images/Screenshot-showing-Git-LFS-commands-tracking-large-files.jpeg)
 
 1. **Decide Which Files to Track**
@@ -139,6 +140,7 @@ Using Git LFS makes it much easier to handle large e-commerce files on GitHub. H
 3. **Add and commit** these files to your Git repository.
 4. **Pull and clone** repositories to keep files organized for all team members.
 5. **Manage your large files efficiently** to keep your repository fast and organized.
+
 With Git LFS, you can manage large data files for your e-commerce site while keeping your GitHub repository organized and easy to use.
 
 
