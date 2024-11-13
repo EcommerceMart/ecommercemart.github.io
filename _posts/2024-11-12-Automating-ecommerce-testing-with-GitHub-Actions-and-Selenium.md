@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Automating E-commerce Testing with GitHub Actions and Selenium"
+description: 'Explore effective strategies for managing collaborative Ecommerce projects on GitHub, from version control to streamlined code reviews and workflow management.'
 author: CodingRhodes
 categories: [ Ecommerce ]
 image: assets/images/featured_Automating-ecommerce-testing-with-GitHub-Actions-and-Selenium-on-laptop-screen.jpeg

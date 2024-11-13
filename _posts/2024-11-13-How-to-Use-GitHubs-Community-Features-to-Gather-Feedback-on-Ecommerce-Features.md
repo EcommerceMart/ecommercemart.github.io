@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How to Use GitHub’s Community Features to Gather Feedback on E-commerce Features"
+description: 'Turn GitHub into your e-commerce feedback engine: Use Discussions, Issues & Projects to collect insights & drive customer-led development.'
 author: CodingRhodes
 categories: [ Ecommerce ]
 image: assets/images/featured_GitHub-logo-with-icons-for-Discussions-Issues-and-Pull-Requests.jpeg

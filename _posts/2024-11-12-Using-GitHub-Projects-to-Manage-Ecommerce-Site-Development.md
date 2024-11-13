@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Using GitHub Projects to Manage E-commerce Site Development"
+description: 'Learn how to streamline e-commerce site development with GitHub Projects, enabling effective task management, team collaboration, and project tracking.'
 author: CodingRhodes
 categories: [ Ecommerce ]
 image: assets/images/faetured_Team-managing-ecommerce-development-tasks-using-GitHub-Projects.jpeg

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Building a Plugin or Extension for Your E-commerce Platform: Starting with GitHub"
+description: 'Discover how to kickstart building plugins or extensions for your e-commerce platform using GitHub, streamlining version control, collaboration, and deployment processes.'
 author: CodingRhodes
 categories: [ Ecommerce, tutorial ]
 image: assets/images/featured_Illustration-of-developer-creating-ecommerce-plugin-with-GitHub.jpeg

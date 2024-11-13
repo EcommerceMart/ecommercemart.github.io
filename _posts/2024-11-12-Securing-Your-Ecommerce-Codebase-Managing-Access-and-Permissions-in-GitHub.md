@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Securing Your E-commerce Codebase: Managing Access and Permissions in GitHub"
+description: 'Learn best practices for securing your e-commerce codebase by effectively managing access, permissions, and collaboration settings in GitHub.'
 author: CodingRhodes
 categories: [ Ecommerce ]
 image: assets/images/featured_GitHub-code-repository-with-security-locks-symbolizing-protected-access.jpeg

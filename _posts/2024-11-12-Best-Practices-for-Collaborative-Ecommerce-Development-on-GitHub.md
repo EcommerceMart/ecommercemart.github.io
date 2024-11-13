@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Best Practices for Collaborative E-commerce Development on GitHub"
+description: 'Master key practices for successful collaborative Ecommerce development on GitHub, including version control, workflow optimization, and seamless team collaboration.'
 author: CodingRhodes
 categories: [ Ecommerce ]
 image: assets/images/featured_Developers-collaborating-on-ecommerce-development-projects-using-GitHub.jpeg

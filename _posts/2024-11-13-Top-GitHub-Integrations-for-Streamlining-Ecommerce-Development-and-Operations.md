@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Top GitHub Integrations for Streamlining E-commerce Development and Operations"
+description: 'Discover essential GitHub integrations that transform e-commerce development: Automate workflows and speed up delivery pipeline of your store.'
 author: CodingRhodes
 categories: [ Ecommerce ]
 image: assets/images/featured_GitHub-with-icons-of-popular-integrations-for-ecommerce-development.jpeg

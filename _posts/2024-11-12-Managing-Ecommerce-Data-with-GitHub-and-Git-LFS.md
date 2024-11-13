@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Managing E-commerce Data with GitHub and Git LFS"
+description: 'Explore how to efficiently manage large e-commerce datasets using GitHub and Git LFS, ensuring seamless version control and storage optimization.'
 author: CodingRhodes
 categories: [ Ecommerce ]
 image: assets/images/Illustration-of-ecommerce-team-managing-large-files-with-Git-and-Git-LFS.jpeg

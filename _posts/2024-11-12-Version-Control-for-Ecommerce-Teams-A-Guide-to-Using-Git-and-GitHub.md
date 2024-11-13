@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Version Control for E-commerce Teams: A Guide to Using Git and GitHub."
+description: 'Master version control for e-commerce projects with this guide to using Git and GitHub, enabling seamless collaboration, tracking, and code management for your team.'
 categories: [ Ecommerce ]
 image: assets/images/Illustration-of-ecommerce-team-members-collaborating-on-GitHub.jpeg
 ---
