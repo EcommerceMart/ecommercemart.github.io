@@ -1,6 +1,6 @@
 # Site
 name: 'Ecommerce Mart'
-description: 'Discover insightful blogs that merge the power of GitHub with e-commerce development. From version control tips to automation workflows, explore best practices, tools, and guides to enhance your e-commerce projects using GitHub.'
+description: 'Discover insightful blogs that merge the power of GitHub with e-commerce development.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
