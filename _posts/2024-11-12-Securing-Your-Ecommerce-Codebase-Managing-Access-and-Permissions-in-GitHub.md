@@ -82,7 +82,7 @@ Click on Add rule and select the branch you want to protect (e.g., `main` or `pr
 ## Step 5: Limit Access to Sensitive Files
 Some files in your repository may contain sensitive information, such as API keys, database credentials, or configuration files. You should restrict access to these files and avoid storing sensitive data directly in your repository.
 
-![GitHub Secrets settings for securely storing sensitive information for CI/CD workflows.]({{ site.baseurl }}/assets/images/GitHub-Secrets-settings-for-securely-storing-sensitive-information-for-CI/CD-workflows.jpeg)
+![GitHub Secrets settings for securely storing sensitive information for CI/CD workflows.]({{ site.baseurl }}/assets/images/GitHub-Secrets-settings-for-securely-storing-sensitive-information-for-CI-CD-workflows.jpeg)
 
 ### Steps to Secure Sensitive Information:
 1. **Use Environment Variables:**
