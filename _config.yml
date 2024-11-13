@@ -1,6 +1,6 @@
 # Site
 name: 'Ecommerce Mart'
-description: 'Discover insightful blogs that merge the power of GitHub with e-commerce development.'
+description: 'Discover blogs that merge power of GitHub with e-commerce.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
