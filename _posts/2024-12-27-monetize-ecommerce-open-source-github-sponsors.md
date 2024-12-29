@@ -179,6 +179,4 @@ To maximize the impact of GitHub Sponsors on your e-commerce projects, follow th
 
 Using GitHub Sponsors to fund your **e-commerce website GitHub** projects is an excellent way to sustain your work while building a thriving community. By offering value, engaging with users, and promoting your sponsorship page effectively, you can turn your passion for open-source e-commerce development into a rewarding endeavor.
 
-![Start Sponsoring](https://via.placeholder.com/800x400?text=Start+Your+GitHub+Sponsors+Journey "Start Your GitHub Sponsors Journey")
-
 Are you ready to start your GitHub Sponsors journey? Take the first step today and watch your e-commerce project grow!
