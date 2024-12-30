@@ -4,7 +4,7 @@ title:  "Deploying a Scalable E-commerce Backend with GitHub Actions and Docker"
 description: 'Streamline e-commerce backend deployment with GitHub Actions & Docker. Set up CI/CD pipelines, ensure scalability, and boost reliability effortlessly.'
 author: CodingRhodes
 categories: [ tutorial ]
-image: assets/images/Deploying-Scalable-Ecommerce-Backend-with-GitHub-and-Docker.jpeg
+image: assets/images/Deploying-Scalable-Ecommerce-Backend-with-GitHub-and-Docker.webp
 tags: [Github, Ecommerce]
 ---
 In today’s competitive digital marketplace, a reliable and scalable backend is critical for the success of any e-commerce business. Ensuring a seamless user experience, accommodating traffic spikes, and deploying updates efficiently are vital tasks for developers. By leveraging **GitHub Actions** for continuous integration and continuous deployment (CI/CD) and **Docker** for containerization, businesses can streamline their backend operations to meet these challenges.
@@ -29,7 +29,7 @@ This guide walks you through the process of setting up CI/CD pipelines for deplo
 
 ### Setting Up Your CI/CD Pipeline with GitHub Actions and Docker
 
-![Illustration of a CI/CD pipeline with GitHub Actions and Docker, symbolizing automated deployment and cloud scalability]({{ site.baseurl }}/assets/images/Deploying-Scalable-Ecommerce-Backend-with-GitHub-and-Docker.jpeg)
+![Illustration of a CI/CD pipeline with GitHub Actions and Docker, symbolizing automated deployment and cloud scalability]({{ site.baseurl }}/assets/images/Deploying-Scalable-Ecommerce-Backend-with-GitHub-and-Docker.webp)
 
 #### Step 1: Prerequisites
 Before you start, ensure you have:
@@ -40,7 +40,7 @@ Before you start, ensure you have:
 
 #### Step 2: Create a Dockerfile
 
-![Visual representation of multiple Docker containers running on a cloud server, demonstrating scalability and efficiency]({{ site.baseurl }}/assets/images/Visual-representation-of-multiple-Docker-containers-running-on-a-cloud-server.jpeg)
+![Visual representation of multiple Docker containers running on a cloud server, demonstrating scalability and efficiency]({{ site.baseurl }}/assets/images/Visual-representation-of-multiple-Docker-containers-running-on-a-cloud-server.webp)
 
 The Dockerfile is crucial for building your application image. Here’s an example for a Node.js e-commerce backend:
 

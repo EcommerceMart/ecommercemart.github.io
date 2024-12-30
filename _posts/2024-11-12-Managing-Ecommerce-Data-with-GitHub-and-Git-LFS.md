@@ -4,7 +4,7 @@ title:  "Managing E-commerce Data with GitHub and Git LFS"
 description: 'Explore how to efficiently manage large e-commerce datasets using GitHub and Git LFS, ensuring seamless version control and storage optimization.'
 author: CodingRhodes
 categories: [ Ecommerce ]
-image: assets/images/Illustration-of-ecommerce-team-managing-large-files-with-Git-and-Git-LFS.jpeg
+image: assets/images/Illustration-of-ecommerce-team-managing-large-files-with-Git-and-Git-LFS.webp
 ---
 For e-commerce teams, managing large files, like product images, videos, and promotional banners, is crucial. However, traditional version control with Git struggles with these files because they can be too big. This is where **Git Large File Storage (Git LFS)** helps. Git LFS allows you to store and track large files efficiently on GitHub without slowing down your workflows.
 
@@ -38,7 +38,7 @@ Now you’re ready to start using Git LFS with your Git projects!
 #### Step 2: Track Large Files with Git LFS
 Once Git LFS is installed, you can choose which types of files should be tracked. Let’s set it up for common e-commerce files, like images and videos.
 
-![Screenshot showing Git LFS commands tracking large files, including images and videos, with a sample .gitattributes file listing tracked file types.]({{ site.baseurl }}/assets/images/Screenshot-showing-Git-LFS-commands-tracking-large-files.jpeg)
+![Screenshot showing Git LFS commands tracking large files, including images and videos, with a sample .gitattributes file listing tracked file types.]({{ site.baseurl }}/assets/images/Screenshot-showing-Git-LFS-commands-tracking-large-files.webp)
 
 1. **Decide Which Files to Track**
 Think about which files are large and used frequently on your e-commerce site. For example:
@@ -109,7 +109,7 @@ When you pull new updates, Git LFS will automatically download the large files l
 
 ### Tips for Managing Large Files Efficiently
 Working with large media files in e-commerce can quickly get complex. Here are a few tips to help keep your Git LFS usage organized and effective:
-![Diagram showing a branching workflow for managing media updates with Git LFS, highlighting a separate branch for media files.]({{ site.baseurl }}/assets/images/Diagram-illustrating-branching-workflow-for-media-updates.jpeg)
+![Diagram showing a branching workflow for managing media updates with Git LFS, highlighting a separate branch for media files.]({{ site.baseurl }}/assets/images/Diagram-illustrating-branching-workflow-for-media-updates.webp)
 
 ### 1. Keep Track of File Sizes
 GitHub has storage limits for Git LFS, so it’s important to monitor file sizes regularly. Consider compressing images or resizing videos when possible to reduce storage space.

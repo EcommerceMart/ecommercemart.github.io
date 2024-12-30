@@ -4,7 +4,7 @@ title:  "Optimizing E-commerce Performance with GitHub Monitoring Tools"
 description: 'Learn to track e-commerce performance using GitHub tools. Monitor site speed, uptime, and user experience to optimize for reliability and speed.'
 author: CodingRhodes
 categories: [ tutorial ]
-image: assets/images/featured_Optimizing-Ecommerce-Performance-with-GitHub-Monitoring-Tools.jpeg
+image: assets/images/featured_Optimizing-Ecommerce-Performance-with-GitHub-Monitoring-Tools.webp
 tags: [Github, Ecommerce]
 ---
 
@@ -54,7 +54,7 @@ Track user behavior to identify issues like:
 
 GitHub offers powerful tools and integrations to monitor e-commerce performance. Here’s how you can use them effectively.
 
-![Diagram of GitHub Actions workflow]({{ site.baseurl }}/assets/images/Diagram-of-GitHub-Actions-workflow.jpeg)
+![Diagram of GitHub Actions workflow]({{ site.baseurl }}/assets/images/Diagram-of-GitHub-Actions-workflow.webp)
 
 ### 1. **GitHub Actions for Automation**
 

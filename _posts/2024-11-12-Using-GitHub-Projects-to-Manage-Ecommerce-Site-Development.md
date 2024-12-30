@@ -4,7 +4,7 @@ title:  "Using GitHub Projects to Manage E-commerce Site Development"
 description: 'Learn how to streamline e-commerce site development with GitHub Projects, enabling effective task management, team collaboration, and project tracking.'
 author: CodingRhodes
 categories: [ Ecommerce ]
-image: assets/images/faetured_Team-managing-ecommerce-development-tasks-using-GitHub-Projects.jpeg
+image: assets/images/faetured_Team-managing-ecommerce-development-tasks-using-GitHub-Projects.webp
 ---
 Managing the development of an e-commerce site can be complex. It involves coordinating tasks, setting deadlines, and ensuring that everyone on the team is on the same page. GitHub Projects is a powerful tool that helps teams organize work, track progress, and collaborate more efficiently. In this guide, we’ll walk through how to use GitHub Projects to manage e-commerce site development.
 
@@ -18,7 +18,7 @@ GitHub Projects offers several benefits for managing e-commerce projects:
 #### Step 1: Setting Up a GitHub Project Board
 GitHub Projects uses project boards, which are visual tools that help you organize tasks into columns.
 
-![GitHub Project Board showing columns for To Do, In Progress, and Done tasks]({{ site.baseurl }}/assets/images/GitHub-Project-Board-showing-columns-for-To-Do.jpeg)
+![GitHub Project Board showing columns for To Do, In Progress, and Done tasks]({{ site.baseurl }}/assets/images/GitHub-Project-Board-showing-columns-for-To-Do.webp)
 
 1. **Create a New Project Board**
 + Go to your GitHub repository, click on the **Projects** tab, and then click **New Project**.
@@ -45,7 +45,7 @@ Each task in a GitHub Project board is represented by an issue or card. Here’s
 #### Step 3: Organizing Tasks with Labels and Assignees
 GitHub Issues can be organized with labels and assigned to team members to make project management easier.
 
-![![GitHub Project Board showing columns for To Do, In Progress, and Done tasks]({{ site.baseurl }}/assets/images/GitHub-Project-Board-showing-columns-for-To-Do.jpeg)]({{ site.baseurl }}/assets/images/GitHub-issue-page-with-labels-milestones-and-team-member-assignments.jpeg)
+![![GitHub Project Board showing columns for To Do, In Progress, and Done tasks]({{ site.baseurl }}/assets/images/GitHub-Project-Board-showing-columns-for-To-Do.webp)]({{ site.baseurl }}/assets/images/GitHub-issue-page-with-labels-milestones-and-team-member-assignments.webp)
 
 1. **Use Labels**
 + Go to **Labels** in the **Issues** tab and create labels for different types of tasks, such as:
