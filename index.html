@@ -64,7 +64,8 @@ tips to automation workflows."
                 <div class="col-md-4">
                     <a href="{{site.baseurl}}{{second_post.url}}">
                         <img class="w-100" src="{% if second_post.image contains " ://" %}{{ second_post.image }}{% else
-                            %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
+                            %}{{ second_post.image | absolute_url }}{% endif %}" data-echo-background="{% if second_post.image contains " ://" %}{{ second_post.image }}{% else
+                                %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
                     </a>
                 </div>
                 {% endif %}
