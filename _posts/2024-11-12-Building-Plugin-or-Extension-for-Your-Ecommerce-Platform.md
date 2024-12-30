@@ -4,7 +4,7 @@ title:  "Building a Plugin or Extension for Your E-commerce Platform: Starting w
 description: 'Discover how to kickstart building plugins or extensions for your e-commerce platform using GitHub, streamlining version control, collaboration, and deployment processes.'
 author: CodingRhodes
 categories: [ Ecommerce, tutorial ]
-image: assets/images/featured_Illustration-of-developer-creating-ecommerce-plugin-with-GitHub.webp
+image: assets/images/featured_Illustration-of-developer-creating-ecommerce-plugin-with-GitHub.jpeg
 ---
 Adding a custom plugin or extension to your e-commerce platform can greatly improve functionality and user experience. This guide will walk you through the steps of creating, testing, deploying, and sharing a plugin or extension using GitHub.
 
@@ -18,7 +18,7 @@ Let’s get started!
 
 #### Step 1: Set Up Your GitHub Repository
 
-![GitHub repository with files for an e-commerce plugin]({{ site.baseurl }}/assets/images/GitHub-repository-with-files-for-ecommerce-plugin.webp)
+![GitHub repository with files for an e-commerce plugin]({{ site.baseurl }}/assets/images/GitHub-repository-with-files-for-ecommerce-plugin.jpeg)
 
 1. **Create a New Repository**
 + Go to GitHub and sign in or create an account.
@@ -65,7 +65,7 @@ Start coding your plugin or extension based on your e-commerce platform's requir
 
 #### Step 3: Version Control with GitHub
 
-![Workflow diagram of Git branching and merging process for plugin development]({{ site.baseurl }}/assets/images/Workflow-diagram-of-Git-branching-and-merging-process-for-plugin-development.webp)
+![Workflow diagram of Git branching and merging process for plugin development]({{ site.baseurl }}/assets/images/Workflow-diagram-of-Git-branching-and-merging-process-for-plugin-development.jpeg)
 
 1. **Create Branches for Features or Fixes**
 + Use branches to work on specific features or bug fixes without affecting the main code. For example:

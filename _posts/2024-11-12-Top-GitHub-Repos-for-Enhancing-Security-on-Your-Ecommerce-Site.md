@@ -4,7 +4,7 @@ title:  "Top GitHub Repos for Enhancing Security on Your E-commerce Site"
 description: 'Discover the top GitHub repositories offering tools and resources to enhance the security of your e-commerce site, from vulnerability scanning to secure coding practices.'
 author: CodingRhodes
 categories: [ Ecommerce ]
-image: assets/images/featured_Top-GitHub-Repos-for-Enhancing-Security-on-Ecommerce-Site.webp
+image: assets/images/featured_Top-GitHub-Repos-for-Enhancing-Security-on-Ecommerce-Site.jpeg
 tags: [Security]
 ---
 Security is critical for e-commerce sites. Customer information, payment details, and business data must be protected. Fortunately, GitHub offers powerful, open-source tools that make it easier to secure your e-commerce site against threats.
@@ -31,7 +31,7 @@ Here are some top security tools available on GitHub that can enhance your e-com
 
 **Steps to Use OWASP Dependency-Check:**
 
-![OWASP Dependency-Check scanning e-commerce project dependencies for vulnerabilities]({{ site.baseurl }}/assets/images/OWASP-Dependency-Check-scanning-ecommerce-project-dependencies-for-vulnerabilities.webp)
+![OWASP Dependency-Check scanning e-commerce project dependencies for vulnerabilities]({{ site.baseurl }}/assets/images/OWASP-Dependency-Check-scanning-ecommerce-project-dependencies-for-vulnerabilities.jpeg)
 
 1. **Install Dependency-Check**
 Install Dependency-Check on your computer or add it to your CI/CD pipeline (e.g., GitHub Actions).
@@ -128,7 +128,7 @@ Review any warnings or errors Bandit finds and adjust your code as needed.
 ### Tips for Securing Your E-commerce Codebase
 Alongside using these GitHub security tools, here are additional tips to protect your e-commerce site:
 
-![GitHub Actions setup for e-commerce security scans using open-source tools]({{ site.baseurl }}/assets/images/GitHub-Actions-setup-for-ecommerce-security-scans-using-open-source-tools.webp)
+![GitHub Actions setup for e-commerce security scans using open-source tools]({{ site.baseurl }}/assets/images/GitHub-Actions-setup-for-ecommerce-security-scans-using-open-source-tools.jpeg)
 
 1. **Use Strong Authentication:** Implement two-factor authentication for access to the GitHub repository to prevent unauthorized access.
 2. **Limit Access:** Only give team members the minimum permissions they need to do their job.

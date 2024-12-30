@@ -4,7 +4,7 @@ title:  "Automating E-commerce Testing with GitHub Actions and Selenium"
 description: 'Explore effective strategies for managing collaborative Ecommerce projects on GitHub, from version control to streamlined code reviews and workflow management.'
 author: CodingRhodes
 categories: [ Ecommerce ]
-image: assets/images/featured_Automating-ecommerce-testing-with-GitHub-Actions-and-Selenium-on-laptop-screen.webp
+image: assets/images/featured_Automating-ecommerce-testing-with-GitHub-Actions-and-Selenium-on-laptop-screen.jpeg
 ---
 Automated testing is essential for e-commerce platforms. Every feature, from product browsing to checkout, must work smoothly. Automated testing lets you detect bugs early and keep the site reliable for users. With GitHub Actions and Selenium, you can set up automated UI tests to run each time you update the code, ensuring every change is thoroughly tested.
 
@@ -13,7 +13,7 @@ This guide will show you how to set up automated tests for an e-commerce site us
 ### Why Use Automated Testing for E-commerce?
 Automated testing brings several benefits to e-commerce teams:
 
-![Flowchart showing integration between GitHub Actions and Selenium for automated e-commerce testing.]({{ site.baseurl }}/assets/images/Flowchart-showing-integration-between-GitHub-Actions-and-Selenium.webp)
+![Flowchart showing integration between GitHub Actions and Selenium for automated e-commerce testing.]({{ site.baseurl }}/assets/images/Flowchart-showing-integration-between-GitHub-Actions-and-Selenium.jpeg)
 
 1. **Catch Errors Early:** Automated tests check your website every time you make a change, helping to find issues quickly.
 2. **Consistent User Experience:** Regular testing makes sure key user interactions, like searching and checking out, work smoothly.
@@ -84,7 +84,7 @@ Save **test_search.py** to your project folder.
 #### Step 4: Set Up GitHub Actions for Automated Testing
 GitHub Actions lets you run tests automatically. Each time you push code to the repository, GitHub will run the test.
 
-![GitHub Actions workflow running automated tests for an e-commerce store using Selenium.]({{ site.baseurl }}/assets/images/GitHub-Actions-workflow-running-automated-tests-for-ecommerce-store-using-Selenium.webp)
+![GitHub Actions workflow running automated tests for an e-commerce store using Selenium.]({{ site.baseurl }}/assets/images/GitHub-Actions-workflow-running-automated-tests-for-ecommerce-store-using-Selenium.jpeg)
 
 1. **Create a Workflow File**
 In your repository, create a new directory: `.github/workflows/`. Inside, create a file named `test.yml`.

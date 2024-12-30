@@ -3,7 +3,7 @@ layout: post
 title:  "Version Control for E-commerce Teams: A Guide to Using Git and GitHub."
 description: 'Master version control for e-commerce projects with this guide to using Git and GitHub, enabling seamless collaboration, tracking, and code management for your team.'
 categories: [ Ecommerce ]
-image: assets/images/Illustration-of-ecommerce-team-members-collaborating-on-GitHub.webp
+image: assets/images/Illustration-of-ecommerce-team-members-collaborating-on-GitHub.jpeg
 ---
 In an e-commerce team, many people work on different aspects of a website: developers, designers, content creators, and marketers. Keeping everyone’s work organized and up-to-date can be challenging. Version control helps manage this by tracking every change made to the files and code for a project. This guide will help you understand `version control` and show you how to use `Git` and `GitHub` to keep your e-commerce team organized and efficient.
 
@@ -43,7 +43,7 @@ These settings help Git keep track of who is making changes.
 #### Step 2: Create a New Repository on GitHub
 
 A **repository** (or “repo”) is like a folder that contains all the files for your project.
-![Screenshot of a GitHub-repository layout, showing repository name, description, branches, commits, and pull requests sections.]({{ site.baseurl }}/assets/images/Screenshot-of-GitHub-repository-layout.webp)
+![Screenshot of a GitHub-repository layout, showing repository name, description, branches, commits, and pull requests sections.]({{ site.baseurl }}/assets/images/Screenshot-of-GitHub-repository-layout.jpeg)
 
 1. **Log in to GitHub:**
 After logging in, click the **New** button to create a new repository.
@@ -107,7 +107,7 @@ Your changes are now saved in your GitHub repository, where your team members ca
 
 #### Step 6: Collaborate with Your Team
 GitHub offers features to help teams work together effectively.
-![Diagram of GitHub branches and pull request flow, with main branch and feature branch linked through a pull request for review.]({{ site.baseurl }}/assets/images/Diagram-of-GitHub-branches-and-pull-request-flow.webp)
+![Diagram of GitHub branches and pull request flow, with main branch and feature branch linked through a pull request for review.]({{ site.baseurl }}/assets/images/Diagram-of-GitHub-branches-and-pull-request-flow.jpeg)
 
 1. **Branches:** Use branches to work on new ideas without changing the main project. For example, you could create a new-design branch to test a new layout.
 2. **Pull Requests:** After working on a branch, you can open a pull request on GitHub. A pull request lets team members review your work before adding it to the main project.

@@ -4,7 +4,7 @@ title:  "How to Use GitHub Actions for Ecommerce Workflows"
 description: 'Learn how to automate and optimize e-commerce workflows using GitHub Actions, enhancing efficiency and collaboration in your development process.'
 author: CodingRhodes
 categories: [ Ecommerce ]
-image: assets/images/How-to-Use-GitHub-Actions-for-Ecommerce-Workflows.webp
+image: assets/images/How-to-Use-GitHub-Actions-for-Ecommerce-Workflows.jpeg
 tags: [Github, Ecommerce]
 ---
 In e-commerce development, repetitive tasks like testing, building, and deploying updates can take up a lot of time. GitHub Actions is a tool that automates these tasks, saving you time and reducing errors. In this guide, you’ll learn how to use GitHub Actions to improve your e-commerce workflows.
@@ -24,7 +24,7 @@ For e-commerce, GitHub Actions can help with tasks like:
 
 ## Getting Started: Setting Up GitHub Actions
 
-![GitHub Actions workflow setup screen in a GitHub repository]({{ site.baseurl }}/assets/images/GitHub-Actions-workflow-setup-screen-in-a-GitHub-repository.webp)
+![GitHub Actions workflow setup screen in a GitHub repository]({{ site.baseurl }}/assets/images/GitHub-Actions-workflow-setup-screen-in-a-GitHub-repository.jpeg)
 
 ### Step 1: Create a New Workflow
 
@@ -108,7 +108,7 @@ This workflow:
 + Helps you catch any issues before deploying to your e-commerce site.
 
 ### Workflow 2: Deploying Your E-commerce Site
-![Netlify deployment dashboard for ecommerce site integration with GitHub Actions]({{ site.baseurl }}/assets/images/Netlify-deployment-dashboard-for-ecommerce-site-integration-with-GitHub-Actions.webp)
+![Netlify deployment dashboard for ecommerce site integration with GitHub Actions]({{ site.baseurl }}/assets/images/Netlify-deployment-dashboard-for-ecommerce-site-integration-with-GitHub-Actions.jpeg)
 After testing, you may want to **automatically deploy** changes to your site. For example, if you host on a service like **Netlify** or **Vercel**, you can use GitHub Actions to trigger deployments. Here’s an example for deploying to **Netlify**:
 
 {% highlight ruby %}

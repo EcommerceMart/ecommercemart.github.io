@@ -4,7 +4,7 @@ title:  "Best Practices for Collaborative E-commerce Development on GitHub"
 description: 'Master key practices for successful collaborative Ecommerce development on GitHub, including version control, workflow optimization, and seamless team collaboration.'
 author: CodingRhodes
 categories: [ Ecommerce ]
-image: assets/images/featured_Developers-collaborating-on-ecommerce-development-projects-using-GitHub.webp
+image: assets/images/featured_Developers-collaborating-on-ecommerce-development-projects-using-GitHub.jpeg
 tags: [featured]
 ---
 Collaborating on an e-commerce development project with multiple team members can be challenging. GitHub provides tools that make it easier to work together, manage code, and ensure smooth development. In this guide, we'll cover best practices for organizing a GitHub repository, managing branches, handling pull requests, and conducting code reviews.
@@ -15,7 +15,7 @@ GitHub makes collaborative development efficient by providing version control, e
 #### Step 1: Organize Your Project Repository
 Organizing your GitHub repository is essential for a clear and efficient workflow. Here’s how to structure it effectively.
 
-![GitHub collaboration features for e-commerce development: branches, pull requests, and code reviews]({{ site.baseurl }}/assets/images/GitHub-collaboration-features-for-ecommerce-development.webp)
+![GitHub collaboration features for e-commerce development: branches, pull requests, and code reviews]({{ site.baseurl }}/assets/images/GitHub-collaboration-features-for-ecommerce-development.jpeg)
 
 1. **Create Clear Directories**
 + Organize files into folders like frontend, backend, assets, and documentation.
@@ -56,7 +56,7 @@ Pull requests are essential for reviewing and merging code from feature branches
 #### Step 4: Conduct Code Reviews
 Code reviews help maintain high-quality code and ensure everyone understands what’s being added or changed in the project.
 
-![GitHub repository with team members collaborating on pull requests for an e-commerce project]({{ site.baseurl }}/assets/images/GitHub-repository-with-team-members-collaborating-on-pull-requests-for-ecommerce-project.webp)
+![GitHub repository with team members collaborating on pull requests for an e-commerce project]({{ site.baseurl }}/assets/images/GitHub-repository-with-team-members-collaborating-on-pull-requests-for-ecommerce-project.jpeg)
 
 1. **Review Carefully**
 + When reviewing, check for code consistency, readability, and potential bugs.

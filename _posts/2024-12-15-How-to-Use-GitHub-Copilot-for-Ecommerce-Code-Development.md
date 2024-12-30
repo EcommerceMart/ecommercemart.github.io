@@ -4,7 +4,7 @@ title:  "How to Use GitHub Copilot for E-commerce Code Development"
 description: 'Boost e-commerce development with GitHub Copilot! Learn how to accelerate coding, enhance workflows, and build efficient websites seamlessly.'
 author: CodingRhodes
 categories: [ tutorial ]
-image: assets/images/featured_How-to-Use-GitHub-Copilot-for-Ecommerce-Code-Development.webp
+image: assets/images/featured_How-to-Use-GitHub-Copilot-for-Ecommerce-Code-Development.jpeg
 tags: [Github, Ecommerce]
 ---
 
@@ -50,7 +50,7 @@ For global e-commerce businesses, Copilot aids in integrating multilingual suppo
 
 ## How to Get Started with GitHub Copilot for E-commerce Projects
 
-![Developer using GitHub Copilot to autocomplete JavaScript code for an e-commerce website project.]({{ site.baseurl }}/assets/images/How-to-Get-Started-with-GitHub-Copilot-for-Ecommerce-Projects.webp)
+![Developer using GitHub Copilot to autocomplete JavaScript code for an e-commerce website project.]({{ site.baseurl }}/assets/images/How-to-Get-Started-with-GitHub-Copilot-for-Ecommerce-Projects.jpeg)
 
 ### Step 1: **Install GitHub Copilot**
 To use Copilot, ensure you have the following prerequisites:
@@ -134,7 +134,7 @@ app.post('/api/products', async (req, res) => {
 
 ## Real-World Examples of Copilot in E-commerce Projects
 
-![Illustration of GitHub Copilot with e-commerce icons like shopping carts and payment gateways.]({{ site.baseurl }}/assets/images/Real-World-Examples-of-Copilot-in-Ecommerce-Projects.webp)
+![Illustration of GitHub Copilot with e-commerce icons like shopping carts and payment gateways.]({{ site.baseurl }}/assets/images/Real-World-Examples-of-Copilot-in-Ecommerce-Projects.jpeg)
 
 ### 1. **Startup Scaling with Rapid Prototyping**
 A small e-commerce startup used Copilot to prototype its platform. By generating boilerplate code for key features like user authentication, payment integration, and inventory management, they launched their website 30% faster than expected.

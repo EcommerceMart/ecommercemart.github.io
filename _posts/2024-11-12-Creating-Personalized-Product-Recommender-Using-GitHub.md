@@ -4,7 +4,7 @@ title:  "Creating a Personalized Product Recommender: Using GitHub to Build and 
 description: 'Explore how to develop and share machine learning models for personalized product recommendations, leveraging GitHub for collaboration, version control, and deployment.'
 author: CodingRhodes
 categories: [ Ecommerce ]
-image: assets/images/featured_Developer-building-personalized-product-recommender-using-GitHub-and-machine-learning.webp
+image: assets/images/featured_Developer-building-personalized-product-recommender-using-GitHub-and-machine-learning.jpeg
 tags: [Github]
 ---
 Personalized product recommendation systems help e-commerce sites suggest products to customers based on their preferences and behaviors. In this guide, we'll walk through building a simple recommendation system using machine learning (ML) and show how to use GitHub to share and collaborate on the project. We’ll cover every step, from creating the model to collaborating with your team using GitHub.
@@ -26,7 +26,7 @@ Let's start!
 ## Step 1: Set Up the Project Repository on GitHub
 The first step is to create a GitHub repository where you and your team can store and manage your recommendation system project.
 
-![Diagram illustrating steps in building a product recommendation system: data collection, model training, and making recommendations]({{ site.baseurl }}/assets/images/Diagram-illustrating-steps-in-building-product-recommendation-system-data-collection-model-training-and-making-recommendations.webp)
+![Diagram illustrating steps in building a product recommendation system: data collection, model training, and making recommendations]({{ site.baseurl }}/assets/images/Diagram-illustrating-steps-in-building-product-recommendation-system-data-collection-model-training-and-making-recommendations.jpeg)
 
 1. Go to [GitHub](https://github.com/) and sign in.
 2. Click the New button to create a new repository.
@@ -60,7 +60,7 @@ user_id,product_id,rating
 ## Step 3: Build a Simple Product Recommendation System
 Let’s build a simple recommendation model using collaborative filtering, a common method for recommendations based on user interactions.
 
-![Jupyter Notebook displaying code for data loading and setting up a product recommendation model]({{ site.baseurl }}/assets/images/Jupyter-Notebook-displaying-code-for-data-loading-and-setting-up-product-recommendation-model.webp)
+![Jupyter Notebook displaying code for data loading and setting up a product recommendation model]({{ site.baseurl }}/assets/images/Jupyter-Notebook-displaying-code-for-data-loading-and-setting-up-product-recommendation-model.jpeg)
 
 1. **Open Jupyter Notebook:** In the root folder of your repository, create a new Jupyter Notebook (e.g., recommendation_model.ipynb).
 
