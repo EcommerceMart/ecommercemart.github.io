@@ -4,7 +4,7 @@ title:  "How to Use GitHub’s Community Features to Gather Feedback on E-commer
 description: 'Turn GitHub into your e-commerce feedback engine: Use Discussions, Issues & Projects to collect insights & drive customer-led development.'
 author: CodingRhodes
 categories: [ Ecommerce ]
-image: assets/images/featured_GitHub-logo-with-icons-for-Discussions-Issues-and-Pull-Requests.jpeg
+image: assets/images/featured_GitHub-logo-with-icons-for-Discussions-Issues-and-Pull-Requests.webp
 tags: [Github]
 ---
 Gathering feedback from users and collaborators is essential for improving your e-commerce site and providing a great shopping experience. GitHub provides powerful community features like Discussions, Issues, and Pull Requests that can help you collect feedback on new features, find bugs, and create a collaborative community around your project. In this article, we’ll walk through these GitHub features and show how to use them to gather input on your e-commerce project.
@@ -20,7 +20,7 @@ Let’s dive into each feature and learn how to use it to gather feedback on e-c
 ## 1. Using GitHub Discussions for Open Conversations
 GitHub Discussions is a space where you can hold open conversations about your project. It’s a great place to gather feedback, discuss ideas, and share updates.
 
-![GitHub Discussions page with a thread requesting feedback on a new e-commerce cart design]({{ site.baseurl }}/assets/images/GitHub-Discussions-page-with-thread-requesting-feedback-on-new-ecommerce-cart-design.jpeg)
+![GitHub Discussions page with a thread requesting feedback on a new e-commerce cart design]({{ site.baseurl }}/assets/images/GitHub-Discussions-page-with-thread-requesting-feedback-on-new-ecommerce-cart-design.webp)
 
 ### Step 1: Enable Discussions
 To start using Discussions:
@@ -111,7 +111,7 @@ Responding to comments helps ensure that all perspectives are considered and tha
 ## 4. Building a Collaborative Community Around Your E-commerce Project
 Using GitHub’s community features isn’t just about gathering feedback; it’s about building a collaborative environment where users and contributors feel like a part of your project. Here are some tips:
 
-![Illustration of a network of users collaborating around a GitHub repository, symbolizing a community contributing to an e-commerce project]({{ site.baseurl }}/assets/images/Illustration-of-network-of-users-collaborating-around-GitHub-repository.jpeg)
+![Illustration of a network of users collaborating around a GitHub repository, symbolizing a community contributing to an e-commerce project]({{ site.baseurl }}/assets/images/Illustration-of-network-of-users-collaborating-around-GitHub-repository.webp)
 
 ### Encourage Open Communication
 Be open to feedback, whether it’s positive or critical. A welcoming attitude encourages users to share their thoughts and report issues without hesitation.

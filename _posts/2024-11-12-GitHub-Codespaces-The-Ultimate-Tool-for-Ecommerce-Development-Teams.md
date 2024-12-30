@@ -4,7 +4,7 @@ title:  "GitHub Codespaces: The Ultimate Tool for E-commerce Development Teams"
 description: 'Discover how GitHub Codespaces empowers e-commerce development teams with on-demand, cloud-based environments for seamless coding, collaboration, and rapid project delivery.'
 author: CodingRhodes
 categories: [ Ecommerce ]
-image: assets/images/featured_Illustration-of-GitHub-Codespaces-used-for-ecommerce-project-development.jpeg
+image: assets/images/featured_Illustration-of-GitHub-Codespaces-used-for-ecommerce-project-development.webp
 ---
 Setting up an e-commerce project often involves installing dependencies, configuring environments, and ensuring that all team members have the same setup. GitHub Codespaces solves these problems by providing pre-configured development environments in the cloud. This guide will help you understand how GitHub Codespaces works and how to set it up for your e-commerce projects.
 
@@ -18,7 +18,7 @@ GitHub Codespaces provides several key benefits for e-commerce development:
 #### Step 1: Setting Up GitHub Codespaces
 To get started with Codespaces, you’ll need access to GitHub and permission to create a codespace on your e-commerce project repository.
 
-![GitHub Codespace with project board and terminal for setting up dependencies]({{ site.baseurl }}/assets/images/GitHub-Codespace-with-project-board-and-terminal-for-setting-up-dependencies.jpeg)
+![GitHub Codespace with project board and terminal for setting up dependencies]({{ site.baseurl }}/assets/images/GitHub-Codespace-with-project-board-and-terminal-for-setting-up-dependencies.webp)
 
 1. **Open Your Repository**
 + Go to the e-commerce repository where you want to set up a Codespace.
@@ -70,7 +70,7 @@ Once your Codespace is set up, it functions just like any other development envi
 #### Step 4: Setting Up Environment Variables
 Many e-commerce sites require environment variables, like API keys or database URLs, which are essential for running the site correctly.
 
-![Environment variables setup for an e-commerce project in GitHub Codespaces]({{ site.baseurl }}/assets/images/Environment-variables-setup-for-ecommerce-project-in-GitHub-Codespaces.jpeg)
+![Environment variables setup for an e-commerce project in GitHub Codespaces]({{ site.baseurl }}/assets/images/Environment-variables-setup-for-ecommerce-project-in-GitHub-Codespaces.webp)
 
 1. **Create a .env File**
 + In the root directory of your Codespace, create a `.env` file with necessary variables. Here’s an example:

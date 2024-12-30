@@ -4,7 +4,7 @@ title:  "Mastering Ecommerce Website Development with GitHub: Tools, Tips, and B
 description: 'Learn how to master ecommerce website development with GitHub using essential tools, tips, and best practices to build and manage successful projects.'
 author: CodingRhodes
 categories: [ tutorial ]
-image: assets/images/featured_Mastering-Ecommerce-Website-Development-with-GitHub.jpeg
+image: assets/images/featured_Mastering-Ecommerce-Website-Development-with-GitHub.webp
 tags: [Github, Ecommerce]
 ---
 
@@ -54,7 +54,7 @@ Choose a framework or library for your ecommerce site. Popular choices include:
 
 ## Leveraging GitHub Tools for Ecommerce Website Development
 
-![Diagram of GitHub Actions workflow]({{ site.baseurl }}/assets/images/workflow-YAML-running-automated-tasks-with-GitHub-Actions.jpeg)
+![Diagram of GitHub Actions workflow]({{ site.baseurl }}/assets/images/workflow-YAML-running-automated-tasks-with-GitHub-Actions.webp)
 
 ### 1. **GitHub Actions for Automation**
 GitHub Actions lets you automate workflows such as testing, building, and deploying your ecommerce website. For example:

@@ -4,7 +4,7 @@ title:  "The Role of GitHub in Supporting Multi-language E-commerce Sites"
 description: 'Discover how to use GitHub for managing multi-language e-commerce websites. Learn strategies for organizing content and assets, and tips for version controlling translations.'
 author: CodingRhodes
 categories: [Ecommerce, SEO, GitHub]
-image: assets/images/featured_The-Role-of-GitHub-in-Supporting-Multi-language-Ecommerce-Sites.jpeg
+image: assets/images/featured_The-Role-of-GitHub-in-Supporting-Multi-language-Ecommerce-Sites.webp
 tags: [ecommerce, Github]
 keywords: ["ecommerce website github", "multi-language ecommerce", "GitHub strategies", "version control translations"]
 ---
@@ -34,7 +34,7 @@ A well-organized repository is the foundation of efficient content management. F
 
 ### 1. **Use a Directory Structure for Languages**
 
-![Use a Directory Structure for Languages]({{ site.baseurl }}/assets/images/Use-Directory-Structure-for-Languages.jpeg)
+![Use a Directory Structure for Languages]({{ site.baseurl }}/assets/images/Use-Directory-Structure-for-Languages.webp)
 
 Organize your content and assets by language. Create separate folders for each language within your repository. For example:
 
@@ -118,7 +118,7 @@ Tags make it easy to roll back to previous versions if needed.
 
 ### 4. **Automate Synchronization**
 
-![Automate Synchronization]({{ site.baseurl }}/assets/images/Automate-Synchronization.jpeg)
+![Automate Synchronization]({{ site.baseurl }}/assets/images/Automate-Synchronization.webp)
 
 Use GitHub Actions to automate tasks like:
 - Detecting changes in source content.

@@ -4,7 +4,7 @@ layout: page-sidebar
 permalink: "/terms-of-service.html"
 ---
 
-![Terms of service document with an agreement checkmark]({{ site.baseurl }}/assets/images/Terms-of-service-document-with-agreement-checkmark.jpeg)
+![Terms of service document with an agreement checkmark]({{ site.baseurl }}/assets/images/Terms-of-service-document-with-agreement-checkmark.webp)
 
 By accessing our website, you agree to the following terms:
 

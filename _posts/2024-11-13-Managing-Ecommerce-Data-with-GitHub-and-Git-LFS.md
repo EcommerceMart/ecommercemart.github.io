@@ -4,7 +4,7 @@ title:  "Top GitHub Integrations for Streamlining E-commerce Development and Ope
 description: 'Discover essential GitHub integrations that transform e-commerce development: Automate workflows and speed up delivery pipeline of your store.'
 author: CodingRhodes
 categories: [ Ecommerce ]
-image: assets/images/featured_GitHub-with-icons-of-popular-integrations-for-ecommerce-development.jpeg
+image: assets/images/featured_GitHub-with-icons-of-popular-integrations-for-ecommerce-development.webp
 ---
 Running an e-commerce business involves a lot of teamwork, project management, and communication. Thankfully, GitHub offers integrations that connect with popular tools to make this work easier. In this article, we’ll look at some of the best GitHub integrations to help streamline your e-commerce development and operations. These tools improve project management, bug tracking, and team communication, helping your team stay organized and productive.
 
@@ -21,7 +21,7 @@ Let’s dive into each integration, exploring what it does and how it helps impr
 
 ## 1. Slack: Team Communication Made Easy
 
-![GitHub notifications in a Slack channel, showing real-time updates from GitHub in Slack]({{ site.baseurl }}/assets/images/GitHub-notifications-in-Slack-channel.jpeg)
+![GitHub notifications in a Slack channel, showing real-time updates from GitHub in Slack]({{ site.baseurl }}/assets/images/GitHub-notifications-in-Slack-channel.webp)
 
 **What Slack Does:** Slack is a popular messaging platform that keeps your team connected and organized. It allows for instant messaging, file sharing, and channel creation for different topics.
 
@@ -96,7 +96,7 @@ Let’s dive into each integration, exploring what it does and how it helps impr
 
 ## 6. Sentry: Error Monitoring and Logging
 
-![Sentry error monitoring dashboard showing logged errors with links to specific GitHub issues, helping track and fix problems in e-commerce development]({{ site.baseurl }}/assets/images/Sentry-error-monitoring-dashboard-showing-logged-errors-with-links-to-specific-GitHub-issues.jpeg)
+![Sentry error monitoring dashboard showing logged errors with links to specific GitHub issues, helping track and fix problems in e-commerce development]({{ site.baseurl }}/assets/images/Sentry-error-monitoring-dashboard-showing-logged-errors-with-links-to-specific-GitHub-issues.webp)
 
 **What Sentry Does:** Sentry is an error-tracking tool that helps developers monitor and fix bugs in real-time.
 
