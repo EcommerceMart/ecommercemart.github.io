@@ -12,14 +12,14 @@ tips to automation workflows."
 
     {% if page.url == "/" %}
 
-    <style>
+    <!-- <style>
         .topfirstimage {
             background-image: url({{latest_post.image}});
             height: 200px;
             background-size: cover;
             background-repeat: no-repeat;
         }
-    </style>
+    </style> -->
 
     <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
     <div class="row remove-site-content-margin">
@@ -27,9 +27,10 @@ tips to automation workflows."
         <!-- latest post -->
         {% assign latest_post = site.posts[0] %}
         <div class="col-md-6">
-            <!-- <div class="card border-0 mb-4 box-shadow">
+            <div class="card border-0 mb-4 box-shadow">
                 <a href="{{site.baseurl}}{{latest_post.url}}">
-                    <div class="topfirstimage" style="background-image: url({{latest_post.image}})"></div>
+                    <img src="{{latest_post.image}}" alt="{{ latest_post.title }}">
+                    <div class="topfirstimage"></div>
                 </a>
                 <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
                     <h2 class="h4 font-weight-bold">
@@ -53,7 +54,7 @@ tips to automation workflows."
                         </small>
                     </div>
                 </div>
-            </div> -->
+            </div>
         </div>
 
         <div class="col-md-6">
