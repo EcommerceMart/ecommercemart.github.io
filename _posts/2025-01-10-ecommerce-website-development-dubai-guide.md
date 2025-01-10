@@ -8,12 +8,6 @@ author: CodingRhodes
 image: assets/images/featured_ecommerce-website-development-dubai-guide.jpeg
 ---
 
-layout: post
-title: "Expert Guide to Ecommerce Website Development in Dubai: Build Your Dream Online Store"
-description: "Learn everything about ecommerce website development in Dubai, from planning and design to choosing the right tools and platforms to create a successful online store."
-categories: [Ecommerce, Dubai]
-tags: [Ecommerce, Website Development, Dubai, Online Store]
----
 
 ## Introduction
 
