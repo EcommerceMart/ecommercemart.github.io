@@ -42,7 +42,7 @@ SEO is essential for driving organic traffic to your ecommerce website.
 #### **2. Utilize Social Media Marketing**  
 Social platforms are powerful for promoting your ecommerce store.  
 
-![Illustration of a chatbot assisting a customer on a smartphone for an ecommerce platform.]({{ site.baseurl }}/assets/images/Collaborative-Marketing-Approaches.webp)
+![Marketing team brainstorming ecommerce strategies with a whiteboard showing sales metrics.]({{ site.baseurl }}/assets/images/Collaborative-Marketing-Approaches.webp)
 
 **Best Practices:**  
 - **Platform Selection**: Focus on platforms where your audience is active, like Instagram, Facebook, or TikTok.  
