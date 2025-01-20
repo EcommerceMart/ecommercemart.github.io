@@ -2,7 +2,6 @@
 layout: post
 title: "Unlock the Best Deals on Taobao in 2025"
 description: "Discover how to find and secure the best deals on Taobao in 2025 with our comprehensive guide for savvy shoppers."
-author: "EcommerceMart Team"
 categories: [Shopping, Taobao, Deals]
 tags: [Taobao, Online Shopping, Discounts]
 author: CodingRhodes
