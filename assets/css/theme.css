@@ -9,12 +9,12 @@ body {
 	position: relative;
 }
 .side-bar-left-ads {
-	position: absolute;
-	top: 50%;
-	left:3px;
+	position: fixed;
+	top: 70px;
+	left: 3px;
 	min-width: 180px;
 	z-index:1000;
-	transform: translate(-50%, 0);
+
 }
 .side-bar-right-ads {
 	position: absolute;
@@ -22,7 +22,7 @@ body {
 	right:3px;
 	min-width: 180px;
 	z-index:1000;
-	transform: translate(-50%, 0);
+
 }
 .remove-site-content-margin {
 	margin-top:-30px;
