@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 layout: page-sidebar
-permalink: "/contact-us.html"
+permalink: "/contact-us"
 ---
 <form action="https://formspree.io/f/xbljyolq" method="POST">    
 <p class="mb-4">Have a question or need support? We're here to help! Whether you have feedback, a technical question, or a business inquiry, feel free to reach out. You can also send an email at <a href="mailto:CodingRhodes@gmail.com">CodingRhodes@gmail.com</a>.</p>

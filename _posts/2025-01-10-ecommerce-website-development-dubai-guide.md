@@ -152,5 +152,5 @@ If you're ready to embark on your **ecommerce website development in Dubai** jou
 
 ---
 
-Got questions or need help with your ecommerce project? [Contact us](/contact-us.html) today to bring your vision to life!
+Got questions or need help with your ecommerce project? [Contact us](/contact-us) today to bring your vision to life!
 
