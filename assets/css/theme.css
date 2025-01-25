@@ -17,7 +17,7 @@ body {
 
 }
 .side-bar-right-ads {
-	position: absolute;
+	position: fixed;
 	top: 50%;
 	right:3px;
 	min-width: 180px;
