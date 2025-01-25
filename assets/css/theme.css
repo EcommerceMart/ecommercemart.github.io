@@ -10,19 +10,24 @@ body {
 }
 .side-bar-left-ads {
 	position: fixed;
-	top: 70px;
+	top: 80px;
 	left: 3px;
 	min-width: 180px;
 	z-index:1000;
-
 }
+
 .side-bar-right-ads {
 	position: fixed;
-	top: 70px;
+	top: 80px;
 	right:3px;
 	min-width: 180px;
 	z-index:1000;
-
+}
+@media screen and (max-width: 1430px) {
+	.side-bar-left-ads, .side-bar-right-ads {
+		display:none;
+	}
+	
 }
 .remove-site-content-margin {
 	margin-top:-30px;
