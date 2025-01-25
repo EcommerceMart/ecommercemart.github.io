@@ -6,6 +6,23 @@ body {
 .site-content {
 	margin-top:30px;
 	min-height:400px;
+	position: relative;
+}
+.side-bar-left-ads {
+	position: absolute;
+	top: 50%;
+	left:3px;
+	min-width: 180px;
+	z-index:1000;
+	transform: translate(-50%, 0);
+}
+.side-bar-right-ads {
+	position: absolute;
+	top: 50%;
+	right:3px;
+	min-width: 180px;
+	z-index:1000;
+	transform: translate(-50%, 0);
 }
 .remove-site-content-margin {
 	margin-top:-30px;
