@@ -1,0 +1,98 @@
+---
+title: "Ecommerce Profit Margin Calculator"
+layout: default
+permalink: "/Ecommerce-Profit-Margin-Calculator"
+---
+
+<div class="container">
+<h4 class="font-weight-bold spanborder"><span>{{page.title}}</span></h4>
+<title>Profit Margin Calculator</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: #f4f4f4;
+    }
+    .calculator {
+        background: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        width: 300px;
+    }
+    .calculator h2 {
+        text-align: center;
+    }
+    .input-group {
+        margin-bottom: 10px;
+    }
+    .input-group label {
+        display: block;
+        margin-bottom: 5px;
+    }
+    .input-group input {
+        width: 100%;
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    button {
+        width: 100%;
+        padding: 10px;
+        background-color: #28a745;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    button:hover {
+        background-color: #218838;
+    }
+    .result {
+        margin-top: 15px;
+        text-align: center;
+        font-weight: bold;
+    }
+</style>
+<div class="calculator">
+    <h2>Profit Margin Calculator</h2>
+    <div class="input-group">
+        <label for="cost">Cost Price ($)</label>
+        <input type="number" id="cost" placeholder="Enter cost price">
+    </div>
+    <div class="input-group">
+        <label for="shipping">Shipping Fee ($)</label>
+        <input type="number" id="shipping" placeholder="Enter shipping fee">
+    </div>
+    <div class="input-group">
+        <label for="tax">Tax (%)</label>
+        <input type="number" id="tax" placeholder="Enter tax percentage">
+    </div>
+    <div class="input-group">
+        <label for="profit">Desired Profit Margin (%)</label>
+        <input type="number" id="profit" placeholder="Enter profit margin">
+    </div>
+    <button onclick="calculateProfit()">Calculate</button>
+    <div class="result" id="result"></div>
+</div>
+
+<script>
+    function calculateProfit() {
+        let cost = parseFloat(document.getElementById("cost").value) || 0;
+        let shipping = parseFloat(document.getElementById("shipping").value) || 0;
+        let tax = parseFloat(document.getElementById("tax").value) || 0;
+        let profit = parseFloat(document.getElementById("profit").value) || 0;
+
+        let totalCost = cost + shipping + (cost * (tax / 100));
+        let sellingPrice = totalCost / (1 - (profit / 100));
+        let profitAmount = sellingPrice - totalCost;
+
+        document.getElementById("result").innerHTML = 
+            `Selling Price: $${sellingPrice.toFixed(2)}<br>Profit: $${profitAmount.toFixed(2)}`;
+    }
+</script>
+
+</div>
