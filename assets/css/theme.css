@@ -13,6 +13,7 @@ body {
 	top: 80px;
 	left: 3px;
 	min-width: 180px;
+	max-width: 190px;
 	z-index:9999;
 }
 
@@ -22,6 +23,8 @@ body {
 	right:3px;
 	min-width: 180px;
 	z-index:9999;
+	max-width: 190px;
+
 }
 @media screen and (max-width: 1430px) {
 	.side-bar-left-ads, .side-bar-right-ads {
