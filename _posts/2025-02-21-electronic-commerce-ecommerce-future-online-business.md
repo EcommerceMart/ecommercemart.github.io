@@ -3,7 +3,6 @@ layout: post
 title: "Electronic Commerce (E-Commerce): The Future of Online Business"
 description: "Discover how electronic commerce e commerce is transforming the future of online business. Learn about trends, benefits, and the impact of e-commerce on the global market."
 categories: ecommerce
-tags: [magento marketplace, shopify vs magento, ecommerce platforms]
 author: CodingRhodes
 image: assets/images/featured_electronic-commerce-ecommerce-future-online-business.webp
 ---
