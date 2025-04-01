@@ -23,9 +23,10 @@ description: " Easily detect the Shopify theme used by any store with this Shopi
         font-weight: bold;
     }
 </style>
-<h1>Shopify Theme Detector</h1>
 <input type="text" id="shopifyUrl" placeholder="Enter Shopify Store URL">
-<button onclick="detectTheme()">Detect Theme</button>
+<button onclick="detectTheme()" class="buttonload">Detect Theme
+    <!-- <i class="fa fa-refresh fa-spin"></i>Loading -->
+</button>
 <div id="result"></div>
 
 <script>
