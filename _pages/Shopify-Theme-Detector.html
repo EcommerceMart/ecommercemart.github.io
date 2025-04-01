@@ -34,10 +34,9 @@ description: " Easily detect the Shopify theme used by any store with this Shopi
     </span>
 </button>
 <div id="result"></div>
-
 <script>
     async function detectTheme() {
-        const url = document.getElementById('shopifyUrl').value;
+        const url = document.getElementById('shopifyUrl').value.trim();
         if (!url) {
             alert('Please enter a Shopify store URL');
             return;
@@ -46,13 +45,12 @@ description: " Easily detect the Shopify theme used by any store with this Shopi
             document.querySelector('.btn-actual').classList.add('hide-loading');
             document.querySelector('.btn-loading').classList.remove('hide-loading');
             document.getElementById("button-shopify-theme-detector").setAttribute("disabled", "true"); 
-
-            const response = await fetch(`https://api.allorigins.win/get?url=${encodeURIComponent(url)}`);
-            const data = await response.json();
-            const html = data.contents;
+            const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
+            const response = await fetch(proxyUrl + url);
+            const html = await response.text();
             
-            const themeNameMatch = html.match(/"name":"(.*?)"/);
-            const themeIdMatch = html.match(/"id":(\d+)/);
+            const themeNameMatch = html.match(/Shopify.theme.name\s*=\s*"(.*?)"/);
+            const themeIdMatch = html.match(/Shopify.theme.id\s*=\s*(\d+)/);
             
             if (themeNameMatch && themeIdMatch) {
                 document.getElementById('result').innerHTML = `Theme: ${themeNameMatch[1]}<br>Theme ID: ${themeIdMatch[1]}`;
@@ -60,9 +58,8 @@ description: " Easily detect the Shopify theme used by any store with this Shopi
                 document.getElementById('result').innerHTML = 'Theme details not found. The store may be using a custom or private theme.';
             }
             document.querySelector('.btn-actual').classList.remove('hide-loading');
-            document.querySelector('.btn-loading').classList.add('hide-loading');
-            document.getElementById("button-shopify-theme-detector").setAttribute("disabled", "false"); 
-
+        document.querySelector('.btn-loading').classList.add('hide-loading');
+        document.getElementById("button-shopify-theme-detector").removeAttribute("disabled"); 
         } catch (error) {
             document.getElementById('result').innerHTML = 'Error fetching theme details. Make sure the store URL is correct and publicly accessible.';
         }
