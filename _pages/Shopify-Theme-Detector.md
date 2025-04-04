@@ -62,9 +62,9 @@ Uncover the secrets behind **successful Shopify stores** and choose the **best t
         padding: 10px;
         margin: 10px 0;
     }
-    button {
+    button.buttonload {
         padding: 10px 15px;
-        background-color: #008CBA;
+        background-color: #03a87c;
         color: white;
         border: none;
         cursor: pointer;
