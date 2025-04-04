@@ -33,6 +33,6 @@ Ecommerce Mart is also a participant in the **Amazon Associates Program**, which
 
 ## 📢 **Questions? Contact Us!**  
 
-If you have any questions about our **affiliate partnerships**, feel free to reach out via our [Contact Page](/contact/).  
+If you have any questions about our **affiliate partnerships**, feel free to reach out via our [Contact Page](/contact-us/).  
 
 **Thank you for supporting Ecommerce Mart!** Your trust means everything to us. 😊  
