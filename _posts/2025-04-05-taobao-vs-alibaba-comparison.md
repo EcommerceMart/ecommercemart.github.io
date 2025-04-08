@@ -131,7 +131,7 @@ Let’s break it down—**Taobao** vs. Alibaba, head-to-head:
 ## Chapter 8: Which One’s Your Vibe?
 
 So, **Taobao** or Alibaba? Here’s my take after living both:
-- **Pick Taobao If**: You’re a deal-seeker who loves variety and doesn’t mind a little DIY. Pair it with Superbuy ([Superbuy Affiliate Link](https://www.superbuy.com/?ref=youraffiliateid)) to breeze through shipping and language hassles!  
+- **Pick Taobao If**: You’re a deal-seeker who loves variety and doesn’t mind a little DIY. Pair it with Superbuy ([Superbuy Affiliate Link](https://www.superbuy.com/en/page/login?partnercode=EKVc3n&type=register)) to breeze through shipping and language hassles!  
 - **Pick Alibaba If**: You’re a business buff or reseller ready for bulk. BuckyDrop ([BuckyDrop Affiliate Link](https://www.buckydrop.com/?ref=youraffiliateid)) makes small orders doable too!  
 
 Me? I’m Team **Taobao** for now—those quirky finds get me every time—but Alibaba’s on my radar for future hustles. Your turn—what’s your shopping style? 🌟
@@ -146,7 +146,7 @@ Got Qs? I’ve got As! Here’s the scoop:
 A: For single items, yes! **Taobao**’s got $2 steals; Alibaba shines in bulk—$1/unit for 50+.  
 
 **Q: Can I shop Taobao without knowing Chinese?**  
-A: Totally! Use Superbuy ([Superbuy Affiliate Link](https://www.superbuy.com/?ref=youraffiliateid))—they translate and ship for you!  
+A: Totally! Use Superbuy ([Superbuy Affiliate Link](https://www.superbuy.com/en/page/login?partnercode=EKVc3n&type=register))—they translate and ship for you!  
 
 **Q: Are Alibaba’s MOQs negotiable?**  
 A: Sometimes! Chat with suppliers or use BuckyDrop ([BuckyDrop Affiliate Link](https://www.buckydrop.com/?ref=youraffiliateid)) for smaller batches.  
