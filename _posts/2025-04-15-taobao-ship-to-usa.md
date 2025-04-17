@@ -5,6 +5,7 @@ description: "Learn if Taobao ships to the USA, how to order, shipping options, 
 keywords: "taobao"
 categories: [Shopping, Taobao, International Shipping]
 tags: [taobao, usa shipping, taobao english site, international shopping]
+author: CodingRhodes
 image: assets/images/featured_taobao-ship-to-usa.webp
 ---
 
