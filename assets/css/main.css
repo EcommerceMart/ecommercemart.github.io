@@ -3763,6 +3763,7 @@ input[type="button"].btn-block {
   border-radius: 0.25rem; 
   font-size: 14px;
   font-weight: 600;
+  overflow: auto !important;
 }
 
 .page-link {
