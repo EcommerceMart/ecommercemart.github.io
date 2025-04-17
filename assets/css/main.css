@@ -1298,6 +1298,9 @@ pre {
     background-color: rgba(255, 255, 255, 0.075); }
 
 @media (max-width: 575.98px) {
+  .footer-mobile {
+    display: grid !important;
+  }
   .table-responsive-sm {
     display: block;
     width: 100%;
