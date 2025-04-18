@@ -1,50 +1,47 @@
 ---
-title: "About Us"
-description: "Learn about Ecommerce Mart – your go-to platform for the best eCommerce tools, guides, and insights."
 layout: page-sidebar
-permalink: "/about-us.html"
+title: "About Us"
+description: "Learn more about ur-cristiano-fc.github.io, your ultimate destination for football news, CR7 updates, and match highlights."
+permalink: /about/
 ---
 
-![Team collaborating on a project with GitHub for e-commerce development]({{ site.baseurl }}/assets/images/about-Team-collaborating-on-project-with-GitHub-for-ecommerce-development.webp)
+# About Us
 
-Welcome to **Ecommerce Mart** 🛍️, your **one-stop destination** for everything related to **eCommerce development, marketing, and growth**!  
+Welcome to **ur-cristiano-fc.github.io** – your ultimate hub for everything **Cristiano Ronaldo** and world football 🌍⚽
 
-## 🚀 **Who We Are**  
+Whether you're a die-hard CR7 fan, a Premier League follower, or just someone who lives for the thrill of the game, this is the place for you.
 
-At Ecommerce Mart, we are passionate about **helping online entrepreneurs** and **business owners** succeed in the digital marketplace. Our platform provides **expert reviews, comparisons, and in-depth guides** on the best eCommerce tools, website builders, payment solutions, and marketing strategies.  
+---
 
-## 🎯 **Our Mission**  
+## 🎯 Our Mission
 
-Our goal is **simple**:  
-✔ **Empower businesses** with the right tools and knowledge.  
-✔ **Simplify eCommerce** with easy-to-follow guides.  
-✔ **Provide unbiased reviews** of popular platforms.  
-✔ **Keep you updated** with the latest trends in online selling.  
+Our goal is simple:  
+To deliver the latest football news, matchday highlights, transfer updates, and exclusive insights with a special focus on **Cristiano Ronaldo** – the legend, the GOAT, the icon. 🐐
 
-## 🔍 **What You’ll Find on Ecommerce Mart**  
+---
 
-✅ **eCommerce Platform Reviews** – Shopify, WooCommerce, BigCommerce & more.  
-✅ **Website Builder Comparisons** – Wix, Squarespace, WordPress & others.  
-✅ **Marketing & SEO Guides** – Proven strategies to grow your online store.  
-✅ **Dropshipping & Affiliate Marketing Tips** – Make passive income online.  
-✅ **Payment & Security Insights** – Choosing the best payment gateways.  
+## 📰 What You’ll Find Here
 
-## 💡 **Why Trust Ecommerce Mart?**  
+- ⚡ **Breaking football news**
+- 🎥 **Live match commentary & post-match analysis**
+- 🏆 **Cristiano Ronaldo career updates**
+- 📅 **Fixtures, results, and performance stats**
+- 💬 **Fan reactions and trending football moments**
 
-🔹 **Expert Insights** – Our team consists of eCommerce specialists with years of experience.  
-🔹 **Unbiased Reviews** – We provide **honest and transparent** product recommendations.  
-🔹 **Data-Driven Content** – Our guides are backed by **real research and case studies**.  
-🔹 **Always Updated** – We stay on top of the latest eCommerce trends and updates.  
+We aim to make football news **engaging, easy-to-understand, and always up-to-date**.
 
-## 🤝 **Join Our Community**  
+---
 
-We’re more than just a blog – we’re a **community of eCommerce enthusiasts**! Stay connected with us:  
+## 🤝 Get in Touch
 
-📩 **Subscribe to Our Newsletter** for the latest updates.  
-📌 **Follow Us on Social Media** for expert tips and insights.  
+We’d love to hear from you!  
+For feedback, collabs, or just to say hello, reach out:
 
-## 📞 **Get in Touch**  
+📧 **ur.cristiano.help@gmail.com**
 
-Have questions or need personalized advice? Contact us anytime via our [Contact Page](/contact-us/).  
+Follow us, support us, and let’s celebrate football greatness together! 🚀  
+_#ForTheFans #CR7Forever_
 
-**Thank you for visiting Ecommerce Mart – let’s build your eCommerce success together! 🚀**  
+---
+
+*Thank you for visiting ur-cristiano-fc.github.io — powered by passion, backed by football love.* ❤️⚽
