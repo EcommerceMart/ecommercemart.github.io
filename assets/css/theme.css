@@ -838,3 +838,13 @@ div.a2a_full_footer {display:none;}
 	font-weight: 700;
 	line-height: 1.1;
 }
+@media screen and (max-width: 767px) {
+	.hero {
+		padding: 0.5rem;
+		border-radius: 5px;
+	}
+	.hero h1 {
+		font-size: 1.2rem;
+		font-weight: 700;
+	}
+}
