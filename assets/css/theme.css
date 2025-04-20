@@ -845,6 +845,8 @@ div.a2a_full_footer {display:none;}
 	}
 	.hero > div {
 		max-width: 90% !important;
+		margin: 0 auto;
+		display: block !important;
 	}
 	.hero h1 {
 		font-size: 1.5rem;
