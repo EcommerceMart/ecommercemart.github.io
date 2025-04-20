@@ -840,8 +840,9 @@ div.a2a_full_footer {display:none;}
 }
 @media screen and (max-width: 767px) {
 	.hero {
-		padding: 0.5rem;
+		padding: 1.5rem 0.5rem;
 		border-radius: 5px;
+		text-align: center !important;
 	}
 	.hero > div {
 		max-width: 90% !important;
@@ -855,5 +856,9 @@ div.a2a_full_footer {display:none;}
 	}
 	.hero p {
 		font-size: 1rem;
+	}
+	.hero a {
+		font-size: 1rem;
+		padding: 5px 15px !important;
 	}
 }
