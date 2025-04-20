@@ -843,6 +843,9 @@ div.a2a_full_footer {display:none;}
 		padding: 0.5rem;
 		border-radius: 5px;
 	}
+	.hero > div {
+		max-width: 90% !important;
+	}
 	.hero h1 {
 		font-size: 1.5rem;
 		font-weight: 700;
