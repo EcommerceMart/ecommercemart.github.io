@@ -9,12 +9,24 @@ tips to automation workflows."
 
 
 <div class="container">
+    {% if page.url == "/" %} 
+<div class="rounded mb-5 hero">
+  <div class="row align-items-center justify-content-between">
+      <h1 class="font-weight-bold mb-4 serif-font">Build, Launch & Scale Your Ecommerce Brand with help of EcommerceMart </h1>
+      <p class="lead mb-4">From choosing the right platform to driving traffic and conversions—get everything you need to grow your online store.</p>
+      <!-- <a href="{{site.baseurl}}/about" class="btn btn-dark text-white px-5 btn-lg">About me</a> -->
+    <!-- <div class="col-md-6 text-right pl-0 pl-lg-4">
+      <img class="intro" height="500" src="{{site.baseurl}}/assets/images/intro.svg">      
+    </div> -->
+  </div>
+</div>
+{% endif %}
 
     {% if page.url == "/" %}
 
     <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
     <div class="row remove-site-content-margin">
-        <h1 style="display: none !important;">Ecommerce Mart</h1>
+        <!-- <h1 style="display: none !important;">Ecommerce Mart</h1> -->
         <!-- latest post -->
         {% assign latest_post = site.posts[0] %}
         <div class="col-md-6">
