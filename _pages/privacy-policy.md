@@ -1,10 +1,7 @@
 ---
 title: "Privacy Policy"
-layout: page-sidebar
 permalink: "/privacy-policy.html"
 ---
-
-![Digital security lock representing privacy protection.]({{ site.baseurl }}/assets/images/privacy_Digital-security-lock-representing-privacy-protection.webp)
 
 "{{site.name}}" takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
 
@@ -43,4 +40,4 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 
 #### Contact Information
 
-For any questions or concerns regarding the privacy policy, please [contact us here]({{site.baseurl}}/contact-us).
+For any questions or concerns regarding the privacy policy, please [contact us here]({{site.baseurl}}/contact.html).

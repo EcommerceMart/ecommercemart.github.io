@@ -1,13 +1,12 @@
 # Site
-name: 'Ecommerce Mart'
-description: 'Find blogs of Ecommerce development with GitHub.'
+name: 'Mundana'
+description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: ''
-disqus: 'codingrhodes'
-email: 'codingrhodes@gmail.com'
-mailchimp-list: 'https://github.us22.list-manage.com/subscribe/post?u=7cbb8f4ffba4384950451d221&amp;id=aae56f1824&amp;f_id=00d2c2e1f0'
-
+baseurl: '/mundana-theme-jekyll'
+disqus: 'demowebsite'
+email: 'wowthemesnet@gmail.com'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
 permalink: /:title/
@@ -20,16 +19,21 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    CodingRhodes:
-      name:           Coding Rhodes
-      site:           /
-      avatar:         assets/images/Author-codingRhodes.webp
-      bio:            "Hi, I am Coding Rhodes, the author of this article, Do let me know If you have any Questions"
-      email:          CodingRhodes@gmail.com
-      twitter:        https://x.com/CodingRhodes
+    sal:
+      name:           Sal
+      site:           https://www.wowthemes.net
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      email:          wowthemesnet@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
 
-social:
-- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com/codingrhodes"}
+    jane:
+      name:           Jane
+      site:           https://www.wowthemes.net
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:
@@ -39,8 +43,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: CodingRhodes
-      avatar: /assets/images/Author-codingRhodes.webp
+      author: sal
+      avatar: /assets/images/avatar1.jpg
       
   # all pages
   - scope:
@@ -59,5 +63,3 @@ paginate: 10
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
-
-
