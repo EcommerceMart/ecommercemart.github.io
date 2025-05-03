@@ -2,7 +2,7 @@
 layout: page-sidebar
 title: "About Us"
 description: "Learn more about ur-cristiano-fc.github.io, your ultimate destination for football news, CR7 updates, and match highlights."
-permalink: /about/
+permalink: /about-us/
 ---
 
 # About Us
