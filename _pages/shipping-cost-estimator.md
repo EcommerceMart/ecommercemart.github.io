@@ -38,7 +38,7 @@ Get precise shipping costs based on weight, destination, and carrier, and improv
   </div>
 
 
-  ## How to Use the Shipping Cost Estimator
+## How to Use the Shipping Cost Estimator
 
 1. **Enter the item weight**: Add the weight of your item to get a precise shipping estimate.
 2. **Choose the destination**: Select the delivery destination to calculate rates for domestic or international shipping.
