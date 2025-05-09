@@ -206,7 +206,7 @@ tips to automation workflows."
                 {% elsif page == 1 %}
                 <li class="page-item"><a class="page-link" href="{{site.baseurl}}/">{{ page }}</a></li>
                 {% else %}
-                <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+                <li class="page-item"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}/">{{ page }}</a></li>
                 {% endif %}
               {% endfor %}
 
