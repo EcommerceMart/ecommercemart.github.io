@@ -1,4 +1,0 @@
-User-agent: *
-Allow:/
-
-Sitemap: https://ecommercemart.github.io/sitemap.xml
