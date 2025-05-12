@@ -131,8 +131,9 @@ And honestly? If Chinese isn’t your strong suit (it wasn’t mine either), hav
 
 So before you jump into your Taobao adventure, make sure you’re equipped with:
 
-- 💳 A secure global payment card like **[Wise](#)** or **[Revolut](#)**
+- 💳 A secure global payment card like **[Wise](https://wise.prf.hn/l/KVXBpPk/)** or **[Revolut](https://www.revolut.com/travel/travel-money-card/)**
 - 🌐 A strong VPN like **[NordVPN](#)** for security and better access
+
 <!-- - 📦 A reliable agent like **[Superbuy](#)** to handle orders and shipping
 - 🔤 Helpful translation tools like **[DeepL](#)** and **[Grammarly](#)** -->
 
