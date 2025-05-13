@@ -124,7 +124,7 @@ First, I got myself a **[Wise Multi-Currency Card](https://wise.prf.hn/l/KVXBpPk
 
 Then I paired that with a **[NordVPN](https://click.linksynergy.com/fs-bin/click?id=fqLXRKD4Zjg&offerid=1672903.8&subid=0&type=4)**—because sometimes the deals you see can change based on your location. Plus, it gave me peace of mind knowing my connection was secure.
 
-<a href="https://click.linksynergy.com/fs-bin/click?id=fqLXRKD4Zjg&offerid=1672903.8&subid=0&type=4"><IMG border="0" alt="NordVPN" src="https://ad.linksynergy.com/fs-bin/show?id=fqLXRKD4Zjg&bids=1672903.8&subid=0&type=4&gridnum=0"></a>
+{% include nordvpn-affiliate.html %}
 
 <!-- I also didn’t want to deal with confusing logistics, so I used **[Superbuy](#)**, a trusted Taobao agent. They helped communicate with sellers, double-checked the items, and forwarded my package safely to my doorstep.
 
