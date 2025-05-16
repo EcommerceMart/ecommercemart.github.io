@@ -229,6 +229,9 @@ a.text-dark:hover {
 	font-size:1.55rem;
     font-family:"Georgia","Times New Roman",serif;
 }
+.navbar-brand h1 {
+	font-size: 25px !important;
+}
 .dropdown-item {
 	font-weight:400;
 }

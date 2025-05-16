@@ -108,7 +108,12 @@ https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.css
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="/"><h1><strong>Ecommerce Mart</strong></h1></a>
+        {% if page.url == "/" %}
+            <a class="navbar-brand" href="/"><h1><strong>Ecommerce Mart</strong></h1></a>
+        {% endif %}
+        {% if page.url != "/" %}
+            <a class="navbar-brand" href="/"><strong>Ecommerce Mart</strong></a>
+        {% endif %}
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
