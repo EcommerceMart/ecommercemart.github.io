@@ -6,12 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="robots" content="max-image-preview:large">
 
-    {% if post.title != null %}
-    <title>{{post.title}} </title>
-    {% endif %}
-    {%% else }
-    <title>{{page.title}} | {{site.name}} </title>
-
     {% endif %}
     <!--In the site <head>, add the loader code once-->
     <script defer>window.yaContextCb=window.yaContextCb||[]</script>
@@ -107,7 +101,7 @@ https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.css
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="/"><strong>{{site.name}}</strong></a>
+        <a class="navbar-brand" href="/"><h1>Ecommerce Mart</h1></a>
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
