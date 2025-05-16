@@ -57,9 +57,7 @@ Shein’s customer support has improved. The app now offers live chat, FAQs, and
 
 ## How to Shop Safely on Shein in 2025
 
-
 ![User browsing Shein app on smartphone showing customer reviews and product ratings]({{ site.baseurl }}/assets/images/How-to-Shop-Safely-on-Shein-in-2025.webp)
-
 
 ### Tip 1: Read Reviews Carefully
 
