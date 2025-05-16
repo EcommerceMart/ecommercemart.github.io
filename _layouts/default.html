@@ -9,7 +9,14 @@
     <!--In the site <head>, add the loader code once-->
     <script defer>window.yaContextCb=window.yaContextCb||[]</script>
     <script src="https://yandex.ru/ads/system/context.js" defer></script>
-    <title>{{ page.title }} | {{ site.name }}</title>
+
+    {% if page.url != "/" %}
+        <title>{{ page.title }} {{ site.name }}</title>
+    {% endif %}
+
+    {% if page.url == "/" %}
+        <title>{{ page.title }} | {{ site.description }}</title>
+    {% endif %}
 
     {% seo %}
 
@@ -101,7 +108,7 @@ https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.css
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="/"><h1>Ecommerce Mart</h1></a>
+        <a class="navbar-brand" href="/"><h1><strong>Ecommerce Mart</strong></h1></a>
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
