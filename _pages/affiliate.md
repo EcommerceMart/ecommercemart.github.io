@@ -1,7 +1,7 @@
 ---
 layout: page-sidebar
-title: "Affiliate Disclosure"
-description: "Learn how Ecommerce Mart uses affiliate links to support our platform. Transparency is our priority!"
+title: "Affiliate Disclosure: How EcommerceMart Earns and Recommends Products"
+description: "EcommerceMart may earn commissions through affiliate links at no extra cost to you. Read how we choose and promote products."
 permalink: "/affiliate.html"
 ---
 
