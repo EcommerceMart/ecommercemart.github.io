@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How AI Is Revolutionizing Ecommerce in 2025"
+title: "Top AI Tools for Ecommerce in 2025"
 description: "Discover how AI in ecommerce is transforming online shopping in 2025 with smarter tools, automation, and personalization."
 categories: [ecommerce, ai, future-tech, marketing]
 tags: [AI in ecommerce, ecommerce trends 2025, artificial intelligence, online retail, smart shopping]
