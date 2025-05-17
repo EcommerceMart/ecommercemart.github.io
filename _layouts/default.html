@@ -34,11 +34,7 @@
     <!-- Theme Stylesheet -->
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme.css">
 
-    <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
-    <script
-    src="https://code.jquery.com/jquery-3.3.1.min.js"
-    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-    crossorigin="anonymous"></script>
+
 
     {% include tracking-header.html %}
 
@@ -82,15 +78,8 @@
 <!-- Ads -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
     crossorigin="anonymous"></script>
-    {% if page.url == "/" %}
-    <script src="
-https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js
-" ></script>
-<link href="
-https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.css
-" rel="stylesheet">
+    
 
-{% endif %}
 {% if page.url == "/Shopify-Theme-Detector" %}
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 {% endif %}
