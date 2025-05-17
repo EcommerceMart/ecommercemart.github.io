@@ -55,7 +55,7 @@ tips to automation workflows."
                 {% if second_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{second_post.url}}">
-                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" alt="{{ second_post.title }}">
+                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" data-echo="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}"    alt="{{ second_post.title }}">
                 </a>
                 </div>
                 {% endif %}                
@@ -82,7 +82,7 @@ tips to automation workflows."
                 {% if third_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{third_post.url}}">
-                 <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
+                 <img class="w-100" src="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" data-echo="{% if third_post.image contains "://" %}{{ third_post.image }}{% else %}{{site.baseurl}}/{{ third_post.image }}{% endif %}" alt="{{ third_post.title }}">
                 </a>
                 </div>
                 {% endif %}                
@@ -109,7 +109,7 @@ tips to automation workflows."
                 {% if fourth_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{fourth_post.url}}">
-                <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
+                <img class="w-100" src="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" data-echo="{% if fourth_post.image contains "://" %}{{ fourth_post.image }}{% else %}{{site.baseurl}}/{{ fourth_post.image }}{% endif %}" alt="{{ fourth_post.title }}">
                 </a>
                 </div>
                 {% endif %}                
@@ -134,11 +134,11 @@ tips to automation workflows."
             <div class="mb-3 d-flex align-items-center affiliate-carousel-homepage">
                 <!-- Shopify -->
                 <a href="https://shopify.pxf.io/POrzKR">
-                    <img class="w-100" src="./assets/images/shopify-affiliate-link.webp" alt="Shopify Affiliate">
+                    <img class="w-100" src="./assets/images/shopify-affiliate-link.webp" data-echo="./assets/images/shopify-affiliate-link.webp" alt="Shopify Affiliate">
                 </a>
                 <!-- Preply -->
                 <a href="https://preply.sjv.io/YRnZDe">
-                    <img class="w-100" src="./assets/images/preply-affiliate.webp" alt="Shopify Affiliate">
+                    <img class="w-100" src="./assets/images/preply-affiliate.webp" data-echo="./assets/images/preply-affiliate.webp" alt="Shopify Affiliate">
                 </a>
             </div>
         

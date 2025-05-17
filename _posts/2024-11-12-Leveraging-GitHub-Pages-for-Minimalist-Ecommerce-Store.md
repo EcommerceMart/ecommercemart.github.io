@@ -96,7 +96,7 @@ A minimalist GitHub Pages store won't have complex e-commerce functionalities (l
       <h2>{{ product.title }}</h2>
       <p>{{ product.price }}</p>
       <p>{{ product.description }}</p>
-      <img src="{{ product.image }}" alt="{{ product.title }}">
+      <img src="{{ product.image }}" data-echo="{{ product.image }}" alt="{{ product.title }}">
     </div>
   {% endfor %}
 {% endraw %}
