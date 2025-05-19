@@ -248,53 +248,6 @@ Customers continue to rate it highly in terms of fashion variety, delivery speed
 
 ---
 
-<style>
-    .product-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
-  gap: 20px;
-  margin-top: 1rem;
-}
-
-.product-card {
-  border: 1px solid #ddd;
-  border-radius: 16px;
-  padding: 15px;
-  text-align: center;
-  background: #fff;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
-}
-
-.product-card img {
-  max-width: 100%;
-  border-radius: 12px;
-  margin-bottom: 10px;
-}
-
-.product-card h3 {
-  font-size: 1.1rem;
-  margin: 10px 0 6px;
-}
-
-.product-card p {
-  font-size: 0.9rem;
-  color: #444;
-  margin-bottom: 12px;
-}
-
-.product-card a {
-  display: inline-block;
-  padding: 8px 12px;
-  background: #000;
-  color: #fff;
-  text-decoration: none;
-  border-radius: 8px;
-  font-size: 0.9rem;
-}
-</style>
-<div class="product-grid"> <div class="product-card"> <img src="https://images.princesspolly.com.au/images/2024/10/12/freya-mini-dress.jpg" alt="Freya Mini Dress"> <h3>Freya Mini Dress</h3> <p>Floral and flirty—perfect for garden parties or brunch with the girls.</p> <a href="https://www.princesspolly.com" target="_blank" rel="nofollow">Buy for $65 →</a> </div> <div class="product-card"> <img src="https://images.princesspolly.com.au/images/2024/11/02/noa-jeans.jpg" alt="Noa Straight Leg Jeans"> <h3>Noa Straight Leg Jeans</h3> <p>Timeless high-waisted denim that hugs all the right places.</p> <a href="https://www.princesspolly.com" target="_blank" rel="nofollow">Shop for $90 →</a> </div> <div class="product-card"> <img src="https://images.princesspolly.com.au/images/2024/09/25/zita-cropped-sweater.jpg" alt="Zita Cropped Sweater"> <h3>Zita Cropped Sweater</h3> <p>Comfy and cropped—a must-have for cozy fall aesthetics.</p> <a href="https://www.princesspolly.com" target="_blank" rel="nofollow">Get it for $55 →</a> </div> <div class="product-card"> <img src="https://images.princesspolly.com.au/images/2024/10/01/rayne-sunglasses.jpg" alt="Rayne Sunglasses"> <h3>Rayne Sunglasses</h3> <p>Stay shaded in style with these influencer-loved sunnies.</p> <a href="https://www.princesspolly.com" target="_blank" rel="nofollow">Only $25 →</a> </div> </div>
-
----
 
 ## FAQs
 
