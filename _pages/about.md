@@ -2,7 +2,7 @@
 layout: page-sidebar
 title: "About EcommerceMart: Your Trusted Guide to Ecommerce Trends and Tools"
 description: "Learn about EcommerceMart, your go-to resource for ecommerce insights, product guides, and tech trends tailored to online businesses."
-permalink: /about-us/
+permalink: /about-us
 ---
 
 Made with <i class="fa fa-heart text-danger"></i> by [CodingRhodes](/author-codingrhodes).
