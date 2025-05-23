@@ -3,7 +3,7 @@ layout: post
 title:  "How to Use GitHub Actions for Ecommerce Workflows"
 description: 'Learn how to automate and optimize e-commerce workflows using GitHub Actions, enhancing efficiency and collaboration in your development process.'
 author: CodingRhodes
-categories: "Ecommerce" 
+categories: [ Ecommerce ]
 image: assets/images/How-to-Use-GitHub-Actions-for-Ecommerce-Workflows.webp
 tags: [Github, Ecommerce]
 ---

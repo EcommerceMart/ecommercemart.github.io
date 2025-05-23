@@ -60,10 +60,10 @@ layout: default
 				</div>
 			</div>
         {% for category in site.categories %} 
-		<p>{{ post.categories }} hey</p>
-		<p>{{ post.categories[0] }} hi</p>
+		<p>{{ post.categories }}</p>
+		<p>{{ post.categories[0] }}</p>
 		{% for category in site.categories %} 
-			<p>{{ post.categories[0] }} he</p>
+			<p>{{ post.categories[0] }} </p>
         {% endfor %}
 
           {% if post.categories[0] == category %}
