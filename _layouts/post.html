@@ -60,6 +60,12 @@ layout: default
 				</div>
 			</div>
         {% for category in site.categories %} 
+		<p>{{ post.categories }} hey</p>
+		<p>{{ post.categories[0] }} hi</p>
+		{% for category in site.categories %} 
+			<p>{{ post.categories[0] }} he</p>
+        {% endfor %}
+
           {% if post.categories[0] == category %}
             <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
                 
