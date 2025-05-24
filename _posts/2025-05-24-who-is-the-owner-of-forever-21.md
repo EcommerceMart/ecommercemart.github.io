@@ -18,7 +18,7 @@ We’ll explore whether it’s privately or publicly owned, examine the roles of
 
 #### Origins in Los Angeles
 
-Forever 21 was founded in 1984 by Do Won Chang and Jin Sook Chang, a Korean-American couple. Originally called Fashion 21, the store catered to the Los Angeles Korean-American community.
+Forever 21 was founded in 1984 by **Do Won Chang and Jin Sook Chang**, a Korean-American couple. Originally called Fashion 21, the store catered to the Los Angeles Korean-American community.
 
 #### Expansion and Rebranding
 
