@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is Rare Beauty Good? Honest Reviews and Brand Breakdown"
+title: "Is Rare Beauty Good? What Real Users Are Saying Today"
 description: "Wondering if Rare Beauty is good? Get real reviews, pros and cons, and how it compares to top brands like Fenty and Glossier."
 category: ["Ulta Beauty"]
 author: CodingRhodes
