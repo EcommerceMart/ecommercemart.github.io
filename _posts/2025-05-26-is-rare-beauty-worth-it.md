@@ -167,6 +167,8 @@ Beauty influencers have consistently ranked Rare Beauty products among their top
 
 ## Real Customer Testimonials
 
+![Real users applying and wearing Rare Beauty makeup products, showing diverse skin tones and natural finishes.]({{ site.baseurl }}/assets/images/Real-Customer-Testimonials.webp)
+
 > “The blush lasted all day and made my skin glow.”
 > — Megan, verified buyer
 
