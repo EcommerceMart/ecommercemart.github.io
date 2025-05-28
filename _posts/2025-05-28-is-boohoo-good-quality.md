@@ -131,6 +131,8 @@ Professional photography may enhance the appearance of items, masking issues in 
 
 ## Durability Over Time
 
+![Before and after photo of Boohoo garments showing fabric condition after several washes.]({{ site.baseurl }}/assets/images/Durability-Over-Time.webp)
+
 ### How Long Do Boohoo Clothes Last?
 
 #### h5: Durability Findings:
@@ -166,7 +168,11 @@ Mixed reviews:
 
 ## Customer Reviews and Real Feedback
 
+
+
 ### What Are People Saying About Boohoo Quality?
+
+![Screenshot of verified customer reviews on Boohoo’s website highlighting clothing quality feedback]({{ site.baseurl }}/assets/images/What-Are-People-Saying-About-Boohoo-Quality.webp)
 
 On platforms like Trustpilot and Reddit:
 
