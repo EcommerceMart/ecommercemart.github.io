@@ -5,7 +5,7 @@ description: "Learn about EcommerceMart, your go-to resource for ecommerce insig
 permalink: /about-us
 ---
 
-Made with <i class="fa fa-heart text-danger"></i> by [CodingRhodes](/author-codingrhodes).
+Made with <i class="fa fa-heart text-danger"></i> by [CodingRhodes](/author-CodingRhodes).
 
 ![Team collaborating on a project with GitHub for e-commerce development]({{ site.baseurl }}/assets/images/about-Team-collaborating-on-project-with-GitHub-for-ecommerce-development.jpeg)
 
