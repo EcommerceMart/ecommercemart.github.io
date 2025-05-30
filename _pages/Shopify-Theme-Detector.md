@@ -47,7 +47,6 @@ Want to know **which Shopify theme a store is using**? Our **Shopify Theme Detec
 
 Looking for the **best Shopify themes**? Check out our expert recommendations:  
 
-🔗 [Best Shopify Themes for 2025](/best-shopify-themes/)  
 
 ## 📌 **Try the Shopify Theme Detector Now!**  
 
