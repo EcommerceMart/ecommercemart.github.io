@@ -2,7 +2,7 @@
 title: "EcommerceMart Privacy Policy: How We Protect Your Data"
 layout: page-sidebar
 description: "Read our privacy policy to understand how EcommerceMart collects, uses, and safeguards your personal information."
-permalink: "/privacy-policy.html"
+permalink: "/privacy-policy"
 ---
 
 ![Digital security lock representing privacy protection.]({{ site.baseurl }}/assets/images/privacy_Digital-security-lock-representing-privacy-protection.webp)

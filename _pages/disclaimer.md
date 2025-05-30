@@ -2,7 +2,7 @@
 title: "Disclaimer for EcommerceMart: Transparency in Our Content and Links"
 description: "This disclaimer explains how we earn from affiliate links and the accuracy of our ecommerce-related content."
 layout: page-sidebar
-permalink: "/disclaimer.html"
+permalink: "/disclaimer"
 ---
 
 ![Disclaimer warning for informational purposes of website content]({{ site.baseurl }}/assets/images/Disclaimer-warning-for-informational-purposes-of-website-content.webp)
