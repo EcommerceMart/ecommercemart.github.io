@@ -55,9 +55,9 @@ A long-form review comparing Shein to other fast fashion retailers like H\&M and
 
 A popular comparison thread where users debate which platform offers better value for money. Shein often wins in the trendiness category but lags in reliability.
 
-[Shop Amazon Fashion (Affiliate)](https://www.amazon.com/s?k=fashion&tag=yourtag-20)
+[Shop Amazon Fashion (Affiliate)](https://www.amazon.com/)
 
-[Shop Temu for Fashion (Affiliate)](https://www.temu.com/?af=your_aff_id)
+[Shop Temu for Fashion (Affiliate)](https://www.temu.com/)
 
 ### New Trends in Reddit Discussions (2025)
 
