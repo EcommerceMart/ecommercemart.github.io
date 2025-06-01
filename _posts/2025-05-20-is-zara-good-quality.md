@@ -24,7 +24,7 @@ Zara shoppers often wonder about quality for several reasons:
 
 ## Materials and Construction: What Are Zara Clothes Made Of?
 
-![Materials and Construction: What Are Zara Clothes Made Of]({{ site.baseurl }}/assets/images/What Are-Zara-Clothes-Made-Of.webp)
+![Materials and Construction: What Are Zara Clothes Made Of]({{ site.baseurl }}/assets/images/What-Are-Zara-Clothes-Made-Of.webp)
 
 ### Fabric Types Commonly Used by Zara
 
