@@ -125,4 +125,3 @@ Most items ship from overseas, but Temu has Canadian warehouses for select produ
 
 ---
 
-*This expanded guide is based on the latest information as of June 2025 and aims to help Canadian shoppers make informed decisions when considering Temu.*

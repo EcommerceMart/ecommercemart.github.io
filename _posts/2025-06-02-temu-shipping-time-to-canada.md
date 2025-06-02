@@ -168,8 +168,6 @@ Delays can occur due to customs clearance, high demand periods, or incorrect shi
 
 ---
 
-## Additional Resources
+## Additional Resource
 
-* [Temu Canada Official Shipping Policies](#)
-* [Temu Customer Service](#)
 * [Canada Post Tracking](https://www.canadapost-postescanada.ca/)
