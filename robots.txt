@@ -1,4 +1,7 @@
 User-Agent: *
-Disallow: /category/
-Disallow: /tag/
+Disallow: /category
+Disallow: /tag
 Disallow: /*?m=1
+Disallow: /*?m=0
+
+Sitemap: https://ecommercemart.github.io/sitemap.xml
