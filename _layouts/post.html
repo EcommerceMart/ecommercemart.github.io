@@ -91,15 +91,14 @@ layout: default
 			<article class="article-post">                
 			{{ content }}
 			
+			<p class="{{ category | first }}"><strong>Check Related Article</strong></p>
             <!--Related Article -->
-			<p class="new-tests">{{ post.categories }}</p>
+			<hr>
 			<ul>
 			{% for category in site.categories %}
-				<li><a name="{{ category | first }}">{{ category | first }}</a>
+				<!-- <li><a name="{{ category | first }}">{{ category | first }}</a> -->
 				{% assign categ = category | first %}
 					{% for eachcateg in page.categories %}
-			<p class="new-tests">{{ eachcateg }}</p>
-			<p class="new-tests">{{ categ }}</p>
                         
 						{% if eachcateg == categ %}
 							<ul>
