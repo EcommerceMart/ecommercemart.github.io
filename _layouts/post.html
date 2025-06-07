@@ -89,7 +89,15 @@ layout: default
             
             <!-- Article -->
 			<article class="article-post">                
-			{{ content }}                
+			{{ content }}
+			
+            <!--Related Article -->
+			<p class="new-tests">hello</p>
+			{% for item in site.categories[page.categories] %}
+				<a href="{{ item.url }}" target="_self" draggable="false">
+					{{ item.title }}
+				</a>
+			{% endfor %}
 			</article>
 			
 			<!-- Tags -->
