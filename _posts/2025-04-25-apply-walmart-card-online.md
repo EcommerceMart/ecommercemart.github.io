@@ -3,7 +3,7 @@ layout: post
 title: "How to Apply for a Walmart Card Online and Get Instant Approval"
 description: "Step-by-step guide on how to apply for a Walmart Card online and get instant approval in 2025."
 keywords: ["walmart card"]
-categories: [Finance, Credit Cards, How-To]
+categories: "walmart"
 tags: [Walmart Card, Walmart Credit Card, Online Application, Instant Approval]
 author: CodingRhodes
 image: assets/images/featured_apply-walmart-card-online.webp

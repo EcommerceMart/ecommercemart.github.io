@@ -3,7 +3,7 @@ layout: post
 title: "Walmart Card Review 2025: Is It Worth It for Everyday Shoppers?"
 description: "Walmart Card Review 2025—Find out if this card is worth it for your everyday shopping needs."
 keywords: ["walmart card"]
-categories: [Finance, Credit Cards, Reviews, Shopping]
+categories: "walmart"
 tags: [Walmart Card, Walmart Credit Card Review, Everyday Shopping, Credit Tips]
 author: CodingRhodes
 image: assets/images/featured_walmart-card-review-2025.webp

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Why Is Temu So Cheap? An In-Depth Look"
-categories: [Ecommerce, Shopping]
 tags: [Temu, Ecommerce, Affordable Shopping]
 description: "Explore why Temu offers products at such low prices. A detailed analysis of supply chain, manufacturing, and business model."
 keywords: ["Temu"]

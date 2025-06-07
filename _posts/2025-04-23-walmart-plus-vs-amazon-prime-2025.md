@@ -3,7 +3,7 @@ layout: post
 title: "Walmart Plus vs Amazon Prime: Which Membership Offers More Value in 2025?"
 description: "Walmart Plus vs Amazon Prime: Compare features, delivery, pricing, and perks to decide which membership gives the best value in 2025."
 keywords: ["walmart plus benefits", "walmart plus", "Amazon prime"]
-categories: [Retail, Subscriptions, Amazon, Walmart]
+categories: "walmart"
 tags: [Walmart Plus, Amazon Prime, Membership Comparison, Streaming, Delivery, Subscription Review]
 author: CodingRhodes
 image: assets/images/featured_walmart-plus-vs-amazon-prime-2025.webp

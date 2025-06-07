@@ -3,7 +3,7 @@ layout: post
 title: "Is the Walmart Credit Card Worth It in 2025? Benefits, Rewards, and Real User Reviews"
 description: "Uncover the pros, cons, and real user feedback on the Walmart credit card in 2025. Is it the right choice for your wallet?"
 keywords: "walmart credit card"
-categories: [Finance, Credit Cards, Walmart]
+categories: "walmart"
 tags: [walmart credit card, credit card reviews, cashback, store cards, 2025 financial tips]
 author: CodingRhodes
 image: assets/images/featured_walmart-credit-card-worth-it-2025.webp

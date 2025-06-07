@@ -3,7 +3,7 @@ layout: post
 title: "Walmart Card vs Walmart Plus: Which One Saves You More Money?"
 description: "Walmart Card vs Walmart Plus—compare rewards, perks, and savings to discover which is better for your wallet."
 keywords: ["walmart card"]
-categories: [Finance, Credit Cards, Reviews, Shopping]
+categories: "walmart"
 tags: [Walmart Card, Walmart Plus, Walmart Membership, Shopping Tips, Budgeting]
 author: CodingRhodes
 image: assets/images/featured_walmart-card-vs-walmart-plus.webp

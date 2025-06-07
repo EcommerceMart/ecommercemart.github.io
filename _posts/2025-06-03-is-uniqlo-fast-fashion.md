@@ -2,7 +2,7 @@
 layout: post
 title: "Is Uniqlo Fast Fashion? A Comprehensive Guide"
 description: "Explore whether Uniqlo is considered fast fashion, its production practices, sustainability efforts, and how it compares to other fashion brands."
-categories: [Uniqlo, Fashion, Sustainability]
+categories: "Uniqlo"
 author: CodingRhodes
 image: assets/images/featured_is-uniqlo-fast-fashion.webp
 ---

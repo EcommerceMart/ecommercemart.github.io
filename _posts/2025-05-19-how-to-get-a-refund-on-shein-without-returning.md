@@ -2,7 +2,7 @@
 layout: post
 title: "How to Get a Refund on Shein Without Returning: Full Guide"
 description: "Learn how to get a refund on Shein without returning items. Understand Shein return policy, refund conditions, and step-by-step guidance."
-categories: [Shein]
+categories: "shein"
 author: CodingRhodes
 image: assets/images/featured_how-to-get-a-refund-on-shein-without-returning.webp
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "How to Return on Shein: A Complete Step-by-Step Guide"
 description: "Learn how to return on Shein with this step-by-step guide. Understand Shein return policy, fees, methods, and timelines for every country."
-categories: [Shein]
+categories: "shein"
 author: CodingRhodes
 image: assets/images/featured_how-to-return-on-shein.webp
 ---

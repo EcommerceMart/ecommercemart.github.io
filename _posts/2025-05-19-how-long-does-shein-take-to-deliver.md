@@ -2,7 +2,7 @@
 layout: post
 title: "How Long Does Shein Take to Deliver"
 description: "Learn how long Shein takes to deliver, with detailed timelines by country, delivery options, and shipping insights."
-categories: [Shein]
+categories: "shein"
 author: CodingRhodes
 image: assets/images/featured_how-long-does-shein-take-to-deliver.webp
 ---
