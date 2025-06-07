@@ -97,13 +97,16 @@ layout: default
 			{% for category in site.categories %}
 				<li><a name="{{ category | first }}">{{ category | first }}</a>
 				{% assign categ = site.categories[category | first] %}
-					{% if post.categories == categ %}
-						<ul>
-						{% for post in category.last %}
-						<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-						{% endfor %}
-						</ul>
-					{% endif %}
+					{% for eachcateg in page.categories %}
+                        
+						{% if eachcateg == categ %}
+							<ul>
+							{% for post in category.last %}
+							<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+							{% endfor %}
+							</ul>
+						{% endif %}
+					{% endfor %}
 				</li>
 			{% endfor %}
 			</ul>
