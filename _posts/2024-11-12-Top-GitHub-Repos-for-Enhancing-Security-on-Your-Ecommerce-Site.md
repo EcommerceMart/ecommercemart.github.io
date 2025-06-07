@@ -3,7 +3,7 @@ layout: post
 title:  "Top GitHub Repos for Enhancing Security on Your E-commerce Site"
 description: 'Discover the top GitHub repositories offering tools and resources to enhance the security of your e-commerce site, from vulnerability scanning to secure coding practices.'
 author: CodingRhodes
-categories: [ Ecommerce ]
+categories: "Ecommerce"
 image: assets/images/featured_Top-GitHub-Repos-for-Enhancing-Security-on-Ecommerce-Site.webp
 tags: [Security]
 ---

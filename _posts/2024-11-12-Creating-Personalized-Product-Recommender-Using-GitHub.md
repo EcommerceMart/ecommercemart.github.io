@@ -3,7 +3,7 @@ layout: post
 title:  "Creating a Personalized Product Recommender: Using GitHub to Build and Share Machine Learning Models"
 description: 'Explore how to develop and share machine learning models for personalized product recommendations, leveraging GitHub for collaboration, version control, and deployment.'
 author: CodingRhodes
-categories: [ Ecommerce ]
+categories: "github"
 image: assets/images/featured_Developer-building-personalized-product-recommender-using-GitHub-and-machine-learning.webp
 tags: [Github]
 ---

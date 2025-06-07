@@ -3,7 +3,7 @@ layout: post
 title:  "Building a Headless E-commerce Storefront: GitHub as Your Collaboration Hub"
 description: 'Learn how to create a headless e-commerce platform using GitHub as a central collaboration hub for version control, team management, and seamless workflow integration.'
 author: CodingRhodes
-categories: [ tutorial ]
+categories: "github"
 image: assets/images/Building-Headless-Ecommerce-Storefront-GitHub-as-Your-Collaboration-Hub.webp
 tags: [Github, Ecommerce]
 ---

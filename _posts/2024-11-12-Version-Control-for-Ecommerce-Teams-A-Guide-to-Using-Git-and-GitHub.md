@@ -2,7 +2,7 @@
 layout: post
 title:  "Version Control for E-commerce Teams: A Guide to Using Git and GitHub."
 description: 'Master version control for e-commerce projects with this guide to using Git and GitHub, enabling seamless collaboration, tracking, and code management for your team.'
-categories: [ Ecommerce ]
+categories: "Ecommerce"
 image: assets/images/Illustration-of-ecommerce-team-members-collaborating-on-GitHub.webp
 ---
 In an e-commerce team, many people work on different aspects of a website: developers, designers, content creators, and marketers. Keeping everyone’s work organized and up-to-date can be challenging. Version control helps manage this by tracking every change made to the files and code for a project. This guide will help you understand `version control` and show you how to use `Git` and `GitHub` to keep your e-commerce team organized and efficient.

@@ -3,7 +3,7 @@ layout: post
 title:  "Automating E-commerce Testing with GitHub Actions and Selenium"
 description: 'Explore effective strategies for managing collaborative Ecommerce projects on GitHub, from version control to streamlined code reviews and workflow management.'
 author: CodingRhodes
-categories: [ Ecommerce ]
+categories: "github"
 image: assets/images/featured_Automating-ecommerce-testing-with-GitHub-Actions-and-Selenium-on-laptop-screen.webp
 ---
 Automated testing is essential for e-commerce platforms. Every feature, from product browsing to checkout, must work smoothly. Automated testing lets you detect bugs early and keep the site reliable for users. With GitHub Actions and Selenium, you can set up automated UI tests to run each time you update the code, ensuring every change is thoroughly tested.

@@ -3,7 +3,7 @@ layout: post
 title:  "Top GitHub Repositories for E-commerce Development"
 description: 'Discover top GitHub repositories to streamline and enhance your Ecommerce development, from frameworks to tools for optimizing security, scalability, and user experience.'
 author: CodingRhodes
-categories: [ Ecommerce ]
+categories: "github"
 image: assets/images/Top-GitHub-Repositories-for-Ecommerce-Development.webp
 ---
 

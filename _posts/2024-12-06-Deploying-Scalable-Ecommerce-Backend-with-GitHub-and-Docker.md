@@ -3,7 +3,7 @@ layout: post
 title:  "Deploying a Scalable E-commerce Backend with GitHub Actions and Docker"
 description: 'Streamline e-commerce backend deployment with GitHub Actions & Docker. Set up CI/CD pipelines, ensure scalability, and boost reliability effortlessly.'
 author: CodingRhodes
-categories: [ tutorial ]
+categories: "github"
 image: assets/images/Deploying-Scalable-Ecommerce-Backend-with-GitHub-and-Docker.webp
 tags: [Github, Ecommerce]
 ---

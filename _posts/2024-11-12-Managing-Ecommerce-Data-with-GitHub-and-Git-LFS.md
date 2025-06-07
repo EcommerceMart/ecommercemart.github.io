@@ -3,7 +3,7 @@ layout: post
 title:  "Managing E-commerce Data with GitHub and Git LFS"
 description: 'Explore how to efficiently manage large e-commerce datasets using GitHub and Git LFS, ensuring seamless version control and storage optimization.'
 author: CodingRhodes
-categories: [ Ecommerce ]
+categories: "Ecommerce"
 image: assets/images/Illustration-of-ecommerce-team-managing-large-files-with-Git-and-Git-LFS.webp
 ---
 For e-commerce teams, managing large files, like product images, videos, and promotional banners, is crucial. However, traditional version control with Git struggles with these files because they can be too big. This is where **Git Large File Storage (Git LFS)** helps. Git LFS allows you to store and track large files efficiently on GitHub without slowing down your workflows.

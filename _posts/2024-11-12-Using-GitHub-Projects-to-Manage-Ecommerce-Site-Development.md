@@ -3,7 +3,7 @@ layout: post
 title:  "Using GitHub Projects to Manage E-commerce Site Development"
 description: 'Learn how to streamline e-commerce site development with GitHub Projects, enabling effective task management, team collaboration, and project tracking.'
 author: CodingRhodes
-categories: [ Ecommerce ]
+categories: "Ecommerce"
 image: assets/images/faetured_Team-managing-ecommerce-development-tasks-using-GitHub-Projects.webp
 ---
 Managing the development of an e-commerce site can be complex. It involves coordinating tasks, setting deadlines, and ensuring that everyone on the team is on the same page. GitHub Projects is a powerful tool that helps teams organize work, track progress, and collaborate more efficiently. In this guide, we’ll walk through how to use GitHub Projects to manage e-commerce site development.
