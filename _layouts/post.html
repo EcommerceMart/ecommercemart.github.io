@@ -93,11 +93,17 @@ layout: default
 			
             <!--Related Article -->
 			<p class="new-tests">hello</p>
-			{% for item in site.categories[post.categories] %}
-				<a href="{{ item.url }}" target="_self" draggable="false">
-					{{ item.title }}
-				</a>
+			<ul>
+			{% for category in site.categories %}
+			<li><a name="{{ category | first }}">{{ category | first }}</a>
+				<ul>
+				{% for post in category.last %}
+				<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+				{% endfor %}
+				</ul>
+			</li>
 			{% endfor %}
+			</ul>
 			</article>
 			
 			<!-- Tags -->
