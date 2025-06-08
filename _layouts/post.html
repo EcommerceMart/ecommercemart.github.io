@@ -99,7 +99,7 @@ layout: default
 				<!-- <li><a name="{{ category | first }}">{{ category | first }}</a> -->
 				{% assign categ = category | first %}
 					{% for eachcateg in page.categories %}
-						{% if eachcateg == categ %}
+						{% if eachcateg == categ and forloop.first %}
 							{% for post in category.last %}
 							<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 							{% endfor %}
