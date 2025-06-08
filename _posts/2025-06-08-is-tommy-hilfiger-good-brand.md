@@ -50,7 +50,7 @@ Tommy Hilfiger has a **4.2/5 product quality score** based on customer reviews. 
 - Some report thinner fabric in recent jeans  
 - Inconsistent sizing (especially in online orders)  
 
-> “I’ve bought Tommy polos for years, but their new jeans feel cheaper than before.” – *Consumer Goods industry review[1]*
+> “I’ve bought Tommy polos for years, but their new jeans feel cheaper than before.” – *Consumer Goods industry review*
 
 ---
 
@@ -75,11 +75,11 @@ Tommy Hilfiger is **mid-range priced**, with polo shirts starting at $40 and jac
 Tommy Hilfiger’s *Make It Possible* program aims to achieve **24 sustainability targets by 2030**, including:  
 - Using 100% recycled polyester by 2025  
 - Making 50% of products “circular” (reusable/recyclable)  
-- Training designers in eco-friendly practices[3]  
+- Training designers in eco-friendly practices
 
 **Current progress:**  
 - 72% sustainable cotton used (2020 data)  
-- 2 million denim items made with lower water/energy[3]  
+- 2 million denim items made with lower water/energy
 
 ---
 
@@ -96,7 +96,7 @@ Tommy Hilfiger’s *Make It Possible* program aims to achieve **24 sustainabilit
 ---
 
 ### **5. Brand Reputation**  
-Tommy Hilfiger ranks **#3 in fashion** behind Ralph Lauren and Burberry[1]. Its collaborations with celebrities like Gigi Hadid keep it relevant in pop culture. However, some criticize its pricing for younger audiences.
+Tommy Hilfiger ranks **#3 in fashion** behind Ralph Lauren and Burberry. Its collaborations with celebrities like Gigi Hadid keep it relevant in pop culture. However, some criticize its pricing for younger audiences.
 
 ---
 

@@ -42,11 +42,11 @@ Banana Republic is recognized for using high-quality materials in many of its pr
 - Wool
 - Cotton blends
 
-Recent reviews note an improvement in the use of natural fabrics, especially in the women’s and men’s collections[1]. The purse line is also praised for its design and material quality.
+Recent reviews note an improvement in the use of natural fabrics, especially in the women’s and men’s collections. The purse line is also praised for its design and material quality.
 
 #### **What Customers Say About Fabrics**
 
-Some shoppers love the feel and look of Banana Republic’s natural fabrics. Others warn that you should stick to these materials, as synthetic options may not be as durable or comfortable[1].
+Some shoppers love the feel and look of Banana Republic’s natural fabrics. Others warn that you should stick to these materials, as synthetic options may not be as durable or comfortable.
 
 ---
 
@@ -70,13 +70,13 @@ Banana Republic is known for:
 - Neutral colors with pops of rich tones (like hunter green and sapphire blue)
 - Versatile pieces for work and casual wear
 
-Many shoppers appreciate the brand’s updated color stories and elegant branding, including attractive packaging and website design[1].
+Many shoppers appreciate the brand’s updated color stories and elegant branding, including attractive packaging and website design.
 
 ---
 
 ### **4. Pricing and Value**
 
-Banana Republic uses a premium pricing strategy but is still more affordable than luxury brands[5]. Prices are higher than fast fashion, but the brand often runs sales and promotions.
+Banana Republic uses a premium pricing strategy but is still more affordable than luxury brands. Prices are higher than fast fashion, but the brand often runs sales and promotions.
 
 | Item Type         | Typical Price Range |
 |-------------------|--------------------|
@@ -88,7 +88,7 @@ Banana Republic uses a premium pricing strategy but is still more affordable tha
 
 #### **Is it Worth the Price?**
 
-If you buy during a sale and focus on natural fabrics, many customers say you get good value for your money. The brand also offers loyalty rewards and free alterations to add value[5].
+If you buy during a sale and focus on natural fabrics, many customers say you get good value for your money. The brand also offers loyalty rewards and free alterations to add value.
 
 ---
 
@@ -99,14 +99,14 @@ If you buy during a sale and focus on natural fabrics, many customers say you ge
 Banana Republic’s customer service receives mixed reviews:
 
 - Some shoppers report helpful in-store staff and easy returns
-- Others complain about slow responses, long phone wait times, and issues with online orders[3]
+- Others complain about slow responses, long phone wait times, and issues with online orders
 
 **Common complaints include:**
 - Delays with returns and refunds
 - Dirty dressing rooms in some locations
 - Credit card and payment issues
 
-**Tip:** Many reviewers recommend avoiding Banana Republic Factory’s online store due to more frequent problems[3].
+**Tip:** Many reviewers recommend avoiding Banana Republic Factory’s online store due to more frequent problems.
 
 ---
 
@@ -114,20 +114,20 @@ Banana Republic’s customer service receives mixed reviews:
 
 Banana Republic has made real progress in sustainability:
 
-- Uses recycled fabrics like nylon, polyester, cotton, and wool[4]
-- Partners with Canopy-compliant suppliers for eco-friendly materials like Tencel™ Lyocell and Modal[4]
-- Aims for 100% sustainable cotton and 50% sustainable fibers by 2023[4][6]
+- Uses recycled fabrics like nylon, polyester, cotton, and wool
+- Partners with Canopy-compliant suppliers for eco-friendly materials like Tencel™ Lyocell and Modal
+- Aims for 100% sustainable cotton and 50% sustainable fibers by 2023
 - Denim lines use water-saving techniques and eco-friendly dyes
 
 #### **Social Responsibility**
 
-- Offers programs to educate and support female workers in factories[6]
+- Offers programs to educate and support female workers in factories
 - Has a code of conduct, but more transparency is needed about factory conditions and environmental impact
 
 #### **What Needs Improvement?**
 
 - More details on water and energy use in production
-- Clearer reporting on CO2 emissions and factory safety assessments[6]
+- Clearer reporting on CO2 emissions and factory safety assessments
 
 ---
 
@@ -137,13 +137,13 @@ Banana Republic has made real progress in sustainability:
 
 - Many customers find Banana Republic’s clothes fit well and look stylish for work and events
 - Shoppers praise the men’s classic shirts and women’s dresses for their timeless style
-- The purse line and accessories are considered beautiful and well-made[1]
+- The purse line and accessories are considered beautiful and well-made
 
 ### **Negative Experiences**
 
-- Some long-time fans say quality declined after 2015, with thinner fabrics and less durable stitching[1]
-- Complaints about poor customer service, especially with online orders and returns[3]
-- Occasional issues with credit card management and store cleanliness[3]
+- Some long-time fans say quality declined after 2015, with thinner fabrics and less durable stitching
+- Complaints about poor customer service, especially with online orders and returns
+- Occasional issues with credit card management and store cleanliness
 
 ---
 
@@ -169,11 +169,11 @@ Banana Republic is working to increase its use of sustainable materials and redu
 
 - Recycled and organic cotton
 - Water-saving denim production (Traveler collection)
-- Cleaner dye and finishing processes[4]
+- Cleaner dye and finishing processes
 
 ### **Clothing Rental and Upcycling**
 
-- Offers a clothing rental program to help reduce waste[6]
+- Offers a clothing rental program to help reduce waste
 - Partners with thredUp for upcycling and resale of used clothing
 
 ### **Room for Growth**
