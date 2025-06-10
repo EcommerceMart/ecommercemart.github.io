@@ -32,6 +32,8 @@ Taobao, China’s largest online marketplace, offers a vast selection of product
 
 ## Shipping Methods from Taobao to Canada
 
+![Taobao Canada Shipping Options: Comparison of delivery times and costs for Air, Sea, and Express shipping methods]({{ site.baseurl }}/assets/images/Shipping-Methods-from-Taobao-to-Canada.webp)
+
 Taobao offers several shipping methods for Canadian buyers. Each method has different costs and delivery times.
 
 | Shipping Method         | Estimated Delivery Time | Best For                        | Notes                                 |
