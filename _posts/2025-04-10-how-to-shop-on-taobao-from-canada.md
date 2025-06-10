@@ -3,7 +3,7 @@ layout: post
 title: "How to Shop on Taobao from Canada: A Complete Guide"
 description: "Learn how to shop on Taobao from Canada with this complete guide. Explore payment methods, shipping options, and how to use the Taobao English site."
 keywords: "taobao canada, taobao english site"
-categories: [Ecommerce, Taobao]
+categories: "taobaocanada"
 tags: [featured]
 author: CodingRhodes
 image: assets/images/featured_how-to-shop-on-taobao-from-canada.webp
