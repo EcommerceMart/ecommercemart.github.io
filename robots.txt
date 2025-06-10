@@ -1,4 +1,3 @@
 User-Agent: *
-Disallow: /category
 
 Sitemap: https://ecommercemart.github.io/sitemap.xml
