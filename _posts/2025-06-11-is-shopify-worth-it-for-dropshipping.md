@@ -280,6 +280,3 @@ Shopify is a powerful platform for dropshipping, offering ease of use, scalabili
 - [Shopify Blog SEO – Shopify](https://www.shopify.com/in/blog/blog-seo)
 
 ---
-
-## Structured Data (for SEO)
-
