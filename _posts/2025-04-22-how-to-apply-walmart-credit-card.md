@@ -36,6 +36,19 @@ Both offer cashback on Walmart purchases, but the Mastercard can be used beyond 
 
 ## ✅ Why Apply for a Walmart Credit Card?
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<!-- Ads Homepage below top article -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 - **Earn Rewards:** Get up to 5% back on Walmart purchases
 - **Special Financing Offers:** Promotional interest-free periods on eligible purchases
 - **Easy Approval (Store Card):** Ideal for people building credit
@@ -104,6 +117,19 @@ Before you apply, make sure you meet the basic requirements:
 ---
 
 ## 💳 Walmart Credit Card Benefits
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<!-- Ads Homepage below top article -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 | Benefit | Description |
 |---------|-------------|
