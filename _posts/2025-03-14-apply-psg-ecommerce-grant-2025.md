@@ -29,6 +29,16 @@ The **Productivity Solutions Grant (PSG)** is a government initiative that provi
 
 ## Eligibility Criteria for the PSG eCommerce Grant
 
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 To qualify for the PSG eCommerce Grant in 2025, businesses must meet the following requirements:
 
 ✔ **Registered and operating in Singapore**.
@@ -81,6 +91,16 @@ After completing the project, submit a claim via the **Business Grants Portal** 
 📌 **Claims submission**: Must be done **within 6 months** of project completion.
 
 ---
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## FAQs About the PSG eCommerce Grant
 

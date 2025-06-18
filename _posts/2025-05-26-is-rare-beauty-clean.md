@@ -27,6 +27,16 @@ Clean beauty refers to cosmetic and skincare products that are made without pote
 
 ### Certifications to Look For
 
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 #### Clean Beauty Labels May Include:
 
 * **EWG Verified**
@@ -98,6 +108,16 @@ Rare Beauty states that its formulas are **dermatologist-tested** and **non-come
 
 ### Rare Beauty vs. Ilia Beauty
 
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 | Feature          | Rare Beauty       | Ilia Beauty              |
 | ---------------- | ----------------- | ------------------------ |
 | Clean Certified? | Not officially    | Yes (Sephora Clean Seal) |
@@ -166,6 +186,16 @@ Rare Beauty leans **very close to clean** without explicitly claiming the label.
 ## How to Shop Rare Beauty Cleanly
 
 ### Tips for Conscious Shoppers
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 * Read ingredient lists on product pages
 * Look for the vegan symbol

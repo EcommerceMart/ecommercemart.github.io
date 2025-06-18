@@ -38,6 +38,16 @@ You will receive a **1099-K from Shopify** if:
 
 ---
 
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## 🔍 How to Access Your Shopify 1099-K
 Follow these steps to access your **Shopify 1099-K**:
 1. Log in to your **Shopify Admin**.
@@ -79,6 +89,16 @@ Here's how to **properly report your Shopify 1099-K**:
 ✅ Stay organized to **avoid IRS penalties!**
 
 ---
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## ❓ FAQs
 

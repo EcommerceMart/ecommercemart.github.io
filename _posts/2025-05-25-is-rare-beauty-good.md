@@ -37,6 +37,16 @@ Rare Beauty’s product range includes:
 
 ## Is Rare Beauty Good? Performance Review by Category
 
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### Foundation and Concealer
 
 #### Liquid Touch Weightless Foundation
@@ -116,6 +126,16 @@ Rare Beauty sits in the mid-range pricing category:
 ## Rare Beauty vs. Competitors
 
 ### Rare Beauty vs. Fenty Beauty
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 | Feature           | Rare Beauty          | Fenty Beauty              |
 | ----------------- | -------------------- | ------------------------- |
@@ -202,6 +222,16 @@ Rare Beauty sits in the mid-range pricing category:
 
 ## Buying Guide: Who Should Try Rare Beauty?
 
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### Ideal For:
 
 * Fans of Selena Gomez
@@ -241,6 +271,16 @@ Available at Sephora, Rare Beauty’s official website, and select international
 ### Is Rare Beauty overpriced?
 
 No. The pricing is mid-range and offers excellent value for quality.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Conclusion
 

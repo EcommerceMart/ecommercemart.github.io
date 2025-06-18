@@ -29,6 +29,16 @@ But that’s changing...
 
 ## ⚠️ What’s Changing in 2025?
 
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Beginning in **2025**, the IRS is enforcing a much **lower threshold**:
 
 > **Only $600 in gross sales per year—regardless of the number of transactions.**
@@ -73,6 +83,16 @@ Some states (e.g., Massachusetts and Vermont) have their own lower thresholds.
 ---
 
 ## 📋 How to Prepare for the Shopify 1099-K Changes
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### ✅ 1. **Track All Transactions**
 Use tools like:
@@ -131,6 +151,16 @@ Yes! Costs like materials, shipping, website fees, and advertising can reduce yo
 You risk IRS penalties, interest, and a potential audit.
 
 ---
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## 🧾 Sample Breakdown of a 1099-K for Shopify Sellers
 
