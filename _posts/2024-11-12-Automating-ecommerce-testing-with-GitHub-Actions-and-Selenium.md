@@ -23,6 +23,19 @@ Automated testing brings several benefits to e-commerce teams:
 #### Step 1: Set Up Your GitHub Repository
 To get started, create a new repository on GitHub or use an existing one where your e-commerce code is stored.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<!-- Ads Homepage below top article -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 1. **Create a Repository**
 Go to [GitHub](https://github.com/) and click on **New Repository**. Give it a name, and set it to public or private.
 2. **Clone the Repository**
@@ -88,6 +101,19 @@ GitHub Actions lets you run tests automatically. Each time you push code to the 
 
 1. **Create a Workflow File**
 In your repository, create a new directory: `.github/workflows/`. Inside, create a file named `test.yml`.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<!-- Ads Homepage below top article -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 2. **Configure the Workflow**
 Open `test.yml` and add the following YAML code:

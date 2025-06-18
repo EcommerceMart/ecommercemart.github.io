@@ -36,6 +36,19 @@ For e-commerce, GitHub Actions can help with tasks like:
 ### Step 2: Add Basic Workflow Code
 In the `main.yml` file, you can add code that tells GitHub Actions what tasks to run and when. Here’s an example of a simple workflow:
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<!-- Ads Homepage below top article -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 {% highlight ruby %}
 
 
@@ -149,6 +162,19 @@ In this workflow:
 
 ### Workflow 3: Running Security Checks
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<!-- Ads Homepage below top article -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Security is vital in e-commerce. GitHub Actions can help you automatically scan for vulnerabilities. Use the **Dependabot** Action to check for any security issues in your dependencies:
 
 {% highlight ruby %}
@@ -186,6 +212,19 @@ This workflow:
 3. **Use Scheduled Workflows:** You can schedule workflows to run at specific times, such as daily or weekly, which is useful for regular tasks like database backups.
 
 Example of a scheduled workflow that runs every night:
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<!-- Ads Homepage below top article -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 {% highlight ruby %}
 

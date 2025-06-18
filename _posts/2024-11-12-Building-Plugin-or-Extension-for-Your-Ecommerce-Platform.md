@@ -11,6 +11,19 @@ Adding a custom plugin or extension to your e-commerce platform can greatly impr
 ### Why Use GitHub for Plugin Development?
 GitHub is an ideal platform for developing plugins because it provides:
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<!-- Ads Homepage below top article -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 + **Version Control:** Track all changes and updates to your code.
 + **Collaboration:** Work with team members easily by sharing code and ideas.
 + **Open Source Opportunities:** Share your plugin with the broader e-commerce community.
@@ -52,6 +65,19 @@ git push origin main
 
 #### Step 2: Develop Your Plugin or Extension
 Start coding your plugin or extension based on your e-commerce platform's requirements (e.g., WooCommerce, Shopify, Magento).
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<!-- Ads Homepage below top article -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 1. **Define the Plugin Structure**
 + Structure your code with files and folders for different functionalities (e.g., `assets`, `templates`, `src`).
@@ -103,6 +129,19 @@ Testing is essential to ensure your plugin works correctly across different setu
 + Check for issues like compatibility, responsiveness, and performance.
 4. **User Feedback**
 + If your plugin is open-source, invite users to provide feedback or report bugs through GitHub Issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<!-- Ads Homepage below top article -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 #### Step 5: Deploying Your Plugin
 1. **Prepare for Deployment**

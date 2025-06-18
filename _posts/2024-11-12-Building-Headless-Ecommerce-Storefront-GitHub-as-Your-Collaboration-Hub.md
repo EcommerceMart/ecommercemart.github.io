@@ -20,6 +20,19 @@ Traditional e-commerce platforms combine the front end and back end, which can m
 
 By separating the parts of your e-commerce store, a headless setup can offer a more tailored experience for customers and a smoother workflow for your team.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<!-- Ads Homepage below top article -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### Why Use GitHub as a Collaboration Hub?
 
 When building a headless storefront, several team members work on different parts of the project. This is where GitHub becomes invaluable. GitHub is a platform that allows developers to share, review, and manage code. Here’s how GitHub supports collaboration:
@@ -70,6 +83,19 @@ The frontend is the customer-facing part of your store. Popular frontend framewo
 #### Step 3: Set Up a GitHub Repository
 
 Now that the backend and frontend are set up, let’s bring GitHub into the process to manage and collaborate on the code.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<!-- Ads Homepage below top article -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Steps to Set Up the Repository:**
 
@@ -129,6 +155,19 @@ Example Workflow Code for GitHub Actions:
 ```
 
 This example automatically checks out the code, installs dependencies, runs tests, and deploys to Netlify if everything passes.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<!-- Ads Homepage below top article -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
 ## Conclusion 
