@@ -204,38 +204,33 @@
 {% include lazyload.html %}
 
 <!-- Fake ad element as bait for ad blockers -->
-  <div id="ad-banner-detect" style="width:1px;height:1px;position:absolute;top:-1000px;left:-1000px;" class="adsbox"></div>
+<!-- Ad Block Detection Test Element -->
+<div id="ad-test" class="adsbygoogle" style="height:1px; width:1px; position:absolute; left:-9999px;"></div>
 
-  <!-- Popup HTML -->
-  <div id="adblock-popup">
-    <div class="popup-content">
-      <h2>Ad Blocker Detected</h2>
-      <p>
-        It looks like your browser is blocking ads on our website.<br>
-        Ads help us keep our content free. Please consider disabling your ad blocker for our site.
-      </p>
-      <button class="close-btn" onclick="document.getElementById('adblock-popup').style.display='none'">Close</button>
-    </div>
+<!-- Popup Modal -->
+<div id="adblock-popup" class="adblock-modal">
+  <div class="adblock-content">
+    <h3>We noticed you're using an ad blocker</h3>
+    <p>Ads help us keep this site running. Please consider whitelisting us.</p>
+    <button onclick="closeAdblockPopup()">Close</button>
   </div>
-    <script>
-    // Detect if the bait ad element is hidden (likely by an ad blocker)
-    window.addEventListener('DOMContentLoaded', function() {
-      setTimeout(function() {
-        var adElement = document.getElementById('ad-banner-detect');
-        var isBlocked = false;
+</div>
+<script>
+  window.addEventListener('load', function() {
+    const adTest = document.getElementById('ad-test');
+    setTimeout(() => {
+      if (adTest.offsetHeight === 0 || adTest.offsetParent === null) {
+        // Ad blocker likely active
+        document.getElementById('adblock-popup').style.display = 'flex';
+      }
+    }, 100); // small delay to let blockers hide the element
+  });
 
-        // Check if element is hidden by display:none or removed
-        if (!adElement || window.getComputedStyle(adElement).display === 'none' || adElement.offsetParent === null) {
-          isBlocked = true;
-        }
+  function closeAdblockPopup() {
+    document.getElementById('adblock-popup').style.display = 'none';
+  }
+</script>
 
-        // Show popup if ad blocker detected
-        if (isBlocked) {
-          document.getElementById('adblock-popup').style.display = 'flex';
-        }
-      }, 500); // Delay allows ad blockers to act
-    });
-  </script>
 </body>
 
 </html>
