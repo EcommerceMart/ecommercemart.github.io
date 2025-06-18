@@ -35,8 +35,7 @@ E-commerce development can be time-consuming and complex, but the open-source co
 
 **Key Features:**
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -83,8 +82,7 @@ E-commerce development can be time-consuming and complex, but the open-source co
 
 ## 4. Vue Storefront
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,8 +166,7 @@ E-commerce development can be time-consuming and complex, but the open-source co
 + `Well-Documented API:` Easy to integrate with other tools or platforms.
 Flexible Product Management: Supports complex product variations.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"

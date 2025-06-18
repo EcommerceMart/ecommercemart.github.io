@@ -20,8 +20,7 @@ Taobao is a leading online marketplace in China, owned by Alibaba Group. Often c
 
 ## Why Shop on Taobao?
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -105,8 +104,7 @@ Read reviews from previous buyers to evaluate the quality and authenticity of th
 
 ## How to Pay on Taobao
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -180,8 +178,7 @@ Be aware of your country’s import regulations and potential customs fees.
 
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"

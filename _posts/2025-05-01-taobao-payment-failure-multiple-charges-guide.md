@@ -31,8 +31,7 @@ When a payment fails on Taobao or Alipay, the system may attempt to retry the tr
 
 ## 1. Identifying Duplicate or Multiple Charges
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,8 +132,7 @@ Some international IPs may be restricted. Use a VPN if needed.
 
 ## 5. How to Safely Retry a Failed Taobao Payment
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -207,8 +205,7 @@ Raise a formal dispute through the platform.
 ---
 
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"

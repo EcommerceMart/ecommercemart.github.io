@@ -34,8 +34,7 @@ Taobao does not have an official **English version**, but you can translate it u
 
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,8 +94,7 @@ A **Taobao agent** acts as a middleman, purchasing the items for you and shippin
 
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -139,8 +137,7 @@ Taobao does not always offer direct shipping to Canada, so you need a **shipping
 
 ## FAQs
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"

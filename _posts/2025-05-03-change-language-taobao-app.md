@@ -30,8 +30,7 @@ For international users, navigating an app in Chinese can lead to misunderstandi
 
 ## Can You Change the Language Directly in the Taobao App?
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -102,8 +101,7 @@ Buying agents like Superbuy, Bhiner, and Wegobuy offer full English interfaces a
 
 ## Step-by-Step Visual Guide to Use Taobao in English
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -169,8 +167,7 @@ These extensions help translate not just the text but also tooltips, buttons, an
 
 ## Frequently Asked Questions (FAQs)
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"

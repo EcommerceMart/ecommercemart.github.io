@@ -11,8 +11,7 @@ Adding a custom plugin or extension to your e-commerce platform can greatly impr
 ### Why Use GitHub for Plugin Development?
 GitHub is an ideal platform for developing plugins because it provides:
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -66,8 +65,7 @@ git push origin main
 #### Step 2: Develop Your Plugin or Extension
 Start coding your plugin or extension based on your e-commerce platform's requirements (e.g., WooCommerce, Shopify, Magento).
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,8 +128,7 @@ Testing is essential to ensure your plugin works correctly across different setu
 4. **User Feedback**
 + If your plugin is open-source, invite users to provide feedback or report bugs through GitHub Issues.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"

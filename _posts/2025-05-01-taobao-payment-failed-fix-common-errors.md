@@ -45,8 +45,7 @@ Many international users find that their bank declines the transaction when they
 
 ### How to Fix It
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,8 +132,7 @@ Ensure you’re using the latest version of the Taobao app from a trusted source
 
 ## 4. Unsupported Payment Method
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -219,8 +217,7 @@ If you’ve tried everything and still see the "taobao payment failed" message, 
 
 ## Preventing Future Payment Failures
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"

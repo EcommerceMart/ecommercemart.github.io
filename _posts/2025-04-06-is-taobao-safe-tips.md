@@ -26,8 +26,7 @@ Yes! But Taobao mainly caters to Chinese consumers, so **international buyers fa
 
 ## 🔎 Is Taobao Safe for International Buyers?
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,8 +103,7 @@ Once you receive the item, confirm on Taobao to release payment to the seller. �
 
 ## 📦 Taobao Shipping: What You Need to Know
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -166,8 +164,7 @@ Trust me—these tools don’t just make Taobao safer, they make it **fun**.
 
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"

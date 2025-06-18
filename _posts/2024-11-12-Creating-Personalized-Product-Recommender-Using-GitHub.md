@@ -23,8 +23,7 @@ Personalized product recommendation systems help e-commerce sites suggest produc
 5. **Improve and Update the Model Together**
 Let's start!
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -70,8 +69,7 @@ user_id,product_id,rating
 
 3. **Upload Data to GitHub:** Create a folder called `data` in your GitHub repository and upload the dataset (e.g., `product_data.csv`) there.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -141,8 +139,7 @@ git checkout -b improve-model
 ## Step 5: Improve and Update the Model Together
 As you and your team work together on GitHub, here are some best practices for improving the recommendation system over time:
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"

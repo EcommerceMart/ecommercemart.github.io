@@ -27,8 +27,7 @@ A **Taobao account** is your gateway to accessing the Taobao e-commerce platform
 
 ## Why You Might Want to Delete Your Taobao Account
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -113,8 +112,7 @@ After the review period, you will receive a message confirming your account has 
 
 ## Common Issues When Trying to Delete a Taobao Account
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -184,8 +182,7 @@ Alipay deletion may also take a few days. Once complete, retry Taobao account de
 
 ## What Happens After You Delete Your Taobao Account?
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"

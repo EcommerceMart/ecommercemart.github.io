@@ -23,8 +23,7 @@ Automated testing brings several benefits to e-commerce teams:
 #### Step 1: Set Up Your GitHub Repository
 To get started, create a new repository on GitHub or use an existing one where your e-commerce code is stored.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -102,8 +101,7 @@ GitHub Actions lets you run tests automatically. Each time you push code to the 
 1. **Create a Workflow File**
 In your repository, create a new directory: `.github/workflows/`. Inside, create a file named `test.yml`.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"

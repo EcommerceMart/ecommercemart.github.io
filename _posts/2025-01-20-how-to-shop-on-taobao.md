@@ -30,8 +30,7 @@ Flash sales, coupons, and promotions are a regular feature on Taobao, offering s
 
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -88,8 +87,7 @@ Taobao’s daily deals section showcases products with significant markdowns. Vi
 
 ## Tools and Features to Enhance Your Shopping Experience
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,8 +156,7 @@ Be aware of additional costs such as shipping fees, agent fees, or currency conv
 
 ## Unlock Exclusive Deals with Taobao Membership
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"

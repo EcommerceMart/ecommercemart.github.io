@@ -26,8 +26,7 @@ Walmart entered the ecommerce space aggressively in recent years, competing dire
 
 These strategic moves have been aimed at optimizing operations, boosting customer retention, and expanding profit margins.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -100,8 +99,7 @@ With its expansive store network and deep supply chain expertise, Walmart has ad
 
 ## 🌎 Impact on the Broader U.S. Retail Ecosystem
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"

@@ -27,8 +27,7 @@ Organizing your GitHub repository is essential for a clear and efficient workflo
 + Use a `.gitignore` file to avoid committing unnecessary files, like temporary files or environment configurations, which can clutter your repository.
 + GitHub provides templates, so you can easily find `.gitignore` options suited for your technology stack.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -81,8 +80,7 @@ Code reviews help maintain high-quality code and ensure everyone understands wha
 + Once the code meets the project’s standards, approve the PR.
 + After approval, the person responsible (or the team lead) can merge the branch into the main branch.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"

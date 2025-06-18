@@ -20,8 +20,7 @@ Traditional e-commerce platforms combine the front end and back end, which can m
 
 By separating the parts of your e-commerce store, a headless setup can offer a more tailored experience for customers and a smoother workflow for your team.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -84,8 +83,7 @@ The frontend is the customer-facing part of your store. Popular frontend framewo
 
 Now that the backend and frontend are set up, let’s bring GitHub into the process to manage and collaborate on the code.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,8 +154,7 @@ Example Workflow Code for GitHub Actions:
 
 This example automatically checks out the code, installs dependencies, runs tests, and deploys to Netlify if everything passes.
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"

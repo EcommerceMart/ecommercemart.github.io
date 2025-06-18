@@ -36,8 +36,7 @@ For e-commerce, GitHub Actions can help with tasks like:
 ### Step 2: Add Basic Workflow Code
 In the `main.yml` file, you can add code that tells GitHub Actions what tasks to run and when. Here’s an example of a simple workflow:
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,8 +161,7 @@ In this workflow:
 
 ### Workflow 3: Running Security Checks
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -213,8 +211,7 @@ This workflow:
 
 Example of a scheduled workflow that runs every night:
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"

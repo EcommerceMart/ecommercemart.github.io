@@ -16,8 +16,7 @@ This guide explores the top insurance options for ecommerce entrepreneurs, helpi
 
 ## Why Ecommerce Business Insurance is Crucial
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,8 +86,7 @@ For businesses that store inventory or operate from a physical location, this in
 
 ### 5. **Business Interruption Insurance**
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -189,8 +187,7 @@ Sustainability and ethical practices are becoming key factors in insurance polic
 
 ---
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"

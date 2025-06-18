@@ -36,8 +36,7 @@ Both offer cashback on Walmart purchases, but the Mastercard can be used beyond 
 
 ## ✅ Why Apply for a Walmart Credit Card?
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,8 +117,7 @@ Before you apply, make sure you meet the basic requirements:
 
 ## 💳 Walmart Credit Card Benefits
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
+ 
 <!-- Ads Homepage below top article -->
 <ins class="adsbygoogle"
      style="display:block"
