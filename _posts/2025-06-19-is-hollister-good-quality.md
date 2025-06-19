@@ -202,7 +202,7 @@ The parent brand's infrastructure ensures:
 
 ## Final Verdict: Is Hollister Good Quality?
 
-**Yes—Hollister offers consistently good quality clothing** for the price range it targets. Denim, fleece hoodies, and basic tees lead the pack, especially for shoppers aged 14–30. It won’t match designer durability, but it's a solid bet for casualwear that balances style, comfort, and performance.
+**Yes—Hollister offers consistently good quality clothing** for the price range it targets. Denim, fleece hoodies, and basic tees lead the pack, especially for shoppers aged 14–30. It won’t match designer durability, but it's a solid bet for casualwear that balances style, comfort, and performance. Also check if [hollister is legit](https://thefashionmart.org/is-hollister-legit/).
 
 ## FAQs
 
