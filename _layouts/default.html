@@ -203,34 +203,6 @@
     <script src="https://cdn.gtranslate.net/widgets/latest/float.js" defer></script> -->
 {% include lazyload.html %}
 
-<!-- Fake ad element as bait for ad blockers -->
-<!-- Ad Block Detection Test Element -->
-<div id="ad-test" class="adsbygoogle" style="height:1px; width:1px; position:absolute; left:-9999px;"></div>
-
-<!-- Popup Modal -->
-<div id="adblock-popup" class="adblock-modal">
-  <div class="adblock-content">
-    <h3>We noticed you're using an ad blocker</h3>
-    <p>Ads help us keep this site running. Please consider whitelisting us.</p>
-    <button onclick="closeAdblockPopup()">Close</button>
-  </div>
-</div>
-<script>
-  window.addEventListener('load', function() {
-    const adTest = document.getElementById('ad-test');
-    setTimeout(() => {
-      if (adTest.offsetHeight === 0 || adTest.offsetParent === null) {
-        // Ad blocker likely active
-        document.getElementById('adblock-popup').style.display = 'flex';
-      }
-    }, 100); // small delay to let blockers hide the element
-  });
-
-  function closeAdblockPopup() {
-    document.getElementById('adblock-popup').style.display = 'none';
-  }
-</script>
-
 </body>
 
 </html>
