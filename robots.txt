@@ -1,5 +1,5 @@
 User-Agent: *
-Disallow: /*?m=1
-Disallow: /*?m=0
+Disallow: *?m=1
+Disallow: *?m=0
 
 Sitemap: https://ecommercemart.github.io/sitemap.xml
