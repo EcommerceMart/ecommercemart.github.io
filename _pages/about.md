@@ -1,14 +1,52 @@
 ---
-layout: page-sidebar
-title: "About EcommerceMart: Your Trusted Guide to Ecommerce Trends and Tools"
-description: "Learn about EcommerceMart, your go-to resource for ecommerce insights, product guides, and tech trends tailored to online businesses."
-permalink: /about-us
+layout: page
+title: About
+permalink: /about/
+image: '/images/Emily-Stark.webp'
 ---
 
-Made with <i class="fa fa-heart text-danger"></i> by [CodingRhodes](/author-CodingRhodes).
 
-![Team collaborating on a project with GitHub for e-commerce development]({{ site.baseurl }}/assets/images/about-Team-collaborating-on-project-with-GitHub-for-ecommerce-development.webp)
+## About AI Calculator
 
-Welcome to our platform, where we simplify the complexities of using GitHub for e-commerce development. Our blog provides insights, practical guides, and tutorials designed to make GitHub an essential tool for e-commerce developers, designers, and entrepreneurs. Our mission is to bridge the gap between GitHub’s technical depth and the dynamic demands of e-commerce, ensuring that our readers have the knowledge to build, maintain, and secure their e-commerce projects with confidence.
+Welcome to **AI Calculator** — your go-to destination for smart, accurate, and AI-powered calculation tools. Our website, [ai-calculator.github.io](https://ai-calculator.github.io), was built with a simple goal: to make complex calculations easier, faster, and more accessible for everyone.
 
-We’re dedicated to providing clear, accessible content that empowers everyone, from seasoned developers to newcomers in the e-commerce space. Thank you for joining us on this journey!
+Whether you’re a student, a professional, or someone solving everyday problems, AI Calculator offers a suite of tools designed to deliver quick answers with precision and ease.
+
+## What We Offer
+
+Our platform includes a growing collection of intelligent calculators such as:
+
+* Loan & EMI Calculators
+* Body Mass Index (BMI) Calculators
+* Currency Converters
+* Age & Date Calculators
+* Unit Conversion Tools
+* Math Problem Solvers
+
+Each tool is optimized with modern UI, responsive design, and AI-enhanced logic to ensure accurate results and a great user experience.
+
+## Our Mission
+
+To empower users around the world with powerful online calculators that solve real-world problems using intuitive interfaces and cutting-edge AI technology.
+
+## Why Choose AI Calculator?
+
+* **Free to Use**: All tools are accessible without any charges.
+* **Privacy First**: We do not track or store your inputs.
+* **Easy to Use**: Clean interface, mobile-friendly, and no learning curve.
+* **Continuously Growing**: We regularly update and add new calculators based on user feedback.
+
+## Who We Are
+
+We are a small team of developers and data enthusiasts passionate about simplifying digital tools through automation and artificial intelligence. Our goal is to make AI Calculator the most trusted destination for reliable, AI-enhanced calculation tools.
+
+## Contact Us
+
+Have questions, suggestions, or feedback?
+
+* Email: [ai.calculate@gmail.com](mailto:ai.calculate@gmail.com)
+* GitHub: [github.com/ai-calculator](https://github.com/ai-calculator)
+
+---
+
+Thank you for using AI Calculator — making everyday calculations smarter.

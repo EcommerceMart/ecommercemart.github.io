@@ -187,8 +187,8 @@
   .hero__image {
     position: relative;
     z-index: 10;
-    width: auto;
-    height: auto;
+    width: 370px;
+    height: 470px;
     margin: 0 auto;
 
     &::before {
@@ -208,7 +208,7 @@
       z-index: 1;
       height: 100%;
       width: 100%;
-      object-fit: contain;
+      object-fit: cover;
       box-shadow: 10px 10px 0 $brand-color;
       background: $background-color;
     }
@@ -217,15 +217,15 @@
 
   @media only screen and (max-width: 1130px) {
     .hero__image {
-      width: auto;
-      height: auto;
+      width: 270px;
+      height: 370px;
     }
   }
 
   @media only screen and (max-width: $desktop) {
     .hero__image {
-      width: auto;
-      height: auto;
+      width: 230px;
+      height: 330px;
     }
   }
 
@@ -234,14 +234,14 @@
 
     .hero__image {
       width: 100%;
-      height: auto;
+      height: 330px;
       margin-bottom: 40px;
     }
   }
 
   @media only screen and (max-width: $mobile) {
     .hero__image {
-      height: auto;
+      height: 270px;
        margin-bottom: 30px;
 
       img {
