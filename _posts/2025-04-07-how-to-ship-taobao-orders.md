@@ -22,6 +22,16 @@ However, **shipping can be tricky**, so let’s break it down step by step!
 
 ## 🛒 Step 1: Placing Your Order on Taobao
 
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 1. **Create a Taobao Account**
    - Go to [Taobao.com](https://www.taobao.com/)
    - Register with a **phone number** and set up an **Alipay account** for payments.
@@ -67,6 +77,19 @@ However, **shipping can be tricky**, so let’s break it down step by step!
 - Works best for **business buyers**
 
 ---
+
+ 
+<!-- Ads Homepage below top article -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ## 📦 Step 3: Calculating Taobao Shipping Costs
 

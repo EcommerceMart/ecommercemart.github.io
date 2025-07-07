@@ -3,7 +3,7 @@ layout: post
 title:  "Creating a Personalized Product Recommender: Using GitHub to Build and Share Machine Learning Models"
 description: 'Explore how to develop and share machine learning models for personalized product recommendations, leveraging GitHub for collaboration, version control, and deployment.'
 author: CodingRhodes
-categories: [ Ecommerce ]
+categories: "github"
 image: assets/images/featured_Developer-building-personalized-product-recommender-using-GitHub-and-machine-learning.webp
 tags: [Github]
 ---
@@ -22,6 +22,18 @@ Personalized product recommendation systems help e-commerce sites suggest produc
 4. **Share and Collaborate on GitHub**
 5. **Improve and Update the Model Together**
 Let's start!
+
+ 
+<!-- Ads Homepage below top article -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Step 1: Set Up the Project Repository on GitHub
 The first step is to create a GitHub repository where you and your team can store and manage your recommendation system project.
@@ -56,6 +68,18 @@ user_id,product_id,rating
 2. **Clean Data:** Use a Jupyter Notebook to clean your data. Make sure there are no missing values and that each interaction is meaningful for recommendations.
 
 3. **Upload Data to GitHub:** Create a folder called `data` in your GitHub repository and upload the dataset (e.g., `product_data.csv`) there.
+
+ 
+<!-- Ads Homepage below top article -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## Step 3: Build a Simple Product Recommendation System
 Let’s build a simple recommendation model using collaborative filtering, a common method for recommendations based on user interactions.
@@ -114,6 +138,18 @@ git checkout -b improve-model
 
 ## Step 5: Improve and Update the Model Together
 As you and your team work together on GitHub, here are some best practices for improving the recommendation system over time:
+
+ 
+<!-- Ads Homepage below top article -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 1. **Experiment with Different Models:**
 + Try other recommendation techniques, like matrix factorization or deep learning models, on a new branch.

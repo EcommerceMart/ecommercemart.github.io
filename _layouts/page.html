@@ -2,13 +2,30 @@
 layout: default
 ---
 
-<div class="container">
-<h3 class="font-weight-bold spanborder"><span>{{page.title}}</span></h3>
-<div class="page-content">
-{{ content }}
-<!-- Comments -->
-{% if page.comments == true %}
-{% include comments.html %}
-{% endif %}
+{% include hero.html %}
+
+<!-- begin page -->
+<div class="container content-section">
+  <article class="page animate">
+
+    <div class="page__content">
+      {{ content }}
+
+      <hr>
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+        crossorigin="anonymous"></script>
+    <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-format="autorelaxed"
+        data-ad-client="ca-pub-2784742237479601"
+        data-ad-slot="7158828305"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+    
+
+  </article>
 </div>
-</div>
+<!-- end page -->

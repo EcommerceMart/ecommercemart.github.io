@@ -3,7 +3,7 @@ layout: post
 title:  "Automating E-commerce Testing with GitHub Actions and Selenium"
 description: 'Explore effective strategies for managing collaborative Ecommerce projects on GitHub, from version control to streamlined code reviews and workflow management.'
 author: CodingRhodes
-categories: [ Ecommerce ]
+categories: "github"
 image: assets/images/featured_Automating-ecommerce-testing-with-GitHub-Actions-and-Selenium-on-laptop-screen.webp
 ---
 Automated testing is essential for e-commerce platforms. Every feature, from product browsing to checkout, must work smoothly. Automated testing lets you detect bugs early and keep the site reliable for users. With GitHub Actions and Selenium, you can set up automated UI tests to run each time you update the code, ensuring every change is thoroughly tested.
@@ -22,6 +22,18 @@ Automated testing brings several benefits to e-commerce teams:
 
 #### Step 1: Set Up Your GitHub Repository
 To get started, create a new repository on GitHub or use an existing one where your e-commerce code is stored.
+
+ 
+<!-- Ads Homepage below top article -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 1. **Create a Repository**
 Go to [GitHub](https://github.com/) and click on **New Repository**. Give it a name, and set it to public or private.
@@ -88,6 +100,18 @@ GitHub Actions lets you run tests automatically. Each time you push code to the 
 
 1. **Create a Workflow File**
 In your repository, create a new directory: `.github/workflows/`. Inside, create a file named `test.yml`.
+
+ 
+<!-- Ads Homepage below top article -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 2. **Configure the Workflow**
 Open `test.yml` and add the following YAML code:
