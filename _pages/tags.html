@@ -14,14 +14,7 @@ permalink: "/tags.html"
         <h4 class="font-weight-bold spanborder text-capitalize" id="{{ tag[0] | downcase }}"><span>{{ tag[0] }}</span></h4>
             
         {% assign pages_list = tag[1] %}
-        {% for post in pages_list %}
-        {% if post.title != null %}
-          {% if group == null or group == post.group %}
-         
-            <!-- {% include main-loop-card.html %} -->
-          {% endif %}
-        {% endif %}
-        {% endfor %}
+
         {% assign pages_list = nil %}
         {% assign group = nil %}
 
