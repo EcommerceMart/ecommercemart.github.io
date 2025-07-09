@@ -92,7 +92,7 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 #-------------------------------
 # Build Settings
 markdown: kramdown
-permalink: /:title
+permalink: /:title/
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -106,7 +106,7 @@ defaults:
   - scope:
       path: '_pages'
     values:
-      permalink: /:basename:output_ext
+      permalink: /:title/
 
 include:
   - _pages
@@ -114,7 +114,7 @@ include:
 # Tags
 tag_page_dir:         tag
 tag_page_layout:      tag_page
-tag_permalink_style:  /:title
+tag_permalink_style:  /:title/
 
 sass:
   sass_dir: _sass
