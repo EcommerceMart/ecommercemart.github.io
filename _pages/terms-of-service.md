@@ -3,9 +3,8 @@ title: "EcommerceMart Terms of Service: Rules for Using Our Website"
 description: "Review the terms and conditions for accessing and using the content and features on EcommerceMart."
 layout: page
 permalink: "/terms-of-service"
+image: /images/Terms-of-service-document-with-agreement-checkmark.webp
 ---
-
-![Terms of service document with an agreement checkmark]({{ site.baseurl }}/images/Terms-of-service-document-with-agreement-checkmark.webp)
 
 By accessing our website, you agree to the following terms:
 

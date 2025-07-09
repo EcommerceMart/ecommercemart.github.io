@@ -4,7 +4,7 @@ title:  "Building a Headless E-commerce Storefront: GitHub as Your Collaboration
 description: 'Learn how to create a headless e-commerce platform using GitHub as a central collaboration hub for version control, team management, and seamless workflow integration.'
 author: CodingRhodes
 categories: "github"
-image: assets/images/Building-Headless-Ecommerce-Storefront-GitHub-as-Your-Collaboration-Hub.webp
+image: /images/Building-Headless-Ecommerce-Storefront-GitHub-as-Your-Collaboration-Hub.webp
 tags: [Github, Ecommerce]
 ---
 E-commerce is constantly evolving, and **headless architecture** is becoming one of the most popular choices for online stores. A **headless e-commerce storefront** separates the front end (the part customers see) from the back end (the part that manages products, orders, etc.). In this guide, you’ll learn how to set up a headless storefront and how GitHub can help your team work together smoothly.

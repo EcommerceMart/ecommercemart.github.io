@@ -4,7 +4,7 @@ title:  "Top GitHub Repositories for E-commerce Development"
 description: 'Discover top GitHub repositories to streamline and enhance your Ecommerce development, from frameworks to tools for optimizing security, scalability, and user experience.'
 author: CodingRhodes
 categories: "github"
-image: assets/images/Top-GitHub-Repositories-for-Ecommerce-Development.webp
+image: /images/Top-GitHub-Repositories-for-Ecommerce-Development.webp
 ---
 
 E-commerce development can be time-consuming and complex, but the open-source community has created a wealth of tools to streamline the process. In this guide, we’ll explore some of the top GitHub repositories for e-commerce development, from full-stack platforms to helpful utilities for frontend, backend, and security.

@@ -3,9 +3,8 @@ layout: page
 title: "Affiliate Disclosure: How EcommerceMart Earns and Recommends Products"
 description: "EcommerceMart may earn commissions through affiliate links at no extra cost to you. Read how we choose and promote products."
 permalink: "/affiliate.html"
+image: /images/Affiliate-program-supporting-content-creation.webp
 ---
-
-![Affiliate program supporting content creation]({{ site.baseurl }}/images/Affiliate-program-supporting-content-creation.webp)
 
 At  **Ecommerce Mart**, we believe in **transparency and honesty** when it comes to monetization 📝 . To keep our website running and continue providing valuable content, we use **affiliate links** in some of our articles.  
 

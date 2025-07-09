@@ -3,6 +3,7 @@ title: "Contact EcommerceMart: We're Here to Help You Succeed Online"
 description: "Get in touch with EcommerceMart for inquiries, support, collaborations, or feedback. We’re always happy to hear from you."
 layout: page
 permalink: "/contact-us"
+image: /images/Contact-us-for-support-on-GitHub-and-ecommerce-development-inquiries.webp
 ---
 <form action="https://formspree.io/f/xbljyolq" method="POST">    
 <p class="mb-4">Have a question or need support? We're here to help! Whether you have feedback, a technical question, or a business inquiry, feel free to reach out. You can also send an email at <a href="mailto:CodingRhodes@gmail.com">CodingRhodes@gmail.com</a>.</p>
@@ -19,10 +20,7 @@ permalink: "/contact-us"
 <br>
 <br>
 <p class="mb-4">We strive to respond within 24-48 hours during business days. We appreciate your interest and look forward to assisting you!</p>
-<br>
-<div markdown="1">
-![Contact us for support on GitHub and e-commerce development inquiries]({{ site.baseurl }}/images/Contact-us-for-support-on-GitHub-and-ecommerce-development-inquiries.webp)
-</div>
+
 <br>
 
 </form>
