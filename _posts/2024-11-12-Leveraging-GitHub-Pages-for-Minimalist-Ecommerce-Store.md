@@ -17,7 +17,7 @@ GitHub Pages is a simple, free way to create websites hosted directly on GitHub.
 
 #### Step 1: Set Up a GitHub Repository
 
-![GitHub repository settings showing the setup for GitHub Pages.]({{ site.baseurl }}/assets/images/GitHub-repository-settings-showing-the-setup-for-GitHub-Pages.webp)
+![GitHub repository settings showing the setup for GitHub Pages.]({{ site.baseurl }}/images/GitHub-repository-settings-showing-the-setup-for-GitHub-Pages.webp)
 
 1. **Create a New Repository**
 + Sign in to [GitHub](https://github.com/), click on `New` to create a new repository.
@@ -55,7 +55,7 @@ git push -u origin main
 
 #### Step 3: Customize Your E-commerce Store Layout
 
-![Product page layout example in Jekyll for a minimalist e-commerce store.]({{ site.baseurl }}/assets/images/Product-page-layout-example-in-Jekyll-for-minimalist-ecommerce-store.webp)
+![Product page layout example in Jekyll for a minimalist e-commerce store.]({{ site.baseurl }}/images/Product-page-layout-example-in-Jekyll-for-minimalist-ecommerce-store.webp)
 
 1. **Edit Layout and Design**
 + Open the `_layouts` folder in your Jekyll site directory and customize `default.html`.
@@ -69,7 +69,7 @@ layout: product
 title: "Product Name"
 price: $20
 description: "Product description here"
-image: "/assets/images/product1.jpg"
+image: "/images/product1.jpg"
 ---
 ```
 + These Markdown files will generate individual product pages for your site.

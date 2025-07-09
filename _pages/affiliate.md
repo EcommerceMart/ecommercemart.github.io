@@ -5,7 +5,7 @@ description: "EcommerceMart may earn commissions through affiliate links at no e
 permalink: "/affiliate.html"
 ---
 
-![Affiliate program supporting content creation]({{ site.baseurl }}/assets/images/Affiliate-program-supporting-content-creation.webp)
+![Affiliate program supporting content creation]({{ site.baseurl }}/images/Affiliate-program-supporting-content-creation.webp)
 
 At  **Ecommerce Mart**, we believe in **transparency and honesty** when it comes to monetization 📝 . To keep our website running and continue providing valuable content, we use **affiliate links** in some of our articles.  
 

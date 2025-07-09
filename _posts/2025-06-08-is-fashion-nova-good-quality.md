@@ -116,7 +116,7 @@ Fashion Nova also has some big weaknesses.
 
 ## How to Shop Smart at Fashion Nova
 
-![A close-up of a smartphone displaying the Fashion Nova mobile app or website, with a hand browsing products.]({{ site.baseurl }}/assets/images/How-to-Shop-Smart-at-Fashion-Nova.webp)
+![A close-up of a smartphone displaying the Fashion Nova mobile app or website, with a hand browsing products.]({{ site.baseurl }}/images/How-to-Shop-Smart-at-Fashion-Nova.webp)
 
 If you want to try Fashion Nova, here are some tips to help you have a better experience.
 
@@ -212,7 +212,7 @@ Fashion Nova is best for trendy, sexy styles. Shein is better for variety and af
 
 ## Fashion Nova Hauls and Try-Ons: What Do People Say?
 
-![A collage or single shot of a real person trying on several Fashion Nova outfits at home, showing different looks and styles.]({{ site.baseurl }}/assets/images/Fashion-Nova-Hauls-and-Try-Ons.webp)
+![A collage or single shot of a real person trying on several Fashion Nova outfits at home, showing different looks and styles.]({{ site.baseurl }}/images/Fashion-Nova-Hauls-and-Try-Ons.webp)
 
 Many people share Fashion Nova hauls and try-ons on YouTube and social media. These videos can help you see how the clothes look on real people. Many reviewers say the clothes look good in photos but may not be as good in person. Some say the quality is hit or miss, and the sizing can be tricky.
 

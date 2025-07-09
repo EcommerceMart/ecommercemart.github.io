@@ -50,7 +50,7 @@ Seasonal sales, discount coupons, and promotional offers make shopping on Taobao
 
 ## Getting Started with Taobao
 
-![Step-by-step guide to creating a Taobao account, including filling out details, OTP verification, and linking Alipay.]({{ site.baseurl }}/assets/images/Getting-Started-with-Taobao.webp)
+![Step-by-step guide to creating a Taobao account, including filling out details, OTP verification, and linking Alipay.]({{ site.baseurl }}/images/Getting-Started-with-Taobao.webp)
 
 ### 1. **Create an Account**
 To start shopping, you need to create an account on Taobao. Here’s how:
@@ -131,7 +131,7 @@ Some international credit cards are accepted on Taobao. Check with your bank for
 
 ## Shipping and Delivery
 
-![Comparison of Taobao shipping methods, showcasing direct shipping, consolidated shipping, and freight forwarding options with icons of a plane, truck, and packages.]({{ site.baseurl }}/assets/images/Shipping-and-Delivery-Options.webp)
+![Comparison of Taobao shipping methods, showcasing direct shipping, consolidated shipping, and freight forwarding options with icons of a plane, truck, and packages.]({{ site.baseurl }}/images/Shipping-and-Delivery-Options.webp)
 
 ### 1. **Direct Shipping**
 Taobao offers direct shipping to certain countries. Check if your country is eligible for this service.

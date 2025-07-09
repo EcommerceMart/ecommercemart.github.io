@@ -30,7 +30,7 @@ Let’s get started!
 
 #### Step 1: Set Up Your GitHub Repository
 
-![GitHub repository with files for an e-commerce plugin]({{ site.baseurl }}/assets/images/GitHub-repository-with-files-for-ecommerce-plugin.webp)
+![GitHub repository with files for an e-commerce plugin]({{ site.baseurl }}/images/GitHub-repository-with-files-for-ecommerce-plugin.webp)
 
 1. **Create a New Repository**
 + Go to GitHub and sign in or create an account.
@@ -89,7 +89,7 @@ Start coding your plugin or extension based on your e-commerce platform's requir
 
 #### Step 3: Version Control with GitHub
 
-![Workflow diagram of Git branching and merging process for plugin development]({{ site.baseurl }}/assets/images/Workflow-diagram-of-Git-branching-and-merging-process-for-plugin-development.webp)
+![Workflow diagram of Git branching and merging process for plugin development]({{ site.baseurl }}/images/Workflow-diagram-of-Git-branching-and-merging-process-for-plugin-development.webp)
 
 1. **Create Branches for Features or Fixes**
 + Use branches to work on specific features or bug fixes without affecting the main code. For example:

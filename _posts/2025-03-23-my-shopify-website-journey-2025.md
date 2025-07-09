@@ -82,7 +82,7 @@ Pro tip: If you want something extra fancy, premium themes from places like Out 
 
 Here’s where the fun really kicked in—making money! 💸 My **Shopify website** came loaded with features that turned browsers into buyers. First off, the checkout process is smooth as butter. Customers can pay with credit cards, PayPal, even Apple Pay—no friction, just sales.
 
-![My Shopify Sales Dashboard](/assets/images/shopify-sales-dashboard.webp "My First Week’s Sales on Shopify")
+![My Shopify Sales Dashboard](/images/shopify-sales-dashboard.webp "My First Week’s Sales on Shopify")
 
 Then there’s the abandoned cart recovery. I didn’t realize how many people ditch their carts until Shopify started sending auto-emails to nudge them back. I’ve recovered at least 10 sales this way—cha-ching! Another fave? The built-in analytics. I can see what’s selling, who’s visiting, and where they’re from. It’s like having a crystal ball for my business! 🔮
 

@@ -70,7 +70,7 @@ Google prioritizes mobile performance. Your site should:
 
 ## Ecommerce SEO Optimization: Best Practices for 2025
 
-![Team planning ecommerce SEO optimization strategies with keyword mapping and content planning for 2025.]({{ site.baseurl }}/assets/images/Ecommerce-SEO-Optimization.webp)
+![Team planning ecommerce SEO optimization strategies with keyword mapping and content planning for 2025.]({{ site.baseurl }}/images/Ecommerce-SEO-Optimization.webp)
 
 ### Technical SEO Enhancements
 

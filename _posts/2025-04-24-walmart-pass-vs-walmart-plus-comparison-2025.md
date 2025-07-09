@@ -66,7 +66,7 @@ If you want a full-featured membership that covers streaming, healthcare discoun
 
 ## 🆚 Walmart Pass vs Walmart+: Key Differences
 
-![Side-by-side feature comparison of Walmart Pass and Walmart+ memberships in 2025]({{ site.baseurl }}/assets/images/Walmart-Pass-vs-Walmart-Key-Differences.webp)
+![Side-by-side feature comparison of Walmart Pass and Walmart+ memberships in 2025]({{ site.baseurl }}/images/Walmart-Pass-vs-Walmart-Key-Differences.webp)
 
 | Feature                         | Walmart Pass        | Walmart+ (Standard)       | Walmart+ with InHome    |
 |--------------------------------|----------------------|---------------------------|--------------------------|
@@ -112,7 +112,7 @@ The **Martinez** couple shops online twice a month and love deals but don’t wa
 
 ## 🛠️ How Walmart+ Adds Value Beyond Walmart Pass
 
-![Walmart associate delivering groceries inside a customer’s home as part of Walmart+ InHome service]({{ site.baseurl }}/assets/images/How-Walmart-Adds-Value-Beyond-Walmart-Pass.webp)
+![Walmart associate delivering groceries inside a customer’s home as part of Walmart+ InHome service]({{ site.baseurl }}/images/How-Walmart-Adds-Value-Beyond-Walmart-Pass.webp)
 
 Here are some **exclusive perks** you’ll get with Walmart+ that aren’t part of Walmart Pass:
 

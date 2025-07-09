@@ -35,7 +35,7 @@ This deep-dive explores the value of the membership, outlines **Walmart Plus ben
 
 ## 🎁 Walmart Plus Benefits in 2025
 
-![Walmart Plus app showing delivery, fuel savings, and streaming options on a smartphone.]({{ site.baseurl }}/assets/images/Walmart-Plus-Benefits-in-2025.webp)
+![Walmart Plus app showing delivery, fuel savings, and streaming options on a smartphone.]({{ site.baseurl }}/images/Walmart-Plus-Benefits-in-2025.webp)
 
 Walmart has expanded its offerings in 2025, with members getting more for their subscription.
 
@@ -143,7 +143,7 @@ Jared shops more at Whole Foods or Target but occasionally buys tech at Walmart.
 
 ## ⚖️ Walmart Plus vs. Amazon Prime (2025)
 
-![Side-by-side comparison chart of Walmart Plus and Amazon Prime features and pricing in 2025]({{ site.baseurl }}/assets/images/Walmart-Plus-vs-Amazon-Prime-2025.webp)
+![Side-by-side comparison chart of Walmart Plus and Amazon Prime features and pricing in 2025]({{ site.baseurl }}/images/Walmart-Plus-vs-Amazon-Prime-2025.webp)
 
 | Feature                | Walmart Plus            | Amazon Prime      |
 | ---------------------- | ----------------------- | ----------------- |

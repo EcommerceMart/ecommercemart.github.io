@@ -24,7 +24,7 @@ By partnering with a professional company, you save time, reduce risks, and ensu
 
 ## Key Features to Look for in an eCommerce Development Company
 
-![Laptop displaying a vibrant eCommerce website with icons highlighting scalability, security, and user experience.]({{ site.baseurl }}/assets/images/Key-Features-to-Look-for-in-eCommerce-Development-Company.jpeg)
+![Laptop displaying a vibrant eCommerce website with icons highlighting scalability, security, and user experience.]({{ site.baseurl }}/images/Key-Features-to-Look-for-in-eCommerce-Development-Company.jpeg)
 
 Before selecting an **eCommerce website development company**, consider the following factors:
 

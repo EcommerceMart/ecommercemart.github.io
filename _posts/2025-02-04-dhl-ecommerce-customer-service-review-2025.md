@@ -31,7 +31,7 @@ Each of these options has its pros and cons, which we will analyze in detail bel
 
 ## DHL eCommerce Customer Service Response Times
 
-![A person using a smartphone to check DHL eCommerce package tracking status]({{ site.baseurl }}/assets/images/DHL-eCommerce-Customer-Service-Response-Times.webp)
+![A person using a smartphone to check DHL eCommerce package tracking status]({{ site.baseurl }}/images/DHL-eCommerce-Customer-Service-Response-Times.webp)
 
 A key factor in determining reliability is **how fast DHL eCommerce resolves issues**. Here’s what we found:
 
@@ -120,7 +120,7 @@ If you need assistance from **DHL eCommerce customer service**, follow these tip
 
 ## Final Verdict: Is DHL eCommerce Customer Service Reliable?
 
-![A DHL package placed at a customer's doorstep, symbolizing successful delivery.]({{ site.baseurl }}/assets/images/Final-Verdict-Is-DHL-eCommerce-Customer-Service-Reliable.webp)
+![A DHL package placed at a customer's doorstep, symbolizing successful delivery.]({{ site.baseurl }}/images/Final-Verdict-Is-DHL-eCommerce-Customer-Service-Reliable.webp)
 
 ### **Pros:**
 ✅ Multiple contact options (phone, email, chat, social media).  

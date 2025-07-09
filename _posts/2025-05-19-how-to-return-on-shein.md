@@ -54,7 +54,7 @@ Shein allows customers to return most items within a set period—typically **wi
 
 ## How to Initiate a Shein Return
 
-![Screenshot of Shein website showing return request form and order details]({{ site.baseurl }}/assets/images/How-to-Initiate-a-Shein-Return.webp)
+![Screenshot of Shein website showing return request form and order details]({{ site.baseurl }}/images/How-to-Initiate-a-Shein-Return.webp)
 
 ### Step-by-Step Guide
 
@@ -80,7 +80,7 @@ If using Shein’s return label, print it and attach it to the package.
 
 #### Step 6: Ship Your Package
 
-![Courier delivering a return package to a postal drop-off location for Shein]({{ site.baseurl }}/assets/images/Ship-Your-Package.webp)
+![Courier delivering a return package to a postal drop-off location for Shein]({{ site.baseurl }}/images/Ship-Your-Package.webp)
 
 Drop off your package or schedule a pickup, depending on the option chosen.
 

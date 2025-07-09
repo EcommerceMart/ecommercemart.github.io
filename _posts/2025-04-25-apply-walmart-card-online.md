@@ -142,7 +142,7 @@ You can also access your account through Walmart.com’s credit center.
 
 ## 🔄 Walmart Card vs. Competitors
 
-![Visual comparison of Walmart Store Card and Walmart Mastercard features in 2025]({{ site.baseurl }}/assets/images/Walmart-Card-vs-Competitors.webp)
+![Visual comparison of Walmart Store Card and Walmart Mastercard features in 2025]({{ site.baseurl }}/images/Walmart-Card-vs-Competitors.webp)
 
 | Feature                   | Walmart Card     | Target RedCard | Amazon Prime Card |
 |--------------------------|------------------|----------------|-------------------|

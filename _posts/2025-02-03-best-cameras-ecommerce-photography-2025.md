@@ -19,7 +19,7 @@ In this guide, we’ll explore the **best cameras, lighting setups, and accessor
 
 ## Best Cameras for Ecommerce Photography in 2025
 
-![Flat lay photography setup for ecommerce, featuring a smartphone, lighting, and a white background with neatly arranged fashion accessories.]({{ site.baseurl }}/assets/images/Best-Cameras-for-Ecommerce-Photography-in-2025.webp)
+![Flat lay photography setup for ecommerce, featuring a smartphone, lighting, and a white background with neatly arranged fashion accessories.]({{ site.baseurl }}/images/Best-Cameras-for-Ecommerce-Photography-in-2025.webp)
 
 ### **1. Sony A7R V – Best Overall Mirrorless Camera**
 
@@ -88,7 +88,7 @@ In this guide, we’ll explore the **best cameras, lighting setups, and accessor
 
 ## Essential Lighting Equipment for Ecommerce Photography
 
-![A photographer editing ecommerce product photos on a high-resolution screen using professional editing software.]({{ site.baseurl }}/assets/images/Essential-Lighting-Equipment-for-Ecommerce-Photography.webp)
+![A photographer editing ecommerce product photos on a high-resolution screen using professional editing software.]({{ site.baseurl }}/images/Essential-Lighting-Equipment-for-Ecommerce-Photography.webp)
 
 ### **1. Neewer 2-Pack Softbox Lighting Kit**
 Provides soft, even lighting for professional-looking photos.

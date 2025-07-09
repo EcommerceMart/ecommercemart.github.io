@@ -56,7 +56,7 @@ Whether you’re just starting or scaling up, this guide provides actionable ins
 
 ### Payout Schedule and Fund Settlement Time
 
-![Illustration of a user completing an online payment on multiple devices, representing eCommerce payment integration.]({{ site.baseurl }}/assets/images/Key-Features-to-Look-for-in-an-eCommerce-Payment-Gateway.webp)
+![Illustration of a user completing an online payment on multiple devices, representing eCommerce payment integration.]({{ site.baseurl }}/images/Key-Features-to-Look-for-in-an-eCommerce-Payment-Gateway.webp)
 
 ---
 
@@ -123,7 +123,7 @@ Whether you’re just starting or scaling up, this guide provides actionable ins
 ### Decision Matrix: How to Choose Based on Business Type
 
 
-![Infographic comparing top eCommerce payment gateways for small businesses.]({{ site.baseurl }}/assets/images/Comparing-Payment-Gateways-Feature-by-Feature-Breakdown.webp)
+![Infographic comparing top eCommerce payment gateways for small businesses.]({{ site.baseurl }}/images/Comparing-Payment-Gateways-Feature-by-Feature-Breakdown.webp)
 
 ---
 

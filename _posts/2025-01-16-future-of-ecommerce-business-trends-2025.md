@@ -28,7 +28,7 @@ Ecommerce has revolutionized how we shop. Its advantages include:
 
 ### Key Trends in Ecommerce for 2025
 
-![Illustration of a chatbot assisting a customer on a smartphone for an ecommerce platform.]({{ site.baseurl }}/assets/images/AI-Driven-Customer-Experiences.webp)
+![Illustration of a chatbot assisting a customer on a smartphone for an ecommerce platform.]({{ site.baseurl }}/images/AI-Driven-Customer-Experiences.webp)
 
 #### 1. **Rise of AI and Automation**
 Artificial Intelligence (AI) is transforming ecommerce. Expect to see:
@@ -51,7 +51,7 @@ AR is changing the way customers interact with products:
 
 #### 4. **Sustainability as a Priority**
 
-![Eco-friendly packaging and a green delivery truck symbolizing sustainable ecommerce practices.]({{ site.baseurl }}/assets/images/Sustainability-as-Priority.webp)
+![Eco-friendly packaging and a green delivery truck symbolizing sustainable ecommerce practices.]({{ site.baseurl }}/images/Sustainability-as-Priority.webp)
 
 Consumers are becoming eco-conscious. Businesses should:
 

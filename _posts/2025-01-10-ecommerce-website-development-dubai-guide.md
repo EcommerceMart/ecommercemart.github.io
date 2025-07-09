@@ -45,7 +45,7 @@ Start by identifying your goals. Are you launching a new brand or expanding your
 
 ### 2. Choose the Right Ecommerce Platform
 
-![Comparison of top ecommerce platforms for website development in Dubai.]({{ site.baseurl }}/assets/images/Choose-the-Right-Ecommerce-Platform.jpeg)
+![Comparison of top ecommerce platforms for website development in Dubai.]({{ site.baseurl }}/images/Choose-the-Right-Ecommerce-Platform.jpeg)
 
 Selecting the right platform is critical for your website's success. Popular platforms for **ecommerce website development in Dubai** include:
 
@@ -136,7 +136,7 @@ Consider additional costs for hosting, marketing, and maintenance.
 
 ## Tips for Success in Dubai’s Ecommerce Market
 
-![Mobile-optimized ecommerce website design tailored for Dubai shoppers.]({{ site.baseurl }}/assets/images/Tips-for-Success-in-Dubai-Ecommerce-Market.jpeg)
+![Mobile-optimized ecommerce website design tailored for Dubai shoppers.]({{ site.baseurl }}/images/Tips-for-Success-in-Dubai-Ecommerce-Market.jpeg)
 
 - **Invest in Mobile Optimization**: Over 80% of users in Dubai shop via mobile devices.
 - **Offer Diverse Payment Options**: Include international and local payment methods.

@@ -71,7 +71,7 @@ In September 2019, Forever 21 filed for Chapter 11 bankruptcy. This shocked the 
 
 ## Who Owns Forever 21 Now? \[2025 Edition]
 
-![Who Owns Forever 21 Now]({{ site.baseurl }}/assets/images/Who-Owns-Forever-21-Now.webp)
+![Who Owns Forever 21 Now]({{ site.baseurl }}/images/Who-Owns-Forever-21-Now.webp)
 
 ### Post-Bankruptcy Acquisition
 

@@ -41,7 +41,7 @@ Taobao Global is the international version of Alibaba's Taobao platform, caterin
 
 ### Step-by-Step Account Registration
 
-![Steps to create a Taobao account for global users]({{ site.baseurl }}/assets/images/Step-by-Step-Account-Registration.webp)
+![Steps to create a Taobao account for global users]({{ site.baseurl }}/images/Step-by-Step-Account-Registration.webp)
 
 #### Step 1: Visit the Taobao Global Website
 
@@ -125,7 +125,7 @@ Prices are typically in RMB, but some plugins convert to USD or your local curre
 
 ## Shipping Options and Costs
 
-![Taobao Global international shipping flow chart from order to delivery]({{ site.baseurl }}/assets/images/Shipping-Options-and-Costs.webp)
+![Taobao Global international shipping flow chart from order to delivery]({{ site.baseurl }}/images/Shipping-Options-and-Costs.webp)
 
 ### Types of International Shipping
 

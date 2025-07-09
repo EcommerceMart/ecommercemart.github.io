@@ -19,7 +19,7 @@ In this post, we’ll explore the **top 10 eCommerce web design agencies** that 
 
 ### Specialization: Custom eCommerce Development & UI/UX Design
 
-![Mobile eCommerce website design showcasing responsive UI and user-friendly shopping experience.]({{ site.baseurl }}/assets/images/Specialization-Custom-eCommerce-Development-UI-UX-Design.webp)
+![Mobile eCommerce website design showcasing responsive UI and user-friendly shopping experience.]({{ site.baseurl }}/images/Specialization-Custom-eCommerce-Development-UI-UX-Design.webp)
 
 Toptal is known for its highly skilled pool of designers, developers, and experts who work with clients to create tailored eCommerce experiences. Whether you’re looking for an intuitive UI, a responsive design, or a powerful eCommerce platform, Toptal connects you with the right talent to meet your needs.
 
@@ -57,7 +57,7 @@ Ruckus Marketing specializes in creating eCommerce websites that are visually st
 
 ### Specialization: End-to-End eCommerce Web Design & Development
 
-![Team collaboration in web design for eCommerce with sketches and wireframes on whiteboard.]({{ site.baseurl }}/assets/images/Specialization-End-to-End-eCommerce-Web-Design-Development.webp)
+![Team collaboration in web design for eCommerce with sketches and wireframes on whiteboard.]({{ site.baseurl }}/images/Specialization-End-to-End-eCommerce-Web-Design-Development.webp)
 
 Digital Silk is an award-winning **ecommerce web design agency** that prides itself on its ability to create high-end eCommerce websites. They focus on UX/UI design, custom eCommerce development, and integration with the latest technologies.
 

@@ -37,7 +37,7 @@ Michael Kors aims to bring luxury fashion to more people by offering:
 
 ## Michael Kors Product Range
 
-![Michael Kors Jet Set handbag on white background showing logo and design details]({{ site.baseurl }}/assets/images/Michael-Kors-Product-Range.webp)
+![Michael Kors Jet Set handbag on white background showing logo and design details]({{ site.baseurl }}/images/Michael-Kors-Product-Range.webp)
 
 Michael Kors offers a wide range of products, including:
 
@@ -136,7 +136,7 @@ Michael Kors is a great choice if you want modern, trendy styles at a price that
 
 ## Michael Kors’ Style: Who Is It For?
 
-![Person carrying Michael Kors handbag and wearing Michael Kors watch in a city setting]({{ site.baseurl }}/assets/images/Michael-Kors-Style.webp)
+![Person carrying Michael Kors handbag and wearing Michael Kors watch in a city setting]({{ site.baseurl }}/images/Michael-Kors-Style.webp)
 
 Michael Kors is perfect for you if you want:
 

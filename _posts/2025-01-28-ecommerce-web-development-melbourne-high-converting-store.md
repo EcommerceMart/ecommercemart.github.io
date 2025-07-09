@@ -12,7 +12,7 @@ In this guide, we will walk you through everything you need to know about ecomme
 
 ## Why Ecommerce Web Development in Melbourne Matters
 
-![Ecommerce web developers in Melbourne working on a high-converting online store.]({{ site.baseurl }}/assets/images/Why-Ecommerce-Web-Development-in-Melbourne-Matters.webp)
+![Ecommerce web developers in Melbourne working on a high-converting online store.]({{ site.baseurl }}/images/Why-Ecommerce-Web-Development-in-Melbourne-Matters.webp)
 
 Melbourne is a thriving hub for businesses, startups, and digital innovation. With a rapidly growing ecommerce sector, businesses must leverage high-quality **ecommerce web development** to stay ahead of the competition. Here’s why professional web development is crucial:
 
@@ -34,7 +34,7 @@ A clutter-free, intuitive design enhances the shopping experience. Ensure your w
 
 ### 2. **Mobile Responsiveness**
 
-![A smartphone displaying a beautifully designed ecommerce website, highlighting a seamless user experience.]({{ site.baseurl }}/assets/images/Mobile-Responsiveness-ecommerce.webp)
+![A smartphone displaying a beautifully designed ecommerce website, highlighting a seamless user experience.]({{ site.baseurl }}/images/Mobile-Responsiveness-ecommerce.webp)
 
 With mobile commerce booming, a responsive website is non-negotiable. Your store should be optimized for all screen sizes to provide an excellent experience across devices.
 

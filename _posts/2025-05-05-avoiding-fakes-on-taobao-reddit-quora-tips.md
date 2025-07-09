@@ -37,7 +37,7 @@ Non-Chinese buyers face language barriers, unfamiliar seller ratings, and vague 
 
 ### Seller Ratings and Credibility
 
-![Screenshot showing Taobao seller ratings with crowns and user reviews]({{ site.baseurl }}/assets/images/Seller-Ratings-and-Credibility.webp)
+![Screenshot showing Taobao seller ratings with crowns and user reviews]({{ site.baseurl }}/images/Seller-Ratings-and-Credibility.webp)
 
 Taobao uses a heart-diamond-crown rating system. Sellers with more crowns and consistent high reviews are generally safer bets. Review metrics include:
 
@@ -69,7 +69,7 @@ Authentic listings will often mimic the brand’s language, dimensions, and spec
 
 ### Reverse Image Search
 
-![Reverse image search results comparing a Taobao product to official brand listings]({{ site.baseurl }}/assets/images/Reverse-Image-Search.webp)
+![Reverse image search results comparing a Taobao product to official brand listings]({{ site.baseurl }}/images/Reverse-Image-Search.webp)
 
 Download the listing image and perform a reverse image search. If it leads to stock photos or other sketchy sites, proceed cautiously.
 

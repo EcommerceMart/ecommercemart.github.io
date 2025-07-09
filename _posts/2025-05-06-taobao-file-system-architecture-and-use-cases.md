@@ -44,7 +44,7 @@ Traditional file systems struggle to scale efficiently in scenarios involving hi
 
 ## TFS Architecture Overview
 
-![Diagram illustrating the role of metadata servers in managing file indexing and namespace in the Taobao File System.]({{ site.baseurl }}/assets/images/TFS-Architecture-Overview.webp)
+![Diagram illustrating the role of metadata servers in managing file indexing and namespace in the Taobao File System.]({{ site.baseurl }}/images/TFS-Architecture-Overview.webp)
 
 ### Core Components of TFS
 
@@ -87,7 +87,7 @@ A monitoring system keeps track of ChunkServer health, traffic, and latency. Mas
 
 ### Handling Billions of Small Files
 
-![Illustration of TFS managing large volumes of small files in an e-commerce platform like Taobao.]({{ site.baseurl }}/assets/images/Handling-Billions-of-Small-Files.webp)
+![Illustration of TFS managing large volumes of small files in an e-commerce platform like Taobao.]({{ site.baseurl }}/images/Handling-Billions-of-Small-Files.webp)
 
 TFS is designed for high-density environments. The system avoids unnecessary replication for tiny files by intelligently bundling and indexing them.
 

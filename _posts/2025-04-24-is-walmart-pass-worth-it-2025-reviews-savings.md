@@ -82,7 +82,7 @@ Wondering how Walmart Pass stacks up to other grocery and retail delivery option
 
 ## 🎯 How to Maximize Walmart Pass Benefits
 
-![Walmart Credit Card vs Walmart Mastercard rewards comparison chart]({{ site.baseurl }}/assets/images/How-to-Maximize-Walmart-Pass-Benefits.webp)
+![Walmart Credit Card vs Walmart Mastercard rewards comparison chart]({{ site.baseurl }}/images/How-to-Maximize-Walmart-Pass-Benefits.webp)
 
 - Always group purchases to exceed $35 for free delivery.
 - Stack with Walmart’s in-app coupons and weekly rollbacks.

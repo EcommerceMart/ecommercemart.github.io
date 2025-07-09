@@ -15,7 +15,7 @@ Starting an **Ecommerce Business** has become one of the most appealing startup 
 
 ## 1. **Low Startup Costs**
 
-![Small business owner managing an ecommerce store with a laptop and packages.]({{ site.baseurl }}/assets/images/Low-Startup-Costs.webp)
+![Small business owner managing an ecommerce store with a laptop and packages.]({{ site.baseurl }}/images/Low-Startup-Costs.webp)
 
 One of the biggest advantages of starting an **Ecommerce Business** is its affordability compared to traditional brick-and-mortar businesses.
 
@@ -31,7 +31,7 @@ Starting a small boutique online may cost as little as $500 to $1,000, while a p
 
 ## 2. **Global Reach**
 
-![World map illustrating global reach of ecommerce business with shopping icons.]({{ site.baseurl }}/assets/images/Global-Reach.webp)
+![World map illustrating global reach of ecommerce business with shopping icons.]({{ site.baseurl }}/images/Global-Reach.webp)
 
 
 An **Ecommerce Business** allows you to reach customers worldwide, breaking the barriers of location.

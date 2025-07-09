@@ -29,7 +29,7 @@ By connecting these elements, businesses can deliver a more cohesive and satisfy
 
 ## Why Connective Ecommerce is the Future
 
-![A person browsing a personalized online shopping experience with product recommendations on their laptop.]({{ site.baseurl }}/assets/images/Why-Connective-Ecommerce-is-the-Future.webp)
+![A person browsing a personalized online shopping experience with product recommendations on their laptop.]({{ site.baseurl }}/images/Why-Connective-Ecommerce-is-the-Future.webp)
 
 The rise of connective ecommerce is driven by several key trends:
 
@@ -49,7 +49,7 @@ Connective ecommerce provides businesses with a wealth of data that can be used 
 
 ## Key Components of Connective Ecommerce
 
-![A customer engaging with a brand across multiple channels, from mobile shopping to in-store pickup.]({{ site.baseurl }}/assets/images/Key-Components-of-Connective-Ecommerce.webp)
+![A customer engaging with a brand across multiple channels, from mobile shopping to in-store pickup.]({{ site.baseurl }}/images/Key-Components-of-Connective-Ecommerce.webp)
 
 To understand how connective ecommerce works, let’s break down its key components:
 

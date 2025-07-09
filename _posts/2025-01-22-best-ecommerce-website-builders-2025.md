@@ -27,7 +27,7 @@ Here’s a detailed look at the best ecommerce website builders and tools availa
 
 ## 1. Shopify: The All-in-One Ecommerce Solution
 
-![Comparison chart of top ecommerce website builders for 2025 with features and pricing.]({{ site.baseurl }}/assets/images/Shopify-The-All-in-One-Ecommerce-Solution.webp)
+![Comparison chart of top ecommerce website builders for 2025 with features and pricing.]({{ site.baseurl }}/images/Shopify-The-All-in-One-Ecommerce-Solution.webp)
 
 Shopify remains one of the most popular ecommerce website builders in 2025. Known for its ease of use and scalability, it’s a great choice for businesses of all sizes.
 
@@ -69,7 +69,7 @@ Tech-savvy users and businesses already familiar with WordPress.
 
 ## 3. Wix Ecommerce: The Beginner-Friendly Option
 
-![A showcase of ecommerce website designs highlighting diverse styles and template options.]({{ site.baseurl }}/assets/images/Wix-Ecommerce-The-Beginner-Friendly-Option.webp)
+![A showcase of ecommerce website designs highlighting diverse styles and template options.]({{ site.baseurl }}/images/Wix-Ecommerce-The-Beginner-Friendly-Option.webp)
 
 Wix is a great option for those new to ecommerce. Its intuitive drag-and-drop builder makes it easy for anyone to create a professional-looking store.
 

@@ -67,7 +67,7 @@ Boohoo follows a fast-fashion model, releasing new styles rapidly and maintainin
 
 ## Product Quality and Authenticity
 
-![Unboxing a Boohoo order showing clothing items and receipt, illustrating customer experience with Boohoo.]({{ site.baseurl }}/assets/images/Product-Quality-and-Authenticity.webp)
+![Unboxing a Boohoo order showing clothing items and receipt, illustrating customer experience with Boohoo.]({{ site.baseurl }}/images/Product-Quality-and-Authenticity.webp)
 
 ### Are Boohoo Products Genuine?
 

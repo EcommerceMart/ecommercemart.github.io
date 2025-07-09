@@ -23,7 +23,7 @@ Let’s dive into each step in detail.
 ## Step 1: Set Up a Private Repository
 The first and most important step in securing your e-commerce code is to make the repository private.
 
-![GitHub repository creation page with the private repository option highlighted]({{ site.baseurl }}/assets/images/GitHub-repository-creation-page-with-private-repository-option-highlighted.webp)
+![GitHub repository creation page with the private repository option highlighted]({{ site.baseurl }}/images/GitHub-repository-creation-page-with-private-repository-option-highlighted.webp)
 
 1. **Create a New Repository:**
 + Go to [GitHub](https://github.com/), and click on **New** to create a repository.
@@ -83,7 +83,7 @@ Click on Add rule and select the branch you want to protect (e.g., `main` or `pr
 ## Step 5: Limit Access to Sensitive Files
 Some files in your repository may contain sensitive information, such as API keys, database credentials, or configuration files. You should restrict access to these files and avoid storing sensitive data directly in your repository.
 
-![GitHub Secrets settings for securely storing sensitive information for CI/CD workflows.]({{ site.baseurl }}/assets/images/GitHub-Secrets-settings-for-securely-storing-sensitive-information-for-CI-CD-workflows.webp)
+![GitHub Secrets settings for securely storing sensitive information for CI/CD workflows.]({{ site.baseurl }}/images/GitHub-Secrets-settings-for-securely-storing-sensitive-information-for-CI-CD-workflows.webp)
 
 ### Steps to Secure Sensitive Information:
 1. **Use Environment Variables:**

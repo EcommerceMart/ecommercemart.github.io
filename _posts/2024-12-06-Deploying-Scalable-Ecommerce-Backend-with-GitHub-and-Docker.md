@@ -29,7 +29,7 @@ This guide walks you through the process of setting up CI/CD pipelines for deplo
 
 ### Setting Up Your CI/CD Pipeline with GitHub Actions and Docker
 
-![Illustration of a CI/CD pipeline with GitHub Actions and Docker, symbolizing automated deployment and cloud scalability]({{ site.baseurl }}/assets/images/Deploying-Scalable-Ecommerce-Backend-with-GitHub-and-Docker.webp)
+![Illustration of a CI/CD pipeline with GitHub Actions and Docker, symbolizing automated deployment and cloud scalability]({{ site.baseurl }}/images/Deploying-Scalable-Ecommerce-Backend-with-GitHub-and-Docker.webp)
 
 #### Step 1: Prerequisites
 Before you start, ensure you have:
@@ -40,7 +40,7 @@ Before you start, ensure you have:
 
 #### Step 2: Create a Dockerfile
 
-![Visual representation of multiple Docker containers running on a cloud server, demonstrating scalability and efficiency]({{ site.baseurl }}/assets/images/Visual-representation-of-multiple-Docker-containers-running-on-a-cloud-server.webp)
+![Visual representation of multiple Docker containers running on a cloud server, demonstrating scalability and efficiency]({{ site.baseurl }}/images/Visual-representation-of-multiple-Docker-containers-running-on-a-cloud-server.webp)
 
 The Dockerfile is crucial for building your application image. Here’s an example for a Node.js e-commerce backend:
 

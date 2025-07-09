@@ -50,7 +50,7 @@ You can find Kate Spade products in their own stores, department stores, outlets
 
 ## Is Kate Spade a Good Brand? Key Questions Answered
 
-![Close-up of Kate Spade handbag showing logo, stitching, and hardware details]({{ site.baseurl }}/assets/images/Is-Kate-Spade-Good-Brand.webp)
+![Close-up of Kate Spade handbag showing logo, stitching, and hardware details]({{ site.baseurl }}/images/Is-Kate-Spade-Good-Brand.webp)
 
 ### **How is Kate Spade’s Product Quality?**
 
@@ -123,7 +123,7 @@ Kate Spade is a great choice if you want playful, stylish fashion at a reasonabl
 
 ## Kate Spade’s Style: Who Is It For?
 
-![ Woman carrying a colorful Kate Spade handbag in a city street setting, showcasing playful and chic fashion]({{ site.baseurl }}/assets/images/Kate-Spade-Style.webp)
+![ Woman carrying a colorful Kate Spade handbag in a city street setting, showcasing playful and chic fashion]({{ site.baseurl }}/images/Kate-Spade-Style.webp)
 
 Kate Spade is perfect for you if you want:
 

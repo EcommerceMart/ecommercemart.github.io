@@ -67,7 +67,7 @@ Both offer cashback on Walmart purchases, but the Mastercard can be used beyond 
 
 ## 📋 Eligibility Criteria for a Walmart Credit Card
 
-![Checklist for Walmart Credit Card eligibility with store and cards in the background]({{ site.baseurl }}/assets/images/Eligibility-Criteria-for-Walmart-Credit-Card.webp)
+![Checklist for Walmart Credit Card eligibility with store and cards in the background]({{ site.baseurl }}/images/Eligibility-Criteria-for-Walmart-Credit-Card.webp)
 
 Before you apply, make sure you meet the basic requirements:
 

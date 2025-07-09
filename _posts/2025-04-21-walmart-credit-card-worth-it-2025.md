@@ -31,7 +31,7 @@ In this guide, we dive deep into everything you need to know—**from benefits, 
 
 ## 💳 What You Get: Walmart Credit Card Benefits
 
-![Walmart Credit Card mobile app showing cashback and transactions on smartphone screen]({{ site.baseurl }}/assets/images/What-You-Get-Walmart-Credit-Card-Benefits.webp)
+![Walmart Credit Card mobile app showing cashback and transactions on smartphone screen]({{ site.baseurl }}/images/What-You-Get-Walmart-Credit-Card-Benefits.webp)
 
 ### 1. **High Rewards for Online Walmart Shopping**
 If you're a regular user of **Walmart.com**, this card’s 5% cashback makes it an instant win for groceries, tech, and household essentials.
@@ -78,7 +78,7 @@ We analyzed **user feedback on Reddit, WalletHub, NerdWallet, and YouTube** to u
 
 ## 💸 How the Rewards Compare to Other Cards
 
-![Comparison chart of Walmart Credit Card benefits vs other retail credit cards in 2025]({{ site.baseurl }}/assets/images/How-the-Rewards-Compare-to-Other-Cards.webp)
+![Comparison chart of Walmart Credit Card benefits vs other retail credit cards in 2025]({{ site.baseurl }}/images/How-the-Rewards-Compare-to-Other-Cards.webp)
 
 | Feature | Walmart Card | Amazon Prime Card | Target RedCard |
 |--------|--------------|-------------------|----------------|

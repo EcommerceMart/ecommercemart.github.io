@@ -169,7 +169,7 @@ Walmart began as a **discount store** in the 1960s. Although it has evolved, the
 
 ## Key Differences Between Walmart and Department Stores
 
-![Comparison chart of Walmart vs traditional department store features including layout, pricing, and product variety.]({{ site.baseurl }}/assets/images/Key-Differences-Between-Walmart-and-Department-Stores.webp)
+![Comparison chart of Walmart vs traditional department store features including layout, pricing, and product variety.]({{ site.baseurl }}/images/Key-Differences-Between-Walmart-and-Department-Stores.webp)
 
 
 ### Visual Table Comparison

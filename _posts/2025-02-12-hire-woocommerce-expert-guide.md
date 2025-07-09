@@ -24,7 +24,7 @@ Hiring a **WooCommerce expert** can save time, enhance site functionality, and b
 
 ## Key Skills to Look for in a WooCommerce Expert
 
-![WooCommerce developer coding and optimizing an online store on a laptop.]({{ site.baseurl }}/assets/images/Key-Skills-to-Look-for-in-WooCommerce-Expert.webp)
+![WooCommerce developer coding and optimizing an online store on a laptop.]({{ site.baseurl }}/images/Key-Skills-to-Look-for-in-WooCommerce-Expert.webp)
 
 When hiring a **WooCommerce expert**, ensure they possess these skills:
 
@@ -57,7 +57,7 @@ The cost of hiring a **WooCommerce expert** varies based on experience, location
 
 ## Best Platforms to Hire a WooCommerce Expert
 
-![Client browsing WooCommerce expert profiles on a freelancing platform like Upwork or Codeable.]({{ site.baseurl }}/assets/images/Best-Platforms-to-Hire-a-WooCommerce-Expert.webp)
+![Client browsing WooCommerce expert profiles on a freelancing platform like Upwork or Codeable.]({{ site.baseurl }}/images/Best-Platforms-to-Hire-a-WooCommerce-Expert.webp)
 
 Here are some of the best platforms to find and hire **WooCommerce experts**:
 

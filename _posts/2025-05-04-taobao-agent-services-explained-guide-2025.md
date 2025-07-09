@@ -70,7 +70,7 @@ They usually charge a service commission ranging from 3% to 10%. A transparent f
 
 ### Quality Inspection and Warehouse Management
 
-![A Taobao agent inspecting items in a warehouse before international shipping]({{ site.baseurl }}/assets/images/Quality-Inspection-and-Warehouse-Management.webp)
+![A Taobao agent inspecting items in a warehouse before international shipping]({{ site.baseurl }}/images/Quality-Inspection-and-Warehouse-Management.webp)
 
 #### Basic Inspection
 
@@ -106,7 +106,7 @@ For electronics, ceramics, or collectibles, agents offer reinforced packaging up
 
 ### International Shipping Options
 
-![Shipping courier logos like DHL, FedEx, and EMS with a map showing global routes from China]({{ site.baseurl }}/assets/images/International-Shipping-Options.webp)
+![Shipping courier logos like DHL, FedEx, and EMS with a map showing global routes from China]({{ site.baseurl }}/images/International-Shipping-Options.webp)
 
 
 #### Multiple Shipping Partners

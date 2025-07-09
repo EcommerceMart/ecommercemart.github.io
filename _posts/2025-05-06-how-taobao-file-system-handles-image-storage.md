@@ -40,7 +40,7 @@ Standard file systems are inefficient at handling large volumes of small files, 
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-![Flat namespace model of Taobao File System managing billions of small image files.]({{ site.baseurl }}/assets/images/Flat-File-Structure.webp)
+![Flat namespace model of Taobao File System managing billions of small image files.]({{ site.baseurl }}/images/Flat-File-Structure.webp)
 
 ### Flat File Structure
 TFS employs a flat file namespace structure to avoid hierarchical directory traversal, which is inefficient for massive-scale operations. This simplifies lookups and accelerates access times.
@@ -90,7 +90,7 @@ Image compression techniques are applied in the storage pipeline to reduce stora
 
 ## Performance and Throughput
 
-![ Image processing and delivery pipeline supported by Taobao File System.]({{ site.baseurl }}/assets/images/Performance-and-Throughput.webp)
+![ Image processing and delivery pipeline supported by Taobao File System.]({{ site.baseurl }}/images/Performance-and-Throughput.webp)
 
 ### Write Optimization
 - Buffered writes to minimize disk I/O

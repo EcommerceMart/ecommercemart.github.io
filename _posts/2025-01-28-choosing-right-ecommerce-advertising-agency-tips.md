@@ -39,7 +39,7 @@ Having clear objectives will help you identify agencies with the right expertise
 
 ### 2. **Evaluate Their Experience**
 
-![Team of marketing professionals discussing campaign strategies for ecommerce advertising.]({{ site.baseurl }}/assets/images/Evaluate-Their-Experience.webp)
+![Team of marketing professionals discussing campaign strategies for ecommerce advertising.]({{ site.baseurl }}/images/Evaluate-Their-Experience.webp)
 
 Look for agencies with a proven track record in ecommerce. Key things to check include:
 - **Client Portfolio:** Have they worked with businesses similar to yours?
@@ -69,7 +69,7 @@ The right agency will know how to utilize these platforms effectively to meet yo
 
 ### 5. **Understand Their Pricing Model**
 
-![Comparison chart displaying features of various ecommerce advertising agencies to help in decision-making.]({{ site.baseurl }}/assets/images/Understand-Their-Pricing-Model.webp)
+![Comparison chart displaying features of various ecommerce advertising agencies to help in decision-making.]({{ site.baseurl }}/images/Understand-Their-Pricing-Model.webp)
 
 Pricing structures vary between agencies. Common models include:
 - **Flat Fee:** A fixed monthly cost for their services.

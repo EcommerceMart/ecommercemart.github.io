@@ -29,7 +29,7 @@ Search Engine Optimization (SEO) is the backbone of online visibility. For ecomm
 
 ## How Ecommerce Website Builders Contribute to SEO
 
-![Example of an online store dashboard showcasing orders, revenue, and customer insights.]({{ site.baseurl }}/assets/images/How-Ecommerce-Website-Builders-Contribute-to-SEO.webp)
+![Example of an online store dashboard showcasing orders, revenue, and customer insights.]({{ site.baseurl }}/images/How-Ecommerce-Website-Builders-Contribute-to-SEO.webp)
 
 An ecommerce website builder is the foundation of your online store. Modern builders like Shopify, BigCommerce, and WooCommerce come equipped with features that support SEO-friendly practices. 
 
@@ -49,7 +49,7 @@ An ecommerce website builder is the foundation of your online store. Modern buil
 
 ## The Role of Ecommerce SEO Experts
 
-![SEO expert analyzing website traffic and keyword performance data on multiple screens.]({{ site.baseurl }}/assets/images/The-Role-of-Ecommerce-SEO-Experts.webp)
+![SEO expert analyzing website traffic and keyword performance data on multiple screens.]({{ site.baseurl }}/images/The-Role-of-Ecommerce-SEO-Experts.webp)
 
 While an ecommerce website builder gives you a strong foundation, ecommerce SEO experts bring specialized knowledge to optimize your site for search engines. Here’s how they contribute:
 

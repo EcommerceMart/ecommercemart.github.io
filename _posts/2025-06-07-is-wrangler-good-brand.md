@@ -50,7 +50,7 @@ Wrangler products are available in stores across the USA and online, making them
 
 #### Jeans and Apparel Durability
 
-![Close-up view of Wrangler jeans stitching and denim fabric texture showing quality details]({{ site.baseurl }}/assets/images/Jeans-and-Apparel-Durability.webp)
+![Close-up view of Wrangler jeans stitching and denim fabric texture showing quality details]({{ site.baseurl }}/images/Jeans-and-Apparel-Durability.webp)
 
 Wrangler built its name on tough, long-lasting jeans. However, many recent buyers have reported issues with durability. Some customers say that the quality of denim has declined, with jeans ripping or wearing out faster than expected. Others mention problems like thin fabric, poor stitching, and belt loops tearing off easily.
 
@@ -110,7 +110,7 @@ While Wrangler has a long history and is trusted by many for its classic styles,
 
 ## Wrangler Jeans: Detailed Review
 
-![Person wearing Wrangler jeans outdoors, showcasing classic American western style and comfort]({{ site.baseurl }}/assets/images/Wrangler-Jeans-Detailed-Review.webp)
+![Person wearing Wrangler jeans outdoors, showcasing classic American western style and comfort]({{ site.baseurl }}/images/Wrangler-Jeans-Detailed-Review.webp)
 
 ### Types of Wrangler Jeans
 

@@ -46,7 +46,7 @@ Within China, sellers often offer free shipping for local deliveries. If you're 
 
 ### International Shipping on Taobao
 
-![A map of China with package icons pointing to global destinations]({{ site.baseurl }}/assets/images/International-Shipping-on-Taobao.webp)
+![A map of China with package icons pointing to global destinations]({{ site.baseurl }}/images/International-Shipping-on-Taobao.webp)
 
 International shipping generally isn't free. However, it varies depending on:
 
@@ -95,7 +95,7 @@ You buy multiple items, have them shipped to a Chinese warehouse, then consolida
 
 ## How to Get Free Shipping on Taobao
 
-![showing how a buyer uses an agent to get free or discounted shipping]({{ site.baseurl }}/assets/images/How-to-Get-Free-Shipping-on-Taobao.webp)
+![showing how a buyer uses an agent to get free or discounted shipping]({{ site.baseurl }}/images/How-to-Get-Free-Shipping-on-Taobao.webp)
 
 ### 1. Look for Sellers Offering Free Domestic Shipping
 

@@ -79,7 +79,7 @@ One of the most visible impacts of **AI in ecommerce** is hyper-personalization.
 
 ## AI-Powered Product Recommendations
 
-![Online shopper receiving AI-powered product suggestions on a laptop screen]({{ site.baseurl }}/assets/images/AI-Powered-Product-Recommendations.webp)
+![Online shopper receiving AI-powered product suggestions on a laptop screen]({{ site.baseurl }}/images/AI-Powered-Product-Recommendations.webp)
 
 Gone are the days of static product suggestions. AI uses collaborative filtering and deep learning to predict what a shopper might want next.
 
@@ -134,7 +134,7 @@ This reduces waste, improves delivery times, and saves costs.
 
 ## Chatbots and Virtual Shopping Assistants
 
-!AI brain with ecommerce icons representing the future of online shopping in 2025]({{ site.baseurl }}/assets/images/Chatbots-and-Virtual-Shopping-Assistants.webp)
+!AI brain with ecommerce icons representing the future of online shopping in 2025]({{ site.baseurl }}/images/Chatbots-and-Virtual-Shopping-Assistants.webp)
 
 AI-powered chatbots are now more advanced than ever. They can hold human-like conversations, recommend products, assist with checkouts, and even follow up post-purchase.
 

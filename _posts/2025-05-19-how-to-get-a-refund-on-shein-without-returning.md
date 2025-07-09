@@ -62,7 +62,7 @@ Occasionally, Shein offers goodwill refunds as part of apology credits or promot
 
 ## Step-by-Step Guide to Requesting a Refund Without Returning
 
-![Screenshot of Shein order history with options to contact support for refund]({{ site.baseurl }}/assets/images/Step-by-Step-Guide-to-Requesting-a-Refund-Without-Returning.webp)
+![Screenshot of Shein order history with options to contact support for refund]({{ site.baseurl }}/images/Step-by-Step-Guide-to-Requesting-a-Refund-Without-Returning.webp)
 
 ### Step 1: Log in to Your Shein Account
 
@@ -96,7 +96,7 @@ Include photos or videos of the issue (e.g., broken item, wrong size, missing pa
 
 ### Step 6: Wait for Review and Confirmation
 
-![Shein live chat screenshot showing a refund being approved without return]({{ site.baseurl }}/assets/images/Wait-for-Review-and-Confirmation.webp)
+![Shein live chat screenshot showing a refund being approved without return]({{ site.baseurl }}/images/Wait-for-Review-and-Confirmation.webp)
 
 Shein will usually review your request in 24–72 hours. If approved, the refund is processed.
 

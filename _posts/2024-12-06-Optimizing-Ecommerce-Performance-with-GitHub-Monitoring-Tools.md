@@ -54,7 +54,7 @@ Track user behavior to identify issues like:
 
 GitHub offers powerful tools and integrations to monitor e-commerce performance. Here’s how you can use them effectively.
 
-![Diagram of GitHub Actions workflow]({{ site.baseurl }}/assets/images/Diagram-of-GitHub-Actions-workflow.webp)
+![Diagram of GitHub Actions workflow]({{ site.baseurl }}/images/Diagram-of-GitHub-Actions-workflow.webp)
 
 ### 1. **GitHub Actions for Automation**
 

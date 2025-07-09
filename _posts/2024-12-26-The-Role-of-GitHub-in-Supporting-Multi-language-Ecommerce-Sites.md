@@ -34,7 +34,7 @@ A well-organized repository is the foundation of efficient content management. F
 
 ### 1. **Use a Directory Structure for Languages**
 
-![Use a Directory Structure for Languages]({{ site.baseurl }}/assets/images/Use-Directory-Structure-for-Languages.webp)
+![Use a Directory Structure for Languages]({{ site.baseurl }}/images/Use-Directory-Structure-for-Languages.webp)
 
 Organize your content and assets by language. Create separate folders for each language within your repository. For example:
 
@@ -118,7 +118,7 @@ Tags make it easy to roll back to previous versions if needed.
 
 ### 4. **Automate Synchronization**
 
-![Automate Synchronization]({{ site.baseurl }}/assets/images/Automate-Synchronization.webp)
+![Automate Synchronization]({{ site.baseurl }}/images/Automate-Synchronization.webp)
 
 Use GitHub Actions to automate tasks like:
 - Detecting changes in source content.

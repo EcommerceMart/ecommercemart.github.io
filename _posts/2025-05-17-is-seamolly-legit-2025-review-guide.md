@@ -27,7 +27,7 @@ Seamolly is an online clothing retailer known for promoting fashion-forward outf
 
 ### Seamolly’s Website and Branding
 
-![Seamolly homepage user interface showing trending fashion items in 2025]({{ site.baseurl }}/assets/images/Seamolly-Website-and-Branding.webp)
+![Seamolly homepage user interface showing trending fashion items in 2025]({{ site.baseurl }}/images/Seamolly-Website-and-Branding.webp)
 
 A quick visit to [seamolly.com](https://www.seamolly.com) showcases minimalist design, curated collections, and aggressive discounts. The store features a wide range of trendy fashion, but skeptics are concerned about legitimacy, order fulfillment, and refund reliability.
 
@@ -152,7 +152,7 @@ Delivery timelines vary, with some users receiving items in 2–3 weeks and othe
 
 ### Return Policy Review
 
-![Customer reviews and ratings for Seamolly products on a mobile phone screen]({{ site.baseurl }}/assets/images/Customer-Reviews-and-Community.webp)
+![Customer reviews and ratings for Seamolly products on a mobile phone screen]({{ site.baseurl }}/images/Customer-Reviews-and-Community.webp)
 
 Returns are allowed within 14 days, but the process can be challenging. Users must email customer support, wait for a response, and ship at their own cost.
 

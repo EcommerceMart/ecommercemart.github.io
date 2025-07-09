@@ -26,7 +26,7 @@ Now, let’s review the best platforms to help you launch your store in minutes.
 
 ### Overview
 
-![Example of an online store dashboard showcasing orders, revenue, and customer insights.]({{ site.baseurl }}/assets/images/Shopify-section-overview.webp)
+![Example of an online store dashboard showcasing orders, revenue, and customer insights.]({{ site.baseurl }}/images/Shopify-section-overview.webp)
 
 Shopify is a leading **ecommerce website builder**, trusted by millions of businesses worldwide. It offers an all-in-one solution with an extensive app marketplace, customizable templates, and excellent customer support.
 
@@ -172,7 +172,7 @@ WooCommerce is a free, open-source plugin for WordPress. It’s perfect for busi
 
 ## How to Choose the Right Ecommerce Website Builder
 
-![Comparison chart showing features and pricing of top ecommerce website builders.]({{ site.baseurl }}/assets/images/How-to-Choose-the-Right-Ecommerce-Website-Builder.webp)
+![Comparison chart showing features and pricing of top ecommerce website builders.]({{ site.baseurl }}/images/How-to-Choose-the-Right-Ecommerce-Website-Builder.webp)
 
 Here are some factors to consider when selecting an ecommerce website builder:
 

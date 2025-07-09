@@ -32,7 +32,7 @@ Let’s explore each of these in detail and walk through how to resolve them.
 
 ## 1. Bank Declined the Transaction
 
-![Bank declined Taobao payment notification on a mobile screen with international transaction alert.]({{ site.baseurl }}/assets/images/Bank-Declined-the-Transaction.webp)
+![Bank declined Taobao payment notification on a mobile screen with international transaction alert.]({{ site.baseurl }}/images/Bank-Declined-the-Transaction.webp)
 
 ### Why It Happens
 
@@ -78,7 +78,7 @@ Many users report success using virtual cards from fintech platforms that suppor
 
 ## 2. Alipay Verification Incomplete or Incorrect
 
-![Alipay identity verification process on mobile app showing ID upload and KYC steps.]({{ site.baseurl }}/assets/images/Alipay-Verification-Incomplete-or-Incorrect.webp)
+![Alipay identity verification process on mobile app showing ID upload and KYC steps.]({{ site.baseurl }}/images/Alipay-Verification-Incomplete-or-Incorrect.webp)
 
 ### Why It Happens
 

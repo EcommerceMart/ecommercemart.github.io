@@ -60,7 +60,7 @@ Customize your account settings to enhance your shopping experience:
 
 ## How to Find the Best Deals on Taobao
 
-![Infographic showing steps to unlock the best deals on Taobao, including registration, coupons, group buying, and checkout.]({{ site.baseurl }}/assets/images/How-to-Find-the-Best-Deals-on-Taobao.webp)
+![Infographic showing steps to unlock the best deals on Taobao, including registration, coupons, group buying, and checkout.]({{ site.baseurl }}/images/How-to-Find-the-Best-Deals-on-Taobao.webp)
 
 ### 1. **Shop During Sales Events**
 Taobao hosts several major sales events throughout the year, including:
@@ -112,7 +112,7 @@ Use third-party apps or browser extensions to compare prices and ensure you're g
 
 ## How to Save on Shipping Costs
 
-![Icons for Taobao shipping methods: direct shipping, consolidated shipping, and freight forwarding options.]({{ site.baseurl }}/assets/images/How-to-Save-on-Shipping-Costs.webp)
+![Icons for Taobao shipping methods: direct shipping, consolidated shipping, and freight forwarding options.]({{ site.baseurl }}/images/How-to-Save-on-Shipping-Costs.webp)
 
 ### 1. **Consolidated Shipping**
 If purchasing from multiple sellers, use Taobao’s consolidated shipping service. This combines your orders into a single package, reducing shipping fees.

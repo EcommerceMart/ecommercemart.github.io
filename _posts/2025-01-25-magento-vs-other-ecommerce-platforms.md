@@ -101,7 +101,7 @@ BigCommerce is a hosted ecommerce platform known for its scalability and ease of
 
 ## Key Features Comparison Table
 
-![Comparison table highlighting features of Magento, Shopify, WooCommerce, and BigCommerce.]({{ site.baseurl }}/assets/images/Key-Features-Comparison-Table.webp)
+![Comparison table highlighting features of Magento, Shopify, WooCommerce, and BigCommerce.]({{ site.baseurl }}/images/Key-Features-Comparison-Table.webp)
 
 Here’s a quick comparison of Magento and other popular ecommerce platforms:  
 
@@ -118,7 +118,7 @@ Here’s a quick comparison of Magento and other popular ecommerce platforms:
 
 ## Why Choose Magento Over Others?
 
-![Ecommerce business growth illustration showcasing the benefits of the Magento ecommerce platform.]({{ site.baseurl }}/assets/images/Why-Choose-Magento-Over-Others.webp)
+![Ecommerce business growth illustration showcasing the benefits of the Magento ecommerce platform.]({{ site.baseurl }}/images/Why-Choose-Magento-Over-Others.webp)
 
 While other platforms like Shopify, WooCommerce, and BigCommerce offer their own set of strengths, the **Magento ecommerce platform** remains the top choice for businesses seeking:  
 - **Advanced customization** for unique business needs.  

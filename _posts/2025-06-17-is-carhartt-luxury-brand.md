@@ -74,7 +74,7 @@ In the last decade, Carhartt has become popular with streetwear fans, musicians,
 
 ### Carhartt WIP: The Fashion Side
 
-![Model wearing Carhartt WIP hooded jacket and cargo pants in an urban streetwear setting, showcasing modern style and durability]({{ site.baseurl }}/assets/images/Carhartt-WIP-The-Fashion-Side.webp)
+![Model wearing Carhartt WIP hooded jacket and cargo pants in an urban streetwear setting, showcasing modern style and durability]({{ site.baseurl }}/images/Carhartt-WIP-The-Fashion-Side.webp)
 
 Carhartt WIP (Work In Progress) is a special line started in Europe in the 1990s. WIP takes Carhartt’s classic workwear and gives it a modern, streetwear twist. WIP items use lighter fabrics, trendier fits, and often feature collaborations with high-end designers and artists. Carhartt WIP is sold in fashion boutiques and has become a favorite for those who want “blue-collar chic.”
 
@@ -142,7 +142,7 @@ Carhartt WIP is especially popular with fashion-conscious shoppers in cities and
 
 ## Carhartt’s Most Popular Products
 
-![ Person wearing classic Carhartt Detroit jacket working outdoors, demonstrating durable and reliable workwear]({{ site.baseurl }}/assets/images/Carhartt-Most-Popular-Products.webp)
+![ Person wearing classic Carhartt Detroit jacket working outdoors, demonstrating durable and reliable workwear]({{ site.baseurl }}/images/Carhartt-Most-Popular-Products.webp)
 
 Some of Carhartt’s best-selling items include:
 

@@ -40,7 +40,7 @@ Post-pandemic, there has been a significant shift toward online shopping in Duba
 
 ## Essential Features of a Successful Ecommerce Website
 
-![Ecommerce website interface with a product catalog, search bar, and secure payment options.]({{ site.baseurl }}/assets/images/Essential-Features-of-a-Successful-Ecommerce-Website.webp)
+![Ecommerce website interface with a product catalog, search bar, and secure payment options.]({{ site.baseurl }}/images/Essential-Features-of-a-Successful-Ecommerce-Website.webp)
 
 To thrive in Dubai’s competitive ecommerce market, your website must be user-friendly, fast, and optimized for search engines. Here are the must-have features:
 
@@ -108,7 +108,7 @@ Promote your store through:
 
 ## Benefits of Hiring Ecommerce Development Experts in Dubai
 
-![SEO expert analyzing website performance with keyword tools and growth charts.]({{ site.baseurl }}/assets/images/Benefits-of-Hiring-Ecommerce-Development-Experts-in-Dubai.webp)
+![SEO expert analyzing website performance with keyword tools and growth charts.]({{ site.baseurl }}/images/Benefits-of-Hiring-Ecommerce-Development-Experts-in-Dubai.webp)
 
 While DIY website builders are an option, hiring professionals for ecommerce website development in Dubai offers several advantages:
 

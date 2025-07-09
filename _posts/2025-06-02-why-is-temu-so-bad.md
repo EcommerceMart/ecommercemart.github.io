@@ -59,7 +59,7 @@ Descriptions and photos can be misleading, causing customers to expect better pr
 
 ### 2. Slow and Unreliable Shipping
 
-![Stack of packages with delayed shipment stickers representing slow shipping issues on Temu.]({{ site.baseurl }}/assets/images/Slow-and-Unreliable-Shipping.webp)
+![Stack of packages with delayed shipment stickers representing slow shipping issues on Temu.]({{ site.baseurl }}/images/Slow-and-Unreliable-Shipping.webp)
 
 Shipping is another major pain point for Temu users.
 

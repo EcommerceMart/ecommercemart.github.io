@@ -29,7 +29,7 @@ Without proper insurance, your online store could face legal and financial hurdl
 
 ## Key Types of Ecommerce Business Insurance
 
-![Infographic highlighting various types of insurance for ecommerce businesses, including Cyber Liability, Product Liability, General Liability, and Commercial Property Insurance.]({{ site.baseurl }}/assets/images/Key-Types-of-Ecommerce-Business-Insurance.webp)
+![Infographic highlighting various types of insurance for ecommerce businesses, including Cyber Liability, Product Liability, General Liability, and Commercial Property Insurance.]({{ site.baseurl }}/images/Key-Types-of-Ecommerce-Business-Insurance.webp)
 
 Here are the most important types of insurance that every online store owner should consider:
 
@@ -92,7 +92,7 @@ If your ecommerce business employs staff, this insurance is often a legal requir
 
 ## How to Choose the Right Business Insurance
 
-![Graphic showing a checklist of ecommerce business risks, including data breaches, product defects, and operational disruptions, with icons for protection.]({{ site.baseurl }}/assets/images/How-to-Choose-the-Right-Business-Insurance.webp)
+![Graphic showing a checklist of ecommerce business risks, including data breaches, product defects, and operational disruptions, with icons for protection.]({{ site.baseurl }}/images/How-to-Choose-the-Right-Business-Insurance.webp)
 
 Selecting the right insurance policy for your online store requires careful planning and research. Here’s how to get started:
 

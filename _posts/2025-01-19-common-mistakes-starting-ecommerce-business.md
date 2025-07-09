@@ -14,7 +14,7 @@ Starting an **Ecommerce Business** is an exciting journey, but it’s also fraug
 
 ## 1. **Skipping Market Research**
 
-![Infographic depicting target audience research for an ecommerce business.]({{ site.baseurl }}/assets/images/Skipping-Market-Research.webp)
+![Infographic depicting target audience research for an ecommerce business.]({{ site.baseurl }}/images/Skipping-Market-Research.webp)
 
 Market research is the foundation of a successful **Ecommerce Business**. Many entrepreneurs skip this critical step, assuming their product will sell itself.
 
@@ -50,7 +50,7 @@ Your website is your digital storefront. If it’s not visually appealing or use
 ## 4. **Neglecting Mobile Optimization**
 With mobile shopping on the rise, failing to optimize your site for mobile users is a costly mistake.
 
-![Responsive ecommerce website design displayed on a smartphone and laptop.]({{ site.baseurl }}/assets/images/Neglecting-Mobile-Optimization.webp)
+![Responsive ecommerce website design displayed on a smartphone and laptop.]({{ site.baseurl }}/images/Neglecting-Mobile-Optimization.webp)
 
 ### Why It’s a Mistake:
 Over 60% of ecommerce traffic comes from mobile devices. A poor mobile experience means lost sales.

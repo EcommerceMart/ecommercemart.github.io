@@ -38,7 +38,7 @@ The e-commerce industry has grown exponentially over the past decade, driven by 
 
 ## Benefits of Electronic Commerce E-Commerce
 
-![Secure online transactions with digital payment methods like PayPal, Apple Pay, and cryptocurrency wallets.]({{ site.baseurl }}/assets/images/Benefits-of-Electronic-Commerce-E-Commerce.webp)
+![Secure online transactions with digital payment methods like PayPal, Apple Pay, and cryptocurrency wallets.]({{ site.baseurl }}/images/Benefits-of-Electronic-Commerce-E-Commerce.webp)
 
 ### 1. **Convenience**
 Consumers can shop anytime, anywhere, without the need to visit physical stores.
@@ -73,7 +73,7 @@ Building trust through secure transactions, quality service, and good customer s
 
 ## Future Trends in E-Commerce
 
-![Artificial intelligence (AI) and automation enhancing e-commerce through personalized recommendations and chatbots.]({{ site.baseurl }}/assets/images/Future-Trends-in-E-Commerce.webp)
+![Artificial intelligence (AI) and automation enhancing e-commerce through personalized recommendations and chatbots.]({{ site.baseurl }}/images/Future-Trends-in-E-Commerce.webp)
 
 ### 1. **AI and Machine Learning**
 Artificial intelligence enhances customer experiences through chatbots, personalized recommendations, and demand forecasting.

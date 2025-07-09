@@ -31,7 +31,7 @@ These services often include:
 
 ## Why Choose Ecommerce Website Development Services?
 
-![Customizable ecommerce website design editor showcasing layout options.]({{ site.baseurl }}/assets/images/Why-Choose-Ecommerce-Website-Development-Services.jpeg)
+![Customizable ecommerce website design editor showcasing layout options.]({{ site.baseurl }}/images/Why-Choose-Ecommerce-Website-Development-Services.jpeg)
 
 Choosing the right **ecommerce website development services** is essential for creating an online store that drives sales and enhances customer experience. Here are some reasons why businesses should opt for professional ecommerce development services:
 
@@ -54,7 +54,7 @@ Online payment processing is a key component of any ecommerce site. Development 
 
 ## Key Features of Ecommerce Website Development Services
 
-![Ecommerce website payment gateway integration options.]({{ site.baseurl }}/assets/images/Key Features-of-Ecommerce-Website-Development-Services.jpeg)
+![Ecommerce website payment gateway integration options.]({{ site.baseurl }}/images/Key Features-of-Ecommerce-Website-Development-Services.jpeg)
 
 A professional **ecommerce website development service** offers a broad range of features that can significantly enhance your website's functionality and user experience. Here are some of the essential features to look for:
 

@@ -48,7 +48,7 @@ E-commerce offers numerous advantages, including:
 ---
 
 ## 3. How to Start an E-Commerce Business
-![Infographic illustrating the seven steps to start an electronic commerce (e-commerce) business, from niche selection to marketing.]({{ site.baseurl }}/assets/images/How-to-Start-an-E-Commerce-Business.webp)
+![Infographic illustrating the seven steps to start an electronic commerce (e-commerce) business, from niche selection to marketing.]({{ site.baseurl }}/images/How-to-Start-an-E-Commerce-Business.webp)
 
 Starting an e-commerce business requires careful planning. Follow these steps to get started:
 

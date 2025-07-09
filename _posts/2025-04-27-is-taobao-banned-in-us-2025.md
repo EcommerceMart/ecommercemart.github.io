@@ -52,7 +52,7 @@ Because Taobao is a major Chinese platform owned by Alibaba Group, it is often m
 
 ## Can You Access Taobao from the U.S.?
 
-![Taobao app interface displaying shopping categories and products.]({{ site.baseurl }}/assets/images/Can-You-Access-Taobao-from-the-US.webp)
+![Taobao app interface displaying shopping categories and products.]({{ site.baseurl }}/images/Can-You-Access-Taobao-from-the-US.webp)
 
 ### Availability
 
@@ -132,7 +132,7 @@ Taobao is generally safe if you take the following precautions:
 
 ## Using a VPN to Access Taobao
 
-![User accessing Taobao through a VPN connection on a laptop.]({{ site.baseurl }}/assets/images/Using-VPN-to-Access-Taobao.webp)
+![User accessing Taobao through a VPN connection on a laptop.]({{ site.baseurl }}/images/Using-VPN-to-Access-Taobao.webp)
 
 ### Is It Necessary?
 

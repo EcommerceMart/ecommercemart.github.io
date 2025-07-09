@@ -27,7 +27,7 @@ In this comparison, we’ll explore the key differences between **Magento Market
 
 ## Key Features Comparison
 
-![Side-by-side comparison of Magento and Shopify seller dashboards.]({{ site.baseurl }}/assets/images/Key-Features-Comparison.webp)
+![Side-by-side comparison of Magento and Shopify seller dashboards.]({{ site.baseurl }}/images/Key-Features-Comparison.webp)
 
 ### 1. **Ease of Use**
 - **Magento Marketplace:** Designed for developers and advanced users, Magento requires technical skills for setup and customization.
@@ -53,7 +53,7 @@ In this comparison, we’ll explore the key differences between **Magento Market
 - **Magento:** Supports multi-vendor marketplaces with extensions like **Magento Marketplace Module**.
 - **Shopify:** Requires third-party apps like **Multi-Vendor Marketplace by Webkul** to enable marketplace functionality.
 
-![Illustration of a multi-vendor marketplace with different sellers and product listings]({{ site.baseurl }}/assets/images/Multi-Vendor-Marketplace-Support.webp)
+![Illustration of a multi-vendor marketplace with different sellers and product listings]({{ site.baseurl }}/images/Multi-Vendor-Marketplace-Support.webp)
 
 ## Pros and Cons
 

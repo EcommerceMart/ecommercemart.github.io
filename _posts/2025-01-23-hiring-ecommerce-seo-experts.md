@@ -49,7 +49,7 @@ While these features are helpful, they often require fine-tuning. That’s where
 
 ## The Role of Ecommerce SEO Experts
 
-![Optimized ecommerce product page with SEO-friendly meta titles, descriptions, and images.]({{ site.baseurl }}/assets/images/The-Role-of-Ecommerce-SEO-Experts-hiring.webp)
+![Optimized ecommerce product page with SEO-friendly meta titles, descriptions, and images.]({{ site.baseurl }}/images/The-Role-of-Ecommerce-SEO-Experts-hiring.webp)
 
 Ecommerce SEO experts specialize in optimizing online stores for search engines. They bridge the gap between your website builder’s capabilities and the advanced strategies needed to outperform competitors.
 
@@ -85,7 +85,7 @@ Ecommerce SEO experts specialize in optimizing online stores for search engines.
 
 ## Why Hiring Ecommerce SEO Experts is a Game-Changer
 
-![Team of SEO experts discussing strategies for ecommerce website optimization.]({{ site.baseurl }}/assets/images/Why Hiring-Ecommerce-SEO-Experts-is-a-Game-Changer.webp)
+![Team of SEO experts discussing strategies for ecommerce website optimization.]({{ site.baseurl }}/images/Why Hiring-Ecommerce-SEO-Experts-is-a-Game-Changer.webp)
 
 ### 1. **Expertise and Experience**
 Ecommerce SEO experts understand the complexities of optimizing online stores. They know what works and can implement strategies that yield measurable results.

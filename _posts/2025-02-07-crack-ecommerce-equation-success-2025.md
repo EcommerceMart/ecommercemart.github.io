@@ -18,7 +18,7 @@ In this guide, we break down the **ecommerce equation** and how you can use it t
 
 ## **What is the Ecommerce Equation?**
 
-![An infographic illustrating the ecommerce equation: Traffic × Conversion Rate × Average Order Value - Costs.]({{ site.baseurl }}/assets/images/What-is-the-Ecommerce-Equation.webp)
+![An infographic illustrating the ecommerce equation: Traffic × Conversion Rate × Average Order Value - Costs.]({{ site.baseurl }}/images/What-is-the-Ecommerce-Equation.webp)
 
 The **ecommerce equation** is a proven formula that determines how profitable an online business can be:
 
@@ -56,7 +56,7 @@ Getting traffic is the first step in the ecommerce equation. But not just any tr
 
 ## **Step 2: Optimizing Conversion Rate (CR)**
 
-![A happy customer browsing an ecommerce store on a laptop, adding items to the cart, and completing checkout.]({{ site.baseurl }}/assets/images/Optimizing-Conversion-Rate.webp)
+![A happy customer browsing an ecommerce store on a laptop, adding items to the cart, and completing checkout.]({{ site.baseurl }}/images/Optimizing-Conversion-Rate.webp)
 
 More-traffic is great, but without a solid **conversion strategy**, it won’t lead to more sales.
 

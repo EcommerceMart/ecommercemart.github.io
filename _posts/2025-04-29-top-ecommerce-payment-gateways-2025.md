@@ -36,7 +36,7 @@ An ecommerce payment gateway is a technology service that securely processes cre
 - **Global Expansion**: Supports multiple currencies and payment methods.
 - **Brand Trust**: A familiar and secure checkout process increases buyer confidence.
 
-![Flowchart illustrating the e-commerce payment process from customer order to merchant bank settlement.]({{ site.baseurl }}/assets/images/How-the-Right-Payment-Gateway-Impacts-Your-Online-Business.webp)
+![Flowchart illustrating the e-commerce payment process from customer order to merchant bank settlement.]({{ site.baseurl }}/images/How-the-Right-Payment-Gateway-Impacts-Your-Online-Business.webp)
 
 
 ---
@@ -60,7 +60,7 @@ Some providers offer premium services with a monthly subscription in exchange fo
 - Fraud Detection Systems
 - PCI DSS Certification
 
-![Illustration depicting secure online payment with a smartphone, credit cards, and a padlock symbolizing data protection.]({{ site.baseurl }}/assets/images/Security-and-PCI-Compliance.webp)
+![Illustration depicting secure online payment with a smartphone, credit cards, and a padlock symbolizing data protection.]({{ site.baseurl }}/images/Security-and-PCI-Compliance.webp)
 
 ### Payment Methods and Currency Support
 

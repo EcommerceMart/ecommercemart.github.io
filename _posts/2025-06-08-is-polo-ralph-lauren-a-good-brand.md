@@ -51,7 +51,7 @@ Many shoppers praise the durability and comfort of Polo’s classic pieces, like
 
 ### **2. Timeless Style and Versatility**
 
-![Close-up of Tommy Hilfiger logo embroidered on a navy blue polo shirt]({{ site.baseurl }}/assets/images/Timeless-Style-and-Versatility.webp)
+![Close-up of Tommy Hilfiger logo embroidered on a navy blue polo shirt]({{ site.baseurl }}/images/Timeless-Style-and-Versatility.webp)
 
 Polo Ralph Lauren is famous for its classic American style—think preppy sweaters, tailored jackets, and crisp shirts. The brand’s collections are known for their versatility, making it easy to dress up or down for any occasion.
 

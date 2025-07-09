@@ -15,7 +15,7 @@ GitHub makes collaborative development efficient by providing version control, e
 #### Step 1: Organize Your Project Repository
 Organizing your GitHub repository is essential for a clear and efficient workflow. Here’s how to structure it effectively.
 
-![GitHub collaboration features for e-commerce development: branches, pull requests, and code reviews]({{ site.baseurl }}/assets/images/GitHub-collaboration-features-for-ecommerce-development.webp)
+![GitHub collaboration features for e-commerce development: branches, pull requests, and code reviews]({{ site.baseurl }}/images/GitHub-collaboration-features-for-ecommerce-development.webp)
 
 1. **Create Clear Directories**
 + Organize files into folders like frontend, backend, assets, and documentation.
@@ -68,7 +68,7 @@ Pull requests are essential for reviewing and merging code from feature branches
 #### Step 4: Conduct Code Reviews
 Code reviews help maintain high-quality code and ensure everyone understands what’s being added or changed in the project.
 
-![GitHub repository with team members collaborating on pull requests for an e-commerce project]({{ site.baseurl }}/assets/images/GitHub-repository-with-team-members-collaborating-on-pull-requests-for-ecommerce-project.webp)
+![GitHub repository with team members collaborating on pull requests for an e-commerce project]({{ site.baseurl }}/images/GitHub-repository-with-team-members-collaborating-on-pull-requests-for-ecommerce-project.webp)
 
 1. **Review Carefully**
 + When reviewing, check for code consistency, readability, and potential bugs.

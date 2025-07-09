@@ -53,7 +53,7 @@ Taobao is China's largest online shopping platform, offering a massive range of 
 
 ## Searching for Lululemon on Taobao
 
-![Screenshot of Taobao search results for women's activewear resembling Lululemon.]({{ site.baseurl }}/assets/images/Using-the-Right-Keywords.webp)
+![Screenshot of Taobao search results for women's activewear resembling Lululemon.]({{ site.baseurl }}/images/Using-the-Right-Keywords.webp)
 
 ### Using the Right Keywords
 
@@ -162,7 +162,7 @@ Many sellers do not accept international returns. It’s best to:
 
 ## Comparing Taobao Brands to Lululemon
 
-![Side-by-side photo comparison of original Lululemon leggings and Taobao alternatives with similar designs.]({{ site.baseurl }}/assets/images/Comparing-Taobao-Brands-to-Lululemon.webp)
+![Side-by-side photo comparison of original Lululemon leggings and Taobao alternatives with similar designs.]({{ site.baseurl }}/images/Comparing-Taobao-Brands-to-Lululemon.webp)
 
 ### Similarities
 

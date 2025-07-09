@@ -19,7 +19,7 @@ Starting an ecommerce business is a lucrative opportunity in today’s digital a
 
 Subscription box services are gaining popularity across various niches, from beauty products to meal kits. Consumers enjoy the convenience of receiving curated items regularly, making this a recurring revenue model.
 
-![A curated subscription box with beauty products, snacks, and accessories representing the ecommerce subscription model.]({{ site.baseurl }}/assets/images/Subscription-Boxes-Growing-Trend-in-Ecommerce.webp)
+![A curated subscription box with beauty products, snacks, and accessories representing the ecommerce subscription model.]({{ site.baseurl }}/images/Subscription-Boxes-Growing-Trend-in-Ecommerce.webp)
 
 #### Key Benefits:
 - Predictable income through subscriptions.
@@ -70,7 +70,7 @@ Selling digital products like e-books, online courses, and printables can be a h
 
 ### 6. **Sustainable and Eco-Friendly Products**
 
-![Eco-friendly ecommerce products including reusable water bottles and metal straws, promoting sustainability.]({{ site.baseurl }}/assets/images/Sustainable-and-Eco-Friendly-Products.webp)
+![Eco-friendly ecommerce products including reusable water bottles and metal straws, promoting sustainability.]({{ site.baseurl }}/images/Sustainable-and-Eco-Friendly-Products.webp)
 
 Sustainability is a growing concern for consumers. Offering environmentally friendly products can set your business apart.
 

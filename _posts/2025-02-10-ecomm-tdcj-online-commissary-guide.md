@@ -24,7 +24,7 @@ Staying connected with incarcerated loved ones is essential, and the **Texas Dep
 
 ## How to Use Ecomm TDCJ
 
-![Step-by-step guide to using Ecomm TDCJ for sending commissary orders to Texas inmates securely.]({{ site.baseurl }}/assets/images/How-to-Use-Ecomm-TDCJ.webp)
+![Step-by-step guide to using Ecomm TDCJ for sending commissary orders to Texas inmates securely.]({{ site.baseurl }}/images/How-to-Use-Ecomm-TDCJ.webp)
 
 To successfully send items through **Ecomm TDCJ**, follow these steps:
 
@@ -83,7 +83,7 @@ Most major credit and debit cards are accepted for transactions.
 
 ## Recent Job Postings at TDCJ
 
-![Current job openings at the Texas Department of Criminal Justice (TDCJ) for 2025.]({{ site.baseurl }}/assets/images/Recent-Job-Postings-at-TDCJ.webp)
+![Current job openings at the Texas Department of Criminal Justice (TDCJ) for 2025.]({{ site.baseurl }}/images/Recent-Job-Postings-at-TDCJ.webp)
 
 If you're interested in working with the **Texas Department of Criminal Justice**, here are some recent job openings:
 

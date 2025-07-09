@@ -42,7 +42,7 @@ SEO is essential for driving organic traffic to your ecommerce website.
 #### **2. Utilize Social Media Marketing**  
 Social platforms are powerful for promoting your ecommerce store.  
 
-![Marketing team brainstorming ecommerce strategies with a whiteboard showing sales metrics.]({{ site.baseurl }}/assets/images/Collaborative-Marketing-Approaches.webp)
+![Marketing team brainstorming ecommerce strategies with a whiteboard showing sales metrics.]({{ site.baseurl }}/images/Collaborative-Marketing-Approaches.webp)
 
 **Best Practices:**  
 - **Platform Selection**: Focus on platforms where your audience is active, like Instagram, Facebook, or TikTok.  
@@ -104,7 +104,7 @@ Retargeting helps bring back visitors who didn’t convert initially.
 #### **7. Encourage User-Generated Content (UGC)**  
 UGC builds trust and authenticity for your brand.  
 
-![Mobile phone showing an ecommerce product ad on social media, surrounded by sticky notes and analytics charts.]({{ site.baseurl }}/assets/images/Social-Media-Advertising-Strategies.webp)
+![Mobile phone showing an ecommerce product ad on social media, surrounded by sticky notes and analytics charts.]({{ site.baseurl }}/images/Social-Media-Advertising-Strategies.webp)
 
 **How to Encourage UGC:**  
 - **Social Media Campaigns**: Ask customers to share photos of your products.  

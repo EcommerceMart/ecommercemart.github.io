@@ -25,7 +25,7 @@ Con el auge de la digitalización, cada vez más empresas están apostando por e
 
 ## Tipos de ecommerce
 
-![Infografía con los principales tipos de ecommerce y sus ejemplos]({{ site.baseurl }}/assets/images/Tipos-de-ecommerce.webp)
+![Infografía con los principales tipos de ecommerce y sus ejemplos]({{ site.baseurl }}/images/Tipos-de-ecommerce.webp)
 
 Existen diferentes tipos de ecommerce, según el tipo de transacción que se realiza:
 
@@ -61,7 +61,7 @@ El comercio electrónico ofrece numerosas ventajas tanto para emprendedores como
 
 ## Claves del éxito en ecommerce
 
-![Infografía con los principales tipos de ecommerce y sus ejemplos]({{ site.baseurl }}/assets/images/Claves-del-éxito-en-ecommerce.webp)
+![Infografía con los principales tipos de ecommerce y sus ejemplos]({{ site.baseurl }}/images/Claves-del-éxito-en-ecommerce.webp)
 
 Si quieres triunfar en el ecommerce, debes aplicar estrategias efectivas. Aquí tienes algunas claves fundamentales:
 

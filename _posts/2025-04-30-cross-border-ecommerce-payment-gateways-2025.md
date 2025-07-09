@@ -49,7 +49,7 @@ An ecommerce payment gateway is a technology used to securely process payments m
 - Fraud detection and chargeback protection
 - Local payment options
 
-![Multi-currency checkout interface showing different payment options and currency selection]({{ site.baseurl }}/assets/images/Key-Features-for-Cross-Border-eCommerce.webp)
+![Multi-currency checkout interface showing different payment options and currency selection]({{ site.baseurl }}/images/Key-Features-for-Cross-Border-eCommerce.webp)
 
 ---
 
@@ -76,7 +76,7 @@ Select gateways with a wide range of localized payment integrations.
 ### 4. Fraud Risk
 Cross-border transactions often have higher fraud rates due to verification challenges.
 
-![Fraud detection dashboard for monitoring cross-border eCommerce transactions]({{ site.baseurl }}/assets/images/Fraud-Risk.webp)
+![Fraud detection dashboard for monitoring cross-border eCommerce transactions]({{ site.baseurl }}/images/Fraud-Risk.webp)
 
 #### Solution:
 Opt for gateways with robust fraud detection, AI-based screening, and geo-IP tracking.

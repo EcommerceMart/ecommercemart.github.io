@@ -66,7 +66,7 @@ Ensure your ecommerce store is:
 
 ## Step 4: Source Your Products
 
-![Packaging materials and a laptop showcasing an ecommerce dashboard, symbolizing online order fulfillment.]({{ site.baseurl }}/assets/images/Source-Your-Products.webp)
+![Packaging materials and a laptop showcasing an ecommerce dashboard, symbolizing online order fulfillment.]({{ site.baseurl }}/images/Source-Your-Products.webp)
 
 ### 4.1 Find Reliable Suppliers
 - Use platforms like **Alibaba**, **AliExpress**, or **SaleHoo**.
@@ -91,7 +91,7 @@ Offer multiple shipping options, including:
 
 ## Step 6: Implement Marketing Strategies
 
-![Diverse group of people shopping online with mobile devices, representing the global ecommerce audience.]({{ site.baseurl }}/assets/images/Implement-Marketing-Strategies.webp)
+![Diverse group of people shopping online with mobile devices, representing the global ecommerce audience.]({{ site.baseurl }}/images/Implement-Marketing-Strategies.webp)
 
 ### 6.1 Optimize for SEO
 - Use relevant keywords like "ecommerce business" in titles, descriptions, and content.

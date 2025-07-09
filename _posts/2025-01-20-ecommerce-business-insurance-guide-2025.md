@@ -53,7 +53,7 @@ Expanding into international markets introduces new risks, including compliance 
 
 ## Types of Ecommerce Business Insurance
 
-![Infographic showcasing the types of ecommerce insurance: General Liability, Cyber Liability, Product Liability, and Commercial Property Insurance.]({{ site.baseurl }}/assets/images/Types-of-Ecommerce-Business-Insurance.webp)
+![Infographic showcasing the types of ecommerce insurance: General Liability, Cyber Liability, Product Liability, and Commercial Property Insurance.]({{ site.baseurl }}/images/Types-of-Ecommerce-Business-Insurance.webp)
 
 To fully protect your business, consider the following types of insurance:
 
@@ -117,7 +117,7 @@ Seek advice from insurance experts or brokers who specialize in ecommerce. They 
 
 ## Common Mistakes to Avoid
 
-![Graphic illustrating cybersecurity risks for ecommerce in 2025, including malware, phishing attacks, and data breaches.]({{ site.baseurl }}/assets/images/Cybersecurity-Risks-for-Ecommerce-in-2025.webp)
+![Graphic illustrating cybersecurity risks for ecommerce in 2025, including malware, phishing attacks, and data breaches.]({{ site.baseurl }}/images/Cybersecurity-Risks-for-Ecommerce-in-2025.webp)
 
 Many ecommerce businesses overlook crucial aspects when purchasing insurance. Avoid these mistakes:
 

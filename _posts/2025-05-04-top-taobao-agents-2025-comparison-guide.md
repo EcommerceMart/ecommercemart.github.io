@@ -69,7 +69,7 @@ Some agents offer extras like high-resolution product photography, pre-shipping 
 
 ## Top 5 Taobao Agents in 2025
 
-![Top Taobao Agents for International Shoppers in 2025" at the top of the image. Keep it centered and bold to ensure readability.]({{ site.baseurl }}/assets/images/Top-5-Taobao-Agents-in-2025.webp)
+![Top Taobao Agents for International Shoppers in 2025" at the top of the image. Keep it centered and bold to ensure readability.]({{ site.baseurl }}/images/Top-5-Taobao-Agents-in-2025.webp)
 
 ### 1. Superbuy
 
@@ -257,7 +257,7 @@ Popular among new shoppers due to low costs. Forums highlight Cssbuy's ease of p
 
 ## Choosing the Best Taobao Agent for You
 
-![Navigate Taobao Shopping with Trusted Agents" placed at the top with a modern, clean font. Ensure the text stands out without covering the main subject of the image.]({{ site.baseurl }}/assets/images/Choosing-the-Best-Taobao-Agent-for-You.webp)
+![Navigate Taobao Shopping with Trusted Agents" placed at the top with a modern, clean font. Ensure the text stands out without covering the main subject of the image.]({{ site.baseurl }}/images/Choosing-the-Best-Taobao-Agent-for-You.webp)
 
 ### Occasional Buyers
 If you shop infrequently, prioritize agents like Superbuy or Wegobuy that offer full-service packages and long warehouse storage.

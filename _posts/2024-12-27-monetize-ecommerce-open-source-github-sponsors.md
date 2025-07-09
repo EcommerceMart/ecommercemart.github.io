@@ -41,7 +41,7 @@ GitHub Sponsors is a platform that allows developers and organizations to receiv
 
 To start using GitHub Sponsors for your **e-commerce website GitHub** projects, follow these steps:
 
-![Infographic showing steps to set up GitHub Sponsors for open-source projects on GitHub.]({{ site.baseurl }}/assets/images/Steps-to-Set-Up-GitHub-Sponsors.webp)
+![Infographic showing steps to set up GitHub Sponsors for open-source projects on GitHub.]({{ site.baseurl }}/images/Steps-to-Set-Up-GitHub-Sponsors.webp)
 
 ### 1. **Join the GitHub Sponsors Program**
 
@@ -105,7 +105,7 @@ Open-source e-commerce tools like themes, checkout plugins, and analytics dashbo
 
 The success of an open-source project depends on its community. Here’s how to build and nurture one:
 
-![Building a Community and Contributor Base]({{ site.baseurl }}/assets/images/Building-a-Community-and-Contributor-Base.webp)
+![Building a Community and Contributor Base]({{ site.baseurl }}/images/Building-a-Community-and-Contributor-Base.webp)
 
 ### 1. **Engage with Your Community**
 

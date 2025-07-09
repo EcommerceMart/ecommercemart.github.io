@@ -35,7 +35,7 @@ While originally designed for the domestic Chinese market, platforms like Pandab
 
 ## Understanding Taobao’s Product Quality Spectrum
 
-![Side-by-side comparison of high-quality vs low-quality products bought from Taobao]({{ site.baseurl }}/assets/images/Understanding-Taobao.webp)
+![Side-by-side comparison of high-quality vs low-quality products bought from Taobao]({{ site.baseurl }}/images/Understanding-Taobao.webp)
 
 
 ### Why Quality Varies
@@ -178,7 +178,7 @@ Use translation apps to ask questions directly or through your agent.
 
 ## Shipping & Returns: What to Expect
 
-![Customer reviews and ratings on Taobao products from real users]({{ site.baseurl }}/assets/images/Shipping-and-Returns.webp)
+![Customer reviews and ratings on Taobao products from real users]({{ site.baseurl }}/images/Shipping-and-Returns.webp)
 
 ### Shipping Options
 

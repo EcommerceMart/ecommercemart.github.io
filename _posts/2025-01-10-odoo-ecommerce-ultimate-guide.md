@@ -31,7 +31,7 @@ Odoo Ecommerce is a part of the Odoo suite, an open-source business management p
 
 ## Why Choose Odoo Ecommerce for Your Online Store?
 
-![Diagram showing Odoo Ecommerce integration with CRM, Inventory, and Accounting modules.]({{ site.baseurl }}/assets/images/Why-Choose-Odoo-Ecommerce-for-Your-Online-Store.jpeg)
+![Diagram showing Odoo Ecommerce integration with CRM, Inventory, and Accounting modules.]({{ site.baseurl }}/images/Why-Choose-Odoo-Ecommerce-for-Your-Online-Store.jpeg)
 
 Odoo Ecommerce stands out among other ecommerce platforms for several reasons:
 
@@ -51,7 +51,7 @@ The drag-and-drop website builder makes it easy to create a professional online 
 
 ## Features of Odoo Ecommerce in Detail
 
-![Odoo Ecommerce website builder interface with drag-and-drop features.]({{ site.baseurl }}/assets/images/Features-of-Odoo-Ecommerce-in-Detail.jpeg)
+![Odoo Ecommerce website builder interface with drag-and-drop features.]({{ site.baseurl }}/images/Features-of-Odoo-Ecommerce-in-Detail.jpeg)
 
 ### 1. **Website Builder**
 Odoo Ecommerce includes a powerful website builder with pre-designed themes. You can create and customize your online store using its drag-and-drop functionality.

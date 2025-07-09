@@ -19,7 +19,7 @@ This guide will walk you through the essential factors to consider when choosing
 
 ## Why B2B Ecommerce Solutions Matter
 
-![Illustration of a B2B ecommerce workflow, showcasing automated order processing, CRM integration, and bulk purchasing features.]({{ site.baseurl }}/assets/images/Why-B2B-Ecommerce-Solutions-Matter.webp)
+![Illustration of a B2B ecommerce workflow, showcasing automated order processing, CRM integration, and bulk purchasing features.]({{ site.baseurl }}/images/Why-B2B-Ecommerce-Solutions-Matter.webp)
 
 A **B2B ecommerce solution** helps businesses manage online sales, automate processes, and enhance the buying experience for corporate customers. Key benefits include:
 
@@ -85,7 +85,7 @@ Consider not just upfront costs but also long-term expenses like maintenance and
 
 ## Top B2B Ecommerce Platforms to Consider
 
-![Comparison chart of top B2B ecommerce solutions like Shopify Plus, Magento Commerce, and BigCommerce, highlighting key features and pricing.]({{ site.baseurl }}/assets/images/Top-B2B-Ecommerce-Platforms-to-Consider.webp)
+![Comparison chart of top B2B ecommerce solutions like Shopify Plus, Magento Commerce, and BigCommerce, highlighting key features and pricing.]({{ site.baseurl }}/images/Top-B2B-Ecommerce-Platforms-to-Consider.webp)
 
 ### 🏆 **Shopify Plus** - Best for Growing Businesses  
 - **Why?** Scalable and easy to use with strong integrations.  

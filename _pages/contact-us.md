@@ -21,7 +21,7 @@ permalink: "/contact-us"
 <p class="mb-4">We strive to respond within 24-48 hours during business days. We appreciate your interest and look forward to assisting you!</p>
 <br>
 <div markdown="1">
-![Contact us for support on GitHub and e-commerce development inquiries]({{ site.baseurl }}/assets/images/Contact-us-for-support-on-GitHub-and-ecommerce-development-inquiries.webp)
+![Contact us for support on GitHub and e-commerce development inquiries]({{ site.baseurl }}/images/Contact-us-for-support-on-GitHub-and-ecommerce-development-inquiries.webp)
 </div>
 <br>
 

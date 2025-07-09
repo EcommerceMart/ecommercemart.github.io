@@ -23,7 +23,7 @@ Taobao Global is a cross-border extension of Taobao, Alibaba’s massive e-comme
 ### Why Focus on Shipping?
 
 
-![Taobao Global checkout page with shipping method options for international users]({{ site.baseurl }}/assets/images/Why-Focus-on-Shipping.webp)
+![Taobao Global checkout page with shipping method options for international users]({{ site.baseurl }}/images/Why-Focus-on-Shipping.webp)
 
 Shipping is the most complicated and often misunderstood part of the Taobao experience. Many Reddit threads and forums are filled with questions about:
 
@@ -168,7 +168,7 @@ Buyers are responsible for customs charges in their destination country. Courier
 
 ## Shipping Tips for 2025
 
-![Comparison of consolidated shipping and individual parcel costs for Taobao Global users]({{ site.baseurl }}/assets/images/Shipping-Tips-for-2025.webp)
+![Comparison of consolidated shipping and individual parcel costs for Taobao Global users]({{ site.baseurl }}/images/Shipping-Tips-for-2025.webp)
 
 ### Tip 1: Consolidate Items for Better Value
 

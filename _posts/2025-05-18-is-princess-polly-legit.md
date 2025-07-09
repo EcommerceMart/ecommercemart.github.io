@@ -169,7 +169,7 @@ With tracking, estimated delivery windows are accurate. Most delays occur around
 
 ### Influencer Endorsements
 
-![Influencer showcasing a Princess Polly outfit during a fashion haul.]({{ site.baseurl }}/assets/images/Influencer-Endorsements.webp)
+![Influencer showcasing a Princess Polly outfit during a fashion haul.]({{ site.baseurl }}/images/Influencer-Endorsements.webp)
 
 Numerous influencers regularly showcase Princess Polly hauls on platforms like TikTok and YouTube. Brands often partner with them for discount codes, indicating an ongoing influencer marketing strategy.
 
@@ -194,7 +194,7 @@ Numerous influencers regularly showcase Princess Polly hauls on platforms like T
 
 ## Is Princess Polly Sustainable?
 
-![Close-up of Princess Polly’s Earth Club sustainable clothing label.]({{ site.baseurl }}/assets/images/Is-Princess-Polly-Sustainable.webp)
+![Close-up of Princess Polly’s Earth Club sustainable clothing label.]({{ site.baseurl }}/images/Is-Princess-Polly-Sustainable.webp)
 
 Princess Polly is making efforts toward sustainability:
 
