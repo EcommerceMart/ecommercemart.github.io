@@ -1,7 +1,7 @@
 ---
 title: "EcommerceMart Terms of Service: Rules for Using Our Website"
 description: "Review the terms and conditions for accessing and using the content and features on EcommerceMart."
-layout: page-sidebar
+layout: page
 permalink: "/terms-of-service"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Disclaimer for EcommerceMart: Transparency in Our Content and Links"
 description: "This disclaimer explains how we earn from affiliate links and the accuracy of our ecommerce-related content."
-layout: page-sidebar
+layout: page
 permalink: "/disclaimer"
 ---
 

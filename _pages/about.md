@@ -1,5 +1,5 @@
 ---
-layout: page-sidebar
+layout: page
 title: "About EcommerceMart: Your Trusted Guide to Ecommerce Trends and Tools"
 description: "Learn about EcommerceMart, your go-to resource for ecommerce insights, product guides, and tech trends tailored to online businesses."
 permalink: /about-us

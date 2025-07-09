@@ -1,7 +1,7 @@
 ---
 title: "Contact EcommerceMart: We're Here to Help You Succeed Online"
 description: "Get in touch with EcommerceMart for inquiries, support, collaborations, or feedback. We’re always happy to hear from you."
-layout: page-sidebar
+layout: page
 permalink: "/contact-us"
 ---
 <form action="https://formspree.io/f/xbljyolq" method="POST">    

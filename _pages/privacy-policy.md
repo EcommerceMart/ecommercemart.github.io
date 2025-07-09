@@ -1,6 +1,6 @@
 ---
 title: "EcommerceMart Privacy Policy: How We Protect Your Data"
-layout: page-sidebar
+layout: page
 description: "Read our privacy policy to understand how EcommerceMart collects, uses, and safeguards your personal information."
 permalink: "/privacy-policy"
 ---

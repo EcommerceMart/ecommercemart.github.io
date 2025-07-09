@@ -1,7 +1,8 @@
 ---
-layout: page-sidebar
+layout: page
 title: "Shipping Cost Estimator Tool"
 description: "Use our Shipping Cost Estimator Tool to calculate accurate shipping fees for your eCommerce store. Estimate domestic and international shipping costs easily based on weight, destination, and carrier."
+istool: true
 permalink: /shipping-cost-estimator
 --- 
 

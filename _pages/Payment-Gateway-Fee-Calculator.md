@@ -1,8 +1,9 @@
 ---
 title: "Payment Gateway Fee Calculator"
-layout: page-sidebar
+layout: page
 permalink: "/Payment-Gateway-Fee-Calculator"
 description: "Compare transaction fees for PayPal, Stripe, and Square to choose the most cost-effective payment gateway for your business."
+istool: true
 ---
 
 <style>

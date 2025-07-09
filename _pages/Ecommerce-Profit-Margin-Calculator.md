@@ -1,8 +1,9 @@
 ---
 title: "Ecommerce Profit Margin Calculator"
-layout: page-sidebar
+layout: page
 permalink: "/Ecommerce-Profit-Margin-Calculator"
 description: "Use our Ecommerce Profit Margin Calculator to determine the optimal selling price and profit for your products."
+istool: true
 ---
 
 <div class="container">
