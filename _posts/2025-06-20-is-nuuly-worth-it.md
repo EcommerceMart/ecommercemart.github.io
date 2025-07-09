@@ -5,7 +5,7 @@ description: "Is Nuuly worth it? This detailed 2025 review covers pricing, quali
 keywords: ["nuuly", "is nuuly worth it", "nuuly review", "nuuly subscription 2025", "nuuly clothing rental"]
 categories: "nuuly"
 author: CodingRhodes
-image: assets/images/featured_is-nuuly-worth-it.webp
+image: /images/featured_is-nuuly-worth-it.webp
 ---
 
 **Is Nuuly worth it in 2025?** With the fashion rental economy booming and sustainability becoming more important than ever, services like Nuuly are catching the attention of conscious shoppers, fashionistas, and budget-savvy millennials. But before you commit to spending \$98 a month, is the experience, clothing quality, and flexibility truly worth the investment?

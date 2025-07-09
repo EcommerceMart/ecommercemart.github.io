@@ -6,7 +6,7 @@ keywords: "Ecommerce Business, ecommerce tools, beginner ecommerce tips, ecommer
 categories: [Ecommerce, Ecommerce Business]
 tags: [Ecommerce, Online Store, Business Solutions]
 author: CodingRhodes
-image: assets/images/featured_ecommerce-business-essentials-tools-tips.webp
+image: /images/featured_ecommerce-business-essentials-tools-tips.webp
 ---
 
 ## Ecommerce Business Essentials: Tools, Tips, and Strategies for Beginners

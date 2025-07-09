@@ -6,7 +6,7 @@ keywords: ["walmart pass"]
 categories: "walmart"
 tags: [Walmart Pass, Walmart Plus, Subscription Comparison, Shopping Tips]
 author: CodingRhodes
-image: assets/images/featured_how-to-sign-up-walmart-pass-benefits-guide.webp
+image: /images/featured_how-to-sign-up-walmart-pass-benefits-guide.webp
 ---
 
 Walmart Pass is Walmart's answer to fast, free delivery and extra perks for loyal customers. If you've ever shopped online and dreaded delivery fees or long wait times, Walmart Pass may be the solution. 

@@ -5,7 +5,7 @@ description: "Learn how the PSG eCommerce Grant can help your business grow onli
 categories: ecommerce
 tags: [psg ecommerce grant, ecommerce funding, business growth]
 author: CodingRhodes
-image: assets/images/featured_psg-ecommerce-grant-boost-business.webp
+image: /images/featured_psg-ecommerce-grant-boost-business.webp
 ---
 
 ## Introduction

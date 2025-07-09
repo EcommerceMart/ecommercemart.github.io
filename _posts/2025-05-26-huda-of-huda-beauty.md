@@ -5,7 +5,7 @@ description: "Discover who Huda Kattan is, the story behind Huda Beauty, her bac
 keywords: ["huda beauty", "huda kattan", "huda of huda beauty", "huda beauty founder", "beauty influencer"]
 categories: "huda beauty"
 author: CodingRhodes
-image: assets/images/featured_huda-of-huda-beauty.webp
+image: /images/featured_huda-of-huda-beauty.webp
 ---
 
 When you hear the name Huda Beauty, you might think of high-impact makeup or stunning Instagram tutorials. But who exactly is the woman behind the name? Huda Kattan, often referred to simply as "Huda," is more than just a brand face—she's a pioneering beauty entrepreneur, influencer, and global icon. This comprehensive article explores her background, how she built one of the most recognizable beauty brands in the world, and what makes her story so inspiring to millions around the globe.

@@ -5,7 +5,7 @@ description: "Wondering if PacSun is legit? Discover the truth about PacSun’s 
 categories: "PacSun"
 tags: [PacSun, Online Shopping, Retail Reviews]
 author: CodingRhodes
-image: assets/images/featured_is-pacsun-legit.webp
+image: /images/featured_is-pacsun-legit.webp
 ---
 
 Is PacSun legit? If you’re planning to shop online or in-store, you probably want to know if PacSun is a trustworthy brand. This comprehensive guide explains everything you need to know about PacSun’s legitimacy—from its history and reputation to product quality, shipping, and customer service. Read on to get an honest, unbiased answer before you make a purchase.

@@ -4,7 +4,7 @@ title: "Is eCommerce a Good Career? A Complete Guide"
 description: "Discover why eCommerce jobs are in demand and explore career opportunities in the booming digital marketplace. Is eCommerce right for you?"
 categories: ecommerce-careers
 author: CodingRhodes
-image: assets/images/featured_is-ecommerce-good-career.webp
+image: /images/featured_is-ecommerce-good-career.webp
 ---
 
 ## Introduction

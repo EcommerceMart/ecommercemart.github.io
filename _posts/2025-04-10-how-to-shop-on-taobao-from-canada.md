@@ -6,7 +6,7 @@ keywords: "taobao canada, taobao english site"
 categories: "taobaocanada"
 tags: [featured]
 author: CodingRhodes
-image: assets/images/featured_how-to-shop-on-taobao-from-canada.webp
+image: /images/featured_how-to-shop-on-taobao-from-canada.webp
 ---
 
 Taobao is one of China’s largest online marketplaces, offering a wide variety of products at competitive prices. However, for shoppers in **Canada**, using Taobao can be challenging due to language barriers and limited payment and shipping options. In this guide, we’ll walk you through how to use **Taobao from Canada**, including how to access the **Taobao English site**, make payments, and ship products internationally.

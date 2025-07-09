@@ -4,7 +4,7 @@ title: "Eligibility & Benefits of the PSG eCommerce Grant"
 description: "Learn about the eligibility requirements and benefits of the PSG eCommerce Grant. Discover how it helps businesses grow online."
 categories: ecommerce-careers
 author: CodingRhodes
-image: assets/images/featured_psg-ecommerce-grant-eligibility-benefits.webp
+image: /images/featured_psg-ecommerce-grant-eligibility-benefits.webp
 ---
 
 ## Introduction

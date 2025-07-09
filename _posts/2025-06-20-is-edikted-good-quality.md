@@ -5,7 +5,7 @@ description: "Is Edikted good quality in 2025? Explore fabric details, customer 
 keywords: ["edikted", "is edikted good quality", "edikted reviews", "edikted fabric quality", "edikted clothing"]
 categories: "edikted"
 author: CodingRhodes
-image: assets/images/featured_is-edikted-good-quality.webp
+image: /images/featured_is-edikted-good-quality.webp
 ---
 
 **Is Edikted good quality?** This is a question many style-conscious shoppers are asking as the brand gains major attention across TikTok and Instagram. Known for its edgy, trend-focused designs and affordability, Edikted appeals especially to Gen Z—but does it deliver on durability and craftsmanship?

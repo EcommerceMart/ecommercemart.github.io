@@ -6,7 +6,7 @@ keywords: "taobao english, taobao english site"
 categories: [Ecommerce, Taobao]
 tags: [taobao, online shopping, international shopping]
 author: CodingRhodes
-image: assets/images/featured_how-to-use-taobao-in-english.webp
+image: /images/featured_how-to-use-taobao-in-english.webp
 ---
 
 Taobao is one of the largest online marketplaces in the world, but it primarily operates in Chinese. If you're an international shopper wondering how to use **Taobao in English**, you're in the right place! This guide will walk you through every step to help you shop seamlessly on **Taobao English site** alternatives.

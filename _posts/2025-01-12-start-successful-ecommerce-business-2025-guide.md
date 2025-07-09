@@ -6,7 +6,7 @@ keywords: ["ecommerce business", "start ecommerce business", "ecommerce 2025"]
 categories: [Ecommerce, Ecommerce Business]
 tags: [Ecommerce, Odoo, Online Store, Business Solutions]
 author: CodingRhodes
-image: assets/images/featured_start-successful-ecommerce-business-2025-guide.webp
+image: /images/featured_start-successful-ecommerce-business-2025-guide.webp
 ---
 
 ## Introduction

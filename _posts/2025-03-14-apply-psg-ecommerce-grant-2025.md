@@ -4,7 +4,7 @@ title: "How to Apply for the PSG eCommerce Grant in 2025"
 description: "Learn how to apply for the PSG eCommerce Grant in 2025 and get funding for your online business. Step-by-step guide, eligibility, and FAQs."
 categories: "ecommerce"
 author: CodingRhodes
-image: assets/images/featured_apply-psg-ecommerce-grant-2025.webp
+image: /images/featured_apply-psg-ecommerce-grant-2025.webp
 ---
 
 ## Introduction

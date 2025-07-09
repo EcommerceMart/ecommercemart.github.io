@@ -5,7 +5,7 @@ description: "Discover how AI in ecommerce is transforming online shopping in 20
 categories: [ecommerce, ai, future-tech, marketing]
 tags: [AI in ecommerce, ecommerce trends 2025, artificial intelligence, online retail, smart shopping]
 author: CodingRhodes
-image: assets/images/featured_top-ai-tools-for-ecommerce-2025.webp
+image: /images/featured_top-ai-tools-for-ecommerce-2025.webp
 ---
 
 Artificial Intelligence (AI) is revolutionizing the ecommerce landscape — not in theory, but in real, revenue-generating ways. In 2025, smart ecommerce owners and marketing teams are leveraging AI not just to keep up, but to leap ahead of their competitors. Whether it's hyper-personalized recommendations, predictive analytics, or real-time support — **AI in ecommerce** has become essential.

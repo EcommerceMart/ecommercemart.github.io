@@ -6,7 +6,7 @@ keywords: "ecommerce photography, product photography tips, best lighting for pr
 categories: [Ecommerce, Photography]
 tags: [Ecommerce, Photography, Online Business, Product Images]
 author: CodingRhodes
-image: assets/images/featured_ecommerce-photography-tips.webp
+image: /images/featured_ecommerce-photography-tips.webp
 ---
 
 ## Introduction

@@ -5,7 +5,7 @@ categories: [eCommerce, Payment Gateways, Small Business]
 tags: [ecommerce payment gateway, small business payments, online store payments, secure transactions, payment processing]
 description: "Learn how to choose the best ecommerce payment gateway for your small business. Secure, reliable, and customer-friendly options explained."
 author: CodingRhodes
-image: assets/images/featured_ecommerce-payment-gateway-guide-small-business.webp
+image: /images/featured_ecommerce-payment-gateway-guide-small-business.webp
 ---
 
 Choosing the right eCommerce payment gateway is critical for small businesses looking to sell products or services online. 

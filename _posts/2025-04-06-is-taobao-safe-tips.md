@@ -6,7 +6,7 @@ keywords: ["Taobao", "Is Taobao safe", "buying from Taobao", "Taobao scams", "Ta
 categories: ["Ecommerce", "Online Shopping"]
 tags: [featured]
 author: CodingRhodes
-image: assets/images/featured_is-taobao-safe-tips.webp
+image: /images/featured_is-taobao-safe-tips.webp
 ---
 
 **Taobao** is one of the largest online shopping platforms in China, offering millions of products at competitive prices. But if you're an international buyer, you might wonder: **Is Taobao safe to use?** 🤔

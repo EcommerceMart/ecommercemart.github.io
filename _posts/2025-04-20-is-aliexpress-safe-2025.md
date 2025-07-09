@@ -5,7 +5,7 @@ description: "Is AliExpress safe in 2025? Discover what global buyers should kno
 categories: [Ecommerce, AliExpress, Online Shopping, Buyer Guide]
 tags: [AliExpress, online shopping, ecommerce safety, buyer tips, 2025 trends]
 author: CodingRhodes
-image: assets/images/featured_is-aliexpress-safe-2025.webp
+image: /images/featured_is-aliexpress-safe-2025.webp
 ---
 
 AliExpress has become one of the largest online marketplaces in the world. With millions of products and sellers, it’s a go-to platform for budget-friendly shopping. But in 2025, **is AliExpress still safe for buyers?**

@@ -5,7 +5,7 @@ description: "Find out if Carhartt Reworked is legit. Learn about the Carhartt R
 categories: "Carhartt"
 tags: [carhartt, luxury, workwear, review, usa, clothing, carhartt wip]
 author: CodingRhodes
-image: assets/images/featured_is-carhartt-reworked-legit.webp
+image: /images/featured_is-carhartt-reworked-legit.webp
 ---
 
 Are you curious if Carhartt Reworked is legit? This article gives you a simple, clear answer. You will learn what Carhartt Reworked is, how it works, if it is safe, and what real customers say. By the end, you will know if you can trust Carhartt Reworked for your next workwear purchase.

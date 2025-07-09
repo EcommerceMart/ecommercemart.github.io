@@ -5,7 +5,7 @@ description: "Explore top ecommerce SEO optimization strategies in 2025 to enhan
 tags: [Taobao Global, Taobao]
 categories: [Taobao Global]
 author: CodingRhodes
-image: assets/images/featured_ecommerce-seo-optimization-2025-strategies.webp
+image: /images/featured_ecommerce-seo-optimization-2025-strategies.webp
 ---
 
 With ecommerce becoming more competitive each year, mastering SEO in 2025 is critical for online store success. 

@@ -7,7 +7,7 @@ keywords: "is Temu legit in Canada"
 keywords: ["Temu", "Is Temu legit"]
 categories: "Temu"
 author: CodingRhodes
-image: assets/images/featured_is-temu-legit-in-canada.webp
+image: /images/featured_is-temu-legit-in-canada.webp
 ---
 
 Temu has rapidly gained popularity among Canadian shoppers seeking affordable products. But **is Temu legit in Canada**? This comprehensive guide dives deep into every aspect of Temu’s operations to help you make an informed decision before making a purchase.

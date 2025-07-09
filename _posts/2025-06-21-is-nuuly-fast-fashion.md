@@ -5,7 +5,7 @@ description: "Is Nuuly considered fast fashion? Explore its sustainability pract
 keywords: ["nuuly", "is nuuly fast fashion", "nuuly review", "nuuly sustainability", "nuuly clothing rental"]
 categories: "nuuly"
 author: CodingRhodes
-image: assets/images/featured_is-nuuly-fast-fashion.webp
+image: /images/featured_is-nuuly-fast-fashion.webp
 ---
 
 **Is Nuuly fast fashion or a step toward a more sustainable future?** With climate awareness rising and Gen Z demanding transparency, fashion rental platforms like Nuuly are under the spotlight. As the lines blur between accessibility and overconsumption, this detailed guide will help you understand where Nuuly truly stands.

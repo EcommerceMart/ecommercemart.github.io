@@ -4,7 +4,7 @@ title: "Is Commense Legit? What You Need to Know Before Buying"
 description: "Is Commense legit? Learn everything about Commense's authenticity, reviews, shipping, return policies, and what customers are really saying."
 categories: "commense"
 author: CodingRhodes
-image: assets/images/featured_is-commense-legit.webp
+image: /images/featured_is-commense-legit.webp
 ---
 
 ## Is Commense Legit? What You Need to Know Before Buying

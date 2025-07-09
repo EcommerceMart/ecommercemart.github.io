@@ -5,7 +5,7 @@ description: "Is Nuuly legit and worth subscribing to in 2025? We break down cus
 keywords: ["nuuly", "is nuuly legit", "nuuly review", "nuuly fashion rental", "nuuly subscription"]
 categories: "nuuly"
 author: CodingRhodes
-image: assets/images/featured_is-nuuly-legit.webp
+image: /images/featured_is-nuuly-legit.webp
 ---
 
 **Is Nuuly legit?** If you're considering renting fashion-forward pieces from Nuuly in 2025, it's smart to do your homework. With countless clothing rental services emerging over the past few years, shoppers are asking: *Can I trust Nuuly? Are the clothes clean, high quality, and delivered on time? What happens if I don’t return something?*

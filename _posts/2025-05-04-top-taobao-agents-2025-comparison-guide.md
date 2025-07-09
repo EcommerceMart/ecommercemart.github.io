@@ -3,7 +3,7 @@ layout: post
 title: "Top 5 Taobao Agents in 2025: A Comprehensive Comparison for International Shoppers"
 categories: [Taobao Agents]
 author: CodingRhodes
-image: assets/images/featured_top-taobao-agents-2025-comparison-guide.webp
+image: /images/featured_top-taobao-agents-2025-comparison-guide.webp
 ---
 
 Taobao remains a go-to platform for shoppers seeking affordable goods from China, but navigating it can be challenging for non-Chinese speakers. 

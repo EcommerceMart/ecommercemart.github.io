@@ -4,7 +4,7 @@ title:  "Securing Your E-commerce Codebase: Managing Access and Permissions in G
 description: 'Learn best practices for securing your e-commerce codebase by effectively managing access, permissions, and collaboration settings in GitHub.'
 author: CodingRhodes
 categories: "Ecommerce"
-image: assets/images/featured_GitHub-code-repository-with-security-locks-symbolizing-protected-access.webp
+image: /images/featured_GitHub-code-repository-with-security-locks-symbolizing-protected-access.webp
 ---
 Keeping your e-commerce codebase secure is critical. Your e-commerce site may contain sensitive code, customer data, and payment processing logic. If these get into the wrong hands, it could harm your business and customers. GitHub offers many tools for managing access and permissions to help protect your codebase.
 

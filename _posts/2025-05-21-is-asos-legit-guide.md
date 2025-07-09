@@ -5,7 +5,7 @@ description: "Is ASOS legit? Discover the truth about ASOS's shipping, returns, 
 keywords: ["asos", "is asos legit", "asos reviews", "asos shipping", "asos return policy"]
 category: [fashion, ASOS]
 author: CodingRhodes
-image: assets/images/featured_is-asos-legit-guide.webp
+image: /images/featured_is-asos-legit-guide.webp
 ---
 
 Wondering if ASOS is a trustworthy place to shop online? With millions of fashion lovers browsing the site each month, it's fair to ask: *Is ASOS legit?* In this blog post, we’ll dig deep into ASOS’s company background, shipping policies, return process, customer support, product quality, user reviews, and any red flags to watch for. 

@@ -5,7 +5,7 @@ categories: [Safety, ezbuy, Online Shopping]
 description: "Is ezbuy safe? Find out with our in-depth guide covering buyer protection, shipping, payment security, and more."
 keywords: ["ezbuy"]
 author: CodingRhodes
-image: assets/images/featured_is-ezbuy-safe-tips.webp
+image: /images/featured_is-ezbuy-safe-tips.webp
 ---
 
 Is ezbuy safe? As more shoppers flock to online marketplaces like ezbuy, concerns about product quality, payment security, and customer service naturally arise. 

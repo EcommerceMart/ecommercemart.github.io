@@ -4,7 +4,7 @@ title: "How to Get a Refund on Shein Without Returning: Full Guide"
 description: "Learn how to get a refund on Shein without returning items. Understand Shein return policy, refund conditions, and step-by-step guidance."
 categories: "shein"
 author: CodingRhodes
-image: assets/images/featured_how-to-get-a-refund-on-shein-without-returning.webp
+image: /images/featured_how-to-get-a-refund-on-shein-without-returning.webp
 ---
 
 If you've received a defective, incorrect, or unsatisfactory item from Shein, but don't want to go through the hassle of returning it, you're not alone. 

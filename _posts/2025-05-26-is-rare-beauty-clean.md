@@ -5,7 +5,7 @@ description: "Is Rare Beauty clean? Explore ingredients, ethics, and expert insi
 keywords: ["rare beauty", "is rare beauty clean", "clean beauty brands", "rare beauty ingredients", "vegan makeup brands"]
 categories: "rare beauty"
 author: CodingRhodes
-image: assets/images/featured_is-rare-beauty-clean.webp
+image: /images/featured_is-rare-beauty-clean.webp
 ---
 
 Consumers are increasingly prioritizing clean, ethical, and skin-safe products when selecting makeup. Rare Beauty, founded by Selena Gomez, has become a leading name in the beauty industry for its minimalist aesthetic and emotional health mission. 

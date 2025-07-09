@@ -5,7 +5,7 @@ description: "Wondering if Shein Club is worth it? This guide breaks down costs,
 keywords: ["shein club"]
 categories: "shein"
 author: CodingRhodes
-image: assets/images/featured_is-shein-club-worth-it.webp
+image: /images/featured_is-shein-club-worth-it.webp
 ---
 
 "Is Shein Club worth it?" is a question many Shein shoppers ask as they browse through the site’s frequent promotions and trendy clothing. 

@@ -6,7 +6,7 @@ keywords: "walmart credit card"
 categories: "walmart"
 tags: [walmart credit card, walmart mastercard, store credit card, credit card comparison, best credit cards]
 author: CodingRhodes
-image: assets/images/featured_walmart-credit-card-vs-mastercard-guide.webp
+image: /images/featured_walmart-credit-card-vs-mastercard-guide.webp
 ---
 
 **Confused about whether to apply for the Walmart Credit Card 🏪  or the Walmart Mastercard? This detailed guide compares both cards to help you decide based on your shopping habits, credit needs, and perks.**

@@ -4,7 +4,7 @@ title: "How to Return on Shein: A Complete Step-by-Step Guide"
 description: "Learn how to return on Shein with this step-by-step guide. Understand Shein return policy, fees, methods, and timelines for every country."
 categories: "shein"
 author: CodingRhodes
-image: assets/images/featured_how-to-return-on-shein.webp
+image: /images/featured_how-to-return-on-shein.webp
 ---
 
 If you've recently ordered from Shein and something wasn't quite right—be it sizing, style, or damage—you're probably wondering how to return on Shein. 

@@ -5,7 +5,7 @@ description: "Explore the top tools for building an ecommerce website in 2025. F
 categories: ecommerce website builder
 tags: [ecommerce, website builder, online store tools]
 author: CodingRhodes
-image: assets/images/featured_best-ecommerce-website-builders-2025.webp
+image: /images/featured_best-ecommerce-website-builders-2025.webp
 ---
 
 

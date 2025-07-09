@@ -5,7 +5,7 @@ description: "Is Banana Republic good quality? Get a detailed, easy-to-understan
 tags: banana republic, quality, fashion, review
 categories: "banana republic"
 author: CodingRhodes
-image: assets/images/featured_is-banana-republic-good-quality.webp
+image: /images/featured_is-banana-republic-good-quality.webp
 ---
 
 Are you wondering if Banana Republic is good quality? This detailed guide gives you clear answers about Banana Republic’s clothing, materials, customer service, pricing, and sustainability. You’ll find real customer reviews, expert insights, and practical tips so you can decide if Banana Republic is the right brand for you.

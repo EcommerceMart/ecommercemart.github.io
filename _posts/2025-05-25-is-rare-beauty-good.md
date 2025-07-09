@@ -4,7 +4,7 @@ title: "Is Rare Beauty Good? What Real Users Are Saying Today"
 description: "Wondering if Rare Beauty is good? Get real reviews, pros and cons, and how it compares to top brands like Fenty and Glossier."
 category: ["Ulta Beauty"]
 author: CodingRhodes
-image: assets/images/featured_is-rare-beauty-good.webp
+image: /images/featured_is-rare-beauty-good.webp
 ---
 
 Rare Beauty by Selena Gomez has quickly become one of the most talked-about beauty brands in recent years. 

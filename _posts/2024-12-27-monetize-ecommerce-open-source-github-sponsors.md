@@ -6,7 +6,7 @@ keywords: "ecommerce website github, monetize Ecommerce Projects"
 author: CodingRhodes
 categories: [Ecommerce, Open-source]
 tags: [ecommerce website github, GitHub Sponsors, open-source funding]
-image: assets/images/featured_Monetize-Your-Ecommerce-Open-source-Projects.webp
+image: /images/featured_Monetize-Your-Ecommerce-Open-source-Projects.webp
 ---
 
 ## Introduction

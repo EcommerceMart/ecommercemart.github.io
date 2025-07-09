@@ -6,7 +6,7 @@ keywords: "Shopify 1099k"
 categories: [Ecommerce, Taxes, Shopify, 1099-K, Online Business]
 tags: [Shopify 1099k, IRS changes, ecommerce taxes, online seller reporting]
 author: CodingRhodes
-image: assets/images/featured_shopify-1099k-rules-change-2025.webp
+image: /images/featured_shopify-1099k-rules-change-2025.webp
 ---
 
 In 2025, **Shopify 1099k** reporting rules are undergoing a major change—and it could impact every online store owner in the United States. If you’re an ecommerce seller using platforms like Shopify, Etsy, PayPal, or eBay, you need to pay close attention. The IRS is cracking down on income reporting, and missing these updates could result in hefty penalties or tax complications.

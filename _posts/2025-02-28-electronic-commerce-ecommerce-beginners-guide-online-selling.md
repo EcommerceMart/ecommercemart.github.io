@@ -4,7 +4,7 @@ title: "Electronic Commerce (E-Commerce): A Beginner’s Guide to Online Selling
 description: "Learn the basics of electronic commerce (e-commerce) and how to start selling online. This beginner's guide covers everything from setting up an online store to marketing and payment options."
 categories: ecommerce
 author: CodingRhodes
-image: assets/images/featured_electronic-commerce-ecommerce-beginners-guide-online-selling.webp
+image: /images/featured_electronic-commerce-ecommerce-beginners-guide-online-selling.webp
 ---
 
 **Electronic commerce (e-commerce)** has revolutionized the way businesses sell products and services. Whether you're a small business owner or an aspiring entrepreneur, understanding e-commerce is essential for success in today's digital world. This guide will walk you through the fundamentals of online selling, making it easy to get started.

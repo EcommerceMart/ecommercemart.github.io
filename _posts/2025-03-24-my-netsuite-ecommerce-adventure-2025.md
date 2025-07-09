@@ -5,7 +5,7 @@ categories: affiliate-marketing
 tags: [netsuite-ecommerce, affiliate-marketing, ecommerce, business-tools]
 description: "Join me on my NetSuite ecommerce journey! From seamless inventory to epic scalability, here’s my fun and honest review of how NetSuite transformed my online store in 2025."
 author: CodingRhodes
-image: assets/images/featured_my-netsuite-ecommerce-adventure-2025.webp
+image: /images/featured_my-netsuite-ecommerce-adventure-2025.webp
 ---
 
 Hey there, ecommerce enthusiasts! If you’re like me, you’ve probably daydreamed about running a slick, successful online store that practically runs itself. Well, I’m here to share how **NetSuite ecommerce** turned that dream into a reality for me in 2025! 🌟 Spoiler: it’s been a wild, exciting ride, and I’m pumped to tell you all about it.

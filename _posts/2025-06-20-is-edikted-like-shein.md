@@ -5,7 +5,7 @@ description: "Is Edikted like SHEIN? Discover how these two fashion brands compa
 keywords: ["edikted", "is edikted like shein", "edikted vs shein", "edikted quality", "shein comparison"]
 categories: "edikted"
 author: CodingRhodes
-image: assets/images/featured_is-edikted-like-shein.webp
+image: /images/featured_is-edikted-like-shein.webp
 ---
 
 **Is Edikted like SHEIN?** That’s a question many trend-savvy online shoppers ask when deciding between these two wildly popular fashion retailers. Both are known for low prices, bold styles, and dominating TikTok fashion trends. But are they really the same?

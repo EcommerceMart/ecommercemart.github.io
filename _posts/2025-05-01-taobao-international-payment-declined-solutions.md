@@ -5,7 +5,7 @@ categories: [Online Shopping, Taobao, International Users]
 tags: [taobao payment failed, international shopping, taobao troubleshooting, alipay, cross-border payments]
 description: "International Taobao payment failed? Discover effective fixes for errors international users face when paying on Taobao and Alipay."
 author: CodingRhodes
-image: assets/images/featured_taobao-international-payment-declined-solutions.webp
+image: /images/featured_taobao-international-payment-declined-solutions.webp
 ---
 
 International users often find themselves stuck when their Taobao payments are declined, especially during the checkout process. 

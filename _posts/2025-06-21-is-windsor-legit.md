@@ -5,7 +5,7 @@ description: "Is Windsor a legit clothing brand? Discover everything about Winds
 keywords: ["windsor", "is windsor legit", "windsor store reviews", "windsor dresses", "windsor clothing quality"]
 categories: "windsor"
 author: CodingRhodes
-image: assets/images/featured_is-windsor-legit.webp
+image: /images/featured_is-windsor-legit.webp
 ---
 
 **Is Windsor legit?** If you’ve seen stunning prom dresses or trendy outfits on Windsor’s website or Instagram and wondered whether it’s safe to shop from them, you’re not alone. With thousands of online clothing stores popping up, it’s smart to question which ones are truly trustworthy.

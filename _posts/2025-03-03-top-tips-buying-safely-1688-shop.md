@@ -5,7 +5,7 @@ description: "Discover essential tips for buying safely from a 1688 shop, ensuri
 keywords: "1688 shop, buy from 1688, 1688 buying guide, wholesale shopping, safe online shopping"
 tags: [1688 shop, online shopping, wholesale]
 author: CodingRhodes
-image: assets/images/featured_top-tips-buying-safely-1688-shop.webp
+image: /images/featured_top-tips-buying-safely-1688-shop.webp
 ---
 
 ## Top Tips for Buying Safely from a 1688 Shop

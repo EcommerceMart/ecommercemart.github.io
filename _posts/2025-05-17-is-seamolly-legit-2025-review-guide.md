@@ -4,7 +4,7 @@ title: "Is Seamolly Legit? 2025 Seamolly Review Guide for Curious Shoppers"
 categories: [online-shopping, reviews, seamolly, fashion]
 description: "Is Seamolly legit? Read this 2025 Seamolly review to explore user opinions, site safety, shipping, and fashion quality before you buy."
 author: CodingRhodes
-image: assets/images/featured_is-seamolly-legit-2025-review-guide.webp
+image: /images/featured_is-seamolly-legit-2025-review-guide.webp
 ---
 
 Is Seamolly legit in 2025? This question is on the minds of thousands of online shoppers intrigued by the stylish offerings and competitive prices on Seamolly's website. 

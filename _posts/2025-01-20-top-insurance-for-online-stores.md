@@ -5,7 +5,7 @@ description: "Explore the best ecommerce business insurance options to protect y
 categories: [Business, Ecommerce, Insurance]
 tags: [Ecommerce Business Insurance, Online Business, Insurance Options]
 author: CodingRhodes
-image: assets/images/featured_top-insurance-for-online-stores.webp
+image: /images/featured_top-insurance-for-online-stores.webp
 ---
 
 Running a successful ecommerce business involves more than just selling products—it requires strategic planning to protect your online store from unexpected challenges. In 2025, having the right ecommerce business insurance is essential for safeguarding your business from financial losses, legal claims, and operational disruptions.

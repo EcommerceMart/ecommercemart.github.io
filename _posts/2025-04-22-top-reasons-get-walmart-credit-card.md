@@ -6,7 +6,7 @@ keywords: "walmart credit card"
 categories: "walmart"
 tags: [walmart credit card, cashback cards, retail credit cards, credit tips, Walmart Mastercard]
 author: CodingRhodes
-image: assets/images/featured_top-reasons-get-walmart-credit-card.webp
+image: /images/featured_top-reasons-get-walmart-credit-card.webp
 ---
 
 **Thinking about getting a Walmart Credit Card? This detailed guide breaks down the benefits, cashback opportunities, financing options, and tips for maximizing rewards.**

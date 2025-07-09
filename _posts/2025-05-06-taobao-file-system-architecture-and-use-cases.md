@@ -5,7 +5,7 @@ description: "Explore the architecture, scalability, and use cases of the Taobao
 tags: [Taobao File System, TFS, distributed storage, Alibaba, file system architecture]
 categories: [Technology, Cloud Storage, Big Data]
 author: CodingRhodes
-image: assets/images/featured_taobao-file-system-architecture-and-use-cases.webp
+image: /images/featured_taobao-file-system-architecture-and-use-cases.webp
 ---
 
 The Taobao File System (TFS) is a distributed storage architecture built by Alibaba’s Taobao platform to manage and scale the growing demand for handling billions of small files. 

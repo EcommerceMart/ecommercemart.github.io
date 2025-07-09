@@ -5,7 +5,7 @@ description: "Artificial Intelligence (AI) is no longer just a buzzword — it's
 categories: [ecommerce, ai, future-tech, marketing]
 tags: [AI in ecommerce, ecommerce trends 2025, artificial intelligence, online retail, smart shopping]
 author: CodingRhodes
-image: assets/images/featured_ai-revolution-in-ecommerce-2025.webp
+image: /images/featured_ai-revolution-in-ecommerce-2025.webp
 ---
 
 Artificial Intelligence (AI) is no longer just a buzzword — it's a driving force reshaping how we buy, sell, and interact in the digital world. As we step further into 2025, the impact of **AI in ecommerce** is nothing short of transformational. From predictive analytics to smart customer support, AI is bringing ecommerce experiences closer to the intuitive, personalized interactions we’ve always dreamed of.

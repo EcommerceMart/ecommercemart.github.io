@@ -6,7 +6,7 @@ keywords: [ecommerce website builder, ecommerce SEO experts, online store traffi
 categories: Ecommerce
 tags: [ecommerce, website builder, online store]
 author: CodingRhodes
-image: assets/images/featured_top-ecommerce-seo-experts.webp
+image: /images/featured_top-ecommerce-seo-experts.webp
 ---
 
 ## Top Ecommerce SEO Experts: Boost Your Online Store Traffic

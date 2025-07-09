@@ -6,7 +6,7 @@ tags: [Shopify, Shopify 1099-K, Taxes, eCommerce, Online Business]
 keywords: "shopify 1099k, shopify tax form, shopify seller taxes"
 categories: [ecommerce, shopify, taxes]
 author: CodingRhodes
-image: assets/images/featured_understanding-shopify-1099k-tax-forms-2025.webp
+image: /images/featured_understanding-shopify-1099k-tax-forms-2025.webp
 ---
 
 If you're a Shopify seller, understanding **Shopify 1099-K tax forms** is crucial for staying compliant with tax regulations. In this guide, I'll break down what **Shopify 1099-K** is, who gets it, and how to handle it properly for the 2025 tax season. 💰📜

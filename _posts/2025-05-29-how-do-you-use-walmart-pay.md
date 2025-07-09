@@ -6,7 +6,7 @@ tags: [boohooman]
 keywords: ["is boohooman legit"]
 categories: "boohooman"
 author: CodingRhodes
-image: assets/images/featured_how-do-you-use-walmart-pay.webp
+image: /images/featured_how-do-you-use-walmart-pay.webp
 ---
 
 Wondering how Walmart Pay works and whether it's the right payment method for you? This in-depth guide breaks down everything you need to know about using Walmart Pay—from setting it up on your phone to making secure purchases in-store. 

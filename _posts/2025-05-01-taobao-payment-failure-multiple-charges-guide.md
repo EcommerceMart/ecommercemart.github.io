@@ -5,7 +5,7 @@ categories: [Online Shopping, Taobao, Payment Issues]
 tags: [taobao payment failed, multiple charges, online shopping, alipay troubleshooting, taobao errors]
 description: "Avoiding multiple charges when Taobao payment failed? Learn how to fix and prevent double charges on Taobao and Alipay transactions."
 author: CodingRhodes
-image: assets/images/featured_taobao-payment-failure-multiple-charges-guide.webp
+image: /images/featured_taobao-payment-failure-multiple-charges-guide.webp
 ---
 
 Getting charged multiple times for a failed Taobao payment is a frustrating experience for many international shoppers. The common "taobao payment failed" error doesn't just block transactions — it can lead to duplicate charges, temporary account holds, and added stress. 

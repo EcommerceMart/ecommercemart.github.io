@@ -4,7 +4,7 @@ title: "Is Everlane Worth It? Honest Review of Sustainable Basics"
 description: "Is Everlane worth it? Explore this detailed review covering product quality, pricing, and sustainability to help you shop smarter in 2025."
 categories: "Everlane"
 author: CodingRhodes
-image: assets/images/featured_Is-Everlane-Worth-It.webp
+image: /images/featured_Is-Everlane-Worth-It.webp
 ---
 
 ## Is Everlane Worth It? Honest Review of Sustainable Basics

@@ -4,7 +4,7 @@ title: "Is Shein Legit in 2025? A Comprehensive Guide to Shopping Safely"
 description: "Is Shein legit in 2025? Learn how to shop safely, avoid scams, and discover quality Shein alternatives in this comprehensive guide."
 categories: [Shein]
 author: CodingRhodes
-image: assets/images/featured_is-shein-legit-2025-shopping-guide.webp
+image: /images/featured_is-shein-legit-2025-shopping-guide.webp
 ---
 
 Is Shein still legit in 2025? If you're shopping for trendy, affordable fashion online, chances are Shein is on your radar. 

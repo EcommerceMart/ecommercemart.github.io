@@ -5,7 +5,7 @@ description: "Wondering if Edikted is legit? This detailed 2025 review covers tr
 keywords: ["is edikted legit", "edikted clothing review", "edikted shipping", "is edikted trustworthy", "edikted quality", "edikted customer experience"]
 categories: "edikted"
 author: CodingRhodes
-image: assets/images/featured_is-edikted-legit.webp
+image: /images/featured_is-edikted-legit.webp
 ---
 
 **Is Edikted legit?** That’s the question many first-time shoppers are asking as this trendy, social media-fueled fashion brand rapidly gains popularity. If you’ve seen their edgy styles on TikTok or Instagram and are curious about whether they’re worth your money, this detailed 4000+ word review is for you. We’ll explore everything from product quality and customer reviews to shipping, return policies, and comparison with other online fashion brands.

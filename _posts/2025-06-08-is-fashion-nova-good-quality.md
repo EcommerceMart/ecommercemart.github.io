@@ -5,7 +5,7 @@ description: "Find out if Fashion Nova is good quality. Read reviews, pros and c
 tags: FashionNova
 categories: "FashionNova"
 author: CodingRhodes
-image: assets/images/featured_is-fashion-nova-good-quality.webp
+image: /images/featured_is-fashion-nova-good-quality.webp
 ---
 
 If you are thinking about buying clothes from Fashion Nova, you might be wondering if Fashion Nova is good quality. This article will help you understand what people say about Fashion Nova’s quality, what to expect when you shop, and how to make the best choices. 

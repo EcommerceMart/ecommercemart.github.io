@@ -6,7 +6,7 @@ keywords: "ecommerce photography, best cameras for ecommerce, product photograph
 categories: [Ecommerce, Photography]
 tags: [Ecommerce, Photography, Cameras, Product Photography]
 author: CodingRhodes
-image: assets/images/featured_best-cameras-ecommerce-photography-2025.webp
+image: /images/featured_best-cameras-ecommerce-photography-2025.webp
 ---
 
 ## Introduction

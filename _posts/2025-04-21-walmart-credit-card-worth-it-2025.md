@@ -6,7 +6,7 @@ keywords: "walmart credit card"
 categories: "walmart"
 tags: [walmart credit card, credit card reviews, cashback, store cards, 2025 financial tips]
 author: CodingRhodes
-image: assets/images/featured_walmart-credit-card-worth-it-2025.webp
+image: /images/featured_walmart-credit-card-worth-it-2025.webp
 ---
 
 The Walmart Credit Card has long been a go-to option for shoppers who frequent the mega-retailer, but with financial landscapes constantly evolving, **is the Walmart Credit Card still worth it in 2025**?

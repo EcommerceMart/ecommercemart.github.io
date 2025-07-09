@@ -5,7 +5,7 @@ description: "A comprehensive guide for e-commerce entrepreneurs on managing fre
 keywords: "ecommerce website github, managing freelancers on github, ecommerce project collaboration"
 author: CodingRhodes
 categories: [Ecommerce, SEO, GitHub]
-image: assets/images/featured_Collaborating-with-Freelancers-on-GitHub-for-Ecommerce-Projects.webp
+image: /images/featured_Collaborating-with-Freelancers-on-GitHub-for-Ecommerce-Projects.webp
 tags: [ecommerce, Github]
 ---
 

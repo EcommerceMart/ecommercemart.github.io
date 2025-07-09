@@ -6,7 +6,7 @@ keywords: "ecommerce que es, tienda online, vender por internet, negocio digital
 categories: [Ecommerce]
 tags: [Ecommerce, Tienda Online, Negocio Digital, Emprendimiento]
 author: CodingRhodes
-image: assets/images/featured_ecommerce-que-es-como-empezar-tienda-online-2025.webp
+image: /images/featured_ecommerce-que-es-como-empezar-tienda-online-2025.webp
 ---
 
 ## Ecommerce: ¿Qué es y cómo empezar tu tienda online en 2025?

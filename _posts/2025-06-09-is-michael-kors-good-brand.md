@@ -5,7 +5,7 @@ description: "Is Michael Kors a good brand? Get a detailed, easy-to-understand r
 categories: "michaelkors"
 tags: [michael kors, michaelkors, fashion, clothing, review, usa]
 author: CodingRhodes
-image: assets/images/featured_is-michael-kors-good-brand.webp
+image: /images/featured_is-michael-kors-good-brand.webp
 ---
 
 Are you wondering if Michael Kors is a good brand for your next fashion purchase? This guide gives you clear, simple answers based on real customer reviews, product quality, style, and value for money. 

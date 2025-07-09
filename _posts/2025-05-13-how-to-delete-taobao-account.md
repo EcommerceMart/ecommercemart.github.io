@@ -4,7 +4,7 @@ title: "How to Delete Taobao Account: Step-by-Step Guide for 2025"
 description: "Learn how to delete your Taobao account permanently in 2025. Step-by-step guide to closing your Taobao account safely and easily."
 categories: [Taobao account]
 author: CodingRhodes
-image: assets/images/featured_how-to-delete-taobao-account.webp
+image: /images/featured_how-to-delete-taobao-account.webp
 ---
 
 Want to permanently delete your **Taobao account** but don’t know where to start? This comprehensive guide will walk you through the entire process of closing a Taobao account—step by step.

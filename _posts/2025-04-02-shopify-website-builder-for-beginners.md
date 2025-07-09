@@ -5,7 +5,7 @@ description: "Discover why Shopify's website builder is the ideal choice for beg
 categories: e-commerce
 tags: [shopify, website builder, e-commerce, beginners]
 author: CodingRhodes
-image: assets/images/featured_shopify-website-builder-for-beginners.webp
+image: /images/featured_shopify-website-builder-for-beginners.webp
 ---
 
 

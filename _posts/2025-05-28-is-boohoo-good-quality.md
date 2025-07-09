@@ -6,7 +6,7 @@ tags: [boohoo, fast-fashion, online-shopping, reviews, is-boohoo-legit]
 keywords: "is boohoo good quality"
 categories: "Boohoo"
 author: CodingRhodes
-image: assets/images/featured_is-boohoo-good-quality.webp
+image: /images/featured_is-boohoo-good-quality.webp
 ---
 
 Are you wondering **"is Boohoo good quality?"** You're not alone. Many online shoppers turn to Google before clicking the buy button, especially when deals sound too good to be true. 

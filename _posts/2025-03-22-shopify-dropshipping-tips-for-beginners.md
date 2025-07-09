@@ -6,7 +6,7 @@ keywords: "shopify dropshipping"
 categories: [ecommerce, dropshipping]
 tags: [Shopify, Dropshipping, Online Business, eCommerce]
 author: CodingRhodes
-image: assets/images/featured_shopify-dropshipping-tips-for-beginners.webp
+image: /images/featured_shopify-dropshipping-tips-for-beginners.webp
 ---
 
 Shopify dropshipping is one of the easiest ways to start an online business without holding inventory. However, many beginners struggle to find the right strategies for success. In this guide, we’ll share **the best Shopify dropshipping tips for beginners**, helping you avoid common mistakes and build a thriving eCommerce business.

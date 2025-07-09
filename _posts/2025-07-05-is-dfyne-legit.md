@@ -4,7 +4,7 @@ title: "Is Dfyne Legit? What You Need to Know Before Buying"
 description: "Wondering if Dfyne is legit? Explore customer reviews, product quality, shipping policies, and more in this detailed 2025 brand analysis."
 categories: "dfyne"
 author: CodingRhodes
-image: assets/images/featured_is-dfyne-legit.webp
+image: /images/featured_is-dfyne-legit.webp
 ---
 
 ## Is Dfyne Legit? What You Need to Know Before Buying

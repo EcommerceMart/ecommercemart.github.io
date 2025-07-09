@@ -5,7 +5,7 @@ description: "Wondering if Hollister is a legit clothing brand? Here's a complet
 keywords: ["hollister", "is hollister legit", "hollister review", "hollister quality", "hollister returns", "hollister shipping", "hollister clothing brand legit"]
 categories: "Hollister"
 author: CodingRhodes
-image: assets/images/featured_is-hollister-legit-tips.webp
+image: /images/featured_is-hollister-legit-tips.webp
 ---
 
 **Wondering if Hollister is legit before placing your first order?** This detailed guide addresses all your concerns. Whether you're shopping online or in-store, we explore everything you need to know about Hollister’s clothing quality, return policy, shipping times, and customer reviews to help you make an informed decision.

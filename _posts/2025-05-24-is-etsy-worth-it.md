@@ -4,7 +4,7 @@ title: "Is Etsy Worth It in 2025?"
 description: "Explore whether Etsy is worth it in 2025 for sellers and buyers. Learn about fees, competition, profits, and platform comparisons."
 category: [Etsy]
 author: CodingRhodes
-image: assets/images/featured_is-etsy-worth-it.webp
+image: /images/featured_is-etsy-worth-it.webp
 ---
 
 Etsy has become one of the most popular platforms for selling handmade, vintage, and unique products online. 

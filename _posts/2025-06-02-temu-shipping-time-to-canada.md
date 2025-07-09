@@ -7,7 +7,7 @@ description: "Explore Temu's shipping times to Canada, warehouse locations, and 
 keywords: ["Temu", "Is Temu legit"]
 categories: "Temu"
 author: CodingRhodes
-image: assets/images/featured_temu-shipping-time-to-canada.webp
+image: /images/featured_temu-shipping-time-to-canada.webp
 ---
 
 Temu, a popular online marketplace known for its competitive prices, has seen a surge in popularity among Canadian shoppers. 

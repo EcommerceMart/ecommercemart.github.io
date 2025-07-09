@@ -5,7 +5,7 @@ description: "Is Hollister expensive? Get a detailed look at Hollister prices, d
 keywords: ["hollister", "is hollister legit", "hollister review", "hollister quality", "hollister returns", "hollister shipping", "hollister clothing brand legit"]
 categories: "Hollister"
 author: CodingRhodes
-image: assets/images/featured_is-hollister-expensive.webp
+image: /images/featured_is-hollister-expensive.webp
 ---
 
 Are you wondering if Hollister is expensive? This article gives you a simple, complete answer. You will learn about Hollister’s prices, compare them to other brands, see what deals are available, and find out if Hollister is worth your money. By the end, you will know if Hollister fits your budget and how to get the best value for your purchase.

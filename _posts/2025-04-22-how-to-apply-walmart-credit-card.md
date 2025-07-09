@@ -6,7 +6,7 @@ keywords: "walmart credit card"
 categories: "walmart"
 tags: [walmart credit card, credit card approval tips, apply walmart card, credit score, store cards]
 author: CodingRhodes
-image: assets/images/featured_how-to-apply-walmart-credit-card.webp
+image: /images/featured_how-to-apply-walmart-credit-card.webp
 ---
 
 **Thinking of getting a Walmart credit card? This in-depth guide walks you through the application process, eligibility rules, and strategies to boost your approval chances.**

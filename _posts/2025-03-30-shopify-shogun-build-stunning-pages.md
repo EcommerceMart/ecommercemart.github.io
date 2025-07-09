@@ -4,7 +4,7 @@ title: "Shopify Shogun: Build Stunning Ecommerce Pages Easily"
 description: "Learn how Shopify Shogun helps you build stunning eCommerce pages easily with drag-and-drop tools and advanced customization options."
 tags: [Shopify, Shopify Shogun, eCommerce, Landing Pages, Page Builder]
 author: CodingRhodes
-image: assets/images/featured_shopify-shogun-build-stunning-pages.webp
+image: /images/featured_shopify-shogun-build-stunning-pages.webp
 ---
 
 Creating a **visually appealing online store** is crucial for success in 🛍️ eCommerce. With **Shopify Shogun**, you can design **high-converting pages** without coding. In this guide, I’ll explain what **Shopify Shogun** is, how it works, and why it’s a game-changer for Shopify store owners. 🚀

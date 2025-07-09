@@ -4,7 +4,7 @@ title: "Is It Safe to Buy from Ulta Online? Exploring If Ulta Beauty is Legit in
 description: "Wondering if Ulta Beauty is legit? Learn whether it's safe to shop Ulta online in 2025 with reviews, policies, and shopping tips."
 category: [ecommerce]
 author: CodingRhodes
-image: assets/images/featured_is-ulta-beauty-legit.webp
+image: /images/featured_is-ulta-beauty-legit.webp
 ---
 
 If you’re searching “is Ulta Beauty legit” or wondering whether it’s safe to buy from Ulta online in 2025, you’re not alone. As the beauty e-commerce space grows, so do concerns around authenticity, shipping reliability, and customer service. 

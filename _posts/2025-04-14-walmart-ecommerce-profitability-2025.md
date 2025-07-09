@@ -6,7 +6,7 @@ keywords: "ecommerce, Walmart, online sales, retail news, USA"
 categories: "walmart"
 tags: [ecommerce, walmart, online sales, digital retail]
 author: CodingRhodes
-image: assets/images/featured_walmart-ecommerce-profitability-2025.webp
+image: /images/featured_walmart-ecommerce-profitability-2025.webp
 ---
 
 In a bold forecast that reflects shifting consumer habits and digital acceleration, **Walmart has announced it expects its U.S. ecommerce division to turn profitable in 2025**. As online sales continue to surge, this marks a transformative milestone not only for Walmart but for the entire American retail industry.

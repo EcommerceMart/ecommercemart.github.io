@@ -6,7 +6,7 @@ keywords: "Ecommerce Business, ecommerce marketing strategies, driving sales, on
 categories: [Ecommerce, Ecommerce Business]
 tags: [Ecommerce, Online Store, Business Solutions]
 author: CodingRhodes
-image: assets/images/featured_ecommerce-business-marketing-strategies.webp
+image: /images/featured_ecommerce-business-marketing-strategies.webp
 ---
 
 Marketing is the cornerstone of success in any ecommerce business. With the right strategies, you can attract your target audience, convert visitors into customers, and drive long-term growth. This guide covers effective marketing strategies tailored for ecommerce businesses, ensuring you have the tools and knowledge to boost your sales.

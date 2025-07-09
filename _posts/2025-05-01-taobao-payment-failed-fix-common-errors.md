@@ -5,7 +5,7 @@ description: "Facing the 'Taobao payment failed' issue? Discover 5 common reason
 categories: [Online Shopping, Taobao, Payment Issues]
 tags: [featured]
 author: CodingRhodes
-image: assets/images/featured_taobao-payment-failed-fix-common-errors.webp
+image: /images/featured_taobao-payment-failed-fix-common-errors.webp
 ---
 
 Taobao is one of the most popular online marketplaces in Asia, offering a vast range of products from electronics to fashion. However, for many international and even domestic users, one frequent frustration is seeing the dreaded "Taobao payment failed" message during checkout. 

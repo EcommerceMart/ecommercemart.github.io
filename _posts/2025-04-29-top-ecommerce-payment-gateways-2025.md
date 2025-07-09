@@ -4,7 +4,7 @@ title: "Top eCommerce Payment Gateways for 2025: Boost Your Online Store's Check
 description: Discover the best ecommerce payment gateway options for 2025 to optimize your store’s checkout process and enhance customer satisfaction.
 tags: [ecommerce, payment gateway, online store, 2025, checkout experience]
 author: CodingRhodes
-image: assets/images/featured_top-ecommerce-payment-gateways-2025.webp
+image: /images/featured_top-ecommerce-payment-gateways-2025.webp
 ---
 
 In the rapidly evolving digital commerce landscape, a seamless checkout experience is more crucial than ever. 

@@ -5,7 +5,7 @@ description: "Discover why Shogun Shopify is the best page builder for your stor
 keywords: ["Shogun Shopify", "Shopify page builder", "best Shopify page builder", "Shogun for Shopify", "Shopify store design"]
 categories: ["Ecommerce", "Shopify", "Page Builders"]
 author: CodingRhodes
-image: assets/images/featured_shogun-shopify-review.webp
+image: /images/featured_shogun-shopify-review.webp
 ---
 
 Building a successful Shopify store requires more than just great products—it demands an engaging and high-converting website. **Shogun Shopify** is the perfect page builder that helps store owners design stunning, conversion-focused pages without coding. Whether you're a beginner or an advanced user, Shogun empowers you to take control of your store’s design. Let's dive into why **Shogun Shopify** is the best choice for building and optimizing your Shopify store.

@@ -6,7 +6,7 @@ keywords: [ecommerce website development Dubai, ecommerce development Dubai, onl
 categories: Ecommerce
 tags: [ecommerce, website builder, online store]
 author: CodingRhodes
-image: assets/images/featured_ecommerce-website-development-dubai-store-success.webp
+image: /images/featured_ecommerce-website-development-dubai-store-success.webp
 ---
 
 ## Ecommerce Website Development in Dubai: Build Your Store for Success

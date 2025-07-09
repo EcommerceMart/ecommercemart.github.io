@@ -4,7 +4,7 @@ title: "Is Commense a Good Brand? Honest Review for Smart Shoppers"
 description: "Is Commense a good brand? Dive into product quality, customer reviews, shipping, pricing, and brand ethics to decide if Commense is worth your money."
 categories: "commense"
 author: CodingRhodes
-image: assets/images/featured_is-commense-good-brand.webp
+image: /images/featured_is-commense-good-brand.webp
 ---
 
 ## Is Commense a Good Brand? Honest Review for Smart Shoppers

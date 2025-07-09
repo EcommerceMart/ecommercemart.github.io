@@ -5,7 +5,7 @@ description: "Is PrettyLittleThing legit? Discover the truth about PLT’s quali
 keywords: ["prettylittlething", "is prettylittlething legit", "plt reviews", "prettylittlething clothing quality", "plt return policy"]
 categories: "PrettyLittleThing"
 author: CodingRhodes
-image: assets/images/featured_is-PrettyLittleThing-legit.webp
+image: /images/featured_is-PrettyLittleThing-legit.webp
 ---
 
 **Is PrettyLittleThing legit in 2025?** If you’ve scrolled through their ultra-trendy outfits and irresistible deals, you may be wondering whether PLT is trustworthy or just another fast fashion trap. With online reviews mixed and social media hype growing, it's essential to dig deeper before placing your first order.

@@ -5,7 +5,7 @@ description: "Discover the key components of the ecommerce equation and how to b
 keywords: "ecommerce equation, online sales strategies, ecommerce success, profitable ecommerce, ecommerce growth"
 categories: [Ecommerce, Business Growth]
 author: CodingRhodes
-image: assets/images/featured_ecommerce-equation-profitable-sales-strategies.webp
+image: /images/featured_ecommerce-equation-profitable-sales-strategies.webp
 ---
 
 ## The Ecommerce Equation: Unlocking Profitable Online Sales Strategies

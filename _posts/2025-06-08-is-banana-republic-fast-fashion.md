@@ -5,7 +5,7 @@ description: "Is Banana Republic fast fashion? Discover the facts about Banana R
 tags: banana republic, fast fashion, sustainability, review
 categories: "banana republic"
 author: CodingRhodes
-image: assets/images/featured_is-banana-republic-fast-fashion.webp
+image: /images/featured_is-banana-republic-fast-fashion.webp
 ---
 
 Are you wondering if Banana Republic is fast fashion? This detailed guide explains what fast fashion means, how Banana Republic fits into the industry, and what it means for you as a shopper. We look at the brand’s business model, sustainability, and real customer experiences so you can make an informed choice.

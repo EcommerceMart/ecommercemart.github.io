@@ -5,7 +5,7 @@ categories: affiliate-marketing
 tags: [shopify-website, affiliate-marketing, ecommerce, seo]
 description: "Discover why I’m obsessed with my Shopify website in 2025! From easy setup to skyrocketing sales, here’s my honest review of how Shopify turned my online dreams into reality."
 author: CodingRhodes
-image: assets/images/featured_my-shopify-website-journey-2025.webp
+image: /images/featured_my-shopify-website-journey-2025.webp
 ---
 
 Hey there, future ecommerce rockstar! If you’re anything like me, you’ve probably dreamed of launching your own online business—something fun, profitable, and totally *you*. Well, I’m here to spill the tea on how my **Shopify website** became the game-changer I didn’t know I needed. Spoiler alert: it’s been an absolute blast, and I can’t wait to tell you why it’s my top pick for 2025! 🚀

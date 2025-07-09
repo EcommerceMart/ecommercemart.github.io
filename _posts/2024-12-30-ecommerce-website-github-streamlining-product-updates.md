@@ -6,7 +6,7 @@ keywords: "ecommerce website github, automating product updates, GitHub workflow
 author: CodingRhodes
 categories: [Ecommerce, Open-source]
 tags: [ecommerce website github, Streamlining E-commerce]
-image: assets/images/featured_ecommerce-website-github-streamlining-product-updates.webp
+image: /images/featured_ecommerce-website-github-streamlining-product-updates.webp
 ---
 
 Managing an **ecommerce website** can be challenging, especially when it comes to updating product feeds or keeping inventory data in sync. Manual updates are prone to errors and consume valuable time, but leveraging **GitHub workflows** can automate these tasks, ensuring accuracy and efficiency.

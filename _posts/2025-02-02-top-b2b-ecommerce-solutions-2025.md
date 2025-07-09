@@ -6,7 +6,7 @@ keywords: "b2b ecommerce solutions, best b2b ecommerce platform, b2b ecommerce s
 categories: [Ecommerce, B2B Solutions]
 tags: [Ecommerce, B2B, Online Business, Ecommerce Platforms]
 author: CodingRhodes
-image: assets/images/featured_top-b2b-ecommerce-solutions-2025.webp
+image: /images/featured_top-b2b-ecommerce-solutions-2025.webp
 ---
 
 ## Introduction

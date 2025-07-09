@@ -6,7 +6,7 @@ keywords: "DHL eCommerce Customer Service, DHL customer support, DHL eCommerce h
 categories: logistics, ecommerce, customer-service
 tags: [DHL eCommerce, shipping support, customer service, tracking issues]
 author: CodingRhodes
-image: assets/images/featured_dhl-ecommerce-customer-service-fast-support-2025.webp
+image: /images/featured_dhl-ecommerce-customer-service-fast-support-2025.webp
 ---
 
 ## DHL eCommerce Customer Service: How to Get Fast Support in 2025

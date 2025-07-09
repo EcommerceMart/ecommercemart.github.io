@@ -6,7 +6,7 @@ keywords: [ecommerce website builder, ecommerce SEO experts, online store growth
 categories: Ecommerce
 tags: [ecommerce, website builder, online store]
 author: CodingRhodes
-image: assets/images/featured_hiring-ecommerce-seo-experts.webp
+image: /images/featured_hiring-ecommerce-seo-experts.webp
 ---
 
 

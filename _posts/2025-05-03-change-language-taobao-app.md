@@ -5,7 +5,7 @@ categories: [Online Shopping, Taobao, App Guides]
 tags: [taobao, change language, taobao english version, chinese apps, international users]
 description: "Learn how to change language on the Taobao app in 2025. A step-by-step guide for international users to switch from Chinese to English."
 author: CodingRhodes
-image: assets/images/featured_change-language-taobao-app.webp
+image: /images/featured_change-language-taobao-app.webp
 ---
 
 Taobao is one of the largest online shopping platforms in the world, but its user interface is primarily in Chinese, which presents a challenge for international users. 

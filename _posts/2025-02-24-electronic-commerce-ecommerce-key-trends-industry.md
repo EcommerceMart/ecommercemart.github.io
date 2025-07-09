@@ -4,7 +4,7 @@ title: "Electronic Commerce (E-Commerce): Key Trends Shaping the Industry"
 description: "Discover the latest trends shaping electronic commerce (e-commerce) in 2025. Learn how AI, automation, and sustainability are transforming the e-commerce landscape."
 categories: ecommerce
 author: CodingRhodes
-image: assets/images/featured_electronic-commerce-ecommerce-key-trends-industry.webp
+image: /images/featured_electronic-commerce-ecommerce-key-trends-industry.webp
 ---
 
 ## Introduction

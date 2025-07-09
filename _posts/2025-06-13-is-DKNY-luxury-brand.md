@@ -5,7 +5,7 @@ description: "Is DKNY a luxury brand? Discover a detailed, easy-to-understand re
 tags: [dnky, dkny, fashion, luxury, review, usa]
 categories: "DKNY"
 author: CodingRhodes
-image: assets/images/featured_is-DKNY-luxury-brand.webp
+image: /images/featured_is-DKNY-luxury-brand.webp
 ---
 
 Are you wondering if DNKY is a luxury brand? This detailed guide gives you clear, simple answers based on real customer feedback, product quality, brand reputation, and value for money. 

@@ -5,7 +5,7 @@ description: "Learn how ecommerce business insurance can safeguard your online s
 categories: [Business, Ecommerce, Insurance]
 tags: [Ecommerce Business Insurance, Online Store, Risk Management]
 author: CodingRhodes
-image: assets/images/featured_protect-ecommerce-with-business-insurance.webp
+image: /images/featured_protect-ecommerce-with-business-insurance.webp
 ---
 
 Running an online store comes with its share of opportunities and challenges. While ecommerce has opened up global markets, it has also exposed businesses to risks such as cyberattacks, legal disputes, and operational disruptions. One of the most effective ways to mitigate these risks is by investing in the right **ecommerce business insurance**.

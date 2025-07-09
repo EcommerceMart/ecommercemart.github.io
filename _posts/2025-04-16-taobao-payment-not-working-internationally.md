@@ -6,7 +6,7 @@ keywords: "Taobao"
 categories: [Shopping, Taobao, Ecommerce]
 tags: [featured]
 author: CodingRhodes
-image: assets/images/featured_taobao-payment-not-working-internationally.webp
+image: /images/featured_taobao-payment-not-working-internationally.webp
 ---
 
 Are you excited to shop from **Taobao** but hit a wall when your payment just won’t go through?

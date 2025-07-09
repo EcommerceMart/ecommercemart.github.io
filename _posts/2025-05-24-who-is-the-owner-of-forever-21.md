@@ -5,7 +5,7 @@ description: "Uncover who owns Forever 21 in 2025, its founding story, ownership
 keywords: ["forever 21", "forever 21 owner", "who owns forever 21", "forever 21 2025"]
 category: [Forever 21]
 author: CodingRhodes
-image: assets/images/featured_who-is-the-owner-of-forever-21.webp
+image: /images/featured_who-is-the-owner-of-forever-21.webp
 ---
 
 Forever 21, once a powerhouse in fast fashion, has undergone several ownership changes in the last decade. This article dives deep into the brand’s current ownership, historical transitions, and the stakeholders shaping its future. 

@@ -5,7 +5,7 @@ description: "Wondering if Shein clothes are worth it? We break down the quality
 keywords: ["shein", "is shein good quality", "shein clothing review", "shein fashion", "fast fashion shein"]
 categories: "shein"
 author: CodingRhodes
-image: assets/images/featured_is-shein-good-quality.webp
+image: /images/featured_is-shein-good-quality.webp
 ---
 
 Shein is one of the most popular online fashion retailers globally, especially known for offering stylish clothes at extremely affordable prices. 

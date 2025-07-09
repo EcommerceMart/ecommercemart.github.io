@@ -5,7 +5,7 @@ description: "Is Walmart a department store? Discover the key differences, busin
 keywords: ["walmart", "department store"]
 categories: "walmart"
 author: CodingRhodes
-image: assets/images/featured_is-walmart-a-department-store.webp
+image: /images/featured_is-walmart-a-department-store.webp
 ---
 
 Walmart is one of the most recognized names in retail across the globe. With thousands of stores and a vast assortment of products, it dominates the shopping landscape in the United States and beyond. 

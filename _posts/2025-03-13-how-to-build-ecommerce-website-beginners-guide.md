@@ -4,7 +4,7 @@ title: "How to Build an eCommerce Website: A Beginner’s Guide"
 description: "Learn how to build an eCommerce website from scratch with this step-by-step beginner’s guide. Start your online store today!"
 categories: "ecommerce"
 author: CodingRhodes
-image: assets/images/featured_how-to-build-ecommerce-website-beginners-guide.webp
+image: /images/featured_how-to-build-ecommerce-website-beginners-guide.webp
 ---
 
 ## Introduction

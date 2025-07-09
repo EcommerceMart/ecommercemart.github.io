@@ -4,7 +4,7 @@ title: "Is Commense Fast Fashion? The Truth Behind the Brand"
 description: "Is Commense fast fashion? Learn about Commense's business model, production practices, sustainability efforts, and how it fits into the fast fashion world."
 categories: "commense"
 author: CodingRhodes
-image: assets/images/featured_is-commense-fast-fashion.webp
+image: /images/featured_is-commense-fast-fashion.webp
 ---
 
 ## Is Commense Fast Fashion? The Truth Behind the Brand

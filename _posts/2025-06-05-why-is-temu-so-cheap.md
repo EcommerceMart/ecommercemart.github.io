@@ -6,7 +6,7 @@ description: "Explore why Temu offers products at such low prices. A detailed an
 keywords: ["Temu"]
 categories: "Temu"
 author: CodingRhodes
-image: assets/images/featured_why-is-temu-so-cheap.webp
+image: /images/featured_why-is-temu-so-cheap.webp
 ---
 
 Wondering why Temu’s prices seem too good to be true? This comprehensive guide explains why Temu is so cheap by analyzing its supply chain, manufacturing processes, and business model. We’ll also examine the pros and cons of buying from Temu and compare it to other e-commerce platforms. By the end of this article, you’ll have a clear understanding of whether Temu’s affordability comes at a cost and whether it’s worth it.

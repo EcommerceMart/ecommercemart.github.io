@@ -6,7 +6,7 @@ keywords: "ecommerce website creator, best ecommerce website creator, ecommerce 
 categories: [Ecommerce, Website Builders]
 tags: [Ecommerce, Website Creation, Online Business, Website Builders]
 author: CodingRhodes
-image: assets/images/featured_best-ecommerce-website-creators-2025.webp
+image: /images/featured_best-ecommerce-website-creators-2025.webp
 ---
 
 ## Introduction

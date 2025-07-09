@@ -5,7 +5,7 @@ categories: [eCommerce, Payment Solutions, International Business]
 tags: [ecommerce payment gateway, cross-border payments, international ecommerce, global transactions, multi-currency support]
 description: "Master cross-border ecommerce in 2025. Discover top ecommerce payment gateway solutions with multi-currency support and global compliance."
 author: CodingRhodes
-image: assets/images/featured_cross-border-ecommerce-payment-gateways-2025.webp
+image: /images/featured_cross-border-ecommerce-payment-gateways-2025.webp
 ---
 
 As global online shopping surges, businesses are seeking efficient ways to handle cross-border payments. 

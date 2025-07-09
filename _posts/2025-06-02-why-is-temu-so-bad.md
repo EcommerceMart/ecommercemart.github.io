@@ -6,7 +6,7 @@ tags: [temu, online-shopping, canada, reviews, is-temu-legit-in-canada]
 keywords: ["Temu"]
 categories: "Temu"
 author: CodingRhodes
-image: assets/images/featured_why-is-temu-so-bad.webp
+image: /images/featured_why-is-temu-so-bad.webp
 ---
 
 Temu has gained rapid popularity as an online marketplace offering low-cost products, but many users find it frustrating and disappointing. 

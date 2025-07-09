@@ -4,7 +4,7 @@ title: "Is Vivaia Legit? What You Need to Know Before Buying"
 description: "Is Vivaia legit? Discover detailed insights about Vivaia's quality, customer reviews, sustainability, and more before you make your first purchase."
 categories: "vivaia"
 author: CodingRhodes
-image: assets/images/featured_is-vivaia-legit.webp
+image: /images/featured_is-vivaia-legit.webp
 ---
 
 ## Is Vivaia Legit? What You Need to Know Before Buying

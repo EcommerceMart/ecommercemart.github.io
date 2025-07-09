@@ -4,7 +4,7 @@ title: "Top Reasons to Build Your eCommerce Website with Shopify"
 description: "Discover why Shopify is the best platform for building your eCommerce website. Learn about its features, benefits, and why businesses choose Shopify."
 categories: "ecommerce"
 author: CodingRhodes
-image: assets/images/featured_reasons-build-ecommerce-website-shopify.webp
+image: /images/featured_reasons-build-ecommerce-website-shopify.webp
 ---
 
 ## Introduction

@@ -4,7 +4,7 @@ title: "How to Get Genuine Products on Taobao: A 2025 Shopper’s Guide"
 description: "Discover strategies to find authentic products on Taobao using seller ratings, reviews, and more in this 2025 guide."
 tags: [how to get genuine products on Taobao, Taobao shopping, authentic Taobao, Taobao guide, China e-commerce]
 author: CodingRhodes
-image: assets/images/featured_how-to-get-genuine-products-on-taobao-2025-guide.webp
+image: /images/featured_how-to-get-genuine-products-on-taobao-2025-guide.webp
 ---
 
 Taobao, a leading Chinese e-commerce platform, offers a wide range of products at competitive prices. However, distinguishing between genuine and counterfeit items can be challenging for international buyers. 

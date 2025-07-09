@@ -6,7 +6,7 @@ keywords: "Ecommerce Business, ecommerce trends 2025, future of ecommerce, ecomm
 categories: [Ecommerce, Ecommerce Business]
 tags: [Ecommerce, Online Store, Business Solutions]
 author: CodingRhodes
-image: assets/images/featured_future-of-ecommerce-business-trends-2025.webp
+image: /images/featured_future-of-ecommerce-business-trends-2025.webp
 ---
 
 ## The Future of Ecommerce Business: Trends to Watch in 2025

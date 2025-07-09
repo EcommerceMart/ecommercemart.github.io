@@ -6,7 +6,7 @@ keywords: "SHOPIFY EXPERTS"
 categories: [Ecommerce, Shopify]
 tags: [shopify experts, ecommerce, website builder, online store]
 author: CodingRhodes
-image: assets/images/featured_shopify-experts-vs-diy.webp
+image: /images/featured_shopify-experts-vs-diy.webp
 ---
 
 In the world of ecommerce, launching a (**Shopify store**)[https://shopify.pxf.io/POrzKR] is one of the most exciting—and overwhelming—experiences for business owners. One of the biggest decisions you'll face is whether to **hire Shopify Experts** or go the **DIY (Do-It-Yourself)** route.

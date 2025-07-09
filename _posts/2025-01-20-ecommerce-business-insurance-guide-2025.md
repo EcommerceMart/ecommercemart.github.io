@@ -5,7 +5,7 @@ description: "Learn why ecommerce business insurance is crucial in 2025 and how 
 categories: [Business, Ecommerce, Insurance]
 tags: [Ecommerce Business Insurance, Online Business, Insurance Tips]
 author: CodingRhodes
-image: assets/images/featured_ecommerce-business-insurance-guide-2025.webp
+image: /images/featured_ecommerce-business-insurance-guide-2025.webp
 ---
 
 Running an ecommerce business offers unparalleled opportunities, but it also comes with unique risks and challenges. In 2025, ecommerce business insurance is more crucial than ever. Whether you're managing a small online store or a global marketplace, having the right insurance safeguards your business from unforeseen events that could derail your success.

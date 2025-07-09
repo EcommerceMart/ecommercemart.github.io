@@ -6,7 +6,7 @@ keywords: "taobao"
 categories: [Shopping, Taobao, International Shipping]
 tags: [taobao, usa shipping, taobao english site, international shopping]
 author: CodingRhodes
-image: assets/images/featured_taobao-ship-to-usa.webp
+image: /images/featured_taobao-ship-to-usa.webp
 ---
 
 Taobao is one of China's biggest online shopping platforms, offering a vast range of products at unbeatable prices. If you’re a U.S.-based shopper, you might be wondering: **Can Taobao ship to the USA?** The short answer is *yes*, but with a few steps and considerations.

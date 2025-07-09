@@ -6,7 +6,7 @@ keywords: "taobao"
 categories: [Shopping, E-commerce, Taobao]
 tags: [taobao, aliexpress, online shopping, comparison, china]
 author: CodingRhodes
-image: assets/images/featured_taobao-vs-aliexpress-why-people-prefer-taobao.webp
+image: /images/featured_taobao-vs-aliexpress-why-people-prefer-taobao.webp
 ---
 
 In the world of cross-border e-commerce, two Chinese giants often come up in conversations — **Taobao** and **AliExpress**. Both platforms offer massive product selections, great prices, and a window into Chinese retail. However, despite AliExpress being marketed more toward global consumers, a growing number of international shoppers prefer **Taobao**.

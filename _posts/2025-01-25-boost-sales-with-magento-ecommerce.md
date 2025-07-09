@@ -6,7 +6,7 @@ keywords: [ecommerce, Magento]
 categories: [Ecommerce, Magento]
 tags: [Magento, Ecommerce, Sales, SEO, Marketing, Ecommerce Tips]
 author: CodingRhodes
-image: assets/images/featured_boost-sales-with-magento-ecommerce.webp
+image: /images/featured_boost-sales-with-magento-ecommerce.webp
 ---
 
 When it comes to growing your online store, choosing the right platform can make all the difference. The **Magento ecommerce platform** is one of the most powerful tools available, offering a host of features designed to help you boost sales and scale your business.  

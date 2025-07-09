@@ -5,7 +5,7 @@ description: "Discover how Odoo Ecommerce can transform your online store with i
 categories: [Ecommerce, Odoo]
 tags: [Ecommerce, Odoo, Online Store, Business Solutions]
 author: CodingRhodes
-image: assets/images/featured_odoo-ecommerce-ultimate-guide.jpeg
+image: /images/featured_odoo-ecommerce-ultimate-guide.jpeg
 ---
 
 ## Introduction

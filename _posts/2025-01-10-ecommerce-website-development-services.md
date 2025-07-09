@@ -5,7 +5,7 @@ description: "Explore expert ecommerce website development services to build a p
 categories: [Ecommerce, Website Development]
 tags: [Ecommerce, Website Development, Online Store, Development Services]
 author: CodingRhodes
-image: assets/images/featured_ecommerce-website-development-services.jpeg
+image: /images/featured_ecommerce-website-development-services.jpeg
 ---
 
 ## Introduction

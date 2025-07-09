@@ -6,7 +6,7 @@ keywords: "Ecommerce Business, ecommerce business ideas, profitable ecommerce id
 categories: [Ecommerce, Ecommerce Business]
 tags: [Ecommerce, Online Store, Business Solutions]
 author: CodingRhodes
-image: assets/images/featured_ecommerce-business-ideas-boost-revenue-2025.webp
+image: /images/featured_ecommerce-business-ideas-boost-revenue-2025.webp
 ---
 
 ## Top 10 Ecommerce Business Ideas to Boost Your Revenue This Year

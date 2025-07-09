@@ -5,7 +5,7 @@ description: "Learn how to shop and ship from Taobao Global in 2025. This beginn
 tags: [Taobao Global, Taobao]
 categories: [Taobao Global]
 author: CodingRhodes
-image: assets/images/featured_taobao-global-2025-beginners-guide-shopping-shipping.webp
+image: /images/featured_taobao-global-2025-beginners-guide-shopping-shipping.webp
 ---
 
 Taobao Global has become one of the go-to platforms for international online shoppers looking for access to China's vast e-commerce marketplace. 

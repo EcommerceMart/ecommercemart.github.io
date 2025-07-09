@@ -5,7 +5,7 @@ description: "Learn everything about ecommerce website development in Dubai, fro
 categories: [Ecommerce, Dubai]
 tags: [Ecommerce, Website Development, Dubai, Online Store]
 author: CodingRhodes
-image: assets/images/featured_ecommerce-website-development-dubai-guide.jpeg
+image: /images/featured_ecommerce-website-development-dubai-guide.jpeg
 ---
 
 

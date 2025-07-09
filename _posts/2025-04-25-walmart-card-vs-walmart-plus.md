@@ -6,7 +6,7 @@ keywords: ["walmart card"]
 categories: "walmart"
 tags: [Walmart Card, Walmart Plus, Walmart Membership, Shopping Tips, Budgeting]
 author: CodingRhodes
-image: assets/images/featured_walmart-card-vs-walmart-plus.webp
+image: /images/featured_walmart-card-vs-walmart-plus.webp
 ---
 
 If you're a regular Walmart shopper in 2025, you've likely considered signing up for either the **Walmart Credit Card** 💳 or **Walmart Plus**. But which one offers better value for your money?

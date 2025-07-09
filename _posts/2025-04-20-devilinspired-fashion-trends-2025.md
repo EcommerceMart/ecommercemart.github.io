@@ -6,7 +6,7 @@ keywords: "DevilInspired"
 categories: [Fashion, Trends, 2025 Style, DevilInspired]
 tags: [DevilInspired, fashion trends, alternative fashion, gothic fashion, kawaii fashion, Harajuku style]
 author: CodingRhodes
-image: assets/images/featured_devilinspired-fashion-trends-2025.webp
+image: /images/featured_devilinspired-fashion-trends-2025.webp
 ---
 
 In a world of fast fashion and fleeting trends, **DevilInspired** continues to carve out a rebellious path for fashion lovers who want to express their individuality. In 2025, style isn’t just about aesthetics—it’s about empowerment, creativity, and identity. And DevilInspired, with its signature gothic, Lolita, and Harajuku-inspired styles, is at the forefront of this revolution.

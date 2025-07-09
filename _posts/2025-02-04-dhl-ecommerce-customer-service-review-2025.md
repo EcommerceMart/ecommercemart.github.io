@@ -6,7 +6,7 @@ keywords: "DHL eCommerce Customer Service, DHL support review, DHL customer help
 categories: logistics, ecommerce, customer-service
 tags: [DHL eCommerce, shipping support, customer service, tracking issues, review]
 author: CodingRhodes
-image: assets/images/featured_dhl-ecommerce-customer-service-review-2025.webp
+image: /images/featured_dhl-ecommerce-customer-service-review-2025.webp
 ---
 
 ## Is DHL eCommerce Customer Service Reliable? A Complete Review

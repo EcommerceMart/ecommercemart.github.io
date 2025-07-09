@@ -5,7 +5,7 @@ description: "Learn how to get a PacSun student discount. Save big on trendy clo
 categories: "PacSun"
 tags: [PacSun, Online Shopping, Retail Reviews]
 author: CodingRhodes
-image: assets/images/featured_pacsun-student-discount-guide.webp
+image: /images/featured_pacsun-student-discount-guide.webp
 ---
 
 If you are a student, you can save money on your favorite PacSun clothes with a PacSun student discount. This guide will show you exactly how to get your PacSun student discount, what you need to do, and how to make the most of it. 

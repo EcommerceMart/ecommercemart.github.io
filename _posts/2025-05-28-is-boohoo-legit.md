@@ -6,7 +6,7 @@ tags: [boohoo, fast-fashion, online-shopping, reviews, is-boohoo-legit]
 keywords: "is boohoo legit"
 categories: "Boohoo"
 author: CodingRhodes
-image: assets/images/featured_is-boohoo-legit.webp
+image: /images/featured_is-boohoo-legit.webp
 ---
 
 When considering a purchase from an online retailer like Boohoo, many shoppers wonder: **Is Boohoo legit?** This article provides a thorough analysis of Boohoo’s reputation, product quality, shipping reliability, customer service, and overall trustworthiness. 

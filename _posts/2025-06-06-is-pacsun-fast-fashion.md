@@ -5,7 +5,7 @@ description: "Discover if PacSun is fast fashion. Learn about PacSun’s style, 
 categories: "PacSun"
 tags: [PacSun, Online Shopping, Retail Reviews]
 author: CodingRhodes
-image: assets/images/featured_is-pacsun-fast-fashion.webp
+image: /images/featured_is-pacsun-fast-fashion.webp
 ---
 
 If you are wondering if PacSun is fast fashion, you are not alone. Many people ask this question because PacSun is a popular clothing brand in the USA. 

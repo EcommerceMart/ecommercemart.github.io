@@ -4,7 +4,7 @@ title: "Is Ecommerce Profitable: A Complete Guide for 2025"
 description: "Discover if ecommerce is profitable in 2025. Explore key strategies, challenges, and tips for building a profitable online store."
 category: [ecommerce]
 author: CodingRhodes
-image: assets/images/featured_is-ecommerce-profitable.webp
+image: /images/featured_is-ecommerce-profitable.webp
 ---
 
 Is ecommerce profitable in 2025? The short answer is yes, but it depends on several factors including business model, niche, marketing strategies, and operations. 

@@ -5,7 +5,7 @@ description: "Is Princess Polly legit in 2025? Dive into a 4000+ word review cov
 categories: [Fashion, Reviews, Online Shopping]
 tags: [princess polly, fashion review, online clothing, affordable style, is princess polly legit]
 author: CodingRhodes
-image: assets/images/featured_is-princess-polly-legit.webp
+image: /images/featured_is-princess-polly-legit.webp
 ---
 
 Princess Polly is a well-known online fashion boutique loved by influencers and Gen Z shoppers alike. 

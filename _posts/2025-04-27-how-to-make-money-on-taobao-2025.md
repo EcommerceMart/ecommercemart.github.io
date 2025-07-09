@@ -5,7 +5,7 @@ description: "Learn beginner-friendly ways to make money on Taobao with little i
 keywords: "How to make money on Taobao, Taobao business ideas, make money with Taobao"
 categories: [Business, Ecommerce, Side Hustles]
 author: CodingRhodes
-image: assets/images/featured_how-to-make-money-on-taobao-2025.webp
+image: /images/featured_how-to-make-money-on-taobao-2025.webp
 ---
 
 Curious about how to make money on Taobao without a lot of upfront cash? You're not alone. Every year, thousands of new entrepreneurs and side hustlers discover creative ways to earn income using Taobao’s vast product catalog. 

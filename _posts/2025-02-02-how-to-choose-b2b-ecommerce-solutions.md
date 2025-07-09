@@ -6,7 +6,7 @@ keywords: "b2b ecommerce solutions, best b2b ecommerce platform, choosing b2b ec
 categories: [Ecommerce, B2B Solutions]
 tags: [Ecommerce, B2B, Online Business, Ecommerce Platforms]
 author: CodingRhodes
-image: assets/images/featured_how-to-choose-b2b-ecommerce-solutions.webp
+image: /images/featured_how-to-choose-b2b-ecommerce-solutions.webp
 ---
 
 ## Introduction

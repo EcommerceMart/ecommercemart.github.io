@@ -4,7 +4,7 @@ title: "Is Rare Beauty Worth It? Honest reviews may surprise you"
 description: "Uncover if Rare Beauty is truly worth the hype. We analyze quality, performance, reviews, and value to help you decide."
 categories: "rare beauty"
 author: CodingRhodes
-image: assets/images/featured_is-rare-beauty-worth-it.webp
+image: /images/featured_is-rare-beauty-worth-it.webp
 ---
 
 Wondering if Rare Beauty is worth your money? You’re not alone. With thousands of beauty fans raving about Selena Gomez’s cosmetic line, it’s easy to be curious. 

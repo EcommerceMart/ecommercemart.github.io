@@ -4,7 +4,7 @@ title: "Is Charlotte Russe Legit? A Complete Buyer’s Guide for 2025"
 description: "Is Charlotte Russe legit? This in-depth 2025 review explores its trustworthiness, quality, shipping, customer reviews, and return policies."
 categories: "CharlotteRusse"
 author: CodingRhodes
-image: assets/images/featured_is-charlotte-russe-legit.webp
+image: /images/featured_is-charlotte-russe-legit.webp
 ---
 
 **Is Charlotte Russe Legit? Here’s Everything You Need to Know Before Shopping**

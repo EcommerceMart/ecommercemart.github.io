@@ -6,7 +6,7 @@ keywords: "ecommerce que es, tipos de ecommerce, beneficios del ecommerce, negoc
 categories: [Ecommerce]
 tags: [Ecommerce, Tienda Online, Negocio Digital, Emprendimiento]
 author: CodingRhodes
-image: assets/images/featured_ecommerce-que-es-tipos-beneficios-exito.webp
+image: /images/featured_ecommerce-que-es-tipos-beneficios-exito.webp
 ---
 
 ## Ecommerce explicado: Tipos, beneficios y claves del éxito

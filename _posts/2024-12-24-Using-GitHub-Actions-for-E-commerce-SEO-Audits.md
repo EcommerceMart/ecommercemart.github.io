@@ -4,7 +4,7 @@ title:  "Using GitHub Actions for E-commerce SEO Audits"
 description: 'Learn how to use GitHub Actions to automate SEO audits for your e-commerce site and boost search engine rankings.'
 author: CodingRhodes
 categories: [Ecommerce, SEO, GitHub]
-image: assets/images/featured_Using-GitHub-Actions-for-E-commerce-SEO-Audits.webp
+image: /images/featured_Using-GitHub-Actions-for-E-commerce-SEO-Audits.webp
 tags: [ecommerce, seo, github-actions, automation]
 keywords: ["ecommerce SEO automation"]
 ---

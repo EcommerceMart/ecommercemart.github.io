@@ -4,7 +4,7 @@ title: "Best B2B eCommerce Solutions for Growing Businesses"
 description: "Discover the best B2B eCommerce solutions to streamline operations, boost sales, and scale your business efficiently. Compare top platforms now."
 categories: "ecommerce, b2b ecommerce solutions"
 author: CodingRhodes
-image: assets/images/featured_best-b2b-ecommerce-solutions-growing-businesses.webp
+image: /images/featured_best-b2b-ecommerce-solutions-growing-businesses.webp
 ---
 
 ## Introduction

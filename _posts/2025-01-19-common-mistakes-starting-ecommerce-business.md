@@ -6,7 +6,7 @@ keywords: "Ecommerce Business, ecommerce marketing strategies, driving sales, on
 categories: [Ecommerce, Ecommerce Business]
 tags: [Ecommerce, Online Store, Business Solutions]
 author: CodingRhodes
-image: assets/images/featured_common-mistakes-starting-ecommerce-business.webp
+image: /images/featured_common-mistakes-starting-ecommerce-business.webp
 ---
 
 

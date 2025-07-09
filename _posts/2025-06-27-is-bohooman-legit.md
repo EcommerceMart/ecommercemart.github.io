@@ -5,7 +5,7 @@ description: "Wondering if BoohooMAN is legit? Read our 4000+ word in-depth guid
 keywords: ["Is BoohooMAN Legit", "BoohooMAN review", "BoohooMAN quality", "BoohooMAN shipping", "BoohooMAN sizing"]
 categories: "boohooman"
 author: CodingRhodes
-image: assets/images/featured_is-bohooman-legit.webp
+image: /images/featured_is-bohooman-legit.webp
 ---
 
 If you're wondering, *“Is BoohooMAN legit?”* you're not alone. With stylish, affordable menswear flooding your Instagram and TikTok feed, BoohooMAN is attracting attention—but can it be trusted? 

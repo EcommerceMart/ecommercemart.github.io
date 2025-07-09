@@ -5,7 +5,7 @@ categories: ecommerce
 tags: [shopify-website-builder, affiliate-marketing, ecommerce, online-store]
 description: "Here’s my honest review of the Shopify website builder in 2025! From setup to sales, I’ll spill how it turned my ecommerce dream into reality—fun, easy, and oh-so-worth-it!"
 author: CodingRhodes
-image: assets/images/featured_my-shopify-website-builder-journey-2025.webp
+image: /images/featured_my-shopify-website-builder-journey-2025.webp
 ---
 
 Hey there, ecommerce dreamers! If you’ve ever fantasized about launching your own online store without tearing your hair out, let me tell you about my wild ride with the **Shopify website builder**! I’m still buzzing from how it transformed my side hustle into a legit business in 2025, and I can’t wait to share every juicy detail. Spoiler: it’s been a blast, and I’m hooked! 😄

@@ -6,7 +6,7 @@ tags: [Fashion Nova]
 keywords: ["Fashion Nova"]
 categories: "FashionNova"
 author: CodingRhodes
-image: assets/images/featured_is-fashion-nova-legit.webp
+image: /images/featured_is-fashion-nova-legit.webp
 ---
 
 If you've ever wondered, "Is Fashion Nova legit?", you're not alone. With its explosive popularity on social media, millions of shoppers are curious about whether Fashion Nova is a reputable brand or a scam. 

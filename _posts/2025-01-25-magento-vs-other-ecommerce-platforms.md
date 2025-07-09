@@ -6,7 +6,7 @@ keywords: [ecommerce, Magento]
 categories: [Ecommerce, Magento]
 tags: [Magento, Ecommerce, Shopify, WooCommerce, BigCommerce, Ecommerce Platforms]
 author: CodingRhodes
-image: assets/images/featured_magento-vs-other-ecommerce-platforms.webp
+image: /images/featured_magento-vs-other-ecommerce-platforms.webp
 ---
 
 When building an online store, choosing the right platform is a critical decision that can shape your business's future. Among the many ecommerce platforms available, the **Magento ecommerce platform** stands out as a favorite for businesses of all sizes. But how does Magento compare to other popular platforms like Shopify, WooCommerce, and BigCommerce?  

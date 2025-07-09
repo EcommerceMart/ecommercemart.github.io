@@ -5,7 +5,7 @@ description: "Discover how EcommDirect is revolutionizing the ecommerce industry
 categories: [Ecommerce, Technology]
 tags: [ecommdirect, online shopping, ecommerce trends, digital commerce]
 author: CodingRhodes
-image: assets/images/featured_ecommdirect-future-seamless-shopping-2025.webp
+image: /images/featured_ecommdirect-future-seamless-shopping-2025.webp
 ---
 
 ## Introduction
