@@ -25,7 +25,7 @@ hero:
   hero__job: 
   hero__description: "Find blogs of Ecommerce , Fashion Brands."
   hero__button__text: Read about the Author # Add your button text
-  hero__button__link: '/about'
+  hero__button__link: '/about-us'
   # hero__image: '/images/hero-image.webp'
 
 
