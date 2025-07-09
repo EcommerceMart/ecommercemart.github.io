@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-title: 'AI Calculator: Calculate Anything with AI'
-logo: '/images/Logo-calc.webp'
-description:  "AI Calculator is a web application, here you can perform various calculations using different AI Calculators."
+title: 'EcommerceMart'
+# logo: '/images/Logo-calc.webp'
+description:  "Find blogs of Ecommerce , Fashion Brands."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 blog-theme: light # By default, Atega theme uses a 'light' color scheme, to change the color scheme to dark use 'dark' value (_includes/color-scheme)
@@ -11,22 +11,22 @@ blog-theme: light # By default, Atega theme uses a 'light' color scheme, to chan
 #-------------------------------
 # Author Settings
 author:
-  name: Emily Stark
-  image: '/images/Emily-Stark.webp' # Add your author image
-  description: "I am a content writer and SEO specialist with a passion for artificial intelligence. I create engaging and informative content that helps businesses connect with their audience and achieve their goals."
+  name: Coding Rhodes # Add your name
+  image: '/images/Author-codingRhodes.webp' # Add your author image
+  description: "Hi, I am Coding Rhodes, the author of this article, Do let me know If you have any Questions."
   social:
-    twitter: https://twitter.com/Emily-Stark
+    twitter: https://twitter.com/codingrhodes
 
 
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Calculate Anything with <span class="hero__name">AI Calculator</span>.
+  hero__title: Find Ecommerce Blogs <span class="hero__name">EcommerceMart</span>.
   hero__job: 
-  hero__description: "AI Calculator is a web application, here you can perform various calculations using different AI Calculators."
+  hero__description: "Find blogs of Ecommerce , Fashion Brands."
   hero__button__text: Read about the Author # Add your button text
   hero__button__link: '/about'
-  hero__image: '/images/hero-image.webp'
+  # hero__image: '/images/hero-image.webp'
 
 
 #-------------------------------
@@ -40,7 +40,7 @@ hero:
 #-------------------------------
 # Contact Settings
 contact:
-  email: ai.calculate@gmail.com # Add your email for contant form
+  email: codingrhodes@gmail.com # Add your email for contant form
   description: If you are interested to talk, just shoot me a message
 
 # NOTE
@@ -53,7 +53,7 @@ contact:
 # Other icons can be found at https://ionicons.com/v4/
 social:
 # - {icon: "ion-logo-twitter", link: "https://twitter.com/posadchyi"}
-- {icon: "ion-logo-github", link: "https://github.com/ai-calculator"}
+- {icon: "ion-logo-github", link: "https://github.com/ecommercemart"}
 # - {icon: "ion-logo-youtube", link: "https://youtube.com"}
 # - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 # - {icon: "ion-logo-codepen", link: "https://codepen.io"}
