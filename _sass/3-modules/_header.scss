@@ -230,6 +230,9 @@ button.dropdown-toggle:hover {
   display: block;
   margin: 15px auto 0;
 }
+.content-section {
+  position: relative;
+}
 @media only screen and (min-width: $desktop) {
   .content-section {
     margin-top: -90px;
@@ -245,6 +248,21 @@ button.dropdown-toggle:hover {
 }
 .seo-homepage-heading {
   font-size: 30px;
+}
+.side-bar-right-ads {
+	position: fixed;
+	top: 80px;
+	right:3px;
+	min-width: 180px;
+	z-index:9999;
+	max-width: 190px;
+
+}
+@media screen and (max-width: 1430px) {
+	.side-bar-left-ads, .side-bar-right-ads {
+		display:none;
+	}
+	
 }
 
 @media only screen and (min-width: $desktop) {
