@@ -250,8 +250,17 @@ button.dropdown-toggle:hover {
   font-size: 30px;
 }
 .side-bar-right-ads {
-	position: fixed;
-	top: 80px;
+	position: absolute;
+	top: 40px;
+	right:3px;
+	min-width: 180px;
+	z-index:9999;
+	max-width: 190px;
+
+}
+.side-bar-left-ads {
+	position: absolute;
+	top: 40px;
 	right:3px;
 	min-width: 180px;
 	z-index:9999;
