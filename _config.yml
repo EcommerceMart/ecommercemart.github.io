@@ -5,6 +5,7 @@ title: 'EcommerceMart'
 description:  "Find blogs of Ecommerce , Fashion Brands."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+favicon: '/favicon.ico' # Add your favicon
 blog-theme: light # By default, Atega theme uses a 'light' color scheme, to change the color scheme to dark use 'dark' value (_includes/color-scheme)
 
  
