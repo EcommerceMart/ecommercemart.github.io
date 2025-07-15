@@ -234,9 +234,9 @@ button.dropdown-toggle:hover {
   position: relative;
 }
 @media only screen and (min-width: $desktop) {
-  .content-section {
-    margin-top: -90px;
-  }
+  // .content-section {
+  //   margin-top: -90px;
+  // }
 }
 @media only screen and (min-width: $desktop) {
   .no-content-section {
