@@ -81,6 +81,8 @@ One of the most pressing concerns about Modlily is product quality. Customers of
 
 ## Modlily Sizing Guide and Fit Accuracy
 
+![Modlily Sizing Guide and Fit Accuracy]({{ site.baseurl }}/images/Modlily-Sizing-Guide-and-Fit-Accuracy.webp)
+
 Sizing inconsistencies are a common complaint. Modlily provides a detailed size chart, but customers often find:
 
 * Sizes run small compared to US/UK standards.
