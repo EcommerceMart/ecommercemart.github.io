@@ -2,7 +2,6 @@
 layout: post
 title: "Change Language on Taobao App: Quick Guide (2025)"
 categories: [Online Shopping, Taobao, App Guides]
-tags: [taobao, change language, taobao english version, chinese apps, international users]
 description: "Learn how to change language on the Taobao app in 2025. A step-by-step guide for international users to switch from Chinese to English."
 author: CodingRhodes
 image: /images/featured_change-language-taobao-app.webp

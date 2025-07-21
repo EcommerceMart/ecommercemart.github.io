@@ -2,7 +2,6 @@
 layout: post
 title: "How Long Does Temu Take to Ship to Canada?"
 categories: [Shipping, Temu, Canada]
-tags: [temu, canada, shipping, delivery times, online shopping]
 description: "Explore Temu's shipping times to Canada, warehouse locations, and how to get your orders faster."
 keywords: ["Temu", "Is Temu legit"]
 categories: "Temu"

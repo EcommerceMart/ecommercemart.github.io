@@ -2,7 +2,6 @@
 layout: post
 title: "Ecommerce SEO Optimization in 2025: Strategies to Boost Your Online Store's Visibility"
 description: "Explore top ecommerce SEO optimization strategies in 2025 to enhance visibility, rank higher, and grow your online store effectively."
-tags: [Taobao Global, Taobao]
 categories: [Taobao Global]
 author: CodingRhodes
 image: /images/featured_ecommerce-seo-optimization-2025-strategies.webp

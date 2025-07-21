@@ -5,7 +5,6 @@ description: "Learn how to automate e-commerce product updates and inventory man
 keywords: "ecommerce website github, automating product updates, GitHub workflows for ecommerce"
 author: CodingRhodes
 categories: [Ecommerce, Open-source]
-tags: [ecommerce website github, Streamlining E-commerce]
 image: /images/featured_ecommerce-website-github-streamlining-product-updates.webp
 ---
 

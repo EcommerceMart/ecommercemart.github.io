@@ -3,7 +3,6 @@ layout: post
 title: "Is AliExpress Safe in 2025? What Buyers Need to Know Today"
 description: "Is AliExpress safe in 2025? Discover what global buyers should know about safety, payments, shipping, and scams on AliExpress."
 categories: [Ecommerce, AliExpress, Online Shopping, Buyer Guide]
-tags: [AliExpress, online shopping, ecommerce safety, buyer tips, 2025 trends]
 author: CodingRhodes
 image: /images/featured_is-aliexpress-safe-2025.webp
 ---

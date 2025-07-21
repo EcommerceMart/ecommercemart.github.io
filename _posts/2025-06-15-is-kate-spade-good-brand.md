@@ -3,7 +3,6 @@ layout: post
 title: "Is Kate Spade a Good Brand? Honest Review for 2025"
 description: "Is Kate Spade a good brand? Discover an easy, detailed review of Kate Spade's quality, style, and value for USA shoppers in 2025."
 categories: "KateSpade"
-tags: [kate spade, handbags, review, usa, fashion, designer]
 author: CodingRhodes
 image: /images/featured_is-kate-spade-good-brand.webp
 ---

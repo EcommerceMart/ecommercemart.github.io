@@ -2,7 +2,6 @@
 layout: post
 title: "Is DKNY a Luxury Brand? Honest Review for 2025"
 description: "Is DKNY a luxury brand? Discover a detailed, easy-to-understand review of DKNY's status, quality, and value for USA shoppers in 2025."
-tags: [dnky, dkny, fashion, luxury, review, usa]
 categories: "DKNY"
 author: CodingRhodes
 image: /images/featured_is-DKNY-luxury-brand.webp

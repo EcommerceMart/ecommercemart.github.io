@@ -4,7 +4,6 @@ title: "Shopify 1099-K Reporting Rules Are Changing: How It Affects Your Online 
 description: "Big changes to Shopify 1099k reporting rules in 2025. Learn how it affects your taxes, thresholds, and reporting requirements."
 keywords: "Shopify 1099k"
 categories: [Ecommerce, Taxes, Shopify, 1099-K, Online Business]
-tags: [Shopify 1099k, IRS changes, ecommerce taxes, online seller reporting]
 author: CodingRhodes
 image: /images/featured_shopify-1099k-rules-change-2025.webp
 ---

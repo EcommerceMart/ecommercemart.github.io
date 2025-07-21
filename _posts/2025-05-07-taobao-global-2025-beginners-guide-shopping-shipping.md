@@ -2,7 +2,6 @@
 layout: post
 title: "Taobao Global 2025: A Beginner's Guide to Shopping and Shipping Worldwide"
 description: "Learn how to shop and ship from Taobao Global in 2025. This beginner's guide covers everything from browsing to international delivery."
-tags: [Taobao Global, Taobao]
 categories: [Taobao Global]
 author: CodingRhodes
 image: /images/featured_taobao-global-2025-beginners-guide-shopping-shipping.webp

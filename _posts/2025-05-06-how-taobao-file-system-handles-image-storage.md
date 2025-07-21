@@ -2,7 +2,6 @@
 layout: post
 title: "How Taobao File System (TFS) Powers Massive Image Storage and Processing"
 description: "Explore how Taobao File System handles massive image storage needs with flat structure, metadata optimization, and fast small file access."
-tags: [Taobao File System, TFS, distributed storage, Alibaba, file system architecture]
 categories: [Technology, Cloud Storage, Big Data]
 author: CodingRhodes
 image: /images/featured_how-taobao-file-system-handles-image-storage.webp

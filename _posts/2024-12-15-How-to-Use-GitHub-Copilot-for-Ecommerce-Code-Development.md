@@ -5,7 +5,7 @@ description: 'Boost e-commerce development with GitHub Copilot! Learn how to acc
 author: CodingRhodes
 categories: "github"
 image: /images/featured_How-to-Use-GitHub-Copilot-for-Ecommerce-Code-Development.webp
-tags: [Github, Ecommerce]
+
 ---
 
 # How to Use GitHub Copilot for E-commerce Code Development

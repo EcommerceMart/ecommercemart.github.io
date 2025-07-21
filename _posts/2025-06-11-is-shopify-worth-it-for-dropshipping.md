@@ -3,7 +3,6 @@ layout: post
 title: "Is Shopify Worth It for Dropshipping? A Deep Dive for Aspiring Entrepreneurs"
 description: "Is Shopify worth it for dropshipping? Explore costs, pros, cons, and real success stories to decide if Shopify is right for your dropshipping business."
 categories: "ShopifyDropshipping"
-tags: [Shopify, dropshipping, ecommerce, business, review]
 author: CodingRhodes
 image: /images/featured_is-shopify-worth-it-for-dropshipping.webp
 ---

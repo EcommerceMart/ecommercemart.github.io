@@ -5,7 +5,7 @@ description: 'Learn best practices for hosting and version-controlling API docum
 author: CodingRhodes
 categories: [ Ecommerce ]
 image: /images/featured_Creating-and-Managing-API-Documentation-for-Ecommerce-Platforms-on-GitHub.webp
-tags: [Github, Ecommerce]
+
 keywords: ["ecommerce website github", "API documentation", "GitHub Pages", "Markdown", "developer portal"]
 ---
 

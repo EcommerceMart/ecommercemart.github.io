@@ -2,7 +2,6 @@
 layout: post
 title: "Is Boohoo Legit? Uncover Real Reviews and Quality Insights"
 description: "Is Boohoo legit? An in-depth 2025 review covering quality, shipping, returns, ethics, and customer reviews to help you decide before buying."
-tags: [boohoo, fast-fashion, online-shopping, reviews, is-boohoo-legit]
 keywords: "is boohoo legit"
 categories: "Boohoo"
 author: CodingRhodes

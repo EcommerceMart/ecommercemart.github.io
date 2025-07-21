@@ -2,7 +2,6 @@
 layout: post
 title: "Why Is Temu So Bad? An Honest Review Explaining User Concerns"
 description: "Discover why Temu is often considered bad by users. Detailed review covering shipping, quality, customer service, and more."
-tags: [temu, online-shopping, canada, reviews, is-temu-legit-in-canada]
 keywords: ["Temu"]
 categories: "Temu"
 author: CodingRhodes

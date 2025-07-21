@@ -2,7 +2,6 @@
 layout: post
 title: "Is Lululemon Cheaper in Canada?"
 description: "Explore if Lululemon Canada offers better prices, tips on saving, and factors affecting costs for shoppers across borders."
-tags: [Lululemon]
 keywords: ["Lululemon"]
 categories: "Lululemon"
 author: CodingRhodes

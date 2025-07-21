@@ -5,7 +5,7 @@ description: 'Discover how to use GitHub for managing multi-language e-commerce 
 author: CodingRhodes
 categories: [Ecommerce, SEO, GitHub]
 image: /images/featured_The-Role-of-GitHub-in-Supporting-Multi-language-Ecommerce-Sites.webp
-tags: [ecommerce, Github]
+
 keywords: ["ecommerce website github", "multi-language ecommerce", "GitHub strategies", "version control translations"]
 ---
 ## Introduction

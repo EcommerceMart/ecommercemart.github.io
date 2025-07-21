@@ -3,7 +3,6 @@ layout: post
 title: "Is PacSun Fast Fashion?"
 description: "Discover if PacSun is fast fashion. Learn about PacSun’s style, quality, and sustainability."
 categories: "PacSun"
-tags: [PacSun, Online Shopping, Retail Reviews]
 author: CodingRhodes
 image: /images/featured_is-pacsun-fast-fashion.webp
 ---

@@ -4,7 +4,6 @@ title: "Ecommerce: ¿Qué es y cómo empezar tu tienda online en 2025?"
 description: "Descubre qué es el ecommerce y aprende a crear tu propia tienda online en 2025 con esta guía sencilla y completa."
 keywords: "ecommerce que es, tienda online, vender por internet, negocio digital, ecommerce 2025"
 categories: [Ecommerce]
-tags: [Ecommerce, Tienda Online, Negocio Digital, Emprendimiento]
 author: CodingRhodes
 image: /images/featured_ecommerce-que-es-como-empezar-tienda-online-2025.webp
 ---

@@ -4,7 +4,6 @@ title: "Shopify 1099-K: What Sellers Need to Know"
 description: "Understand the Shopify 1099-K tax form, its requirements, and how it affects sellers. Learn reporting tips and tax implications."
 keywords: "shopify 1099k, shopify tax form, shopify seller taxes"
 categories: [ecommerce, shopify, taxes]
-tags: [Shopify, 1099-K, eCommerce Taxes, Seller Guide]
 author: CodingRhodes
 image: /images/featured_shopify-1099k-what-sellers-need-to-know.webp
 ---

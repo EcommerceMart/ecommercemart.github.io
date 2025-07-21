@@ -5,7 +5,7 @@ description: 'Learn to track e-commerce performance using GitHub tools. Monitor 
 author: CodingRhodes
 categories: "Ecommerce"
 image: /images/featured_Optimizing-Ecommerce-Performance-with-GitHub-Monitoring-Tools.webp
-tags: [Github, Ecommerce]
+
 ---
 
 # Optimizing E-commerce Performance with GitHub Monitoring Tools

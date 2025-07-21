@@ -3,7 +3,6 @@ layout: post
 title: "Why Shopify Website Builder Is Perfect for Beginners"
 description: "Discover why Shopify's website builder is the ideal choice for beginners looking to start their e-commerce journey. Learn about its user-friendly features, success stories, and more."
 categories: e-commerce
-tags: [shopify, website builder, e-commerce, beginners]
 author: CodingRhodes
 image: /images/featured_shopify-website-builder-for-beginners.webp
 ---

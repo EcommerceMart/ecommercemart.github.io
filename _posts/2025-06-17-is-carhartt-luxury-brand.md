@@ -3,7 +3,6 @@ layout: post
 title: "Is Carhartt a Luxury Brand? Honest Review for 2025"
 description: "Is Carhartt a luxury brand? Discover Carhartt’s status, quality, style, and value for USA shoppers in this detailed, easy-to-read review."
 categories: "Carhartt"
-tags: [carhartt, luxury, workwear, review, usa, clothing, carhartt wip]
 author: CodingRhodes
 image: /images/featured_is-carhartt-luxury-brand.webp
 ---

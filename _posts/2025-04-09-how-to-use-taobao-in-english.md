@@ -4,7 +4,6 @@ title: "How to Use Taobao in English: A Step-by-Step Guide"
 description: "Learn how to use Taobao in English with this detailed step-by-step guide. Overcome language barriers and shop on the Taobao English site easily."
 keywords: "taobao english, taobao english site"
 categories: [Ecommerce, Taobao]
-tags: [taobao, online shopping, international shopping]
 author: CodingRhodes
 image: /images/featured_how-to-use-taobao-in-english.webp
 ---

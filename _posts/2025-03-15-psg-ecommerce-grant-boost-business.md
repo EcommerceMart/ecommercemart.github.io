@@ -3,7 +3,6 @@ layout: post
 title: "PSG eCommerce Grant: Boost Your Online Business Today"
 description: "Learn how the PSG eCommerce Grant can help your business grow online. Find out eligibility, application steps, and benefits. Apply today!"
 categories: ecommerce
-tags: [psg ecommerce grant, ecommerce funding, business growth]
 author: CodingRhodes
 image: /images/featured_psg-ecommerce-grant-boost-business.webp
 ---

@@ -5,7 +5,7 @@ description: 'Discover the top GitHub repositories offering tools and resources 
 author: CodingRhodes
 categories: "Ecommerce"
 image: /images/featured_Top-GitHub-Repos-for-Enhancing-Security-on-Ecommerce-Site.webp
-tags: [Security]
+
 ---
 Security is critical for e-commerce sites. Customer information, payment details, and business data must be protected. Fortunately, GitHub offers powerful, open-source tools that make it easier to secure your e-commerce site against threats.
 

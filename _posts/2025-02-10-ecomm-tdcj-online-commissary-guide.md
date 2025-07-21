@@ -2,7 +2,6 @@
 layout: post
 title: "Ecomm TDCJ: How to Send Secure Online Orders to Texas Inmates"
 categories: [TDCJ, EcommDirect, Texas Prisons]
-tags: [ecomm TDCJ, Texas inmates, online commissary]
 author: CodingRhodes
 image: /images/featured_ecomm-tdcj-online-commissary-guide.webp
 ---

@@ -3,7 +3,6 @@ layout: post
 title: "Is Carhartt a Good Brand? Honest Review for 2025"
 description: "Is Carhartt a good brand? Discover Carhartt’s quality, durability, style, and value for USA shoppers in this detailed, easy review."
 categories: "Carhartt"
-tags: [carhartt, workwear, review, usa, clothing, durability]
 author: CodingRhodes
 image: /images/featured_is-carhartt-good-brand.webp
 ---

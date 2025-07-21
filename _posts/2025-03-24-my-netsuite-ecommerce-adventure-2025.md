@@ -2,7 +2,6 @@
 layout: post
 title: "My NetSuite Ecommerce Adventure: Powering Up My Online Store in 2025 🚀"
 categories: affiliate-marketing
-tags: [netsuite-ecommerce, affiliate-marketing, ecommerce, business-tools]
 description: "Join me on my NetSuite ecommerce journey! From seamless inventory to epic scalability, here’s my fun and honest review of how NetSuite transformed my online store in 2025."
 author: CodingRhodes
 image: /images/featured_my-netsuite-ecommerce-adventure-2025.webp

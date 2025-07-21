@@ -2,7 +2,6 @@
 layout: post
 title: "Is Fashion Nova Legit?"
 description: "Discover the truth about Fashion Nova with our in-depth review. Is Fashion Nova legit? Find out everything you need to know."
-tags: [Fashion Nova]
 keywords: ["Fashion Nova"]
 categories: "FashionNova"
 author: CodingRhodes

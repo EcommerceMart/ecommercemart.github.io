@@ -2,7 +2,6 @@
 layout: post
 title: "How do you use Walmart Pay? Here’s what most shoppers miss"
 description: "Learn how to use Walmart Pay easily. A complete guide on setup, usage, security, and troubleshooting for Walmart's mobile payment system."
-tags: [boohooman]
 keywords: ["is boohooman legit"]
 categories: "boohooman"
 author: CodingRhodes

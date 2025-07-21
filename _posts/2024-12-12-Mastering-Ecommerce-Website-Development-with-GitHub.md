@@ -5,7 +5,7 @@ description: 'Learn how to master ecommerce website development with GitHub usin
 author: CodingRhodes
 categories: "Ecommerce"
 image: /images/featured_Mastering-Ecommerce-Website-Development-with-GitHub.webp
-tags: [Github, Ecommerce]
+
 ---
 
 # Mastering Ecommerce Website Development with GitHub: Tools, Tips, and Best Practices

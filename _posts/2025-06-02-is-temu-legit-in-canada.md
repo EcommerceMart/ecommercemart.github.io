@@ -2,7 +2,6 @@
 layout: post
 title: "Is Temu Legit in Canada? A 2025 Deep Dive for Cautious Shoppers"
 description: "Is Temu legit in Canada? Explore shipping reliability, product quality, safety, and real user reviews to decide before you shop."
-tags: [temu, online-shopping, canada, reviews, is-temu-legit-in-canada]
 keywords: "is Temu legit in Canada"
 keywords: ["Temu", "Is Temu legit"]
 categories: "Temu"

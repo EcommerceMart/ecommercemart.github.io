@@ -4,7 +4,6 @@ title: "Top Ecommerce SEO Experts: Boost Your Online Store Traffic"
 description: "Discover how ecommerce website builders and SEO experts can help you increase traffic and drive sales for your online store."
 keywords: [ecommerce website builder, ecommerce SEO experts, online store traffic, SEO strategies]
 categories: Ecommerce
-tags: [ecommerce, website builder, online store]
 author: CodingRhodes
 image: /images/featured_top-ecommerce-seo-experts.webp
 ---

@@ -4,7 +4,6 @@ title: "How to Start a Shopify Dropshipping Business in 2025"
 description: "Learn how to start a successful Shopify dropshipping business in 2025 with this step-by-step guide. From choosing products to scaling your store."
 keywords: "shopify dropshipping"
 categories: [ecommerce, dropshipping]
-tags: [Shopify, Dropshipping, eCommerce, Online Business]
 author: CodingRhodes
 image: /images/featured_start-shopify-dropshipping-business-2025.webp
 ---

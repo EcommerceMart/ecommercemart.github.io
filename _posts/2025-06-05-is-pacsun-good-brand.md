@@ -3,7 +3,6 @@ layout: post
 title: "Is PacSun a Good Brand? Honest Review for 2025"
 description: "Explore whether PacSun is a good brand in 2025. Read our detailed review on quality, pricing, style, and customer experiences."
 categories: "PacSun"
-tags: [PacSun, Online Shopping, Retail Reviews]
 author: CodingRhodes
 image: /images/featured_is-pacsun-good-brand.webp
 ---

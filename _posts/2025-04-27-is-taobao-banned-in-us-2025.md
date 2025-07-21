@@ -2,7 +2,6 @@
 layout: post
 title: "Is Taobao Banned in the U.S.? Everything You Need to Know in 2025"
 description: "Wondering if Taobao is banned in the U.S.? Discover the current status, access tips, and alternatives to shop smartly in 2025."
-tags: [taobao, online shopping, ecommerce, us market]
 author: CodingRhodes
 image: /images/featured_is-taobao-banned-in-us-2025.webp
 ---

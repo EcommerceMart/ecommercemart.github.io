@@ -3,7 +3,6 @@ layout: post
 title: "Is PacSun Legit? What You Need to Know Before Buying"
 description: "Wondering if PacSun is legit? Discover the truth about PacSun’s reputation, product quality, and shipping before you shop."
 categories: "PacSun"
-tags: [PacSun, Online Shopping, Retail Reviews]
 author: CodingRhodes
 image: /images/featured_is-pacsun-legit.webp
 ---

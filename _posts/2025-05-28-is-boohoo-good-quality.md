@@ -2,7 +2,6 @@
 layout: post
 title: "Is Boohoo Good Quality? Honest Insights for Smart Shoppers"
 description: "Is Boohoo good quality? Discover in-depth analysis, reviews, and facts about Boohoo clothing's materials, durability, and customer feedback."
-tags: [boohoo, fast-fashion, online-shopping, reviews, is-boohoo-legit]
 keywords: "is boohoo good quality"
 categories: "Boohoo"
 author: CodingRhodes
