@@ -81,17 +81,14 @@
 }
 .hero__left {
 
-  h1, h2, h3, h4, h5, h6 {
-
-  }
 
   .hero__title,
   .hero__job {
     font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: 400;    
-    font-weight: 700;
     letter-spacing: -2px;
     color: $heading-font-color;
+    font-size: 3.2rem;
 
     @media only screen and (max-width: 1130px) {
       font-size: 40px;
