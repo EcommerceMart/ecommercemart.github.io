@@ -69,7 +69,16 @@
     width: 100%;
   }
 }
+@supports ((position: -webkit-sticky) or (position: sticky)) {
+  .sticky-top {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1020; } }
 
+.sticky-top-offset {
+	top:70px;
+}
 .hero__left {
 
   h1, h2, h3, h4, h5, h6 {
