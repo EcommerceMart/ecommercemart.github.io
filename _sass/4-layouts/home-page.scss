@@ -70,6 +70,11 @@
   font-weight: 500;
   line-height: 20px;
 
+  h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 400;
+  }
+
   .article__author-link {
     color: $text-color-alt;
 
