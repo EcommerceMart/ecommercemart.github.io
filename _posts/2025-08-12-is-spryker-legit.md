@@ -2,7 +2,7 @@
 layout: post
 title: "Is Spryker Legit? What You Need to Know Before You Shop"
 description: "Is Spryker legit? Detailed 2500-word guide covering company background, safety tips, customer experiences, and shopping advice."
-categories: "Viki"
+categories: "Spryker"
 author: CodingRhodes
 image: /images/featured_is-spryker-legit.webp
 ---
