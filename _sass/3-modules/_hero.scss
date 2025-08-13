@@ -263,6 +263,23 @@
 }
 
 .post__content {
-    --font-family-sans-serif: "Segoe UI", "Helvetica Neue", "Arial";
-    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-family: Lora;
+  font-size: 20px;
+  line-height: 1.86;
+}
+.a2a_default_style .a2a_svg {
+  border-radius: 50% !important;
+  margin-top: .5rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+.a2a_svg {
+    background-repeat: no-repeat;
+    display: block;
+    overflow: hidden;
+    height: 32px;
+    line-height: 32px;
+    padding: 0;
+    pointer-events: none;
+    width: 32px;
 }
