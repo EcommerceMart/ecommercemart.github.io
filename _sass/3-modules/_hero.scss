@@ -267,6 +267,11 @@
   font-size: 20px;
   line-height: 1.86;
 }
+.post__content > .row {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
 .a2a_default_style .a2a_svg {
   border-radius: 50% !important;
   margin-top: .5rem;
