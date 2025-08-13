@@ -271,7 +271,10 @@
   margin-left: 0 !important;
   margin-right: 0 !important;
 }
-
+.header__inner a{
+  color: black;
+  text-decoration: none;
+}
 .a2a_default_style .a2a_svg {
   border-radius: 50% !important;
   margin-top: .5rem;
