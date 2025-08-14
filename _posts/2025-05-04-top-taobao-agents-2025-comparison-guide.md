@@ -244,7 +244,7 @@ Cssbuy is another flexible Taobao agent that balances low fees with high-speed s
 #### User Reviews
 Popular among new shoppers due to low costs. Forums highlight Cssbuy's ease of payment and shipping reliability.
 
-### 6. CNShopper
+<!-- ### 6. CNShopper
 
 #### Overview
 Cssbuy is another flexible Taobao agent that balances low fees with high-speed services. It offers multi-currency payments and a generous storage window. **Link:** [https://cnshopper.com](https://cnshopper.com/).
@@ -271,7 +271,7 @@ Cssbuy is another flexible Taobao agent that balances low fees with high-speed s
 - Trustpilot feedback
 
 #### User Reviews
-One reviewer from the US praised the fast 8-day shipping, careful packaging, full tracking, and fair fees.
+One reviewer from the US praised the fast 8-day shipping, careful packaging, full tracking, and fair fees. -->
 
 
 ## Head-to-Head Comparison Table
