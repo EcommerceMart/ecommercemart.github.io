@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Top 5 Taobao Agents in 2025: A Comprehensive Comparison for International Shoppers"
+title: "Top 6 Taobao Agents in 2025: A Comprehensive Comparison for International Shoppers"
 categories: [Taobao Agents]
 author: CodingRhodes
 image: /images/featured_top-taobao-agents-2025-comparison-guide.webp
