@@ -244,10 +244,11 @@ Cssbuy is another flexible Taobao agent that balances low fees with high-speed s
 #### User Reviews
 Popular among new shoppers due to low costs. Forums highlight Cssbuy's ease of payment and shipping reliability.
 
-<!-- ### 6. CNShopper
+### 6. CNShopper
 
 #### Overview
-CNShopper is a cross-border shopping agent launched in 2024, based in Chengdu, China. It enables users to purchase goods from Taobao, 1688, and Weidian, with services spanning from warehousing to international delivery. **Link:** [https://cnshopper.com](https://cnshopper.com/).
+CNShopper is a cross-border shopping agent launched in 2024, based in Chengdu, China. It enables users to purchase goods from Taobao, 1688, and Weidian, with services spanning from warehousing to international delivery. 
+**Link:** [https://cnshopper.com](https://cnshopper.com/).
 
 #### Pros
 - Transparent pricing
@@ -271,7 +272,7 @@ CNShopper is a cross-border shopping agent launched in 2024, based in Chengdu, C
 - Trustpilot feedback
 
 #### User Reviews
-One reviewer from the US praised the fast 8-day shipping, careful packaging, full tracking, and fair fees. -->
+One reviewer from the US praised the fast 8-day shipping, careful packaging, full tracking, and fair fees.
 
 
 ## Head-to-Head Comparison Table
