@@ -67,7 +67,7 @@ Look for third-party reviews on platforms like Trustpilot, Reddit, or shopping f
 ### Value-Added Services
 Some agents offer extras like high-resolution product photography, pre-shipping inspections, special packaging, and real-time weight calculations.
 
-## Top 5 Taobao Agents in 2025
+## Top 6 Taobao Agents in 2025
 
 ![Top Taobao Agents for International Shoppers in 2025" at the top of the image. Keep it centered and bold to ensure readability.]({{ site.baseurl }}/images/Top-5-Taobao-Agents-in-2025.webp)
 
