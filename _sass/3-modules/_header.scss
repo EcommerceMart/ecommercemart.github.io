@@ -269,6 +269,10 @@ button.dropdown-toggle:hover {
 	max-width: 190px;
 
 }
+.table-overflow {
+  max-width: 100%;
+  overflow-x: scroll;
+}
 @media screen and (max-width: 1430px) {
 	.side-bar-left-ads, .side-bar-right-ads {
 		display:none;

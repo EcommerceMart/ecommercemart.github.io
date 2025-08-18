@@ -274,7 +274,7 @@ CNShopper is a cross-border shopping agent launched in 2024, based in Chengdu, C
 #### User Reviews
 One reviewer from the US praised the fast 8-day shipping, careful packaging, full tracking, and fair fees.
 
-
+<div class="table-overflow">
 ## Head-to-Head Comparison Table
 
 | Feature              | Superbuy | Wegobuy | Bhiner | Ytaopal | Cssbuy |
@@ -285,6 +285,7 @@ One reviewer from the US praised the fast 8-day shipping, careful packaging, ful
 | Shipping Options     | 10+      | 15+     | 5+     | 5+      | 10+    |
 | Customer Support     | Excellent| Good    | Average| Good    | Average|
 | Best For             | General  | Value   | Bulk   | Fashion | Overall |
+</div>
 
 ## Choosing the Best Taobao Agent for You
 
