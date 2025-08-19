@@ -169,7 +169,7 @@ Overall, reviews show that CNShopper is trusted by many international buyers, th
 
 How does CNShopper compare to competitors like **Superbuy, Bhiner, or CSSBuy**?  
 
-![Step-by-step process of how CNShopper helps international shoppers buy from China in 2025]({{ site.baseurl }}/images/CNShopper-vs-Other-Taobao-Agents.webp)
+![CNShopper vs. Other Taobao Agents]({{ site.baseurl }}/images/CNShopper-vs-Other-Taobao-Agents.webp)
 
 - **Service Fees:** CNShopper is competitive but not the cheapest.  
 - **Interface:** Easier to use than many rivals thanks to English-friendly design.  
