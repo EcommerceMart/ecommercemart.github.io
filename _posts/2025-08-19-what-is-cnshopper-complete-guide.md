@@ -101,13 +101,6 @@ Like most Taobao agents, CNShopper charges service and handling fees. Here’s w
 - **Consolidation Fees:** Extra charges may apply if combining multiple packages.  
 - **Optional Services:** Packaging upgrades, inspection photos, or insurance.  
 
-**Example Breakdown for a $50 Item (2025):**  
-- Product price: $50  
-- Service fee (5%): $2.50  
-- Domestic shipping (China): $5  
-- International shipping: $20–$25  
-- **Total Cost:** ~$78 (depending on courier)  
-
 While fees add up, many shoppers still find CNShopper affordable compared to buying from resellers.  
 
 ---
