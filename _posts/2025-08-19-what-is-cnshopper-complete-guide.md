@@ -135,8 +135,7 @@ CNShopper partners with several global couriers, giving flexibility in speed and
 - Import taxes may apply in your country.  
 
 ---
-
-## CNShopper User Reviews in 2025
+<!-- ## CNShopper User Reviews in 2025
 
 To provide balance, let’s summarize user feedback from forums and review sites:  
 
@@ -153,7 +152,7 @@ To provide balance, let’s summarize user feedback from forums and review sites
 
 Overall, reviews show that CNShopper is trusted by many international buyers, though shipping costs might be a concern for some buyers.  
 
----
+--- -->
 
 ## CNShopper vs. Other Taobao Agents
 
