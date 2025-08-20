@@ -169,12 +169,56 @@ How does CNShopper compare to competitors like **Superbuy, Bhiner, or CSSBuy**?
 
 ![CNShopper vs. Other Taobao Agents]({{ site.baseurl }}/images/CNShopper-vs-Other-Taobao-Agents.webp)
 
-- **Service Fees:** CNShopper is competitive but not the cheapest.  
-- **Interface:** Easier to use than many rivals thanks to English-friendly design.  
-- **Shipping:** Similar courier options as competitors.  
-- **Customer Support:** Often rated better than smaller agents.  
+When choosing a Taobao agent, most buyers compare **CNShopper, Superbuy, Bhiner, and CSSBuy**.  
+Here’s how CNShopper stands out:
 
-If you’re new to cross-border shopping, CNShopper is beginner-friendly compared to alternatives.  
+### Service Fees
+- **CNShopper**: 0% – 3%, the lowest in the market.  
+- **Superbuy**: 5–8% per order.  
+- **Bhiner**: 6–8% per order.  
+- **CSSBuy**: 5–7% per order.  
+
+With **[CNShopper](https://cnshopper.com/){:target="_blank"}**, you instantly save on every purchase.
+
+---
+
+### Shipping Fees
+- **CNShopper**: Negotiated discounts with top couriers, making shipping significantly cheaper.  
+- **Superbuy**: Higher than average.  
+- **Bhiner**: Standard rates with fewer discounts.  
+- **CSSBuy**: Expensive for heavy or bulky parcels.  
+
+**[CNShopper](https://cnshopper.com/){:target="_blank"}** ensures **affordable delivery without hidden costs**.
+
+---
+
+### Exchange Rates
+- **CNShopper**: Uses rates close to the official currency rate, with no hidden margins.  
+- **Superbuy**: Adds 2–3% markup.  
+- **Bhiner**: Adds 2–4% markup.  
+- **CSSBuy**: Adds 2–3% markup.  
+
+**[CNShopper](https://cnshopper.com/){:target="_blank"}** gives you **the best value for your money**.
+
+---
+
+### Customer Support
+- **CNShopper**: Fast responses, reliable English support, and problem-solving assistance.  
+- **Superbuy**: Slower during peak times.  
+- **Bhiner**: Limited English support.  
+- **CSSBuy**: Average support, not 24/7.  
+
+Shoppers outside China find CNShopper’s support **much easier to deal with**.
+
+---
+
+### Extra Services
+- **CNShopper**: Free consolidation, free quality-check photos, and safe packaging.  
+- **Superbuy**: Basic consolidation, no freebies.  
+- **Bhiner**: Paid photo checks.  
+- **CSSBuy**: Paid consolidation.  
+
+**[CNShopper](https://cnshopper.com/){:target="_blank"}** adds **more value at no extra charge**. 
 
 ---
 
@@ -204,7 +248,7 @@ For most international shoppers, CNShopper provides a reliable, secure, and conv
 
 ## Conclusion
 
-**CNShopper** has established itself as a leading shopping agent for international customers in 2025. By simplifying cross-border buying, offering multiple payment methods, and providing reliable shipping, it makes Chinese online shopping accessible worldwide.  
+**[CNShopper](https://cnshopper.com/){:target="_blank"}** has established itself as a leading shopping agent for international customers in 2025. By simplifying cross-border buying, offering multiple payment methods, and providing reliable shipping, it makes Chinese online shopping accessible worldwide.  
 
 While service and shipping fees are a downside, the convenience and product availability make it a valuable tool for shoppers who want to explore the vast Chinese e-commerce market.  
 
