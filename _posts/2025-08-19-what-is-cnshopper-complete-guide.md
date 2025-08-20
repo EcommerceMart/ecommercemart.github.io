@@ -64,7 +64,7 @@ With CNShopper, international shoppers get access to all of this without the str
 
 Using CNShopper is straightforward, even if you’re new to Taobao or other Chinese sites. Here’s the step-by-step process:  
 
-
+![Step-by-step process of how CNShopper helps international shoppers buy from China in 2025]({{ site.baseurl }}/images/How-CNShopper-Works.webp)
 
 1. **Create an Account** – Sign up on the CNShopper website.  
 2. **Search for Products** – Browse directly on Taobao or through CNShopper’s platform.  
@@ -169,7 +169,7 @@ Overall, reviews show that CNShopper is trusted by many international buyers, th
 
 How does CNShopper compare to competitors like **Superbuy, Bhiner, or CSSBuy**?  
 
-
+![CNShopper vs. Other Taobao Agents]({{ site.baseurl }}/images/CNShopper-vs-Other-Taobao-Agents.webp)
 
 - **Service Fees:** CNShopper is competitive but not the cheapest.  
 - **Interface:** Easier to use than many rivals thanks to English-friendly design.  
@@ -210,5 +210,6 @@ For most international shoppers, CNShopper provides a reliable, secure, and conv
 
 While service and shipping fees are a downside, the convenience and product availability make it a valuable tool for shoppers who want to explore the vast Chinese e-commerce market.  
 
+<!-- For anyone asking, *“What is CNShopper and should I use it?”*—the answer is simple: if you want a safe, easy, and beginner-friendly way to shop from Taobao, Tmall, or JD.com in 2025, CNShopper is a solid choice.   -->
 
 ---
