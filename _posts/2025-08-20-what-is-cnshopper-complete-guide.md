@@ -230,7 +230,7 @@ If you’re planning to use CNShopper for the first time, keep these tips in min
 So, is **CNShopper still worth using in 2025?**  
 
 - **Yes, if:** You want access to exclusive Chinese products, value convenience, and don’t mind paying extra for global delivery.  
-- **Maybe not, if:** You prefer cheaper shipping and are comfortable with less user-friendly alternatives.  
+- **Maybe not, if:** You prefer cheaper shipping.  
 
 For most international shoppers, CNShopper provides a reliable, secure, and convenient gateway to Chinese online marketplaces.  
 
