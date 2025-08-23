@@ -76,6 +76,8 @@ This alone makes CNShopper appealing for budget-conscious shoppers.
 
 ## How CNShopper Helps You Save Money Step by Step  
 
+![How CNShopper Helps You Save Money Step by Step]({{ site.baseurl }}/images/How-CNShopper-Helps-You-Save-Money.webp)
+
 ### Step 1: Browsing and Purchasing  
 - You paste the Taobao product link into CNShopper’s system.  
 - The platform shows you the converted price clearly.  
@@ -112,7 +114,6 @@ This alone makes CNShopper appealing for budget-conscious shoppers.
 ### Cons  
 - Limited presence compared to bigger agents  
 - Some shipping times may still be slow depending on courier choice  
-- May not always support rare payment methods outside mainstream options  
 
 ---
 
