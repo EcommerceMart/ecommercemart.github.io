@@ -70,7 +70,7 @@ This alone makes CNShopper appealing for budget-conscious shoppers.
 | Feature                | CNShopper                          | CNFans                             | AllChinaBuy                     |
 |-------------------------|------------------------------------|------------------------------------|---------------------------------|
 | Service Fee             | 3–5% (lower than most agents)      | 5–8%                               | 6–10%                           |
-| Warehouse Storage       | Free up to 30 days                 | Free up to 15–20 days              | Free up to 20 days              |
+| Warehouse Storage       | Free up to 90 days                 | Free up to 15–20 days              | Free up to 20 days              |
 | Package Consolidation   | Free consolidation                 | Some consolidation fees apply      | Paid consolidation service      |
 | Shipping Options        | Multiple discounted couriers       | Limited shipping choices           | Standard couriers, higher fees  |
 | Hidden Costs            | Transparent billing, low markup    | Exchange rate markup possible      | Additional handling charges     |
@@ -92,7 +92,7 @@ This alone makes CNShopper appealing for budget-conscious shoppers.
 - This is **much lower than CNFans or AllChinaBuy**, ensuring savings from the start.  
 
 ### Step 3: Warehouse Storage and Consolidation  
-- **[CNShopper](https://cnshopper.com/){:target="_blank"}** offers **free storage** for up to 30 days.  
+- **[CNShopper](https://cnshopper.com/){:target="_blank"}** offers **free storage** for up to 90 days.  
 - You can order from multiple sellers, then consolidate packages into one shipment.  
 - **Savings Tip:** Consolidation reduces shipping costs by up to **40%.**  
 
