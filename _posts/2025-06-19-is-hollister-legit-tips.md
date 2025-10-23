@@ -12,6 +12,16 @@ image: /images/featured_is-hollister-legit-tips.webp
 
 ## What Is Hollister?
 
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="3760872290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Hollister Co., often referred to simply as Hollister, is a fashion brand owned by Abercrombie & Fitch. Known for its laid-back California-inspired style, it mainly targets teens and young adults with a collection of:
 
 * Casual tees
