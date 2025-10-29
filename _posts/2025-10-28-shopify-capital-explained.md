@@ -3,7 +3,7 @@ layout: post
 title: "Shopify Capital Explained: How It Helps eCommerce Stores Grow Without Traditional Loans"
 keywords: [Shopify Capital, ecommerce funding, Shopify loan, small business financing, Shopify store growth]
 description: "Learn how Shopify Capital provides flexible funding options for Shopify store owners. Understand eligibility, repayment, and benefits without relying on traditional bank loans."
-categories: "EcommerceAccounting "
+categories: "ShopifyCapital"
 author: CodingRhodes
 image: /images/featured_shopify-capital-explained.webp
 ---
