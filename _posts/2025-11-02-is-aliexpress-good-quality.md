@@ -3,7 +3,7 @@ layout: post
 title: "Is AliExpress Good Quality? Honest Review for 2025 Buyers"
 description: "Wondering if AliExpress offers good quality products? This 2025 guide explores the pros, cons, and real customer experiences with AliExpress shopping."
 tags: [The Row, Quiet Luxury, Celebrity Fashion, Designer Brands, Minimalist Fashion]
-categories: "ecommerceinsurance"
+categories: "AliExpress"
 author: CodingRhodes
 image: /images/featured_is-aliexpress-good-quality.webp
 ---
