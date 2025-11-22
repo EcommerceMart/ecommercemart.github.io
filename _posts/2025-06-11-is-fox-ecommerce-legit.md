@@ -19,7 +19,7 @@ Before you shop online, the first question should always be: “Is this website 
 
 ## What Makes an Ecommerce Store Legitimate?
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -27,7 +27,7 @@ Before you shop online, the first question should always be: “Is this website 
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Key Legitimacy Factors
 
@@ -59,7 +59,7 @@ Automated tools like Scamadviser analyze dozens of signals, including blacklist 
 
 ## Customer Reviews: What Are Real Shoppers Saying?
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -67,7 +67,7 @@ Automated tools like Scamadviser analyze dozens of signals, including blacklist 
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### The Value of Third-Party Reviews
 
@@ -105,7 +105,7 @@ As you can see, Fox Ecommerce has some positive trust signals but lacks the robu
 
 ## Common Red Flags to Watch Out For 🚩
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -113,7 +113,7 @@ As you can see, Fox Ecommerce has some positive trust signals but lacks the robu
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Signs of a Scam or Unreliable Store
 
@@ -157,7 +157,7 @@ These tips not only apply to Fox Ecommerce but to all online shopping experience
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -165,7 +165,7 @@ These tips not only apply to Fox Ecommerce but to all online shopping experience
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Frequently Asked Questions
 

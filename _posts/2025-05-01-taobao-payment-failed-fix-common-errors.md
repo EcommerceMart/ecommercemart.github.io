@@ -47,7 +47,7 @@ Many international users find that their bank declines the transaction when they
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -55,7 +55,7 @@ Many international users find that their bank declines the transaction when they
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 
 #### a. Notify Your Bank Before Making Purchases
@@ -134,7 +134,7 @@ Ensure you’re using the latest version of the Taobao app from a trusted source
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -142,7 +142,7 @@ Ensure you’re using the latest version of the Taobao app from a trusted source
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 
 ### Why It Happens
@@ -219,7 +219,7 @@ If you’ve tried everything and still see the "taobao payment failed" message, 
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -227,7 +227,7 @@ If you’ve tried everything and still see the "taobao payment failed" message, 
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 
 ### Keep All Apps Updated

@@ -93,7 +93,7 @@ Once you receive the item, confirm on Taobao to release payment to the seller. �
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -101,7 +101,7 @@ Once you receive the item, confirm on Taobao to release payment to the seller. �
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 **International shipping from Taobao can be complex.** Here’s how it works:
 
@@ -154,7 +154,7 @@ Trust me—these tools don’t just make Taobao safer, they make it **fun**.
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -162,7 +162,7 @@ Trust me—these tools don’t just make Taobao safer, they make it **fun**.
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 *Disclaimer: Some links in this post are affiliate links. We may earn a commission when you use them—at no extra cost to you. Thanks for supporting the blog!*
 

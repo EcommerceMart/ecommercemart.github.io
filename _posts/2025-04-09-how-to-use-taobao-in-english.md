@@ -37,7 +37,7 @@ To shop on Taobao, you’ll need to create an account. Here’s how:
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -45,7 +45,7 @@ To shop on Taobao, you’ll need to create an account. Here’s how:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Step 3: Search for Products in English
 Taobao does not support English searches directly, so you must use **Chinese keywords**. Use Google Translate or Taobao's image search function:
@@ -97,7 +97,7 @@ Taobao offers different shipping methods:
 
 ## Frequently Asked Questions (FAQ)
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -105,7 +105,7 @@ Taobao offers different shipping methods:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### 1. Does Taobao have an English version?
 No, Taobao does not have an official **Taobao English site**, but you can use Google Translate to browse the platform in English.

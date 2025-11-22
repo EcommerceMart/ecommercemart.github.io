@@ -28,7 +28,7 @@ Both cards are issued by Capital One and offer substantial benefits for everyday
 
 ## 💳 Types of Walmart Credit Cards: A Quick Comparison
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -36,7 +36,7 @@ Both cards are issued by Capital One and offer substantial benefits for everyday
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 | Feature                        | Walmart Store Card      | Walmart Mastercard       |
 |-------------------------------|--------------------------|---------------------------|
@@ -106,7 +106,7 @@ The cards include:
 
 ## 📱 Mobile App Features: Why It Matters
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -114,7 +114,7 @@ The cards include:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 The Capital One app lets you:
 - Track spending by category
@@ -189,7 +189,7 @@ Cashback is applied as a statement credit or can be redeemed through the Capital
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -197,7 +197,7 @@ Cashback is applied as a statement credit or can be redeemed through the Capital
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## 🏁 Final Thoughts: Is It Worth It?
 

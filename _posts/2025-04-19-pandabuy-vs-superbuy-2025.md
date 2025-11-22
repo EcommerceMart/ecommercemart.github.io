@@ -27,7 +27,7 @@ Let’s dive in to help you make the most informed choice.
 
 ## 🧭 What Are Shopping Agents Like Pandabuy and Superbuy?
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -35,7 +35,7 @@ Let’s dive in to help you make the most informed choice.
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Shopping agents act as middlemen. You tell them what to buy, and they:
 1. Purchase the item for you from a Chinese site (Taobao, Tmall, etc.)
@@ -104,7 +104,7 @@ Both **Pandabuy** and **Superbuy** are widely trusted and commonly used by:
 
 ## 🚚 Shipping Times and Carriers
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -112,7 +112,7 @@ Both **Pandabuy** and **Superbuy** are widely trusted and commonly used by:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 | Agent | Avg. Warehouse Handling Time | Popular Carriers | Delivery Time (to USA) |
 |-------|------------------------------|------------------|-------------------------|
@@ -173,7 +173,7 @@ Both platforms are **legit** and safe to use. Your best choice depends on your n
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -181,7 +181,7 @@ Both platforms are **legit** and safe to use. Your best choice depends on your n
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## 🙋‍♂️ FAQ
 

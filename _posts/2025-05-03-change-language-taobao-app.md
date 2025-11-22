@@ -31,7 +31,7 @@ For international users, navigating an app in Chinese can lead to misunderstandi
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -39,7 +39,7 @@ For international users, navigating an app in Chinese can lead to misunderstandi
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Native Language Settings Within the App
 
@@ -102,7 +102,7 @@ Buying agents like Superbuy, Bhiner, and Wegobuy offer full English interfaces a
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -110,7 +110,7 @@ Buying agents like Superbuy, Bhiner, and Wegobuy offer full English interfaces a
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Step 1: Log In and Access Settings
 Take screenshots of each interface tab if you’re using the Chinese version.
@@ -168,7 +168,7 @@ These extensions help translate not just the text but also tooltips, buttons, an
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -176,7 +176,7 @@ These extensions help translate not just the text but also tooltips, buttons, an
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Can I use the main Taobao app in English?
 No, the main app does not support full English, but you can use translation tools or Taobao Lite.

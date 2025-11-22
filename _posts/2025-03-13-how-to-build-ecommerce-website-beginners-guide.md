@@ -37,7 +37,7 @@ To make your website accessible online, you need:
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -45,7 +45,7 @@ To make your website accessible online, you need:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Step 3: Design Your eCommerce Website
 
@@ -102,7 +102,7 @@ To accept payments, integrate gateways like:
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -110,7 +110,7 @@ To accept payments, integrate gateways like:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Step 7: Launch & Promote Your eCommerce Store
 

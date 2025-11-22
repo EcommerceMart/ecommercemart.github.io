@@ -37,7 +37,7 @@ In the `main.yml` file, you can add code that tells GitHub Actions what tasks to
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -45,7 +45,7 @@ In the `main.yml` file, you can add code that tells GitHub Actions what tasks to
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 {% highlight ruby %}
 
@@ -162,7 +162,7 @@ In this workflow:
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -170,7 +170,7 @@ In this workflow:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Security is vital in e-commerce. GitHub Actions can help you automatically scan for vulnerabilities. Use the **Dependabot** Action to check for any security issues in your dependencies:
 
@@ -212,7 +212,7 @@ Example of a scheduled workflow that runs every night:
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -220,7 +220,7 @@ Example of a scheduled workflow that runs every night:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 {% highlight ruby %}
 

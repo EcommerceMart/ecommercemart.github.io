@@ -31,7 +31,7 @@ Traditionally, a **department store** is a large retail establishment offering a
 
 ## Walmart at a Glance
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -39,7 +39,7 @@ Traditionally, a **department store** is a large retail establishment offering a
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### A Retail Giant
 
@@ -115,7 +115,7 @@ Founded in 1962 by Sam Walton, **Walmart** has grown to become the largest retai
 
 ## The Big-Box Store Concept
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -123,7 +123,7 @@ Founded in 1962 by Sam Walton, **Walmart** has grown to become the largest retai
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### What Is a Big-Box Store?
 
@@ -174,7 +174,7 @@ Walmart began as a **discount store** in the 1960s. Although it has evolved, the
 
 ### Visual Table Comparison
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -182,7 +182,7 @@ Walmart began as a **discount store** in the 1960s. Although it has evolved, the
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 | Feature          | Walmart                        | Department Store              |
 | ---------------- | ------------------------------ | ----------------------------- |
@@ -259,7 +259,7 @@ Many traditional department stores have struggled or closed due to:
 
 ## Conclusion: So, Is Walmart a Department Store?
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -267,7 +267,7 @@ Many traditional department stores have struggled or closed due to:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 In a word: **No**, Walmart is **not a traditional department store**.
 

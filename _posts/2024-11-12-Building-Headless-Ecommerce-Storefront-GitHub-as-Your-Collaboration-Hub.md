@@ -22,7 +22,7 @@ By separating the parts of your e-commerce store, a headless setup can offer a m
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -30,7 +30,7 @@ By separating the parts of your e-commerce store, a headless setup can offer a m
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Why Use GitHub as a Collaboration Hub?
 
@@ -85,7 +85,7 @@ Now that the backend and frontend are set up, let’s bring GitHub into the proc
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -93,7 +93,7 @@ Now that the backend and frontend are set up, let’s bring GitHub into the proc
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 **Steps to Set Up the Repository:**
 
@@ -156,7 +156,7 @@ This example automatically checks out the code, installs dependencies, runs test
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -164,7 +164,7 @@ This example automatically checks out the code, installs dependencies, runs test
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 
 ## Conclusion 

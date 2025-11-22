@@ -34,7 +34,7 @@ E-commerce has seen exponential growth over the past decade. Key factors driving
 
 ## 2. How E-Commerce is Impacting Businesses
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -42,7 +42,7 @@ E-commerce has seen exponential growth over the past decade. Key factors driving
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### **1. Increased Market Reach**
 E-commerce eliminates geographical barriers, allowing businesses to:
@@ -120,7 +120,7 @@ As technology evolves, e-commerce will continue to transform. Here are some key 
 
 ## FAQs About E-Commerce and Its Impact on Businesses
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -128,7 +128,7 @@ As technology evolves, e-commerce will continue to transform. Here are some key 
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### **1. Why is e-commerce growing so fast?**
 The combination of internet accessibility, mobile shopping, and digital payments has fueled rapid e-commerce growth.

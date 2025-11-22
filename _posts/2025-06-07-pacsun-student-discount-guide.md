@@ -27,7 +27,7 @@ PacSun wants to help students save money. Many students have tight budgets, so d
 
 ## Who Can Get a PacSun Student Discount?
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -35,7 +35,7 @@ PacSun wants to help students save money. Many students have tight budgets, so d
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Most high school, college, and university students in the USA can get a PacSun student discount. You need to be enrolled in an accredited school. Some online schools and vocational programs also count, but you should check the details.
 
@@ -77,7 +77,7 @@ After you are verified, look for the PacSun student discount on the student disc
 
 ### Step 4: Shop at PacSun and Use Your Discount
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -85,7 +85,7 @@ After you are verified, look for the PacSun student discount on the student disc
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Once you are on the PacSun website, shop as normal. When you check out, your student discount should be applied automatically. If not, enter the promo code you got from the student discount service.
 
@@ -126,7 +126,7 @@ If your school is not listed, you can contact the student discount service or Pa
 
 ## Tips for Getting the Most Out of Your PacSun Student Discount
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -134,7 +134,7 @@ If your school is not listed, you can contact the student discount service or Pa
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Here are some tips to help you save even more at PacSun:
 
@@ -174,7 +174,7 @@ It usually takes just a few minutes to get verified. Sometimes, it can take a li
 
 ### What Happens If My Student Status Expires?
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -182,7 +182,7 @@ It usually takes just a few minutes to get verified. Sometimes, it can take a li
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 You need to update your student status before it expires to keep getting the discount. Most student discount services will remind you when it is time to renew.
 
@@ -216,7 +216,7 @@ Shop as normal on the PacSun website. Your discount should be applied at checkou
 
 ## Step-by-Step Guide: Getting Your PacSun Student Discount with Student Beans
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -224,7 +224,7 @@ Shop as normal on the PacSun website. Your discount should be applied at checkou
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Here is a detailed guide for using Student Beans to get your PacSun student discount.
 
@@ -282,7 +282,7 @@ Here is a quick comparison of the PacSun student discount and other ways to save
 
 ## PacSun Student Discount: Terms and Conditions
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -290,7 +290,7 @@ Here is a quick comparison of the PacSun student discount and other ways to save
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Before you use your PacSun student discount, read the terms and conditions. Here are some common rules:
 
@@ -346,7 +346,7 @@ Here are some real stories from students who saved money with the PacSun student
 
 ## PacSun Student Discount: Troubleshooting
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -354,7 +354,7 @@ Here are some real stories from students who saved money with the PacSun student
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 If you have trouble getting your PacSun student discount, try these solutions:
 
@@ -424,7 +424,7 @@ Here are some common mistakes to avoid when using your PacSun student discount:
 
 ## PacSun Student Discount: How to Get Help
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -432,7 +432,7 @@ Here are some common mistakes to avoid when using your PacSun student discount:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 If you need help with your PacSun student discount, you can:
 

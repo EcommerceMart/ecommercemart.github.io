@@ -62,7 +62,7 @@ Once your products arrive, inspect them immediately. Report any damage or discre
 
 If you're new to 1688 shops, start with small orders. This allows you to test the service, product quality, and delivery process without risking a large investment.
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -70,7 +70,7 @@ If you're new to 1688 shops, start with small orders. This allows you to test th
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Frequently Asked Questions (FAQ)
 

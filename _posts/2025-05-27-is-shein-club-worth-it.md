@@ -29,7 +29,7 @@ Shein Club is a paid subscription program that offers members extra discounts an
 
 ### How to Join Shein Club
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -37,7 +37,7 @@ Shein Club is a paid subscription program that offers members extra discounts an
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Joining Shein Club is simple:
 
@@ -90,7 +90,7 @@ Your membership perks can improve over time:
 
 ### Priority Customer Service
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -98,7 +98,7 @@ Your membership perks can improve over time:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Although not widely advertised, some users have reported:
 
@@ -167,7 +167,7 @@ Not all feedback is glowing:
 
 ## Pros and Cons of Shein Club
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -175,7 +175,7 @@ Not all feedback is glowing:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Pros
 
@@ -209,7 +209,7 @@ Not all feedback is glowing:
 
 ## Tips to Maximize Your Shein Club Membership
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -217,7 +217,7 @@ Not all feedback is glowing:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Use Your Coupons Strategically
 
@@ -260,7 +260,7 @@ No, shipping discounts are not guaranteed with Shein Club. Offers may vary by re
 
 Yes, you can cancel your monthly or annual subscription through your account settings.
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -268,7 +268,7 @@ Yes, you can cancel your monthly or annual subscription through your account set
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Are all Shein items eligible for Club discounts?
 

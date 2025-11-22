@@ -32,7 +32,7 @@ Flash sales, coupons, and promotions are a regular feature on Taobao, offering s
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -40,7 +40,7 @@ Flash sales, coupons, and promotions are a regular feature on Taobao, offering s
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Getting Started on Taobao
 
@@ -89,7 +89,7 @@ Taobao’s daily deals section showcases products with significant markdowns. Vi
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -97,7 +97,7 @@ Taobao’s daily deals section showcases products with significant markdowns. Vi
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### 1. **Image Search**
 Upload a photo of the product you want, and Taobao will find similar items. This feature is especially useful for finding unique products or comparing prices.
@@ -158,7 +158,7 @@ Be aware of additional costs such as shipping fees, agent fees, or currency conv
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -166,7 +166,7 @@ Be aware of additional costs such as shipping fees, agent fees, or currency conv
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Join Taobao’s membership program to access exclusive perks, such as:
 - Priority access to sales events

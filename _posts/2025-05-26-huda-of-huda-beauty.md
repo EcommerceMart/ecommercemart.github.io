@@ -26,7 +26,7 @@ Huda Kattan is a beauty mogul, social media personality, and entrepreneur best k
 
 ## Huda’s Early Life and Career Beginnings
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -34,7 +34,7 @@ Huda Kattan is a beauty mogul, social media personality, and entrepreneur best k
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Family and Cultural Influences
 
@@ -76,7 +76,7 @@ Today, Huda Beauty offers a wide range of makeup products including:
 
 ### Expansion into Skincare
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -84,7 +84,7 @@ Today, Huda Beauty offers a wide range of makeup products including:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Huda also launched a skincare brand, **Wishful**, focusing on clean and effective skincare solutions. This expansion solidified her position in the broader beauty and wellness industry.
 
@@ -143,7 +143,7 @@ Huda has appeared in several interviews where she discusses:
 
 ### Documentaries and Features
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -151,7 +151,7 @@ Huda has appeared in several interviews where she discusses:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 She was also featured in **Facebook Watch’s series “Huda Boss,”** giving fans an inside look at her personal and professional life.
 
@@ -185,7 +185,7 @@ Huda has hinted at launching new wellness and lifestyle ventures in the future.
 
 She’s increasingly focusing on **clean ingredients** and transparency in product labeling, aligning with modern consumer demands.
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -193,7 +193,7 @@ She’s increasingly focusing on **clean ingredients** and transparency in produ
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Conclusion
 

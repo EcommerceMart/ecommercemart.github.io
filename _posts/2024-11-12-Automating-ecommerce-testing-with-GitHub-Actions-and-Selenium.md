@@ -25,7 +25,7 @@ To get started, create a new repository on GitHub or use an existing one where y
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -33,7 +33,7 @@ To get started, create a new repository on GitHub or use an existing one where y
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 1. **Create a Repository**
 Go to [GitHub](https://github.com/) and click on **New Repository**. Give it a name, and set it to public or private.
@@ -103,7 +103,7 @@ In your repository, create a new directory: `.github/workflows/`. Inside, create
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -111,7 +111,7 @@ In your repository, create a new directory: `.github/workflows/`. Inside, create
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 2. **Configure the Workflow**
 Open `test.yml` and add the following YAML code:

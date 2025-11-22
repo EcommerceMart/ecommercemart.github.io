@@ -33,7 +33,7 @@ Fast fashion refers to the rapid production of inexpensive clothing that mimics 
 
 ## What is Uniqlo?
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -41,7 +41,7 @@ Fast fashion refers to the rapid production of inexpensive clothing that mimics 
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Company Overview
 
@@ -87,7 +87,7 @@ Uniqlo has faced scrutiny regarding working conditions in its factories, similar
 
 ## Sustainability Efforts at Uniqlo
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -95,7 +95,7 @@ Uniqlo has faced scrutiny regarding working conditions in its factories, similar
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Eco-Friendly Initiatives
 
@@ -133,7 +133,7 @@ While Uniqlo has made strides in sustainability, it still relies on mass product
 
 ## Consumer Perspectives: Is Uniqlo Fast Fashion?
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -141,7 +141,7 @@ While Uniqlo has made strides in sustainability, it still relies on mass product
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### What Customers Think
 
@@ -198,7 +198,7 @@ Uniqlo occupies a unique position in the global fashion market. Its focus on qua
 
 ## Frequently Asked Questions
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -206,7 +206,7 @@ Uniqlo occupies a unique position in the global fashion market. Its focus on qua
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Does Uniqlo produce clothing quickly?
 

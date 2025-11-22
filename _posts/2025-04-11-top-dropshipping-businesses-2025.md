@@ -46,7 +46,7 @@ Pet spending continues to skyrocket. Dropshipping unique, fun, and practical pet
 
 ### 3. **Home Fitness & Wellness** 🏋️‍♂️
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -54,7 +54,7 @@ Pet spending continues to skyrocket. Dropshipping unique, fun, and practical pet
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Post-pandemic habits have changed the fitness industry. Home gym accessories and wellness tools are booming.
 
@@ -102,7 +102,7 @@ Here’s a simple checklist:
 
 ## Marketing Strategies to Grow Your Store in 2025
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -110,7 +110,7 @@ Here’s a simple checklist:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 - **TikTok Organic & Ads:** Short-form video sells like hotcakes
 - **Influencer Collaborations:** Partner with micro-influencers in your niche
@@ -148,7 +148,7 @@ With the right mindset, tools, and strategy, 2025 can be **your breakthrough yea
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -156,7 +156,7 @@ With the right mindset, tools, and strategy, 2025 can be **your breakthrough yea
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## FAQs
 

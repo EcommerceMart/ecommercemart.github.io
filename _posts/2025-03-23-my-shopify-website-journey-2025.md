@@ -23,7 +23,7 @@ I’ve been tinkering with online stores for a while now, and after trying a few
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -31,7 +31,7 @@ I’ve been tinkering with online stores for a while now, and after trying a few
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Chapter 1: Why I Chose Shopify for My Website 🌈
 
@@ -67,7 +67,7 @@ Pro tip: If you want something extra fancy, premium themes from places like Out 
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -75,7 +75,7 @@ Pro tip: If you want something extra fancy, premium themes from places like Out 
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Chapter 4: Boosting Sales with Shopify’s Awesome Features 💰
 
@@ -114,7 +114,7 @@ Each app slots right into my **Shopify website**, making it smarter and slicker.
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -122,7 +122,7 @@ Each app slots right into my **Shopify website**, making it smarter and slicker.
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Chapter 7: The Pros and Cons of My Shopify Website Experience ⚖️
 
@@ -161,7 +161,7 @@ A: For ecommerce? 100%. I tried Wix, but Shopify’s focus on sales won me over.
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -169,7 +169,7 @@ A: For ecommerce? 100%. I tried Wix, but Shopify’s focus on sales won me over.
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Wrapping Up My Shopify Website Love Story 💖
 

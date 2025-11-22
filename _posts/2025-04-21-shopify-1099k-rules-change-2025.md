@@ -28,7 +28,7 @@ But that’s changing...
 
 ## ⚠️ What’s Changing in 2025?
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -36,7 +36,7 @@ But that’s changing...
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Beginning in **2025**, the IRS is enforcing a much **lower threshold**:
 
@@ -83,7 +83,7 @@ Some states (e.g., Massachusetts and Vermont) have their own lower thresholds.
 
 ## 📋 How to Prepare for the Shopify 1099-K Changes
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -91,7 +91,7 @@ Some states (e.g., Massachusetts and Vermont) have their own lower thresholds.
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### ✅ 1. **Track All Transactions**
 Use tools like:
@@ -151,7 +151,7 @@ You risk IRS penalties, interest, and a potential audit.
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -159,7 +159,7 @@ You risk IRS penalties, interest, and a potential audit.
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## 🧾 Sample Breakdown of a 1099-K for Shopify Sellers
 

@@ -30,7 +30,7 @@ While Pandabuy is not officially a replica seller, many shoppers use it to sourc
 
 ## 💬 What Reddit Says About Pandabuy and Replicas
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -38,7 +38,7 @@ While Pandabuy is not officially a replica seller, many shoppers use it to sourc
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Reddit’s replica and fashion forums like **r/FashionReps**, **r/Pandabuy**, and **r/RepLadies** are packed with user reviews. Here's a digest:
 
@@ -94,7 +94,7 @@ Shipping replicas comes with a set of risks:
 
 ## ✅ Is Pandabuy Trustworthy for Replicas?
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -102,7 +102,7 @@ Shipping replicas comes with a set of risks:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### YES—If You:
 
@@ -149,7 +149,7 @@ But remember: it’s a **grey market**—and with that comes both opportunity an
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -157,7 +157,7 @@ But remember: it’s a **grey market**—and with that comes both opportunity an
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## 💬 FAQ
 

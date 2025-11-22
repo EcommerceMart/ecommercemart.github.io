@@ -40,7 +40,7 @@ AliExpress supports **Buyer Protection**, which ensures that you’ll get a refu
 
 ## 🔒 Is AliExpress Safe in 2025?
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -48,7 +48,7 @@ AliExpress supports **Buyer Protection**, which ensures that you’ll get a refu
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### ✅ Yes, if you follow the right steps
 AliExpress in 2025 is safer than ever before, thanks to:
@@ -108,7 +108,7 @@ Always **message the seller first** if you have doubts.
 
 ## ⚠️ Common Scams and How to Avoid Them
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -116,7 +116,7 @@ Always **message the seller first** if you have doubts.
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### 🕵️‍♂️ Top Scams:
 - Fake tracking numbers
@@ -177,7 +177,7 @@ So, is AliExpress safe in 2025?
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -185,7 +185,7 @@ So, is AliExpress safe in 2025?
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## 🙋‍♀️ FAQ: Is AliExpress Safe in 2025?
 

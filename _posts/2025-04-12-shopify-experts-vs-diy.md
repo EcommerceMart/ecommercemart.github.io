@@ -42,7 +42,7 @@ In the world of ecommerce, launching a (**Shopify store**)[https://shopify.pxf.i
 
 ## 🧠 What is the DIY Shopify Approach?
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -50,7 +50,7 @@ In the world of ecommerce, launching a (**Shopify store**)[https://shopify.pxf.i
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 **DIY (Do-It-Yourself)** means you use Shopify’s tools and templates to build your store yourself. It’s popular among small business owners and side hustlers who want full control.
 
@@ -107,7 +107,7 @@ You’ve built a basic store, but now it’s time to improve performance. A **Sh
 
 ## 🌟 Success Stories
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -115,7 +115,7 @@ You’ve built a basic store, but now it’s time to improve performance. A **Sh
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### 📦 Sarah’s DIY Success
 Sarah built her candle brand store using DIY tools and YouTube tutorials. In 6 months, she scaled to $10K/month.

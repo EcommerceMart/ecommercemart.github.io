@@ -55,7 +55,7 @@ Run **split tests** to compare different page designs and determine which one co
 
 ## 🚀 How to Install and Use Shopify Shogun
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -63,7 +63,7 @@ Run **split tests** to compare different page designs and determine which one co
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### 📌 Step 1: Install Shopify Shogun
 1. Go to the **Shopify App Store**.
@@ -134,7 +134,7 @@ Start your Shopify store here 👉 [**Sign Up for Shopify**](https://shopify.pxf
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -142,7 +142,7 @@ Start your Shopify store here 👉 [**Sign Up for Shopify**](https://shopify.pxf
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## 📢 Final Thoughts
 Shopify Shogun is a **game-changing page builder** that lets Shopify store owners create beautiful, high-converting pages effortlessly. Whether you're launching a new store or upgrading your design, **Shogun makes it simple**. Try it today and start building your dream store! 🚀

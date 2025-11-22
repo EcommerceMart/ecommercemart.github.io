@@ -25,7 +25,7 @@ In this comprehensive guide, you'll learn what e-commerce is, how to set up an o
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -33,7 +33,7 @@ In this comprehensive guide, you'll learn what e-commerce is, how to set up an o
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## 2. Why Start an E-Commerce Business?
 
@@ -91,7 +91,7 @@ Test your website before making it live. Promote your launch through social medi
 
 ## 4. Marketing Your E-Commerce Store
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -99,7 +99,7 @@ Test your website before making it live. Promote your launch through social medi
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Marketing plays a crucial role in driving traffic to your online store. Here are some effective strategies:
 
@@ -163,7 +163,7 @@ While e-commerce offers many opportunities, businesses also face several challen
 
 ## FAQs About Electronic Commerce (E-Commerce)
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -171,7 +171,7 @@ While e-commerce offers many opportunities, businesses also face several challen
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### **1. What is the best platform for beginners to start an e-commerce business?**
 Shopify is one of the most beginner-friendly platforms, offering easy setup and various features.

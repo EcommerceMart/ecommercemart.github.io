@@ -26,7 +26,7 @@ DNKY’s goal is to create chic, stylish clothing and accessories for modern, co
 
 ## DNKY Product Range
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -34,7 +34,7 @@ DNKY’s goal is to create chic, stylish clothing and accessories for modern, co
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 DNKY offers a wide variety of products, including:
 
@@ -81,7 +81,7 @@ DNKY is known as an iconic American fashion brand that bridges the gap between h
 
 ## Comparing DNKY to Other Brands
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -89,7 +89,7 @@ DNKY is known as an iconic American fashion brand that bridges the gap between h
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 | Feature                | DNKY (DKNY)        | Luxury Brands        | High Street Brands     |
 |------------------------|--------------------|----------------------|-----------------------|
@@ -141,7 +141,7 @@ DNKY often has sales, especially at outlet stores and during holidays. Signing u
 
 ## DNKY’s Most Popular Items
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -149,7 +149,7 @@ DNKY often has sales, especially at outlet stores and during holidays. Signing u
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Some of DNKY’s best-selling and most-loved products include:
 
@@ -219,7 +219,7 @@ Yes, DNKY products are popular gifts because of their style and recognizable bra
 
 DNKY has regular sales and promotions, especially at outlet stores and online.
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -227,7 +227,7 @@ DNKY has regular sales and promotions, especially at outlet stores and online.
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Final Thoughts: Should You Buy DNKY?
 

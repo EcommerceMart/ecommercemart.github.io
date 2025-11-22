@@ -22,7 +22,7 @@ Lululemon applies different pricing strategies based on region, taxes, import du
 
 ## Taxes and Import Duties
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -30,7 +30,7 @@ Lululemon applies different pricing strategies based on region, taxes, import du
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Provincial Sales Tax and GST
 
@@ -76,7 +76,7 @@ If you’re a US resident purchasing in Canada and plan to bring the products ba
 
 ## Customer Experiences: Real Stories
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -84,7 +84,7 @@ If you’re a US resident purchasing in Canada and plan to bring the products ba
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### American Travelers Shopping in Canada
 
@@ -110,7 +110,7 @@ Lululemon has also focused on sustainability and local production in Canada, whi
 
 The brand’s commitment to sustainability initiatives, such as using recycled fabrics and reducing water use, may mean certain eco-friendly collections carry a premium. Many consumers view this as a worthwhile tradeoff for supporting environmental responsibility.
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -118,7 +118,7 @@ The brand’s commitment to sustainability initiatives, such as using recycled f
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Final Thoughts
 

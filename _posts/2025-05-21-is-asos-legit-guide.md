@@ -28,7 +28,7 @@ ASOS is a publicly traded company on the London Stock Exchange. Being listed as 
 
 ## ASOS Shipping: What You Need to Know
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -36,7 +36,7 @@ ASOS is a publicly traded company on the London Stock Exchange. Being listed as 
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ![Unboxing ASOS delivery with branded packaging and neatly folded clothes]({{ site.baseurl }}/images/ASOS-Shipping-What-You-Need-to-Know.webp)
 
@@ -78,7 +78,7 @@ Some items, like pierced jewelry or underwear without the hygiene seal, are non-
 
 ## How Good Is ASOS Customer Support?
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -86,7 +86,7 @@ Some items, like pierced jewelry or underwear without the hygiene seal, are non-
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### 24/7 Online Support
 
@@ -158,7 +158,7 @@ On platforms like Reddit, users generally find ASOS reliable for fashion on a bu
 
 ### Social Media Feedback
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -166,7 +166,7 @@ On platforms like Reddit, users generally find ASOS reliable for fashion on a bu
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ASOS has millions of followers on Instagram and Twitter. Most tagged posts are fashion hauls and outfit inspiration, indicating positive sentiment among younger shoppers.
 
@@ -210,7 +210,7 @@ Occasionally, users report technical bugs on the ASOS app or website, such as ca
 * **Sustainability**: ASOS has more initiatives in place compared to Boohoo.
 * **Customer Service**: ASOS’s service is slightly more reliable.
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -218,7 +218,7 @@ Occasionally, users report technical bugs on the ASOS app or website, such as ca
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### ASOS vs Zara
 
@@ -272,7 +272,7 @@ Yes, students can get up to 10% off with valid student verification.
 
 Refunds usually take up to 14 days after the return is processed.
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -280,7 +280,7 @@ Refunds usually take up to 14 days after the return is processed.
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Does ASOS charge customs or import duties?
 

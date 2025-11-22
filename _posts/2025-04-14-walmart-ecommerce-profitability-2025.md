@@ -27,7 +27,7 @@ These strategic moves have been aimed at optimizing operations, boosting custome
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -35,7 +35,7 @@ These strategic moves have been aimed at optimizing operations, boosting custome
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ---
 
@@ -100,7 +100,7 @@ With its expansive store network and deep supply chain expertise, Walmart has ad
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -108,7 +108,7 @@ With its expansive store network and deep supply chain expertise, Walmart has ad
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Walmart’s ecommerce profitability could set off a domino effect:
 

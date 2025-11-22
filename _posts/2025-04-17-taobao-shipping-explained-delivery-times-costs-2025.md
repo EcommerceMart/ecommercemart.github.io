@@ -25,7 +25,7 @@ Shipping from Taobao usually involves two steps:
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -33,7 +33,7 @@ Shipping from Taobao usually involves two steps:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## 🌐 Taobao Shipping Options Available in 2025
 
@@ -71,7 +71,7 @@ Here’s what to expect for **Taobao shipping delivery times**:
 
 ## 💰 Shipping Costs Breakdown
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -79,7 +79,7 @@ Here’s what to expect for **Taobao shipping delivery times**:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Shipping costs vary based on:
 - Package weight and dimensions
@@ -159,7 +159,7 @@ In 2025, customs laws have become stricter in many countries. Key tips:
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -167,7 +167,7 @@ In 2025, customs laws have become stricter in many countries. Key tips:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## 🌟 Final Tips for a Smooth Taobao Shipping Experience
 

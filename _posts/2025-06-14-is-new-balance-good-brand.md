@@ -39,7 +39,7 @@ You can find New Balance products in their own stores, sporting goods stores, an
 
 ## Is New Balance a Good Brand? Key Questions Answered
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -47,7 +47,7 @@ You can find New Balance products in their own stores, sporting goods stores, an
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### **How is New Balance’s Product Quality?**
 
@@ -92,7 +92,7 @@ New Balance has an overall product quality score of 3.9 out of 5 stars from thou
 
 ## Comparing New Balance to Other Brands
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -100,7 +100,7 @@ New Balance has an overall product quality score of 3.9 out of 5 stars from thou
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 | Feature                | New Balance        | Nike                 | Adidas                | Brooks Running        |
 |------------------------|--------------------|----------------------|-----------------------|----------------------|
@@ -154,7 +154,7 @@ New Balance often has sales, especially during holidays or at outlet stores. Sig
 
 ## New Balance’s Most Popular Shoes
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -162,7 +162,7 @@ New Balance often has sales, especially during holidays or at outlet stores. Sig
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Some of New Balance’s best-selling and most-loved shoes include:
 

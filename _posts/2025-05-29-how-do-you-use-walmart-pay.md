@@ -24,7 +24,7 @@ Walmart launched Walmart Pay to streamline the checkout experience, enhance cust
 
 ## How to Set Up Walmart Pay
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -32,7 +32,7 @@ Walmart launched Walmart Pay to streamline the checkout experience, enhance cust
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Requirements to Use Walmart Pay
 
@@ -83,7 +83,7 @@ Walmart Pay works seamlessly at self-checkout lanes. Simply choose Walmart Pay a
 
 ## Benefits of Using Walmart Pay
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -91,7 +91,7 @@ Walmart Pay works seamlessly at self-checkout lanes. Simply choose Walmart Pay a
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Speed and Convenience
 
@@ -159,7 +159,7 @@ Walmart Pay works seamlessly at self-checkout lanes. Simply choose Walmart Pay a
 
 ## Walmart Pay and Returns
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -167,7 +167,7 @@ Walmart Pay works seamlessly at self-checkout lanes. Simply choose Walmart Pay a
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Returning Items with Walmart Pay Receipts
 
@@ -231,7 +231,7 @@ Walmart Pay works seamlessly at self-checkout lanes. Simply choose Walmart Pay a
 
 ## Future of Walmart Pay
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -239,7 +239,7 @@ Walmart Pay works seamlessly at self-checkout lanes. Simply choose Walmart Pay a
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Upcoming Features
 

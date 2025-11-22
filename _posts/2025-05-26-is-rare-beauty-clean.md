@@ -27,7 +27,7 @@ Clean beauty refers to cosmetic and skincare products that are made without pote
 
 ### Certifications to Look For
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -35,7 +35,7 @@ Clean beauty refers to cosmetic and skincare products that are made without pote
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 #### Clean Beauty Labels May Include:
 
@@ -108,7 +108,7 @@ Rare Beauty states that its formulas are **dermatologist-tested** and **non-come
 
 ### Rare Beauty vs. Ilia Beauty
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -116,7 +116,7 @@ Rare Beauty states that its formulas are **dermatologist-tested** and **non-come
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 | Feature          | Rare Beauty       | Ilia Beauty              |
 | ---------------- | ----------------- | ------------------------ |
@@ -187,7 +187,7 @@ Rare Beauty leans **very close to clean** without explicitly claiming the label.
 
 ### Tips for Conscious Shoppers
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -195,7 +195,7 @@ Rare Beauty leans **very close to clean** without explicitly claiming the label.
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 * Read ingredient lists on product pages
 * Look for the vegan symbol

@@ -21,7 +21,7 @@ Taobao is one of China’s largest online marketplaces, offering a wide variety 
 
 ## Step 1: Accessing Taobao in English
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -29,7 +29,7 @@ Taobao is one of China’s largest online marketplaces, offering a wide variety 
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Is There a Taobao English Site?
 
@@ -46,7 +46,7 @@ Taobao does not have an official **English version**, but you can translate it u
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -54,7 +54,7 @@ Taobao does not have an official **English version**, but you can translate it u
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 
 ## Step 2: Creating a Taobao Account
@@ -79,7 +79,7 @@ Since Taobao operates in Chinese, searching in **English** won’t always yield 
 
 ## Step 4: Understanding Product Listings
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -87,7 +87,7 @@ Since Taobao operates in Chinese, searching in **English** won’t always yield 
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Key Elements to Check:
 
@@ -116,7 +116,7 @@ A **Taobao agent** acts as a middleman, purchasing the items for you and shippin
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -124,7 +124,7 @@ A **Taobao agent** acts as a middleman, purchasing the items for you and shippin
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Step 6: Payment Methods for Canadian Buyers
 
@@ -155,7 +155,7 @@ Taobao does not always offer direct shipping to Canada, so you need a **shipping
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -163,13 +163,13 @@ Taobao does not always offer direct shipping to Canada, so you need a **shipping
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## FAQs
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -177,7 +177,7 @@ Taobao does not always offer direct shipping to Canada, so you need a **shipping
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 
 ### 1. Can I shop on Taobao in English from Canada?

@@ -42,7 +42,7 @@ Certain products like the **Soft Pinch Liquid Blush** and **Positive Light Liqui
 
 ## Are Rare Beauty Products High-Quality?
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -50,7 +50,7 @@ Certain products like the **Soft Pinch Liquid Blush** and **Positive Light Liqui
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Ingredients & Formulation
 
@@ -122,7 +122,7 @@ Many products are dermatologist-tested and suitable for sensitive skin.
 
 #### Pros:
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -130,7 +130,7 @@ Many products are dermatologist-tested and suitable for sensitive skin.
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 * Creamy texture
 * Not drying
@@ -202,7 +202,7 @@ Beauty influencers have consistently ranked Rare Beauty products among their top
 
 ## Before and After Results
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -210,7 +210,7 @@ Beauty influencers have consistently ranked Rare Beauty products among their top
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Many users share visible results with Rare Beauty, especially with:
 
@@ -269,7 +269,7 @@ Absolutely. The products are designed for easy application, though some (like th
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -277,7 +277,7 @@ Absolutely. The products are designed for easy application, though some (like th
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Conclusion
 

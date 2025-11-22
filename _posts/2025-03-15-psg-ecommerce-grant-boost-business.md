@@ -38,7 +38,7 @@ To qualify for the grant, businesses must meet the following criteria:
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -46,7 +46,7 @@ To qualify for the grant, businesses must meet the following criteria:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## How to Apply for the PSG eCommerce Grant
 
@@ -96,7 +96,7 @@ The PSG Grant can be used for various **digital transformation solutions**, incl
 
 ## FAQs About the PSG eCommerce Grant
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -104,7 +104,7 @@ The PSG Grant can be used for various **digital transformation solutions**, incl
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### **1. Can startups apply for the PSG eCommerce Grant?**
 Yes, as long as they meet the eligibility criteria.

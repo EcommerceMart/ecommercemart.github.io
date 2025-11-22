@@ -28,7 +28,7 @@ When you place an order on ezbuy, the platform acts as a purchasing agent, helpi
 
 ## Is ezbuy Safe? Key Considerations
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -36,7 +36,7 @@ When you place an order on ezbuy, the platform acts as a purchasing agent, helpi
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Buyer Protection on ezbuy
 
@@ -83,7 +83,7 @@ ezbuy offers optional shipping insurance to protect your purchase against loss o
 
 ## Handling Disputes and Refunds
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -91,7 +91,7 @@ ezbuy offers optional shipping insurance to protect your purchase against loss o
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### How to Open a Dispute
 
@@ -140,7 +140,7 @@ Some customers have raised concerns about:
 
 ## Practical Tips for Safe Shopping on ezbuy
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -148,7 +148,7 @@ Some customers have raised concerns about:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Verify Seller Ratings
 

@@ -26,7 +26,7 @@ By the 1990s, the brand rebranded to Forever 21 and aggressively expanded across
 
 ### Business Model and Growth Strategy
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -34,7 +34,7 @@ By the 1990s, the brand rebranded to Forever 21 and aggressively expanded across
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 #### Affordable Trends
 
@@ -89,7 +89,7 @@ In February 2020, Forever 21 was acquired by a group of three companies:
 
 ABG is a brand development, marketing, and entertainment company. It owns and licenses a wide range of consumer brands like Juicy Couture, Aeropostale, and Barneys New York.
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -97,7 +97,7 @@ ABG is a brand development, marketing, and entertainment company. It owns and li
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 #### Role in Forever 21
 
@@ -143,7 +143,7 @@ Forever 21 has rebuilt its brand on TikTok and Instagram with influencer collabo
 
 ### Store Strategy
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -151,7 +151,7 @@ Forever 21 has rebuilt its brand on TikTok and Instagram with influencer collabo
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 #### Smaller Store Formats
 
@@ -209,7 +209,7 @@ Forever 21 competes with:
 
 While no longer the dominant fast fashion leader, Forever 21 is rebuilding its presence through a hybrid retail model and strategic partnerships.
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -217,7 +217,7 @@ While no longer the dominant fast fashion leader, Forever 21 is rebuilding its p
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Common Questions Answered
 

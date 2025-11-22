@@ -37,7 +37,7 @@ Key highlights:
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -45,7 +45,7 @@ Key highlights:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Yes, Taobao **does ship to the USA** — but not every seller does it directly.
 
@@ -107,7 +107,7 @@ Tip: Consolidate packages to save up to 50% on shipping fees.
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -115,7 +115,7 @@ Tip: Consolidate packages to save up to 50% on shipping fees.
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Taobao English Site Options:
 - Use [Google Chrome Translate](https://chrome.google.com/webstore)
@@ -187,7 +187,7 @@ Just remember:
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -195,7 +195,7 @@ Just remember:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 
 ### 1. Does Taobao ship directly to the U.S.?

@@ -29,7 +29,7 @@ The **Productivity Solutions Grant (PSG)** is a government initiative that provi
 
 ## Eligibility Criteria for the PSG eCommerce Grant
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -37,7 +37,7 @@ The **Productivity Solutions Grant (PSG)** is a government initiative that provi
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 To qualify for the PSG eCommerce Grant in 2025, businesses must meet the following requirements:
 
@@ -92,7 +92,7 @@ After completing the project, submit a claim via the **Business Grants Portal** 
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -100,7 +100,7 @@ After completing the project, submit a claim via the **Business Grants Portal** 
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## FAQs About the PSG eCommerce Grant
 

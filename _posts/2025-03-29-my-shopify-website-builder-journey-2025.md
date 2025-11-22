@@ -23,7 +23,7 @@ I’m no tech guru—just a regular person with a passion for selling quirky mug
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -31,7 +31,7 @@ I’m no tech guru—just a regular person with a passion for selling quirky mug
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Chapter 1: Why I Picked the Shopify Website Builder 🌈
 
@@ -83,7 +83,7 @@ My store hit page one for “quirky coffee mugs” in six weeks! The **Shopify w
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -91,7 +91,7 @@ My store hit page one for “quirky coffee mugs” in six weeks! The **Shopify w
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Chapter 6: My Favorite Shopify Apps to Level Up ⚡
 
@@ -141,7 +141,7 @@ A: Simplicity + power—I tried Wix, but Shopify’s ecommerce focus won me over
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -149,7 +149,7 @@ A: Simplicity + power—I tried Wix, but Shopify’s ecommerce focus won me over
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## My Shopify Website Builder Love Story 💖
 

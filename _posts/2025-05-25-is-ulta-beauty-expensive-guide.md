@@ -28,7 +28,7 @@ Ulta carries prestigious brands such as:
 
 #### Affordable Drugstore Brands
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -36,7 +36,7 @@ Ulta carries prestigious brands such as:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 You’ll also find accessible, everyday brands like:
 
@@ -90,7 +90,7 @@ These rates are on par with standalone beauty bars, and Ulta’s licensed profes
 
 ## Cost Breakdown by Category
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -98,7 +98,7 @@ These rates are on par with standalone beauty bars, and Ulta’s licensed profes
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Makeup
 
@@ -163,7 +163,7 @@ These rates are on par with standalone beauty bars, and Ulta’s licensed profes
 
 ## Buying Guide: Who Should Shop at Ulta?
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -171,7 +171,7 @@ These rates are on par with standalone beauty bars, and Ulta’s licensed profes
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Ideal for:
 
@@ -210,7 +210,7 @@ Yes. Stick to drugstore brands and use coupons or wait for sale events.
 
 Absolutely. Ulta’s sales events like “21 Days of Beauty” offer deep discounts on popular products.
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -218,7 +218,7 @@ Absolutely. Ulta’s sales events like “21 Days of Beauty” offer deep discou
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Conclusion
 

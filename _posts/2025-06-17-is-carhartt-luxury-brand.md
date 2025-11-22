@@ -26,7 +26,7 @@ Carhartt’s goal is to make long-lasting, functional clothing for people who wo
 
 ## What Makes a Brand “Luxury”?
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -34,7 +34,7 @@ Carhartt’s goal is to make long-lasting, functional clothing for people who wo
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Before we decide if Carhartt is a luxury brand, it’s important to know what “luxury” means in fashion. Luxury brands are usually known for:
 
@@ -87,7 +87,7 @@ Carhartt is famous for tough, long-lasting clothing. The brand uses heavy-duty f
 
 ## Carhartt’s Place in Today’s Fashion World
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -95,7 +95,7 @@ Carhartt is famous for tough, long-lasting clothing. The brand uses heavy-duty f
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Why Is Carhartt So Popular?
 
@@ -164,7 +164,7 @@ Carhartt WIP often collaborates with other brands and artists, creating limited-
 
 ## Carhartt’s Manufacturing and Ethics
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -172,7 +172,7 @@ Carhartt WIP often collaborates with other brands and artists, creating limited-
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Carhartt is a family-owned company with factories in the USA and Mexico. Some items are made in the USA, especially union-made workwear. Carhartt WIP is produced in Europe and Tunisia. Both lines focus on ethical production and responsible sourcing.
 

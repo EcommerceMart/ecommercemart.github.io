@@ -32,7 +32,7 @@ When a payment fails on Taobao or Alipay, the system may attempt to retry the tr
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -40,7 +40,7 @@ When a payment fails on Taobao or Alipay, the system may attempt to retry the tr
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 
 ### a. Check Your Bank Statement
@@ -133,7 +133,7 @@ Some international IPs may be restricted. Use a VPN if needed.
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -141,7 +141,7 @@ Some international IPs may be restricted. Use a VPN if needed.
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 
 ### a. Confirm That No Payment Went Through
@@ -206,7 +206,7 @@ Raise a formal dispute through the platform.
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -214,7 +214,7 @@ Raise a formal dispute through the platform.
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 
 ## Frequently Asked Questions

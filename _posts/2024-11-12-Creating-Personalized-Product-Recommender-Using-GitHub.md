@@ -25,7 +25,7 @@ Let's start!
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -33,7 +33,7 @@ Let's start!
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Step 1: Set Up the Project Repository on GitHub
 The first step is to create a GitHub repository where you and your team can store and manage your recommendation system project.
@@ -71,7 +71,7 @@ user_id,product_id,rating
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -79,7 +79,7 @@ user_id,product_id,rating
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Step 3: Build a Simple Product Recommendation System
 Let’s build a simple recommendation model using collaborative filtering, a common method for recommendations based on user interactions.
@@ -141,7 +141,7 @@ As you and your team work together on GitHub, here are some best practices for i
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -149,7 +149,7 @@ As you and your team work together on GitHub, here are some best practices for i
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 1. **Experiment with Different Models:**
 + Try other recommendation techniques, like matrix factorization or deep learning models, on a new branch.

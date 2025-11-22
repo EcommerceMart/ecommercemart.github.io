@@ -15,7 +15,7 @@ This blog post explores the architectural foundations, design strategies, scalab
 
 ## Introduction to Taobao File System
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -23,7 +23,7 @@ This blog post explores the architectural foundations, design strategies, scalab
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### What is the Taobao File System (TFS)?
 
@@ -74,7 +74,7 @@ A monitoring system keeps track of ChunkServer health, traffic, and latency. Mas
 
 ## Scalability and Performance
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -82,7 +82,7 @@ A monitoring system keeps track of ChunkServer health, traffic, and latency. Mas
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Handling Billions of Small Files
 
@@ -149,7 +149,7 @@ Large-scale deployments require sophisticated observability tools to ensure stab
 
 ## Best Practices for Implementing TFS
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -157,7 +157,7 @@ Large-scale deployments require sophisticated observability tools to ensure stab
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Use Case Assessment
 Only implement TFS where small file management is a bottleneck.

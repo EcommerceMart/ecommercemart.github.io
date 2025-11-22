@@ -30,7 +30,7 @@ Founded with the goal of making alternative fashion accessible globally, **Devil
 
 ## 🔮 2025 Fashion Forecast: DevilInspired’s Dominating Trends
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -38,7 +38,7 @@ Founded with the goal of making alternative fashion accessible globally, **Devil
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Fashion is cyclical, but in 2025, these DevilInspired trends are more than seasonal—they reflect **cultural shifts, identity movements, and creative boldness**.
 
@@ -86,7 +86,7 @@ From Victorian boots to anime-style platforms, your shoes say everything about y
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -94,7 +94,7 @@ From Victorian boots to anime-style platforms, your shoes say everything about y
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## 💅 DevilInspired Beauty & Accessories: Complete the Look
 

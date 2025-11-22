@@ -27,7 +27,7 @@ ECommerce is booming, and here’s why it’s a great career option:
 
 ## Top eCommerce Jobs & Career Paths
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -35,7 +35,7 @@ ECommerce is booming, and here’s why it’s a great career option:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### 1. **ECommerce Manager**
 - Oversees online store operations, sales strategies, and marketing.
@@ -95,7 +95,7 @@ To succeed in eCommerce, you need a mix of technical and soft skills:
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -103,7 +103,7 @@ To succeed in eCommerce, you need a mix of technical and soft skills:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Pros and Cons of eCommerce Careers
 

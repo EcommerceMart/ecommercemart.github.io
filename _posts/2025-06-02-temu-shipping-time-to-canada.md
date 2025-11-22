@@ -25,7 +25,7 @@ Temu offers a wide range of affordable products, from electronics to home goods.
 
 ### Temu's Shipping Methods
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -33,7 +33,7 @@ Temu offers a wide range of affordable products, from electronics to home goods.
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 #### Standard Shipping
 
@@ -93,7 +93,7 @@ Once cleared, your package is handed over to a local carrier like Canada Post, w
 
 ## Tracking Your Temu Order
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -101,7 +101,7 @@ Once cleared, your package is handed over to a local carrier like Canada Post, w
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### How to Use the Temu App for Tracking
 
@@ -157,7 +157,7 @@ Some items may be on backorder, which can delay shipment. Temu usually notifies 
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -165,7 +165,7 @@ Some items may be on backorder, which can delay shipment. Temu usually notifies 
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Conclusion: What to Expect When Ordering from Temu to Canada
 

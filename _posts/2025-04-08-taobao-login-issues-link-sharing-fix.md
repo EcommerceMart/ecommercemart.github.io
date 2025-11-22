@@ -55,7 +55,7 @@ If you’ve ever faced **login issues** or struggled with **sharing Taobao links
 
 ## 🔗 Taobao Link Sharing Problems & Fixes
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -63,7 +63,7 @@ If you’ve ever faced **login issues** or struggled with **sharing Taobao links
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### 1. **Taobao Links Not Opening for Others**
 **Problem:** You share a Taobao link, but the recipient can’t open it.
@@ -99,7 +99,7 @@ If you still face problems, consider reaching out to **Taobao’s customer suppo
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -107,7 +107,7 @@ If you still face problems, consider reaching out to **Taobao’s customer suppo
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## ❓ FAQs
 

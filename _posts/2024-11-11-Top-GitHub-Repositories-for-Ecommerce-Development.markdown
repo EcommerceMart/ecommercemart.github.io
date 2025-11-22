@@ -37,7 +37,7 @@ E-commerce development can be time-consuming and complex, but the open-source co
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -45,7 +45,7 @@ E-commerce development can be time-consuming and complex, but the open-source co
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 + `Real-time Data:` Provides real-time data processing for inventory and orders.
 + `Headless Architecture:` Easily integrates with various frontend frameworks.
@@ -84,7 +84,7 @@ E-commerce development can be time-consuming and complex, but the open-source co
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -92,7 +92,7 @@ E-commerce development can be time-consuming and complex, but the open-source co
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 `Repository:` [Vue Storefront on GitHub](https://github.com/vuestorefront/vue-storefront).\
 `Stars:` 9k+.\
@@ -168,7 +168,7 @@ Flexible Product Management: Supports complex product variations.
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -176,7 +176,7 @@ Flexible Product Management: Supports complex product variations.
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 **How to Use:**
 

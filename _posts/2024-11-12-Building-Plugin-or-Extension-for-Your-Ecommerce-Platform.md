@@ -13,7 +13,7 @@ GitHub is an ideal platform for developing plugins because it provides:
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -21,7 +21,7 @@ GitHub is an ideal platform for developing plugins because it provides:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 + **Version Control:** Track all changes and updates to your code.
 + **Collaboration:** Work with team members easily by sharing code and ideas.
@@ -67,7 +67,7 @@ Start coding your plugin or extension based on your e-commerce platform's requir
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -75,7 +75,7 @@ Start coding your plugin or extension based on your e-commerce platform's requir
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 1. **Define the Plugin Structure**
 + Structure your code with files and folders for different functionalities (e.g., `assets`, `templates`, `src`).
@@ -130,7 +130,7 @@ Testing is essential to ensure your plugin works correctly across different setu
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -138,7 +138,7 @@ Testing is essential to ensure your plugin works correctly across different setu
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 #### Step 5: Deploying Your Plugin
 1. **Prepare for Deployment**

@@ -29,7 +29,7 @@ A **Taobao account** is your gateway to accessing the Taobao e-commerce platform
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -37,7 +37,7 @@ A **Taobao account** is your gateway to accessing the Taobao e-commerce platform
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### 1. Privacy and Data Protection
 
@@ -114,7 +114,7 @@ After the review period, you will receive a message confirming your account has 
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -122,7 +122,7 @@ After the review period, you will receive a message confirming your account has 
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Forgot Password or Cannot Log In
 
@@ -184,7 +184,7 @@ Alipay deletion may also take a few days. Once complete, retry Taobao account de
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -192,7 +192,7 @@ Alipay deletion may also take a few days. Once complete, retry Taobao account de
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 
 ### Data Removal

@@ -29,7 +29,7 @@ Standard file systems are inefficient at handling large volumes of small files, 
 
 ## Architectural Design of TFS
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -37,7 +37,7 @@ Standard file systems are inefficient at handling large volumes of small files, 
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ![Flat namespace model of Taobao File System managing billions of small image files.]({{ site.baseurl }}/images/Flat-File-Structure.webp)
 
@@ -105,7 +105,7 @@ Image compression techniques are applied in the storage pipeline to reduce stora
 
 ## Use Cases of TFS in Image Processing
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -113,7 +113,7 @@ Image compression techniques are applied in the storage pipeline to reduce stora
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Real-Time Image Rendering
 TFS supports Taobao's dynamic product image rendering by allowing microservices to retrieve and manipulate images in real time.
@@ -164,7 +164,7 @@ Rolling upgrades with minimal downtime keep the system current without affecting
 
 ## Future of TFS
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -172,7 +172,7 @@ Rolling upgrades with minimal downtime keep the system current without affecting
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Integration with Cloud-Native Systems
 Alibaba Cloud aims to integrate TFS into more containerized and cloud-native platforms.
