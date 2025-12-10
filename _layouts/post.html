@@ -2,102 +2,152 @@
 layout: default
 ---
 
-{% include hero.html %}
+{% if page.video_embed %} {% assign videoPost = ' post-head-video' %} {% assign videoInfo = ' post__info-video' %} {% endif %}
+<div class="post-head{{videoPost}}">
+  <div class="container">
+    <div class="row">
 
-<head>
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
-  	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
-</head>
+      <div class="col {% if page.video_embed %}col-12{% else %}col-6 col-d-12{% endif %}">
+        <div class="post__info{{videoInfo}}">
+
+          {% if page.tags.size >= 1 %}
+          <div class="post__tags">
+            {% for tag in page.tags %}
+            <a href="{{ site.baseurl }}/tags/?tag={{ tag | downcase | url_encode }}" class="post__tag">{{ tag }}</a>
+            {% endfor %}
+          </div>
+          {% endif %}
+
+          <h1 class="post__title">{{ page.title | escape }}</h1>
+
+          {% if page.description %}
+          <p class="post__description">{{ page.description }}</p>
+          {% endif %}
+
+          <div class="post__meta">
+            {% assign author = site.authors | where: 'username', page.author | first %}
+
+            {% if author %}
+            <a href="{{ author.url }}" class="post__author__image">
+              <img class="lazy" data-src="{{ author.image }}" alt="{{ author.name }}">
+            </a>
+            {% else %}
+            <a href="{{site.baseurl}}/about/" class="post__author__image">
+              <img class="lazy" data-src="{{site.data.settings.author.author__avatar}}"
+                alt="{{site.data.settings.author.author__name}}">
+            </a>
+            {% endif %}
+
+            <div class="post__meta-bottom">
+              {% if author %}
+                <a class="post__author__name" href="{{ author.url }}">{{ author.name }}</a>
+              {% else %}
+                <a class="post__author__name" href="{{site.baseurl}}/about/">{{ site.data.settings.author.author__name }}</a>
+              {% endif %}
+              <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      {% if page.video_embed %}
+      <div class="col col-12">
+        <div class="post-video">
+          <div class="post-video__wrap">
+            <iframe src="{{ page.video_embed }}" loading="lazy" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+      {% else %}
+
+      {%if page.image %}
+      <div class="col col-5 push-1 col-d-12 push-d-0">
+        <div class="post-image">
+          <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
+        </div>
+        {% if page.image_caption %}
+          <div class="post-image-caption">{{ page.image_caption | markdownify | replace: '<p>' | replace: '</p>' }}</div>
+        {% endif %}
+      </div>
+      {% endif %}
+
+      {% endif %}
+
+    </div>
+  </div>
+</div>
 
 <!-- begin post -->
-<div class="container content-section">
-	<div class="side-bar-left-ads" bis_skin_checked="1">
-		<!-- Verticle Ads Sidebar -->
-		<!-- <ins class="adsbygoogle"
-		style="display:block"
-		data-ad-client="ca-pub-2784742237479601"
-		data-ad-slot="3326963965"
-		data-ad-format="auto"
-		data-full-width-responsive="true"></ins>
-		<script>
-		(adsbygoogle = window.adsbygoogle || []).push({});
-		</script> -->
-	</div>
-  <div class="side-bar-right-ads">
-	<!-- Verticle Ads Sidebar -->
-	<!-- <ins class="adsbygoogle"
-	style="display:block"
-	data-ad-client="ca-pub-2784742237479601"
-	data-ad-slot="3326963965"
-	data-ad-format="auto"
-	data-full-width-responsive="true"></ins>
-	<script>
-	(adsbygoogle = window.adsbygoogle || []).push({});
-	</script> -->
-  </div>
-  <article class="post animate">
+<div class="container animate">
+
+  <article class="post">
 
     <div class="post__content">
-		<div class="row justify-content-center">
-			<div class="col-lg-2 pr-4 mb-4 col-md-12" bis_skin_checked="1">
-				<div class="sticky-top sticky-top-offset text-center" bis_skin_checked="1">
-					<div class="text-muted" bis_skin_checked="1">
-						Share this
-					</div>
-					<div class="share d-inline-block" bis_skin_checked="1">
-						<!-- AddToAny BEGIN -->
-						<div class="a2a_kit a2a_kit_size_32 a2a_default_style" style="line-height: 32px;" bis_skin_checked="1">
-							<a class="a2a_dd" href="https://www.addtoany.com/share#url=https%3A%2F%2Fdo-and-donts.github.io%2Fcarpooling-in-america-dos-and-donts-smooth-ride&amp;title=Carpooling%20in%20America%3A%20Do%E2%80%99s%20and%20Don%E2%80%99ts%20for%20a%20Smooth%20Ride%20%7C%20Do%E2%80%99s%20And%20Don%E2%80%99ts"><span class="a2a_svg a2a_s__default a2a_s_a2a" style="background-color: rgb(1, 102, 255);"><svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><g fill="#FFF"><path d="M14 7h4v18h-4z"></path><path d="M7 14h18v4H7z"></path></g></svg></span><span class="a2a_label a2a_localize" data-a2a-localize="inner,Share">Share</span></a>
-							<a class="a2a_button_facebook" target="_blank" rel="nofollow noopener" href="/#facebook"><span class="a2a_svg a2a_s__default a2a_s_facebook" style="background-color: rgb(8, 102, 255);"><svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="#fff" d="M28 16c0-6.627-5.373-12-12-12S4 9.373 4 16c0 5.628 3.875 10.35 9.101 11.647v-7.98h-2.474V16H13.1v-1.58c0-4.085 1.849-5.978 5.859-5.978.76 0 2.072.15 2.608.298v3.325c-.283-.03-.775-.045-1.386-.045-1.967 0-2.728.745-2.728 2.683V16h3.92l-.673 3.667h-3.247v8.245C23.395 27.195 28 22.135 28 16"></path></svg></span><span class="a2a_label">Facebook</span></a>
-							<a class="a2a_button_twitter" target="_blank" rel="nofollow noopener" href="/#twitter"><span class="a2a_svg a2a_s__default a2a_s_twitter" style="background-color: rgb(29, 155, 240);"><svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill="#FFF" d="M28 8.557a10 10 0 0 1-2.828.775 4.93 4.93 0 0 0 2.166-2.725 9.7 9.7 0 0 1-3.13 1.194 4.92 4.92 0 0 0-3.593-1.55 4.924 4.924 0 0 0-4.794 6.049c-4.09-.21-7.72-2.17-10.15-5.15a4.94 4.94 0 0 0-.665 2.477c0 1.71.87 3.214 2.19 4.1a5 5 0 0 1-2.23-.616v.06c0 2.39 1.7 4.38 3.952 4.83-.414.115-.85.174-1.297.174q-.476-.001-.928-.086a4.935 4.935 0 0 0 4.6 3.42 9.9 9.9 0 0 1-6.114 2.107q-.597 0-1.175-.068a13.95 13.95 0 0 0 7.55 2.213c9.056 0 14.01-7.507 14.01-14.013q0-.32-.015-.637c.96-.695 1.795-1.56 2.455-2.55z"></path></svg></span><span class="a2a_label">Twitter</span></a>
-						<!-- <div style="clear: both;" bis_skin_checked="1"></div> -->
-					</div>
-						<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-						<!-- AddToAny END -->
-					</div>
-				</div>
-			</div>
-			<div class="col-md-12 col-lg-10" bis_skin_checked="1">
-				{{ content }}
-			</div>
-		</div>
+      {{ content }}
     </div>
 
-	<!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601" crossorigin="anonymous"></script>
-		<ins class="adsbygoogle"
-			style="display:block"
-			data-ad-format="autorelaxed"
-			data-ad-client="ca-pub-2784742237479601"
-			data-ad-slot="7158828305"></ins>
-	<script>(adsbygoogle = window.adsbygoogle || []).push({});</script> -->
+    <div class="post__share">
+      <ul class="share__list list-reset">
+        <li class="share__item">
+          <a class="share__link share__twitter"
+            href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+            onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+            title="Share on Twitter" rel="nofollow"><i class="ion ion-logo-twitter"></i></a>
+        </li>
+        <li class="share__item">
+          <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+            onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+            title="Share on Facebook" rel="nofollow"><i class="ion ion-logo-facebook"></i></a>
+        </li>
+        <li class="share__item">
+          <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url={{ site.url }}{{ page.url }}&amp;media={{ site.url }}{{ site.baseurl }}{{ page.image }}&amp;description={{ page.title | uri_escape }}"
+          onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+          rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
+        </li>
+      </ul>
+    </div>
 
-    {% include share.html %}
-
-    {% include post-navigation.html %}
-
-    	<hr>
-
-
-
-    	<p class="Check-Related-Article"><strong>Check Related Article</strong></p>
-            <!--Related Article -->
-			<ul>
-			{% for category in site.categories %}
-				<!-- <li><a name="{{ category | first }}">{{ category | first }}</a> -->
-				{% assign categ = category | first %}
-					{% for eachcateg in page.categories %}
-						{% if eachcateg == categ and forloop.first %}
-							{% for post in category.last %}
-							<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-							{% endfor %}
-						{% endif %}
-					{% endfor %}
-				</li>
-			{% endfor %}
-			</ul>
-
-    {% if site.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
-
+    {% if site.data.settings.disqus.disqus__identifier and site.data.settings.disqus.enable == true %}
+      {% include disqus-comments.html %}
+    {% endif %}
   </article>
 </div>
 <!-- end post -->
+
+<div class="container">
+  <div class="post__navigation animate">
+    {% if page.previous.url %}
+    <div class="post__prev">
+      <a href="{{page.previous.url}}" class="prev__image">
+        <img class="lazy" data-src="{{site.baseurl}}{{page.previous.image}}" alt="{{ page.title }}">
+      </a>
+      <div class="prev__box">
+        <span class="post__nav post__nav__prev">Older post</span>
+        <h2 class="post__nav__title"><a href="{{page.previous.url}}">{{page.previous.title}}</a></h2>
+        <p class="post__nav__excerpt">
+          {% if page.previous.description %}{{ page.previous.description }}{% else %}{{ page.content | strip_html | truncate: 160 }}{% endif %}
+        </p>
+      </div>
+    </div>
+    {% endif %}
+
+    {% if page.next.url %}
+    <div class="post__next">
+      <div class="next__box">
+        <span class="post__nav post__nav__next">Newer post</span>
+        <h2 class="post__nav__title"><a href="{{page.next.url}}">{{page.next.title}}</a></h2>
+        <p class="post__nav__excerpt">
+          {% if page.next.description %}{{ page.next.description }}{% else %}{{ page.content | strip_html | truncate: 160 }}{% endif %}
+        </p>
+      </div>
+      <a href="{{page.next.url}}" class="next__image">
+        <img class="lazy" data-src="{{site.baseurl}}{{page.next.image}}" alt="{{ page.title }}">
+      </a>
+    </div>
+    {% endif %}
+  </div>
+</div>
+
+
+{% include related-posts.html %}

@@ -1,121 +1,55 @@
 #-------------------------------
 # General Site Settings
-title: 'EcommerceMart'
-# logo: '/images/Logo-calc.webp'
-description:  "Find blogs of Ecommerce , Fashion Brands."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: 'favicon.ico' # Add your favicon
-blog-theme: light # By default, Atega theme uses a 'light' color scheme, to change the color scheme to dark use 'dark' value (_includes/color-scheme)
-
- 
-#-------------------------------
-# Author Settings
-author:
-  name: Coding Rhodes # Add your name
-  image: '/images/Author-codingRhodes.webp' # Add your author image
-  description: "Hi, I am Coding Rhodes, the author of this article, Do let me know If you have any Questions."
-  social:
-    twitter: https://twitter.com/codingrhodes
-
-
-#-------------------------------
-# Hero Settings
-hero:
-  hero__title: Find Ecommerce Blogs <span class="hero__name">EcommerceMart</span>.
-  hero__job: 
-  hero__description: "Find blogs of Ecommerce , Fashion Brands."
-  hero__button__text: Read about the Author # Add your button text
-  hero__button__link: '/about-us'
-  # hero__image: '/images/hero-image.webp'
-
-
-#-------------------------------
-# Newsletter (_includes/footer-widgets/widget-subscribe.html)
-mailchimp__title: Subscribe to new posts # Add your Title
-mailchimp__text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
-mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
-mailchimp__button__text: Subscribe # Add your button text
-
-
-#-------------------------------
-# Contact Settings
-contact:
-  email: codingrhodes@gmail.com # Add your email for contant form
-  description: If you are interested to talk, just shoot me a message
-
-# NOTE
-# Atega comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
-
-
-#-------------------------------
-# Social Links (Footer)
-# Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
-# Other icons can be found at https://ionicons.com/v4/
-social:
-# - {icon: "ion-logo-twitter", link: "https://twitter.com/posadchyi"}
-- {icon: "ion-logo-github", link: "https://github.com/ecommercemart"}
-# - {icon: "ion-logo-youtube", link: "https://youtube.com"}
-# - {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-# - {icon: "ion-logo-codepen", link: "https://codepen.io"}
-# - {icon: "ion-logo-vimeo", link: "https://vimeo.com/"}
-
-
-#-------------------------------
-# Comment Section (Disqus)
-disqus-identifier:  # add your shortname for Disqus Comment. For example mr-brown
-
-
-#-------------------------------
-# Gallery Footer Section
-# gallery:
-#   title: Gallery
-#   images:
-#     - alt: 'Minimalism'
-#       url: '/images/landscape1.jpg'
-#     - alt: 'Minimalism'
-#       url: '/images/sasha1.jpeg'
-#     - alt: 'Minimalism'
-#       url: '/images/castle1.jpg'
-#     - alt: 'Minimalism'
-#       url: '/images/scotland1.jpg'
-#     - alt: 'Minimalism'
-#       url: '/images/sanfran1.jpg'
-#     - alt: 'Minimalism'
-#       url: '/images/newyork1.jpg'
-
-
-#-------------------------------
-# Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
 # Build Settings
 markdown: kramdown
-permalink: /:title/
+permalink: /:title
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll/tagging
 
-paginate: 9
+paginate: 6
 paginate_path: "/page/:num"
+
+
+#-------------------------------
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:slug
+  authors:
+    output: true
+    permalink: /:name
 
 # Pages Path
 defaults:
   - scope:
-      path: '_pages'
+      path: ""
     values:
-      permalink: /:title/
-
-include:
-  - _pages
-
-# Tags
-tag_page_dir:         tag
-tag_page_layout:      tag_page
-tag_permalink_style:  /:title/
+      layout: "default"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
 
 sass:
   sass_dir: _sass

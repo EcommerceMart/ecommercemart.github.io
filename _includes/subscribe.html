@@ -1,0 +1,26 @@
+{% if site.data.settings.mailchimp.enable == true %}
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="subscribe">
+        <div class="subscribe__inner">
+          <div class="subscribe__content">
+            {% if site.data.settings.mailchimp.mailchimp__title %}
+              <h3 class="subscribe__title">{{ site.data.settings.mailchimp.mailchimp__title }}</h3>
+            {% endif %}
+            {% if site.data.settings.mailchimp.mailchimp__description %}
+              <p class="subscribe__description">{{ site.data.settings.mailchimp.mailchimp__description }}</p>
+            {% endif %}
+          </div>
+          <form class="ml-block-form subscribe-form" id="membedded-subscribe-form" action="https://github.us22.list-manage.com/subscribe/post?u=7cbb8f4ffba4384950451d221&amp;id=aae56f1824&amp;f_id=00fec2e1f0" data-code="" method="post" target="_blank">
+            <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
+            <input aria-label="email" aria-required="true" type="email" id="mce-EMAIL" class="subscribe-email required email" data-inputmask="" name="fields[email]" placeholder="{% if site.data.settings.mailchimp.mailchimp__input__text %}{{ site.data.settings.mailchimp.mailchimp__input__text }}{% else %}Email address{% endif %}" autocomplete="email">
+            <button class="button button--primary subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">{{ site.data.settings.mailchimp.mailchimp__button__text }}</button>
+          </form>
+        </div>
+        <div class="subscribe__bg lazy" data-bg="{{site.data.settings.mailchimp.mailchimp__background__image}}"></div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}

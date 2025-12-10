@@ -1,7 +1,5 @@
-.DS_Store
-.idea
-*.log
-tmp/
 _site
+.sass-cache
 .jekyll-cache
-
+.jekyll-metadata
+.DS_Store

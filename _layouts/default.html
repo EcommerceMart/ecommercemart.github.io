@@ -3,39 +3,36 @@
 
 {% include head.html %}
 
-<body class="{% if site.blog-theme == 'light' %}light{% elsif site.blog-theme == 'dark' %}dark{% else %}light{% endif %}">
-
-  {% if site.google-analytics %}
+<body>
+  {% if site.data.settings.google-analytics %}
     {% include google-analytics.html %}
   {% endif %}
 
+  <!-- begin global wrap -->
+  <div class="global-wrap">
+
     {% include header.html %}
+  
     <!-- begin content -->
     <main class="content" aria-label="Content">
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-          crossorigin="anonymous"></script>
-
-      <ins class="adsbygoogle"
-          style="display:block"
-          data-ad-client="ca-pub-2784742237479601"
-          data-ad-slot="4525173173"
-          data-ad-format="auto"
-          data-full-width-responsive="true"></ins>
-      <script>
-          (adsbygoogle = window.adsbygoogle || []).push({});
-      </script> 
-      <!-- begin wrapper-page -->
-      <div class="wrapper-page">
-        {{ content }}
-      </div>
-      <!-- end wrapper-page -->
+      {{ content }}
     </main>
     <!-- end content -->
-    <div class="top" title="Top">&uarr;</div>
+  
     {% include footer.html %}
+  </div>
+  <!-- end global wrap -->
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="{{ site.baseurl }}/js/scripts.js"></script>
+  <script src="{{ site.baseurl }}/js/common.js"></script>
+  <script>
+    var base_url = "",
+      pagination_next_url = base_url + '/page2',
+      pagination_next_page_number = '{{ paginator.next_page }}',
+      pagination_available_pages_number = '{{ paginator.total_pages }}';
+  </script>
+
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
   <div class="gtranslate_wrapper"></div>
   <script>window.gtranslateSettings = {"default_language":"en","native_language_names":true,"detect_browser_language":true,"wrapper_selector":".gtranslate_wrapper"}</script>
   <script src="https://cdn.gtranslate.net/widgets/latest/float.js" defer></script>
@@ -55,6 +52,7 @@
     })
 </script>
 
+  
 </body>
 
 </html>

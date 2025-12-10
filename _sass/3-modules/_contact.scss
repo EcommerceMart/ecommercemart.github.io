@@ -1,15 +1,6 @@
 /* Contact */
-.contact-head {
-  margin-bottom: 30px;
-}
-
-.form-box {
-  max-width: 750px;
-  margin: 0 auto;
-}
-
 .form__group {
-  margin-bottom: 20px;
+  margin-bottom: 16px;
 
   &:last-child {
     margin-bottom: 0;
@@ -18,21 +9,26 @@
 
 .form__input {
   width: 100%;
-  padding: 20px;
-  font-size: 14px;
-  font-weight: 500;
-  border: 1px solid $border-color;
-  outline: none;
-  transition: 250ms;
+  padding: 24px;
+  font-size: 16px;
+  font-weight: 400;
+  border-radius: 12px;
+  border: none;
+  outline: 0;
+  transition: .25s ease-in-out;
   resize: vertical;
-  color: rgba($text-color, 0.8);
-  background: $background-color-alt;
+  color: var(--heading-font-color);
+  background-color: var(--border-color);
 
   &::placeholder {
-    color: rgba($text-color, 0.8);
+    color: var(--text-color);
+  }
+
+  &:hover {
+    background-color: var(--darken-gray);
   }
 
   &:focus {
-    border: 1px solid $brand-color;
+    background-color: var(--darken-gray);
   }
 }
