@@ -2,7 +2,7 @@
 layout: page
 title: "Write for Us – EcommerceMart.github.io"
 permalink: /write-for-us/
-description: "Write for Us at EcommerceMart.github.io — Submit guest posts on ecommerce, online marketing, SEO, Shopify, dropshipping, product reviews and more. Domain Authority 4, domain age 12 years."
+description: "Submit guest posts on ecommerce, online marketing, SEO, Shopify, dropshipping, product reviews and more."
 ---
 
 ---
