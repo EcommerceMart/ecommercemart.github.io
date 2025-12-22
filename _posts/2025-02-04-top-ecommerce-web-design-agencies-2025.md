@@ -1,12 +1,19 @@
 ---
-layout: post
+layout: single
 title: "Top 10 eCommerce Web Design Agencies in 2025: Who’s Leading the Game?"
 description: "Discover the leading eCommerce web design agencies of 2025 that can help you build a powerful online store. From UI/UX design to development, these experts are setting the trends."
 keywords: "DHL eCommerce Customer Service, DHL support review, DHL customer help, DHL eCommerce reliability, DHL service feedback"
 categories: [ ecommerce, Web Design]
-tags: [ecommerce web design agency, top ecommerce agencies, ecommerce web design, web design 2025]
-author: CodingRhodes
-image: assets/images/featured_top-ecommerce-web-design-agencies-2025.webp
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_top-ecommerce-web-design-agencies-2025.webp
 ---
 
 ## Introduction: Why eCommerce Web Design Agencies Matter in 2025

@@ -1,10 +1,18 @@
 ---
-layout: post
+layout: single
 title:  "GitHub Codespaces: The Ultimate Tool for E-commerce Development Teams"
 description: 'Discover how GitHub Codespaces empowers e-commerce development teams with on-demand, cloud-based environments for seamless coding, collaboration, and rapid project delivery.'
-author: CodingRhodes
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
 categories: "github"
-image: assets/images/featured_Illustration-of-GitHub-Codespaces-used-for-ecommerce-project-development.webp
+image: /assets/images/featured_Illustration-of-GitHub-Codespaces-used-for-ecommerce-project-development.webp
 ---
 Setting up an e-commerce project often involves installing dependencies, configuring environments, and ensuring that all team members have the same setup. GitHub Codespaces solves these problems by providing pre-configured development environments in the cloud. This guide will help you understand how GitHub Codespaces works and how to set it up for your e-commerce projects.
 

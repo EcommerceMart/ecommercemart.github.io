@@ -1,8 +1,9 @@
 ---
 title: "Product Price Comparison Tool"
-layout: page-sidebar
+layout: archive
 permalink: "/Product-Price-Comparison-Tool"
 description: "Compare product prices across different platforms with our Product Price Comparison Tool. Find the best deals and save money instantly."
+istool: true
 ---
 
 <style>

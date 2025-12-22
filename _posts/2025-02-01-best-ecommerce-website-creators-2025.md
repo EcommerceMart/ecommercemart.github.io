@@ -1,12 +1,19 @@
 ---
-layout: post
+layout: single
 title: "Best Ecommerce Website Creators for 2025: Build Your Store in Minutes"
 description: "Discover the top ecommerce website creators for 2025 that help you build an online store quickly and efficiently. Compare features, pricing, and benefits to choose the best platform for your business."
 keywords: "ecommerce website creator, best ecommerce website creator, ecommerce website builder, online store builder, ecommerce platform 2025"
 categories: [Ecommerce, Website Builders]
-tags: [Ecommerce, Website Creation, Online Business, Website Builders]
-author: CodingRhodes
-image: assets/images/featured_best-ecommerce-website-creators-2025.webp
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_best-ecommerce-website-creators-2025.webp
 ---
 
 ## Introduction

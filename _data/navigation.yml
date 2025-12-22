@@ -1,0 +1,29 @@
+# main links
+main:
+
+  - title: "Home"
+    url: /
+  - title: "Blog"
+    url: /posts/
+  - title: "Tools"
+    url: /tools/
+  - title: "Categories"
+    url: /categories/
+  - title: "About Us"
+    url: /about
+  - title: "Contact Us"
+    url: /contact
+  - title: "Write For Us"
+    url: /write-for-us/
+
+tools:
+  - title: "Calculators"
+    children:
+      - title: "Profit Margin Calculator"
+        url: /Ecommerce-Profit-Margin-Calculator/
+      - title: "Ad Budget Calculator"
+        url: /Ecommerce-Ad-Budget-Calculator/
+      - title: "Shipping Cost Estimator"
+        url: /shipping-cost-estimator/
+      - title: "Theme Detector"
+        url: /Shopify-Theme-Detector/

@@ -1,10 +1,18 @@
 ---
-layout: post
+layout: single
 title:  "Leveraging GitHub Pages for a Minimalist E-commerce Store"
 description: 'Learn how to use GitHub Pages to create a lightweight, minimalist e-commerce store with easy hosting, version control, and customization options.'
-author: CodingRhodes
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
 categories: "Ecommerce"
-image: assets/images/featured_Illustration-of-minimalist-ecommerce-store-built-with-GitHub-Pages.webp
+image: /assets/images/featured_Illustration-of-minimalist-ecommerce-store-built-with-GitHub-Pages.webp
 tags: [featured]
 ---
 GitHub Pages is a simple, free way to create websites hosted directly on GitHub. For small businesses, entrepreneurs, or anyone wanting to test a concept, GitHub Pages offers a quick way to build a minimalist e-commerce site. This article explains how to set up a basic e-commerce site using GitHub Pages with the help of Jekyll or a headless CMS.
@@ -69,7 +77,7 @@ layout: product
 title: "Product Name"
 price: $20
 description: "Product description here"
-image: "/assets/images/product1.jpg"
+image: "/images/product1.jpg"
 ---
 ```
 + These Markdown files will generate individual product pages for your site.

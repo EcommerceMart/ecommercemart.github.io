@@ -1,11 +1,19 @@
 ---
-layout: post
+layout: single
 title: "The Ecommerce Equation: Unlocking Profitable Online Sales Strategies"
 description: "Discover the key components of the ecommerce equation and how to build a profitable online business with proven strategies."
 keywords: "ecommerce equation, online sales strategies, ecommerce success, profitable ecommerce, ecommerce growth"
 categories: [Ecommerce, Business Growth]
-author: CodingRhodes
-image: assets/images/featured_ecommerce-equation-profitable-sales-strategies.webp
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_ecommerce-equation-profitable-sales-strategies.webp
 ---
 
 ## The Ecommerce Equation: Unlocking Profitable Online Sales Strategies

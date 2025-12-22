@@ -1,12 +1,19 @@
 ---
-layout: post
+layout: single
 title: "Why Hiring Ecommerce SEO Experts Is a Game-Changer for Your Store"
 description: "Learn how ecommerce SEO experts and the right ecommerce website builder can transform your online store and drive massive growth."
 keywords: [ecommerce website builder, ecommerce SEO experts, online store growth, SEO for ecommerce]
 categories: Ecommerce
-tags: [ecommerce, website builder, online store]
-author: CodingRhodes
-image: assets/images/featured_hiring-ecommerce-seo-experts.webp
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_hiring-ecommerce-seo-experts.webp
 ---
 
 

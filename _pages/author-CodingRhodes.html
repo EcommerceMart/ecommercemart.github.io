@@ -1,8 +1,9 @@
 ---
 title: "Coding Rhodes, Ecommerce Expert at EcommerceMart"
 description: "Learn about Coding Rhodes, an ecommerce expert at EcommerceMart. Discover their insights on ecommerce, tech, and digital marketing."
-layout: default
+layout: archive
 permalink: "/author-CodingRhodes"
+image: /assets/images/author-CodingRhodes.webp
 ---
 <div class="container">
 <div class="row justify-content-center">
@@ -18,9 +19,6 @@ permalink: "/author-CodingRhodes"
         </div>
         <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
             {% assign posts = site.posts | where:"author","CodingRhodes" %}
-            {% for post in posts %}
-            {% include main-loop-card.html %}
-            {% endfor %}
     </div>
 </div>
 </div>

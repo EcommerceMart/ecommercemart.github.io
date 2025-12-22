@@ -1,11 +1,18 @@
 ---
-layout: post
+layout: single
 title: "Best Tools for Building an Ecommerce Website in 2025"
 description: "Explore the top tools for building an ecommerce website in 2025. Find the best ecommerce website builders, features, and tips to create your online store."
 categories: ecommerce website builder
-tags: [ecommerce, website builder, online store tools]
-author: CodingRhodes
-image: assets/images/featured_best-ecommerce-website-builders-2025.webp
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_best-ecommerce-website-builders-2025.webp
 ---
 
 

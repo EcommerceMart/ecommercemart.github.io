@@ -1,10 +1,18 @@
 ---
-layout: post
+layout: single
 title: "How to Build an eCommerce Website: A Beginner’s Guide"
 description: "Learn how to build an eCommerce website from scratch with this step-by-step beginner’s guide. Start your online store today!"
 categories: "ecommerce"
-author: CodingRhodes
-image: assets/images/featured_how-to-build-ecommerce-website-beginners-guide.webp
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_how-to-build-ecommerce-website-beginners-guide.webp
 ---
 
 ## Introduction
@@ -37,7 +45,7 @@ To make your website accessible online, you need:
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -45,7 +53,7 @@ To make your website accessible online, you need:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Step 3: Design Your eCommerce Website
 
@@ -102,7 +110,7 @@ To accept payments, integrate gateways like:
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -110,7 +118,7 @@ To accept payments, integrate gateways like:
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## Step 7: Launch & Promote Your eCommerce Store
 

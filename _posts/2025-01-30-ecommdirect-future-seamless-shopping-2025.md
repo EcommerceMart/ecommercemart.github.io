@@ -1,11 +1,18 @@
 ---
-layout: post
+layout: single
 title: "EcommDirect: The Future of Seamless Online Shopping in 2025"
 description: "Discover how EcommDirect is revolutionizing the ecommerce industry in 2025 with its cutting-edge features and seamless shopping experience."
 categories: [Ecommerce, Technology]
-tags: [ecommdirect, online shopping, ecommerce trends, digital commerce]
-author: CodingRhodes
-image: assets/images/featured_ecommdirect-future-seamless-shopping-2025.webp
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_ecommdirect-future-seamless-shopping-2025.webp
 ---
 
 ## Introduction

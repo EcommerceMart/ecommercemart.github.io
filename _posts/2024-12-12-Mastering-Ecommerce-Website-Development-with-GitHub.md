@@ -1,11 +1,19 @@
 ---
-layout: post
+layout: single
 title:  "Mastering Ecommerce Website Development with GitHub: Tools, Tips, and Best Practices"
 description: 'Learn how to master ecommerce website development with GitHub using essential tools, tips, and best practices to build and manage successful projects.'
-author: CodingRhodes
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
 categories: "Ecommerce"
-image: assets/images/featured_Mastering-Ecommerce-Website-Development-with-GitHub.webp
-tags: [Github, Ecommerce]
+image: /assets/images/featured_Mastering-Ecommerce-Website-Development-with-GitHub.webp
+
 ---
 
 # Mastering Ecommerce Website Development with GitHub: Tools, Tips, and Best Practices

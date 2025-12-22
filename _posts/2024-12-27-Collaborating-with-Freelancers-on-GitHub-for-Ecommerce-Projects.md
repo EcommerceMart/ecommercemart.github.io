@@ -1,12 +1,20 @@
 ---
-layout: post
+layout: single
 title: "Collaborating with Freelancers on GitHub for E-commerce Projects"
 description: "A comprehensive guide for e-commerce entrepreneurs on managing freelance contributions effectively using GitHub. Learn strategies for access control, issue tracking, and seamless communication."
 keywords: "ecommerce website github, managing freelancers on github, ecommerce project collaboration"
-author: CodingRhodes
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
 categories: [Ecommerce, SEO, GitHub]
-image: assets/images/featured_Collaborating-with-Freelancers-on-GitHub-for-Ecommerce-Projects.webp
-tags: [ecommerce, Github]
+image: /assets/images/featured_Collaborating-with-Freelancers-on-GitHub-for-Ecommerce-Projects.webp
+
 ---
 
 When building or scaling an **ecommerce website**, businesses often turn to freelancers for expertise and flexibility. GitHub, the world’s leading software development platform, offers robust tools that simplify and enhance collaboration. From version control to issue tracking and communication, GitHub ensures that projects run smoothly—even when your team is geographically dispersed.

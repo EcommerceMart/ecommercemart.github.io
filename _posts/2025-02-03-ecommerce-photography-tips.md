@@ -1,12 +1,19 @@
 ---
-layout: post
+layout: single
 title: "Ecommerce Photography Tips: Shoot Stunning Product Images Like a Pro"
 description: "Learn expert ecommerce photography tips to capture high-quality product images that boost conversions. Discover the best equipment, lighting techniques, and editing tricks for professional results."
 keywords: "ecommerce photography, product photography tips, best lighting for product images, ecommerce photography setup, product photography equipment"
 categories: [Ecommerce, Photography]
-tags: [Ecommerce, Photography, Online Business, Product Images]
-author: CodingRhodes
-image: assets/images/featured_ecommerce-photography-tips.webp
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_ecommerce-photography-tips.webp
 ---
 
 ## Introduction

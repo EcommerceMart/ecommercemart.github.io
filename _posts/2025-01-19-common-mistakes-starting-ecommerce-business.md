@@ -1,12 +1,19 @@
 ---
-layout: post
+layout: single
 title: "10 Common Mistakes to Avoid When Starting an Ecommerce Business"
 description: "Discover the top 10 common mistakes to avoid when starting an ecommerce business. Learn practical tips to set up your online store for success."
 keywords: "Ecommerce Business, ecommerce marketing strategies, driving sales, online store marketing, ecommerce tips"
 categories: [Ecommerce, Ecommerce Business]
-tags: [Ecommerce, Online Store, Business Solutions]
-author: CodingRhodes
-image: assets/images/featured_common-mistakes-starting-ecommerce-business.webp
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_common-mistakes-starting-ecommerce-business.webp
 ---
 
 

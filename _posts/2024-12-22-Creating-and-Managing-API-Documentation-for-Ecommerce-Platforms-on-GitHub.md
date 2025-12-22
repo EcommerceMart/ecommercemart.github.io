@@ -1,11 +1,19 @@
 ---
-layout: post
+layout: single
 title:  "Creating and Managing API Documentation for E-commerce Platforms on GitHub"
 description: 'Learn best practices for hosting and version-controlling API documentation for your ecommerce website on GitHub. Use Markdown and GitHub Pages to build a professional developer portal.'
-author: CodingRhodes
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
 categories: [ Ecommerce ]
-image: assets/images/featured_Creating-and-Managing-API-Documentation-for-Ecommerce-Platforms-on-GitHub.webp
-tags: [Github, Ecommerce]
+image: /assets/images/featured_Creating-and-Managing-API-Documentation-for-Ecommerce-Platforms-on-GitHub.webp
+
 keywords: ["ecommerce website github", "API documentation", "GitHub Pages", "Markdown", "developer portal"]
 ---
 

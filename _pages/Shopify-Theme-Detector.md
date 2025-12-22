@@ -1,8 +1,9 @@
 ---
-layout: page-sidebar
+layout: archive
 title: "🔍 Shopify Theme Detector – Find Any Shopify Theme Instantly"
 description: "Use our free Shopify Theme Detector to identify the exact theme used by any Shopify store. Discover the best themes for your online store today!"
 permalink: "/Shopify-Theme-Detector"
+istool: true
 --- 
 
 Want to know **which Shopify theme a store is using**? Our **Shopify Theme Detector** tool helps you **instantly find the name, developer, and details of any Shopify theme** used by a store.  

@@ -1,11 +1,19 @@
 ---
-layout: post
+layout: single
 title:  "Deploying a Scalable E-commerce Backend with GitHub Actions and Docker"
 description: 'Streamline e-commerce backend deployment with GitHub Actions & Docker. Set up CI/CD pipelines, ensure scalability, and boost reliability effortlessly.'
-author: CodingRhodes
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
 categories: "github"
-image: assets/images/Deploying-Scalable-Ecommerce-Backend-with-GitHub-and-Docker.webp
-tags: [Github, Ecommerce]
+image: /assets/images/Deploying-Scalable-Ecommerce-Backend-with-GitHub-and-Docker.webp
+
 ---
 In today’s competitive digital marketplace, a reliable and scalable backend is critical for the success of any e-commerce business. Ensuring a seamless user experience, accommodating traffic spikes, and deploying updates efficiently are vital tasks for developers. By leveraging **GitHub Actions** for continuous integration and continuous deployment (CI/CD) and **Docker** for containerization, businesses can streamline their backend operations to meet these challenges.
 

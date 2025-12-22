@@ -1,10 +1,17 @@
 ---
-layout: post
+layout: single
 title: "Shopify Shogun: Build Stunning Ecommerce Pages Easily"
 description: "Learn how Shopify Shogun helps you build stunning eCommerce pages easily with drag-and-drop tools and advanced customization options."
-tags: [Shopify, Shopify Shogun, eCommerce, Landing Pages, Page Builder]
-author: CodingRhodes
-image: assets/images/featured_shopify-shogun-build-stunning-pages.webp
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_shopify-shogun-build-stunning-pages.webp
 ---
 
 Creating a **visually appealing online store** is crucial for success in 🛍️ eCommerce. With **Shopify Shogun**, you can design **high-converting pages** without coding. In this guide, I’ll explain what **Shopify Shogun** is, how it works, and why it’s a game-changer for Shopify store owners. 🚀
@@ -56,7 +63,7 @@ Run **split tests** to compare different page designs and determine which one co
 
 ## 🚀 How to Install and Use Shopify Shogun
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -64,7 +71,7 @@ Run **split tests** to compare different page designs and determine which one co
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### 📌 Step 1: Install Shopify Shogun
 1. Go to the **Shopify App Store**.
@@ -135,7 +142,7 @@ Start your Shopify store here 👉 [**Sign Up for Shopify**](https://shopify.pxf
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -143,7 +150,7 @@ Start your Shopify store here 👉 [**Sign Up for Shopify**](https://shopify.pxf
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## 📢 Final Thoughts
 Shopify Shogun is a **game-changing page builder** that lets Shopify store owners create beautiful, high-converting pages effortlessly. Whether you're launching a new store or upgrading your design, **Shogun makes it simple**. Try it today and start building your dream store! 🚀

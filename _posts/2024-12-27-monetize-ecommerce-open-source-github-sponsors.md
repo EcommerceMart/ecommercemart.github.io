@@ -1,12 +1,20 @@
 ---
-layout: post
+layout: single
 title: "Monetize Your E-commerce Open-source Projects: A Beginner’s Guide to GitHub Sponsors"
 description: "Discover how to fund your e-commerce website GitHub projects with GitHub Sponsors and build a thriving community of supporters."
 keywords: "ecommerce website github, monetize Ecommerce Projects"
-author: CodingRhodes
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
 categories: [Ecommerce, Open-source]
-tags: [ecommerce website github, GitHub Sponsors, open-source funding]
-image: assets/images/featured_Monetize-Your-Ecommerce-Open-source-Projects.webp
+
+image: /assets/images/featured_Monetize-Your-Ecommerce-Open-source-Projects.webp
 ---
 
 ## Introduction

@@ -1,10 +1,18 @@
 ---
-layout: post
+layout: single
 title: "How to Apply for the PSG eCommerce Grant in 2025"
 description: "Learn how to apply for the PSG eCommerce Grant in 2025 and get funding for your online business. Step-by-step guide, eligibility, and FAQs."
 categories: "ecommerce"
-author: CodingRhodes
-image: assets/images/featured_apply-psg-ecommerce-grant-2025.webp
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_apply-psg-ecommerce-grant-2025.webp
 ---
 
 ## Introduction
@@ -29,7 +37,7 @@ The **Productivity Solutions Grant (PSG)** is a government initiative that provi
 
 ## Eligibility Criteria for the PSG eCommerce Grant
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -37,7 +45,7 @@ The **Productivity Solutions Grant (PSG)** is a government initiative that provi
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 To qualify for the PSG eCommerce Grant in 2025, businesses must meet the following requirements:
 
@@ -92,7 +100,7 @@ After completing the project, submit a claim via the **Business Grants Portal** 
 
 ---
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -100,7 +108,7 @@ After completing the project, submit a claim via the **Business Grants Portal** 
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ## FAQs About the PSG eCommerce Grant
 

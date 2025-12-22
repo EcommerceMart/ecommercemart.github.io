@@ -1,11 +1,19 @@
 ---
-layout: post
+layout: single
 title: "Expert Ecommerce Website Development Services for Your Store"
 description: "Explore expert ecommerce website development services to build a professional online store. Learn how to choose the right service and boost your business online."
 categories: [Ecommerce, Website Development]
-tags: [Ecommerce, Website Development, Online Store, Development Services]
-author: CodingRhodes
-image: assets/images/featured_ecommerce-website-development-services.jpeg
+
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_ecommerce-website-development-services.jpeg
 ---
 
 ## Introduction

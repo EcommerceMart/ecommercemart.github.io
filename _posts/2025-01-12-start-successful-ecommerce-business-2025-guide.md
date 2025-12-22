@@ -1,12 +1,19 @@
 ---
-layout: post
+layout: single
 title: "How to Start a Successful Ecommerce Business in 2025: A Step-by-Step Guide"
 description: "Learn how to start a successful ecommerce business in 2025 with this comprehensive, easy-to-follow guide."
 keywords: ["ecommerce business", "start ecommerce business", "ecommerce 2025"]
 categories: [Ecommerce, Ecommerce Business]
-tags: [Ecommerce, Odoo, Online Store, Business Solutions]
-author: CodingRhodes
-image: assets/images/featured_start-successful-ecommerce-business-2025-guide.webp
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_start-successful-ecommerce-business-2025-guide.webp
 ---
 
 ## Introduction

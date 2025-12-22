@@ -1,8 +1,9 @@
 ---
 title: "Ecommerce Ad Budget Calculator"
-layout: page-sidebar
+layout: archive
 permalink: "/Ecommerce-Ad-Budget-Calculator"
 description: "Estimate your ecommerce ad spend based on expected ROAS, CPC, and conversion rates. Plan your budget effectively with our easy-to-use calculator."
+istool: true
 ---
 
 <style>

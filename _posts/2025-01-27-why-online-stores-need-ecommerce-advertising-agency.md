@@ -1,9 +1,17 @@
 ---
-layout: post
+layout: single
 title: "Why Every Online Store Needs an Ecommerce Advertising Agency"
 categories: [Ecommerce, Ecommerce advertising]
-author: CodingRhodes
-image: assets/images/featured_why-online-stores-need-ecommerce-advertising-agency.webp
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_why-online-stores-need-ecommerce-advertising-agency.webp
 ---
 
 

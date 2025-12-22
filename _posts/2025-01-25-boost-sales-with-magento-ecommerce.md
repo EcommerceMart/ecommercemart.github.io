@@ -1,12 +1,19 @@
 ---
-layout: post
+layout: single
 title: "How to Boost Sales with the Magento Ecommerce Platform"
 description: "Learn how to boost your sales using the Magento ecommerce platform with strategies like advanced customization, SEO, multi-store management, and marketing tools."
 keywords: [ecommerce, Magento]
 categories: [Ecommerce, Magento]
-tags: [Magento, Ecommerce, Sales, SEO, Marketing, Ecommerce Tips]
-author: CodingRhodes
-image: assets/images/featured_boost-sales-with-magento-ecommerce.webp
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_boost-sales-with-magento-ecommerce.webp
 ---
 
 When it comes to growing your online store, choosing the right platform can make all the difference. The **Magento ecommerce platform** is one of the most powerful tools available, offering a host of features designed to help you boost sales and scale your business.  

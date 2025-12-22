@@ -1,12 +1,19 @@
 ---
-layout: post
+layout: single
 title: "Walmart Projects U.S. Ecommerce Profitability in 2025 as Online Sales Soar"
 description: "Walmart forecasts ecommerce profitability in the U.S. by 2025 as online sales rise rapidly, signaling major shifts in retail."
 keywords: "ecommerce, Walmart, online sales, retail news, USA"
 categories: "walmart"
-tags: [ecommerce, walmart, online sales, digital retail]
-author: CodingRhodes
-image: assets/images/featured_walmart-ecommerce-profitability-2025.webp
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_walmart-ecommerce-profitability-2025.webp
 ---
 
 In a bold forecast that reflects shifting consumer habits and digital acceleration, **Walmart has announced it expects its U.S. ecommerce division to turn profitable in 2025**. As online sales continue to surge, this marks a transformative milestone not only for Walmart but for the entire American retail industry.
@@ -28,7 +35,7 @@ These strategic moves have been aimed at optimizing operations, boosting custome
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -36,7 +43,7 @@ These strategic moves have been aimed at optimizing operations, boosting custome
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ---
 
@@ -101,7 +108,7 @@ With its expansive store network and deep supply chain expertise, Walmart has ad
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -109,7 +116,7 @@ With its expansive store network and deep supply chain expertise, Walmart has ad
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 Walmart’s ecommerce profitability could set off a domino effect:
 

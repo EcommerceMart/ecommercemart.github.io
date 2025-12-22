@@ -1,11 +1,19 @@
 ---
-layout: post
+layout: single
 title:  "Building a Headless E-commerce Storefront: GitHub as Your Collaboration Hub"
 description: 'Learn how to create a headless e-commerce platform using GitHub as a central collaboration hub for version control, team management, and seamless workflow integration.'
-author: CodingRhodes
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
 categories: "github"
-image: assets/images/Building-Headless-Ecommerce-Storefront-GitHub-as-Your-Collaboration-Hub.webp
-tags: [Github, Ecommerce]
+image: /assets/images/Building-Headless-Ecommerce-Storefront-GitHub-as-Your-Collaboration-Hub.webp
+
 ---
 E-commerce is constantly evolving, and **headless architecture** is becoming one of the most popular choices for online stores. A **headless e-commerce storefront** separates the front end (the part customers see) from the back end (the part that manages products, orders, etc.). In this guide, you’ll learn how to set up a headless storefront and how GitHub can help your team work together smoothly.
 
@@ -22,7 +30,7 @@ By separating the parts of your e-commerce store, a headless setup can offer a m
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -30,7 +38,7 @@ By separating the parts of your e-commerce store, a headless setup can offer a m
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Why Use GitHub as a Collaboration Hub?
 
@@ -85,7 +93,7 @@ Now that the backend and frontend are set up, let’s bring GitHub into the proc
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -93,7 +101,7 @@ Now that the backend and frontend are set up, let’s bring GitHub into the proc
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 **Steps to Set Up the Repository:**
 
@@ -156,7 +164,7 @@ This example automatically checks out the code, installs dependencies, runs test
 
  
 <!-- Ads Homepage below top article -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -164,7 +172,7 @@ This example automatically checks out the code, installs dependencies, runs test
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 
 ## Conclusion 

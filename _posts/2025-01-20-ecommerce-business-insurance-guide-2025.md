@@ -1,11 +1,18 @@
 ---
-layout: post
+layout: single
 title: "Ecommerce Business Insurance: Why It Matters in 2025"
 description: "Learn why ecommerce business insurance is crucial in 2025 and how it protects your online store from risks and liabilities."
 categories: [Business, Ecommerce, Insurance]
-tags: [Ecommerce Business Insurance, Online Business, Insurance Tips]
-author: CodingRhodes
-image: assets/images/featured_ecommerce-business-insurance-guide-2025.webp
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_ecommerce-business-insurance-guide-2025.webp
 ---
 
 Running an ecommerce business offers unparalleled opportunities, but it also comes with unique risks and challenges. In 2025, ecommerce business insurance is more crucial than ever. Whether you're managing a small online store or a global marketplace, having the right insurance safeguards your business from unforeseen events that could derail your success.

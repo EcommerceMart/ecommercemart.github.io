@@ -1,9 +1,17 @@
 ---
-layout: post
+layout: single
 title: "Ecommerce Web Development Melbourne: Build a High-Converting Online Store"
 categories: [Ecommerce, Ecommerce development]
-author: CodingRhodes
-image: assets/images/featured_ecommerce-web-development-melbourne-high-converting-store.webp
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_ecommerce-web-development-melbourne-high-converting-store.webp
 ---
 
 Building a successful online store requires more than just a good idea—it demands expert execution. If you're looking for **ecommerce web development in Melbourne**, you need a well-structured approach that focuses on design, functionality, and user experience. A well-developed ecommerce website can drive sales, enhance customer engagement, and scale your business effectively.

@@ -1,11 +1,19 @@
 ---
-layout: post
+layout: single
 title: "Is Rare Beauty Clean? Uncover the ingredients inside"
 description: "Is Rare Beauty clean? Explore ingredients, ethics, and expert insights on Rare Beauty’s clean beauty status in this detailed 4000-word review."
 keywords: ["rare beauty", "is rare beauty clean", "clean beauty brands", "rare beauty ingredients", "vegan makeup brands"]
 categories: "rare beauty"
-author: CodingRhodes
-image: assets/images/featured_is-rare-beauty-clean.webp
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_is-rare-beauty-clean.webp
 ---
 
 Consumers are increasingly prioritizing clean, ethical, and skin-safe products when selecting makeup. Rare Beauty, founded by Selena Gomez, has become a leading name in the beauty industry for its minimalist aesthetic and emotional health mission. 
@@ -27,7 +35,7 @@ Clean beauty refers to cosmetic and skincare products that are made without pote
 
 ### Certifications to Look For
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -35,7 +43,7 @@ Clean beauty refers to cosmetic and skincare products that are made without pote
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 #### Clean Beauty Labels May Include:
 
@@ -108,7 +116,7 @@ Rare Beauty states that its formulas are **dermatologist-tested** and **non-come
 
 ### Rare Beauty vs. Ilia Beauty
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -116,7 +124,7 @@ Rare Beauty states that its formulas are **dermatologist-tested** and **non-come
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 | Feature          | Rare Beauty       | Ilia Beauty              |
 | ---------------- | ----------------- | ------------------------ |
@@ -187,7 +195,7 @@ Rare Beauty leans **very close to clean** without explicitly claiming the label.
 
 ### Tips for Conscious Shoppers
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -195,7 +203,7 @@ Rare Beauty leans **very close to clean** without explicitly claiming the label.
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 * Read ingredient lists on product pages
 * Look for the vegan symbol

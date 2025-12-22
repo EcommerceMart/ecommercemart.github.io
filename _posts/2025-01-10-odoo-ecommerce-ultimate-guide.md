@@ -1,11 +1,18 @@
 ---
-layout: post
+layout: single
 title: "Unlock the Power of Odoo Ecommerce: The Ultimate Solution for Your Online Store"
 description: "Discover how Odoo Ecommerce can transform your online store with its versatile features, seamless integration, and cost-effective solutions."
 categories: [Ecommerce, Odoo]
-tags: [Ecommerce, Odoo, Online Store, Business Solutions]
-author: CodingRhodes
-image: assets/images/featured_odoo-ecommerce-ultimate-guide.jpeg
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_odoo-ecommerce-ultimate-guide.jpeg
 ---
 
 ## Introduction

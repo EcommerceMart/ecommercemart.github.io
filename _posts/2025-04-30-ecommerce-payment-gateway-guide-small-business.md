@@ -1,11 +1,18 @@
 ---
-layout: post
+layout: single
 title: "Choosing the Right eCommerce Payment Gateway: A Comprehensive Guide for Small Businesses"
 categories: [eCommerce, Payment Gateways, Small Business]
-tags: [ecommerce payment gateway, small business payments, online store payments, secure transactions, payment processing]
 description: "Learn how to choose the best ecommerce payment gateway for your small business. Secure, reliable, and customer-friendly options explained."
-author: CodingRhodes
-image: assets/images/featured_ecommerce-payment-gateway-guide-small-business.webp
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+toc: true 
+toc_sticky: true 
+toc_icon: "list-ul"
+featured: false
+image: /assets/images/featured_ecommerce-payment-gateway-guide-small-business.webp
 ---
 
 Choosing the right eCommerce payment gateway is critical for small businesses looking to sell products or services online. 
@@ -30,7 +37,7 @@ Whether you’re just starting or scaling up, this guide provides actionable ins
 
 ## Key Features to Look for in an eCommerce Payment Gateway
 
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
      data-ad-slot="3760872290"
@@ -38,7 +45,7 @@ Whether you’re just starting or scaling up, this guide provides actionable ins
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ### Security Standards: PCI DSS Compliance
 
