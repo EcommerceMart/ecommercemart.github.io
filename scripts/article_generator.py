@@ -15,7 +15,7 @@ Rules:
 - Simple English, a 10 year old can understand
 - Don't write more than 3 sentences per paragraph, changes paragraph after 3 sentences
 - Hook: {hook_kw}
-- If  Article is related to calculators. create and add relevant calculator in blog posts
+- If Article is related to calculators. create article relevant calculator using html, css, js and add it in blog posts
 - Use "you" to address the reader
 - link other websites for external linking where relevant
 - also include related  affiliate links where it fits best: {affiliate_links},
