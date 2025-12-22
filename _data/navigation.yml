@@ -3,16 +3,12 @@ main:
 
   - title: "Home"
     url: /
-  - title: "Blog"
-    url: /posts/
-  - title: "Tools"
-    url: /tools/
   - title: "Categories"
     url: /categories/
   - title: "About Us"
-    url: /about
+    url: /about-us
   - title: "Contact Us"
-    url: /contact
+    url: /contact-us
   - title: "Write For Us"
     url: /write-for-us/
 
