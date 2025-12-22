@@ -51,6 +51,7 @@ def send_webpushr_notification(title, message, target_url, image_url=None):
             "target_url": target_url,
             "icon": f"{SITE_DOMAIN}/assets/images/site-logo.webp",  # Your site logo
             "auto_hide": 1,  # Auto hide after shown
+            "image": image_url
         }
         
         # Add large image if provided
@@ -137,8 +138,7 @@ def send_segmented_notification(title, message, target_url, segment_id=None):
             "title": title,
             "message": message,
             "target_url": target_url,
-            "icon": f"{SITE_DOMAIN}/assets/images/site-logo.webp"
-        }
+            "icon": f"{SITE_DOMAIN}/assets/images/site-logo.webp"        }
         
         response = requests.post(api_url, headers=headers, json=payload, timeout=30)
         
