@@ -43,16 +43,20 @@ def parse_keyword_row(row):
                 'focus_kw': parts[1],
                 'permalink': parts[2],
                 'semantic_kw': parts[3],
-                'affiliate_links': ''
+                'affiliate_links': '',
+                'hook_kw': '',
+                'search_kw': ''
             }
-        elif len(parts) == 5:
+        elif len(parts) == 7:
             # New format with social media
             return {
                 'title': parts[0],
                 'focus_kw': parts[1],
                 'permalink': parts[2],
                 'semantic_kw': parts[3],
-                'affiliate_links': parts[4]
+                'affiliate_links': parts[4],
+                'hook_kw': parts[5],
+                'search_kw': parts[6]
             }
         else:
             print(f"❌ Invalid format. Expected 4 or 7 fields, got {len(parts)}")
