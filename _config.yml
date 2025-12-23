@@ -30,7 +30,7 @@ logo                     : "/assets/images/site-logo.webp"
 favicon                  : "/assets/images/favicon.ico"
 masthead_title           : "EcommerceMart"
 breadcrumbs              : true # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 180
 enable_copy_code_button  : true # IMPORTANT for code tutorials
 copyright                : "EcommerceMart"
 copyright_url            : "https://ecommercemart.github.io"
@@ -61,6 +61,10 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : false # true, false (default)
+
+footer_scripts:
+  - /assets/js/lazy-search.js
+
 
 search                   : true # IMPORTANT: Enable search
 search_full_content      : true # IMPORTANT: Search full article content

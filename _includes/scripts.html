@@ -10,7 +10,57 @@
   {%- assign search_provider = site.search_provider | default: "lunr" -%}
   {%- case search_provider -%}
     {%- when "lunr" -%}
-      {% include_cached search/lunr-search-scripts.html %}
+      <script>
+      // Lazy load search scripts on user interaction
+      (function() {
+        let searchLoaded = false;
+        
+        function loadSearchScripts() {
+          if (searchLoaded) return;
+          searchLoaded = true;
+          
+          // Load Lunr.js
+          const lunrScript = document.createElement('script');
+          lunrScript.src = '{{ "/assets/js/lunr/lunr.min.js" | relative_url }}';
+          lunrScript.onload = function() {
+            // Load search store
+            const storeScript = document.createElement('script');
+            storeScript.src = '{{ "/assets/js/lunr/lunr-store.js" | relative_url }}';
+            storeScript.onload = function() {
+              // Load search implementation
+              const searchScript = document.createElement('script');
+              searchScript.src = '{{ "/assets/js/lunr/lunr-en.js" | relative_url }}';
+              document.body.appendChild(searchScript);
+            };
+            document.body.appendChild(storeScript);
+          };
+          document.body.appendChild(lunrScript);
+        }
+        
+        // Wait for DOM to load
+        function initLazySearch() {
+          const searchToggle = document.querySelector('.search__toggle');
+          const searchInput = document.querySelector('input[type="text"].search');
+          
+          if (searchToggle) {
+            // Preload on hover for instant feel
+            searchToggle.addEventListener('mouseenter', loadSearchScripts, { once: true });
+            searchToggle.addEventListener('touchstart', loadSearchScripts, { once: true, passive: true });
+            searchToggle.addEventListener('click', loadSearchScripts, { once: true });
+          }
+          
+          if (searchInput) {
+            searchInput.addEventListener('focus', loadSearchScripts, { once: true });
+          }
+        }
+        
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', initLazySearch);
+        } else {
+          initLazySearch();
+        }
+      })();
+      </script>
     {%- when "google" -%}
       {% include_cached search/google-search-scripts.html %}
     {%- when "algolia" -%}
