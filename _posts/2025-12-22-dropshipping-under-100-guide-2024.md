@@ -1,11 +1,11 @@
 ---
 title: "How to Start Dropshipping with Limited Budget: Under $100 Complete Setup Guide (2024)"
 description: "Discover how to start dropshipping with limited budget. Our 2024 guide reveals a complete setup under $100. Launch your profitable store today!"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -4,11 +4,11 @@ title: "Shogun Shopify: The Best Page Builder for Your Store"
 description: "Discover why Shogun Shopify is the best page builder for your store. Learn its features, benefits, and how it enhances your Shopify experience!"
 keywords: ["Shogun Shopify", "Shopify page builder", "best Shopify page builder", "Shogun for Shopify", "Shopify store design"]
 categories: ["Ecommerce", "Shopify", "Page Builders"]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

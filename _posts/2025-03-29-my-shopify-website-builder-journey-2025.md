@@ -3,11 +3,11 @@ layout: single
 title: "My Shopify Website Builder Journey: Building My Dream Store in 2025! 🚀"
 categories: ecommerce
 description: "Here’s my honest review of the Shopify website builder in 2025! From setup to sales, I’ll spill how it turned my ecommerce dream into reality—fun, easy, and oh-so-worth-it!"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

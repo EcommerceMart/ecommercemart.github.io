@@ -4,11 +4,11 @@ title: "Is DHL eCommerce Customer Service Reliable? A Complete Review"
 description: "A detailed review of DHL eCommerce customer service in 2025. Learn about response times, support channels, and customer experiences."
 keywords: "DHL eCommerce Customer Service, DHL support review, DHL customer help, DHL eCommerce reliability, DHL service feedback"
 categories: logistics, ecommerce, customer-service
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

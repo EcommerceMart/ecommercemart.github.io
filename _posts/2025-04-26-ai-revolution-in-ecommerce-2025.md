@@ -3,11 +3,11 @@ layout: single
 title: "How AI Is Revolutionizing Ecommerce in 2025"
 description: "Artificial Intelligence (AI) is no longer just a buzzword — it's a driving force reshaping how we buy, sell, and interact in the digital world."
 categories: [ecommerce, ai, future-tech, marketing]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

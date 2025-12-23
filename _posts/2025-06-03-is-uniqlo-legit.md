@@ -3,11 +3,11 @@ layout: single
 title: "Is Uniqlo Legit? A Deep Dive into Customer Experiences, Quality, and Ethics"
 description: "Explore whether Uniqlo is a legitimate brand, covering customer experiences, quality, ethical practices, and more."
 categories: "Uniqlo"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

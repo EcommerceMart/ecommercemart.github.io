@@ -3,11 +3,11 @@ layout: single
 title: "Is Commense a Good Brand? Honest Review for Smart Shoppers"
 description: "Is Commense a good brand? Dive into product quality, customer reviews, shipping, pricing, and brand ethics to decide if Commense is worth your money."
 categories: "commense"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

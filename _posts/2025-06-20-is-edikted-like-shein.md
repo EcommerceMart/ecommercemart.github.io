@@ -4,11 +4,11 @@ title: "Is Edikted Like SHEIN? Full Comparison for 2025 Shoppers"
 description: "Is Edikted like SHEIN? Discover how these two fashion brands compare in quality, pricing, sustainability, and trendiness in this 4000+ word guide."
 keywords: ["edikted", "is edikted like shein", "edikted vs shein", "edikted quality", "shein comparison"]
 categories: "edikted"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

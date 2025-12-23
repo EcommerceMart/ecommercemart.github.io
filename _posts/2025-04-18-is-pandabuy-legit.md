@@ -4,11 +4,11 @@ title: "Is Pandabuy Legit? What Users Are Saying This Week"
 description: "Is Pandabuy legit in 2025? Here's what real users are saying about the service this week — insights, reviews, pros and cons."
 keywords: "Pandabuy"
 categories: [Shopping, E-commerce, Reviews]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

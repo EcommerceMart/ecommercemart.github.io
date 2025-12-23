@@ -1,11 +1,11 @@
 ---
 title: "Budget Dropshipping Guide 2024: How to Start with $50 or Less (Step-by-Step)"
 description: "Learn how to start a profitable online business with our budget dropshipping guide. Launch your store for $50 or less, step-by-step, in 2024."
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

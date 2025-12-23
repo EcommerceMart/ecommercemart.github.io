@@ -4,11 +4,11 @@ title: "Best Taobao Clothes for Budget Fashion Lovers"
 description: "Explore the best Taobao clothes for budget fashion lovers. Discover trendy, affordable styles and smart shopping tips."
 keywords: "taobao clothes"
 categories: [Shopping, Fashion]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

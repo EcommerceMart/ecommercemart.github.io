@@ -2,11 +2,11 @@
 layout: single
 title:  "Optimizing E-commerce Performance with GitHub Monitoring Tools"
 description: 'Learn to track e-commerce performance using GitHub tools. Monitor site speed, uptime, and user experience to optimize for reliability and speed.'
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -4,11 +4,11 @@ title: "How Safe Is Pandabuy? What Every New Shopper Should Know"
 description: "Wondering if Pandabuy is safe in 2025? Learn about buyer protection, risks, and reviews from real users."
 keywords: "Pandabuy"
 categories: [Shopping Guides, Ecommerce, Buyer Safety]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

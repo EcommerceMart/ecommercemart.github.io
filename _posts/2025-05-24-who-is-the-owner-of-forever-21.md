@@ -4,11 +4,11 @@ title: "Who is the Owner of Forever 21"
 description: "Uncover who owns Forever 21 in 2025, its founding story, ownership changes, and the brands shaping its future."
 keywords: ["forever 21", "forever 21 owner", "who owns forever 21", "forever 21 2025"]
 category: [Forever 21]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

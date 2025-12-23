@@ -4,11 +4,11 @@ title: "How to Apply for a Walmart Credit Card: Approval Tips and Eligibility Ex
 description: "Learn how to apply for a Walmart credit card, eligibility criteria, and tips to increase approval odds. Simple steps for smart shoppers."
 keywords: "walmart credit card"
 categories: "walmart"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

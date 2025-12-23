@@ -3,11 +3,11 @@ layout: single
 title: "Top Jorts Trends in 2025: How to Wear Denim Shorts with Style"
 description: "Discover the top jorts trends in 2025 and learn how to wear denim shorts with style. From streetwear to chic looks, explore outfit ideas, styling tips, and buying guides for jorts this year."
 categories: "Jorts"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

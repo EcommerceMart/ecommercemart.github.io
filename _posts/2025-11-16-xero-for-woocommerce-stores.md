@@ -4,11 +4,11 @@ title: "Xero for WooCommerce Stores: Why You Should Integrate and Which Plugin W
 description: "Learn why WooCommerce stores should integrate with Xero, the best Xero WooCommerce plugins for 2025, pricing, features, setup tips, inventory sync, and automation tools for ecommerce."
 keywords: Shein, affordable fashion, contemporary women’s fashion, Shein outfits, Shein review, trending outfits, budget clothing
 categories: "woocommerce"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -2,11 +2,11 @@
 layout: single
 title:  "Using GitHub Actions for E-commerce SEO Audits"
 description: 'Learn how to use GitHub Actions to automate SEO audits for your e-commerce site and boost search engine rankings.'
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

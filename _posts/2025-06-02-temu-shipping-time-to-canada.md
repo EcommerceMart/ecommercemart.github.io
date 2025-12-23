@@ -5,11 +5,11 @@ categories: [Shipping, Temu, Canada]
 description: "Explore Temu's shipping times to Canada, warehouse locations, and how to get your orders faster."
 keywords: ["Temu", "Is Temu legit"]
 categories: "Temu"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

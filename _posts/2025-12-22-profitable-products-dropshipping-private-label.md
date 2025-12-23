@@ -1,11 +1,11 @@
 ---
 title: "How to Find Profitable Products for Online Store: Step-by-Step with Real Examples (Dropshipping & Private Label)"
 description: "Unlock your online store's potential. Learn how to find profitable products for dropshipping & private label, step-by-step with real-world examples."
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

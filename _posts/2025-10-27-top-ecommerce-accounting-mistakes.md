@@ -3,11 +3,11 @@ layout: single
 title: "Top 10 Ecommerce Accounting Mistakes and How to Avoid Them"
 description: "Discover the most common ecommerce accounting mistakes made by entrepreneurs and small online business owners—and learn practical ways to avoid them for smoother financial management and sustainable growth."
 categories: "EcommerceAccounting "
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -4,11 +4,11 @@ title: "Why Is Polo Ralph Lauren So Expensive? Honest Guide for USA Shoppers"
 description: "Why is Polo Ralph Lauren so expensive? Learn about the brand’s quality, history, and what makes Polo Ralph Lauren a luxury fashion icon."
 tags: polo ralph lauren, luxury, fashion, brand value, review
 categories: "Polo Ralph Lauren"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

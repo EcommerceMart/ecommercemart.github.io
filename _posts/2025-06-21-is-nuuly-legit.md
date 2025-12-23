@@ -4,11 +4,11 @@ title: "Is Nuuly Legit? An In-Depth 2025 Review of the Fashion Rental Subscripti
 description: "Is Nuuly legit and worth subscribing to in 2025? We break down customer reviews, quality, shipping, and policies to reveal if Nuuly is trustworthy."
 keywords: ["nuuly", "is nuuly legit", "nuuly review", "nuuly fashion rental", "nuuly subscription"]
 categories: "nuuly"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

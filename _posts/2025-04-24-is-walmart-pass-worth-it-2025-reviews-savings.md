@@ -4,11 +4,11 @@ title: "Is Walmart Pass Worth It in 2025? Real Reviews & Savings Breakdown"
 description: "Explore whether Walmart Pass is worth it in 2025 with real reviews, family savings stories, and comparisons to other delivery options."
 keywords: ["walmart pass"]
 categories: ["walmart"]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

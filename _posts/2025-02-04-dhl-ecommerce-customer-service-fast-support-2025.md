@@ -4,11 +4,11 @@ title: "DHL eCommerce Customer Service: How to Get Fast Support in 2025"
 description: "Learn how to quickly resolve shipping issues with DHL eCommerce customer service in 2025. Get contact details, troubleshooting tips, and support options."
 keywords: "DHL eCommerce Customer Service, DHL customer support, DHL eCommerce help, contact DHL eCommerce, DHL support 2025"
 categories: [logistics, ecommerce, customer-service]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

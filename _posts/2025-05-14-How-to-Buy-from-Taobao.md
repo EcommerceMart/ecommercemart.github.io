@@ -3,11 +3,11 @@ layout: single
 title: "How to Buy from Taobao: A Complete 2025 Guide for International Shoppers"
 description: "Learn how to buy from Taobao in 2025 with this complete guide. Step-by-step tips for international shoppers using agents or direct methods."
 categories: [Taobao account]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

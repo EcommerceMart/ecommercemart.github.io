@@ -4,11 +4,11 @@ title: "WooCommerce + Xero: The Best Tools to Sync Orders, Inventory, Payments, 
 description: "A detailed 2025 guide on WooCommerce + Xero integrations, including the best plugins, inventory sync tools, automation workflows, pricing, features, and setup tips for seamless ecommerce accounting."
 keywords: Shein, affordable fashion, contemporary women’s fashion, Shein outfits, Shein review, trending outfits, budget clothing
 categories: "woocommerce"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

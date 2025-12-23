@@ -4,11 +4,11 @@ title: "Unleash Your Style with DevilInspired: Top Fashion Trends for 2025"
 description: "Discover top 2025 fashion trends from DevilInspired and how to elevate your gothic and alternative style with confidence."
 keywords: "DevilInspired"
 categories: [Fashion, Trends, 2025 Style, DevilInspired]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

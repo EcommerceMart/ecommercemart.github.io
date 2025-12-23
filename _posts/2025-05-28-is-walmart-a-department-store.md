@@ -4,11 +4,11 @@ title: "Is Walmart a department store? The truth might surprise you."
 description: "Is Walmart a department store? Discover the key differences, business models, and how Walmart fits into the modern retail landscape."
 keywords: ["walmart", "department store"]
 categories: "walmart"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

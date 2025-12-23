@@ -4,11 +4,11 @@ title: "Walmart Credit Card vs. Walmart Mastercard: Which One Should You Choose?
 description: "Compare Walmart Credit Card and Walmart Mastercard to find out which one suits your shopping style best. Easy guide with pros, cons, and FAQs."
 keywords: "walmart credit card"
 categories: "walmart"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

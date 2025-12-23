@@ -1,11 +1,11 @@
 ---
 title: "How to Calculate Dropshipping Profit Margins in 2024 (+ Hidden Costs You're Missing)"
 description: "Learn how to calculate dropshipping profit margins in 2024, uncovering hidden costs you're missing to unlock your true earning potential now."
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

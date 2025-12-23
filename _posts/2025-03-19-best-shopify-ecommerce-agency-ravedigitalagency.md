@@ -4,11 +4,11 @@ title: "Why RaveDigitalAgency is the Best Shopify eCommerce Agency"
 description: "Discover why RaveDigitalAgency stands out as the best Shopify eCommerce agency for your online store success."
 keywords: "shopify ecommerce agency ravedigitalagency"
 categories: [ecommerce, shopify]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

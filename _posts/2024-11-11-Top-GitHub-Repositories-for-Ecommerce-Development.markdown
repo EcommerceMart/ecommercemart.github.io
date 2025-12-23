@@ -2,11 +2,11 @@
 layout: single
 title:  "Top GitHub Repositories for E-commerce Development"
 description: 'Discover top GitHub repositories to streamline and enhance your Ecommerce development, from frameworks to tools for optimizing security, scalability, and user experience.'
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

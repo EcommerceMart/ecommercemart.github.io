@@ -3,11 +3,11 @@ layout: single
 title: "Top eCommerce SEO Packages for 2025: Boost Your Online Store's Visibility"
 description: "Explore the top eCommerce SEO packages for 2025 to enhance your online store's visibility with voice search, AI personalization, and mobile-first SEO."
 categories: [ecommerce, SEO]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

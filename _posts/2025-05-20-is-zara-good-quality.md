@@ -4,11 +4,11 @@ title: "Is Zara Good Quality: A 2025 Review"
 description: "Is Zara good quality in 2025? Discover what shoppers say, how materials hold up, and how Zara compares to other brands."
 category: [fashion, zara]
 keywords: ["zara", "zara quality review", "zara 2025", "zara vs h&m", "is zara worth it"]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

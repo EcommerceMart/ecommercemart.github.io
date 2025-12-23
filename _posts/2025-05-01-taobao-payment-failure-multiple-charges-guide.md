@@ -3,11 +3,11 @@ layout: single
 title: "Avoiding Multiple Charges: What to Do When Taobao Payment Fails"
 categories: [Online Shopping, Taobao, Payment Issues]
 description: "Avoiding multiple charges when Taobao payment failed? Learn how to fix and prevent double charges on Taobao and Alipay transactions."
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

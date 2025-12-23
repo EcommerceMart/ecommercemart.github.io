@@ -1,11 +1,11 @@
 ---
 title: "Shipping Cost Estimator for Online Stores: FedEx vs UPS vs USPS Complete Guide"
 description: "Discover how to save on shipping! Our definitive shipping cost estimator online stores guide compares FedEx, UPS, and USPS for maximum savings."
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

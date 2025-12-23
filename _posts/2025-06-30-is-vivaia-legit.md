@@ -3,11 +3,11 @@ layout: single
 title: "Is Vivaia Legit? What You Need to Know Before Buying"
 description: "Is Vivaia legit? Discover detailed insights about Vivaia's quality, customer reviews, sustainability, and more before you make your first purchase."
 categories: "vivaia"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -3,11 +3,11 @@ layout: single
 title: "How to Build an eCommerce Website: A Beginner’s Guide"
 description: "Learn how to build an eCommerce website from scratch with this step-by-step beginner’s guide. Start your online store today!"
 categories: "ecommerce"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

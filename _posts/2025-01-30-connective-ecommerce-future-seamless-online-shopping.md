@@ -3,11 +3,11 @@ layout: single
 title: "Connective Ecommerce: The Future of Seamless Online Shopping"
 description: "Discover how connective ecommerce is transforming online shopping into a seamless, personalized experience. Learn why it’s the future of ecommerce and how businesses can adapt."
 categories: [Ecommerce, Technology, Business]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

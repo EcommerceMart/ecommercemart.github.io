@@ -3,11 +3,11 @@ layout: single
 title: "Is Ulta Beauty Expensive? Find Out What Shoppers Say" 
 description: "Wondering if Ulta Beauty is expensive? Learn how its prices compare to Sephora, Walmart, and Target, including deals and value-for-money analysis."
 category: ["Ulta Beauty"]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

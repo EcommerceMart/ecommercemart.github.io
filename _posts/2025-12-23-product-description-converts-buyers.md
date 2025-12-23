@@ -1,16 +1,16 @@
 ---
 title: "Product Description Optimization Guide: Write Copy That Converts Browsers into Buyers"
 description: "This product description optimization guide teaches you to write copy that converts browsers into buyers, significantly boosting your e-commerce sales."
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"
 tags: [product description optimization guide]
-featured: false
+featured: true
 image: '/assets/images/product-description-converts-buyers.webp'
 ---
 

@@ -4,11 +4,11 @@ title: "Best Shopify Dropshipping Tips for Beginners"
 description: "Learn the top Shopify dropshipping tips for beginners to build a profitable online store. Expert insights on choosing products, marketing, and scaling."
 keywords: "shopify dropshipping"
 categories: [ecommerce, dropshipping]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

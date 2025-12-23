@@ -3,11 +3,11 @@ layout: single
 title: "Is Tommy Hilfiger a Good Brand? Honest Review of Quality, Value & Style"
 description: "Is Tommy Hilfiger a good brand? Explore detailed insights on quality, sustainability, pricing, and customer experiences for USA shoppers."
 categories: "tommy hilfiger"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

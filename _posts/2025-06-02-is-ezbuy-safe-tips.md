@@ -4,11 +4,11 @@ title: "Is ezbuy Safe? A Comprehensive Guide for Shoppers"
 categories: [Safety, ezbuy, Online Shopping]
 description: "Is ezbuy safe? Find out with our in-depth guide covering buyer protection, shipping, payment security, and more."
 keywords: ["ezbuy"]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

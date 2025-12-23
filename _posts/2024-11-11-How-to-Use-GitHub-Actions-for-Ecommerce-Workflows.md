@@ -2,11 +2,11 @@
 layout: single
 title:  "How to Use GitHub Actions for Ecommerce Workflows"
 description: 'Learn how to automate and optimize e-commerce workflows using GitHub Actions, enhancing efficiency and collaboration in your development process.'
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

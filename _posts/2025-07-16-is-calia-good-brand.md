@@ -4,11 +4,11 @@ title: "Is Calia a Good Brand? Everything You Need to Know Before Buying"
 description: "Wondering if Calia is a good brand? Explore quality, pricing, customer reviews, and comparisons in this in-depth guide before you buy."
 keywords: ["Calia", "Is Calia a good brand", "Calia reviews", "Calia quality"]
 categories: "Calia"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -4,11 +4,11 @@ title: "Is Banana Republic Fast Fashion? Honest Guide for USA Shoppers"
 description: "Is Banana Republic fast fashion? Discover the facts about Banana Republic's business model, sustainability, and ethics in this easy-to-read review."
 tags: banana republic, fast fashion, sustainability, review
 categories: "banana republic"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

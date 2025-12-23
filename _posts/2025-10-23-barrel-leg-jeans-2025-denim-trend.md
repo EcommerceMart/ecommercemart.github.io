@@ -3,11 +3,11 @@ layout: single
 title: "Barrel Leg Jeans Are the 2025 Denim Trend Everyone’s Talking About — Here’s How to Style Them"
 description: "Discover why Barrel Leg Jeans are the must-have denim trend of 2025. Learn how to style them for every occasion, choose the right fit, and elevate your wardrobe with the latest fashion insights."
 categories: "BarrelLegJeans "
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -4,11 +4,11 @@ title: "The Ecommerce Equation: Unlocking Profitable Online Sales Strategies"
 description: "Discover the key components of the ecommerce equation and how to build a profitable online business with proven strategies."
 keywords: "ecommerce equation, online sales strategies, ecommerce success, profitable ecommerce, ecommerce growth"
 categories: [Ecommerce, Business Growth]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -3,11 +3,11 @@ layout: single
 title: "Collaborating with Freelancers on GitHub for E-commerce Projects"
 description: "A comprehensive guide for e-commerce entrepreneurs on managing freelance contributions effectively using GitHub. Learn strategies for access control, issue tracking, and seamless communication."
 keywords: "ecommerce website github, managing freelancers on github, ecommerce project collaboration"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

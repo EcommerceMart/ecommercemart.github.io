@@ -3,11 +3,11 @@ layout: single
 title: "Is Rare Beauty Worth It? Honest reviews may surprise you"
 description: "Uncover if Rare Beauty is truly worth the hype. We analyze quality, performance, reviews, and value to help you decide."
 categories: "rare beauty"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

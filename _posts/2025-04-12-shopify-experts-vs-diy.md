@@ -4,11 +4,11 @@ title: "Shopify Experts vs DIY: What’s Best for Your Business?"
 description: "Compare Shopify Experts vs DIY in 2025. Learn which approach fits your business goals, budget, and skills."
 keywords: "SHOPIFY EXPERTS"
 categories: [Ecommerce, Shopify]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

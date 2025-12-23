@@ -1,11 +1,11 @@
 ---
 title: "Online Store Shipping Calculator: How to Calculate Accurate Costs for Every Order"
 description: "Stop overpaying! Discover how an online store shipping calculator ensures accurate costs for every order. Get precise shipping rates and boost your profits now."
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

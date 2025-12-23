@@ -4,11 +4,11 @@ title: "Who Wears The Row Clothing: Inside the Quiet Luxury Fashion Phenomenon"
 description: "Discover who wears The Row clothing and why it has become the symbol of quiet luxury. Explore the celebrities, style icons, and everyday fashion lovers who embrace The Row’s timeless aesthetic."
 tags: [The Row, Quiet Luxury, Celebrity Fashion, Designer Brands, Minimalist Fashion]
 categories: "TheRow"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

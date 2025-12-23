@@ -4,11 +4,11 @@ title: "AliExpress vs Amazon: Which Is Better for Budget Shoppers?"
 description: "AliExpress vs Amazon in 2025 — discover which online marketplace offers the best deals, safety, and delivery for budget-conscious buyers."
 keywords: "AliExpress, Amazon, budget shopping, cheap online shopping, ecommerce 2025"
 categories: [Ecommerce, Online Shopping, Budget Shopping]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

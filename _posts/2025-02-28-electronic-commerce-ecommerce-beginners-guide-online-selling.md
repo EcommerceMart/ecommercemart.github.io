@@ -3,11 +3,11 @@ layout: single
 title: "Electronic Commerce (E-Commerce): A Beginner’s Guide to Online Selling"
 description: "Learn the basics of electronic commerce (e-commerce) and how to start selling online. This beginner's guide covers everything from setting up an online store to marketing and payment options."
 categories: ecommerce
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

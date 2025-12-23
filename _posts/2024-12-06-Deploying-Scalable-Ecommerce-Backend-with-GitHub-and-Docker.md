@@ -2,11 +2,11 @@
 layout: single
 title:  "Deploying a Scalable E-commerce Backend with GitHub Actions and Docker"
 description: 'Streamline e-commerce backend deployment with GitHub Actions & Docker. Set up CI/CD pipelines, ensure scalability, and boost reliability effortlessly.'
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

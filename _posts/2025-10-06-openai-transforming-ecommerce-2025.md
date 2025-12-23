@@ -3,11 +3,11 @@ layout: single
 title: "How OpenAI Is Transforming eCommerce: Smarter Stores in 2025"
 description: "Discover how OpenAI is transforming ecommerce in 2025 with smarter stores powered by AI tools, personalization, automation, and better customer experiences."
 categories: "openai"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

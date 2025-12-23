@@ -3,11 +3,11 @@ layout: single
 title: "How to Simplify Ecommerce Accounting: Tools, Tips, and Best Practices"
 description: "A comprehensive guide on simplifying Ecommerce Accounting for entrepreneurs and small businesses. Discover practical tools, tips, and best practices to streamline your financial management and grow your online store."
 categories: "EcommerceAccounting "
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

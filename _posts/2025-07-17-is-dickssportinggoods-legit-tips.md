@@ -3,11 +3,11 @@ layout: single
 title: "Is Dickssportinggoods Legit? What You Need to Know Before Buying"
 description: "Is Dickssportinggoods legit? Discover insights on the company's authenticity, product quality, customer reviews, and shopping safety tips."
 categories: "Dickssportinggoods"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

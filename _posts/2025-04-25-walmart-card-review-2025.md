@@ -4,11 +4,11 @@ title: "Walmart Card Review 2025: Is It Worth It for Everyday Shoppers?"
 description: "Walmart Card Review 2025—Find out if this card is worth it for your everyday shopping needs."
 keywords: ["walmart card"]
 categories: "walmart"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

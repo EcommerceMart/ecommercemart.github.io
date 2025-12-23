@@ -2,11 +2,11 @@
 layout: single
 title:  "Top GitHub Integrations for Streamlining E-commerce Development and Operations"
 description: 'Discover essential GitHub integrations that transform e-commerce development: Automate workflows and speed up delivery pipeline of your store.'
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

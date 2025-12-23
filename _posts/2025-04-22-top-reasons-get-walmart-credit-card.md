@@ -4,11 +4,11 @@ title: "Top Reasons to Get a Walmart Credit Card: Cashback, Financing, and More"
 description: "Explore why the Walmart Credit Card is a smart choice. Learn about cashback, financing perks, and eligibility in this 4000+ word guide."
 keywords: "walmart credit card"
 categories: "walmart"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

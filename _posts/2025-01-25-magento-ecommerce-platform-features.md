@@ -4,11 +4,11 @@ title: "Top Features of the Magento Ecommerce Platform You Need to Know"
 description: "Discover the top features of the Magento ecommerce platform and learn why it’s the perfect solution for building and scaling your online store."
 keywords: [ecommerce, Magento]
 categories: [Ecommerce, Magento]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

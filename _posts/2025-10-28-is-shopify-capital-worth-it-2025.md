@@ -4,11 +4,11 @@ title: "Is Shopify Capital Worth It in 2025? Pros, Cons, and Real Merchant Exper
 description: "A balanced 2025 review of Shopify Capital—pros, cons, repayment mechanics, and real merchant experiences to help you decide if Shopify Capital is right for your store."
 keywords: [Shopify Capital, Shopify funding, Shopify Capital 2025, merchant cash advance, ecommerce financing]
 categories: "ShopifyCapital"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

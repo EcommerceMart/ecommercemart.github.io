@@ -4,11 +4,11 @@ title: "Taobao Shipping Explained: Delivery Times & Costs in 2025"
 description: "Understand Taobao shipping times, fees, and logistics for 2025. A complete guide to shipping from Taobao internationally."
 keywords: "Taobao shipping"
 categories: [Ecommerce, International Shipping, China Shopping]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

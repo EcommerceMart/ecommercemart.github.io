@@ -4,11 +4,11 @@ title: "Top AI Tools for Ecommerce in 2025"
 description: "Discover how AI in ecommerce is transforming online shopping in 2025 with smarter tools, automation, and personalization."
 categories: [ecommerce, ai, future-tech, marketing]
 
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

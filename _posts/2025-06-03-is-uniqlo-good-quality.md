@@ -3,11 +3,11 @@ layout: single
 title: "Is Uniqlo Good Quality? A Comprehensive Review"
 description: "Explore whether Uniqlo offers good quality clothing. A detailed analysis of materials, customer reviews, and product performance."
 categories: "Uniqlo"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

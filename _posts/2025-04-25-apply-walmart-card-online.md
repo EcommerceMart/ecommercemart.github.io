@@ -4,11 +4,11 @@ title: "How to Apply for a Walmart Card Online and Get Instant Approval"
 description: "Step-by-step guide on how to apply for a Walmart Card online and get instant approval in 2025."
 keywords: ["walmart card"]
 categories: "walmart"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

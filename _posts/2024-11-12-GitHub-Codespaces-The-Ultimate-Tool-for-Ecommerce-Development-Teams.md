@@ -2,11 +2,11 @@
 layout: single
 title:  "GitHub Codespaces: The Ultimate Tool for E-commerce Development Teams"
 description: 'Discover how GitHub Codespaces empowers e-commerce development teams with on-demand, cloud-based environments for seamless coding, collaboration, and rapid project delivery.'
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -4,11 +4,11 @@ title: "Is Windsor Legit? Honest 2025 Review of the Fashion Retailer"
 description: "Is Windsor a legit clothing brand? Discover everything about Windsor’s shipping, returns, quality, and reviews in this complete 2025 guide."
 keywords: ["windsor", "is windsor legit", "windsor store reviews", "windsor dresses", "windsor clothing quality"]
 categories: "windsor"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

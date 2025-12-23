@@ -3,11 +3,11 @@ layout: single
 title: "Streamlining E-commerce Product Updates with GitHub Workflows"
 description: "Learn how to automate e-commerce product updates and inventory management using GitHub workflows. Discover integrations with third-party tools for seamless data synchronization."
 keywords: "ecommerce website github, automating product updates, GitHub workflows for ecommerce"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -4,11 +4,11 @@ title: "Is Superbuy Legit? Honest Review for 2025"
 keywords: [superbuy, is superbuy legit, superbuy review, superbuy taobao, superbuy alternative, is superbuy safe]
 description: "Wondering if Superbuy is legit? Explore a 2025 in-depth review of its services, safety, shipping reliability, and user experiences."
 category: [ superbuy ]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

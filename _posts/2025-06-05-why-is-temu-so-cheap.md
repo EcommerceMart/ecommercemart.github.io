@@ -4,11 +4,11 @@ title: "Why Is Temu So Cheap? An In-Depth Look"
 description: "Explore why Temu offers products at such low prices. A detailed analysis of supply chain, manufacturing, and business model."
 keywords: ["Temu"]
 categories: "Temu"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -3,11 +3,11 @@ layout: single
 title: "5 Reasons Why Ecommdirect is a Game-Changer for Online Retailers"
 categories: [Ecommerce, Technology, Business]
 description: "Discover how Ecommdirect is transforming the ecommerce landscape. Learn why it’s a must-have tool for online retailers in 2024."
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

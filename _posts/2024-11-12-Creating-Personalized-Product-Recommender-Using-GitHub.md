@@ -2,11 +2,11 @@
 layout: single
 title:  "Creating a Personalized Product Recommender: Using GitHub to Build and Share Machine Learning Models"
 description: 'Explore how to develop and share machine learning models for personalized product recommendations, leveraging GitHub for collaboration, version control, and deployment.'
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

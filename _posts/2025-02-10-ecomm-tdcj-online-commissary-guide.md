@@ -2,11 +2,11 @@
 layout: single
 title: "Ecomm TDCJ: How to Send Secure Online Orders to Texas Inmates"
 categories: [TDCJ, EcommDirect, Texas Prisons]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

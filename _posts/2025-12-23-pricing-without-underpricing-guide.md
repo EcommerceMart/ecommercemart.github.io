@@ -1,16 +1,16 @@
 ---
 title: "How to Price Products for Ecommerce Beginners (Without Underpricing or Losing Sales)"
 description: "Unlock ecommerce success by learning how to price products without underpricing, maximize your profits, and avoid losing sales with this beginner's guide."
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"
 tags: [price products without underpricing]
-featured: false
+featured: true
 image: '/assets/images/pricing-without-underpricing-guide.webp'
 ---
 

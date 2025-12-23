@@ -2,11 +2,11 @@
 layout: single
 title: "Retail Ecommerce Ventures: Transforming Brands into Online Success in 2025"
 categories: [Ecommerce, Retail, US Jobs]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

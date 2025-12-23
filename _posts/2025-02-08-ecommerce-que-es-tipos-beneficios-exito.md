@@ -4,11 +4,11 @@ title: "Ecommerce explicado: Tipos, beneficios y claves del éxito"
 description: "Descubre qué es el ecommerce, sus principales tipos, beneficios y las claves para tener éxito en el comercio electrónico en 2025."
 keywords: "ecommerce que es, tipos de ecommerce, beneficios del ecommerce, negocio online, comercio electrónico"
 categories: [Ecommerce]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

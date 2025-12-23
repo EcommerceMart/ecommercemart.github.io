@@ -2,11 +2,11 @@
 layout: single
 title:  "How to Use GitHub Copilot for E-commerce Code Development"
 description: 'Boost e-commerce development with GitHub Copilot! Learn how to accelerate coding, enhance workflows, and build efficient websites seamlessly.'
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

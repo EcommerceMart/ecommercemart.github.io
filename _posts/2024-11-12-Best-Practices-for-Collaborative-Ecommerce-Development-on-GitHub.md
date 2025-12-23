@@ -2,11 +2,11 @@
 layout: single
 title:  "Best Practices for Collaborative E-commerce Development on GitHub"
 description: 'Master key practices for successful collaborative Ecommerce development on GitHub, including version control, workflow optimization, and seamless team collaboration.'
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

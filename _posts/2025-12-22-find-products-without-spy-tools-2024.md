@@ -1,11 +1,11 @@
 ---
 title: "How to Find Profitable Products for Online Store (Without Expensive Spy Tools in 2024)"
 description: "Discover how to find profitable products without spy tools in 2024. Unlock proven strategies to source winning items for your online store on a budget."
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

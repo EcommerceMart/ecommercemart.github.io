@@ -3,11 +3,11 @@ layout: single
 title: "Understanding Taobao Payment Options for Canadian Shoppers"
 description: "Learn all about Taobao Canada payment options for 2025. See how to pay safely, avoid extra fees, and shop with confidence from Canada."
 categories: "taobaocanada"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

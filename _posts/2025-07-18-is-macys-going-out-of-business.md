@@ -3,11 +3,11 @@ layout: single
 title: "Is Macy's Going Out of Business? What Shoppers Need to Know in 2025"
 description: "Is Macy's going out of business? Get the latest insights on store closures, financial health, and what it means for shoppers in 2025."
 categories: "Macy"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -4,11 +4,11 @@ title: "Is PrettyLittleThing Legit? What You Need to Know Before Buying in 2025"
 description: "Is PrettyLittleThing legit? Discover the truth about PLT’s quality, shipping, customer service, and what buyers should know before shopping."
 keywords: ["prettylittlething", "is prettylittlething legit", "plt reviews", "prettylittlething clothing quality", "plt return policy"]
 categories: "PrettyLittleThing"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

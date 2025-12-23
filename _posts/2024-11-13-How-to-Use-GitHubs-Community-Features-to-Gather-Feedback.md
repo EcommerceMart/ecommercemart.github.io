@@ -2,11 +2,11 @@
 layout: single
 title:  "How to Use GitHub’s Community Features to Gather Feedback on E-commerce Features"
 description: 'Turn GitHub into your e-commerce feedback engine: Use Discussions, Issues & Projects to collect insights & drive customer-led development.'
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

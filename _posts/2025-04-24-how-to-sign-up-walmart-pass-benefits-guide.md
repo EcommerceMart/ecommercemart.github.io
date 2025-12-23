@@ -4,11 +4,11 @@ title: "How to Sign Up for Walmart Pass: Benefits Guide"
 description: "Discover how to sign up for Walmart Pass and unlock exclusive member benefits. Simple steps, clear guide, and membership perks explained."
 keywords: ["walmart pass"]
 categories: "walmart"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

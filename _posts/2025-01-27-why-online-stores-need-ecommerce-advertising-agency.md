@@ -2,11 +2,11 @@
 layout: single
 title: "Why Every Online Store Needs an Ecommerce Advertising Agency"
 categories: [Ecommerce, Ecommerce advertising]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

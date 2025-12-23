@@ -3,11 +3,11 @@ layout: single
 title: "How to Get Free Shipping Taobao: The Ultimate Guide for 2025"
 description: "Learn how to get free shipping on Taobao in 2025. Discover smart tips, tools, and methods to save on Taobao shipping fees with this in-depth guide."
 categories: [Taobao Shipping]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

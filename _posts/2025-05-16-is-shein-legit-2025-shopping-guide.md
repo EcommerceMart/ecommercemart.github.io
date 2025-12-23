@@ -3,11 +3,11 @@ layout: single
 title: "Is Shein Legit in 2025? A Comprehensive Guide to Shopping Safely"
 description: "Is Shein legit in 2025? Learn how to shop safely, avoid scams, and discover quality Shein alternatives in this comprehensive guide."
 categories: [Shein]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

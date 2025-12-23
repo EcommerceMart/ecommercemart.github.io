@@ -4,11 +4,11 @@ title: "Walmart Projects U.S. Ecommerce Profitability in 2025 as Online Sales So
 description: "Walmart forecasts ecommerce profitability in the U.S. by 2025 as online sales rise rapidly, signaling major shifts in retail."
 keywords: "ecommerce, Walmart, online sales, retail news, USA"
 categories: "walmart"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -4,11 +4,11 @@ title: "Is Edikted Good Quality? Honest 2025 Review of the Viral Fashion Brand"
 description: "Is Edikted good quality in 2025? Explore fabric details, customer reviews, fit, stitching, and more in this detailed 4000+ word breakdown."
 keywords: ["edikted", "is edikted good quality", "edikted reviews", "edikted fabric quality", "edikted clothing"]
 categories: "edikted"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

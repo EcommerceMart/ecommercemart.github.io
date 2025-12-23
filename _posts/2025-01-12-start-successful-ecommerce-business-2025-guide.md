@@ -4,11 +4,11 @@ title: "How to Start a Successful Ecommerce Business in 2025: A Step-by-Step Gui
 description: "Learn how to start a successful ecommerce business in 2025 with this comprehensive, easy-to-follow guide."
 keywords: ["ecommerce business", "start ecommerce business", "ecommerce 2025"]
 categories: [Ecommerce, Ecommerce Business]
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

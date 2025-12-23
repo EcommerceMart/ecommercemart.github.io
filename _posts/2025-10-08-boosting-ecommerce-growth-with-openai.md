@@ -4,11 +4,11 @@ title: "Boosting eCommerce Growth with OpenAI: Case Studies & Strategies"
 description: "Discover how OpenAI is transforming ecommerce with real-world case studies and actionable strategies to boost online sales and customer engagement in 2025."
 keywords: "ecommerce, OpenAI ecommerce, AI in ecommerce, ecommerce growth strategies"
 categories: "openai"
-author_profile: true
-read_time: true
-comments: true
-share: true
-related: true
+author_profile: false
+read_time: false
+comments: false
+share: false
+related: false
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"
