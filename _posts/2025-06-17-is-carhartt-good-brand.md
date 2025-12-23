@@ -59,7 +59,7 @@ You can find Carhartt products in their own stores, farm and hardware stores, de
 
 ### How is Carhartt’s Product Quality?
 
-![ Person wearing Carhartt jacket and pants working outdoors, showcasing durable and rugged workwear]({{ site.baseurl }}/assets/images/How-is-Carhartt-Product-Quality.webp)
+![ Person wearing Carhartt jacket and pants working outdoors, showcasing durable and rugged workwear]({{ site.baseurl }}/assets/images/How-is-Carhartt-Product-Quality.webp){: .img-responsive loading="lazy"}
 
 Carhartt is famous for its high-quality, long-lasting clothing. The brand uses tough materials like cotton duck, canvas, and ripstop, along with triple-stitched seams and strong zippers. This makes Carhartt clothes able to handle hard work, rough weather, and years of use.
 
@@ -97,7 +97,7 @@ Carhartt still makes some of its clothing in the USA, especially at its Kentucky
 
 ### Carhartt vs. Carhartt WIP
 
-![ Model wearing Carhartt WIP hoodie and beanie in an urban setting, representing streetwear fashion]({{ site.baseurl }}/assets/images/Carhartt-vs-Carhartt-WIP.webp)
+![ Model wearing Carhartt WIP hoodie and beanie in an urban setting, representing streetwear fashion]({{ site.baseurl }}/assets/images/Carhartt-vs-Carhartt-WIP.webp){: .img-responsive loading="lazy"}
 
 Carhartt WIP (Work In Progress) is a sub-brand that takes the classic workwear style and gives it a modern, streetwear twist. WIP items use lighter fabrics, trend-driven designs, and are popular with younger, urban shoppers. Both Carhartt and Carhartt WIP are known for quality, but WIP is more about fashion while the main Carhartt line is about function and durability.
 

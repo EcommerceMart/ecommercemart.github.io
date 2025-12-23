@@ -31,7 +31,7 @@ For e-commerce, GitHub Actions can help with tasks like:
 
 ## Getting Started: Setting Up GitHub Actions
 
-![GitHub Actions workflow setup screen in a GitHub repository]({{ site.baseurl }}/assets/images/GitHub-Actions-workflow-setup-screen-in-a-GitHub-repository.webp)
+![GitHub Actions workflow setup screen in a GitHub repository]({{ site.baseurl }}/assets/images/GitHub-Actions-workflow-setup-screen-in-a-GitHub-repository.webp){: .img-responsive loading="lazy"}
 
 ### Step 1: Create a New Workflow
 
@@ -127,7 +127,7 @@ This workflow:
 + Helps you catch any issues before deploying to your e-commerce site.
 
 ### Workflow 2: Deploying Your E-commerce Site
-![Netlify deployment dashboard for ecommerce site integration with GitHub Actions]({{ site.baseurl }}/assets/images/Netlify-deployment-dashboard-for-ecommerce-site-integration-with-GitHub-Actions.webp)
+![Netlify deployment dashboard for ecommerce site integration with GitHub Actions]({{ site.baseurl }}/assets/images/Netlify-deployment-dashboard-for-ecommerce-site-integration-with-GitHub-Actions.webp){: .img-responsive loading="lazy"}
 After testing, you may want to **automatically deploy** changes to your site. For example, if you host on a service like **Netlify** or **Vercel**, you can use GitHub Actions to trigger deployments. Here’s an example for deploying to **Netlify**:
 
 {% highlight ruby %}

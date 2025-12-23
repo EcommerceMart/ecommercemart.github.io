@@ -24,7 +24,7 @@ Ecommerce is booming, but success doesn’t happen by chance. Understanding the 
 
 ## **Understanding the Ecommerce Equation**
 
-![Illustration of an ecommerce sales funnel showing website traffic, conversion rates, and revenue growth.]({{ site.baseurl }}/assets/images/Understanding-the-Ecommerce-Equation.webp)
+![Illustration of an ecommerce sales funnel showing website traffic, conversion rates, and revenue growth.]({{ site.baseurl }}/assets/images/Understanding-the-Ecommerce-Equation.webp){: .img-responsive loading="lazy"}
 
 The **ecommerce equation** is a framework that defines the key factors influencing an online business’s profitability. It can be simplified as:
 
@@ -62,7 +62,7 @@ Traffic is the foundation of ecommerce. Without visitors, there are no sales. He
 
 ## **2. Optimizing Conversion Rate (CR) for More Sales**
 
-![A customer browsing an online store and adding items to the shopping cart on a laptop.]({{ site.baseurl }}/assets/images/Optimizing-Conversion-Rate-for-More-Sales.webp)
+![A customer browsing an online store and adding items to the shopping cart on a laptop.]({{ site.baseurl }}/assets/images/Optimizing-Conversion-Rate-for-More-Sales.webp){: .img-responsive loading="lazy"}
 
 Getting traffic is one thing, but converting visitors into buyers is the key to growth. Focus on these areas:
 

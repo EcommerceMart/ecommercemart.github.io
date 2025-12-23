@@ -61,7 +61,7 @@ The affiliate program is designed to reward content creators, influencers, and m
 
 ## Benefits of Joining the Pandabuy Affiliate Program
 
-![Pandabuy affiliate dashboard showing earnings and referral data]({{ site.baseurl }}/assets/images/Benefits-of-Joining-the-Pandabuy-Affiliate-Program.webp)
+![Pandabuy affiliate dashboard showing earnings and referral data]({{ site.baseurl }}/assets/images/Benefits-of-Joining-the-Pandabuy-Affiliate-Program.webp){: .img-responsive loading="lazy"}
 
 ### Key Benefits
 
@@ -159,7 +159,7 @@ Share carousel posts, reels, and story highlights with call-to-action links.
 
 ## SEO Tips for Affiliate Marketing with Pandabuy
 
-![Pandabuy affiliate dashboard displaying performance metrics and commission data]({{ site.baseurl }}/assets/images/SEO-Tips-for-Affiliate-Marketing-with-Pandabuy.webp)
+![Pandabuy affiliate dashboard displaying performance metrics and commission data]({{ site.baseurl }}/assets/images/SEO-Tips-for-Affiliate-Marketing-with-Pandabuy.webp){: .img-responsive loading="lazy"}
 
 ### Targeted Keywords
 

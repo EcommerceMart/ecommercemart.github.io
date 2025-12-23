@@ -107,7 +107,7 @@ Use Jasper to quickly test multiple ad variations or landing page headlines usin
 
 ## 3. Clerk.io
 
-![AI suggesting personalized products on an ecommerce website]({{ site.baseurl }}/assets/images/AI-Clerk.webp)
+![AI suggesting personalized products on an ecommerce website]({{ site.baseurl }}/assets/images/AI-Clerk.webp){: .img-responsive loading="lazy"}
 
 ### Overview:
 Clerk.io brings Amazon-level personalization to your ecommerce site. It analyzes visitor behavior in real-time to deliver product recommendations, search results, and email personalization.
@@ -163,7 +163,7 @@ Use Levity to clean and organize product catalogs with hundreds or thousands of 
 
 ## 5. ChatGPT by OpenAI (API)
 
-![AI-powered chatbot assisting a customer on an online store]({{ site.baseurl }}/assets/images/ChatGPT-by-OpenAI.webp)
+![AI-powered chatbot assisting a customer on an online store]({{ site.baseurl }}/assets/images/ChatGPT-by-OpenAI.webp){: .img-responsive loading="lazy"}
 
 ### Overview:
 OpenAI’s ChatGPT API can be integrated into ecommerce sites to power intelligent chatbots, virtual assistants, product advisors, or even write real-time answers to product questions.

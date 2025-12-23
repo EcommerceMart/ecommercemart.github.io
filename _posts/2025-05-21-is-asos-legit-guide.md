@@ -46,7 +46,7 @@ ASOS is a publicly traded company on the London Stock Exchange. Being listed as 
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script> -->
 
-![Unboxing ASOS delivery with branded packaging and neatly folded clothes]({{ site.baseurl }}/assets/images/ASOS-Shipping-What-You-Need-to-Know.webp)
+![Unboxing ASOS delivery with branded packaging and neatly folded clothes]({{ site.baseurl }}/assets/images/ASOS-Shipping-What-You-Need-to-Know.webp){: .img-responsive loading="lazy"}
 
 ### Shipping Times and Options
 
@@ -143,7 +143,7 @@ ASOS has taken steps to improve its ethical and environmental footprint. The com
 
 ## ASOS Reviews: What Are Real Customers Saying?
 
-![Browsing ASOS website on laptop and mobile showing trending fashion collection]({{ site.baseurl }}/assets/images/ASOS-Reviews-What-Are-Real-Customers-Saying.webp)
+![Browsing ASOS website on laptop and mobile showing trending fashion collection]({{ site.baseurl }}/assets/images/ASOS-Reviews-What-Are-Real-Customers-Saying.webp){: .img-responsive loading="lazy"}
 
 ### Trustpilot Rating
 

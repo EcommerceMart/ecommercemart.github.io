@@ -51,7 +51,7 @@ Start by creating a GitHub repository for your ecommerce website. Repositories a
 ### 2. Organize Your Repository
 Structure your repository to make it freelancer-friendly:
 
-![GitHub repository structure for an e-commerce website project, showcasing organized branches and folders]({{ site.baseurl }}/assets/images/Organize-Your-Repository.webp)
+![GitHub repository structure for an e-commerce website project, showcasing organized branches and folders]({{ site.baseurl }}/assets/images/Organize-Your-Repository.webp){: .img-responsive loading="lazy"}
 
 - **Folders**: Separate code, assets, documentation, and tests.
   ```
@@ -89,7 +89,7 @@ A clear CONTRIBUTING.md file outlines expectations for freelancers, including co
 ### 2. Issue Tracking and Task Assignment
 GitHub’s issue tracking system is a powerful way to manage tasks and monitor progress. Here’s how to use it effectively:
 
-![GitHub issue tracking board with labeled tasks and milestones for managing freelance contributions]({{ site.baseurl }}/assets/images/Issue-Tracking-and-Task-Assignment.webp)
+![GitHub issue tracking board with labeled tasks and milestones for managing freelance contributions]({{ site.baseurl }}/assets/images/Issue-Tracking-and-Task-Assignment.webp){: .img-responsive loading="lazy"}
 
 - **Create Detailed Issues**:
   - Use labels like `bug`, `feature`, or `documentation` to categorize tasks.

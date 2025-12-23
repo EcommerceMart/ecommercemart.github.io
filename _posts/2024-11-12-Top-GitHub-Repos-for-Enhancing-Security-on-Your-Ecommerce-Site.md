@@ -39,7 +39,7 @@ Here are some top security tools available on GitHub that can enhance your e-com
 
 **Steps to Use OWASP Dependency-Check:**
 
-![OWASP Dependency-Check scanning e-commerce project dependencies for vulnerabilities]({{ site.baseurl }}/assets/images/OWASP-Dependency-Check-scanning-ecommerce-project-dependencies-for-vulnerabilities.webp)
+![OWASP Dependency-Check scanning e-commerce project dependencies for vulnerabilities]({{ site.baseurl }}/assets/images/OWASP-Dependency-Check-scanning-ecommerce-project-dependencies-for-vulnerabilities.webp){: .img-responsive loading="lazy"}
 
 1. **Install Dependency-Check**
 Install Dependency-Check on your computer or add it to your CI/CD pipeline (e.g., GitHub Actions).
@@ -136,7 +136,7 @@ Review any warnings or errors Bandit finds and adjust your code as needed.
 ### Tips for Securing Your E-commerce Codebase
 Alongside using these GitHub security tools, here are additional tips to protect your e-commerce site:
 
-![GitHub Actions setup for e-commerce security scans using open-source tools]({{ site.baseurl }}/assets/images/GitHub-Actions-setup-for-ecommerce-security-scans-using-open-source-tools.webp)
+![GitHub Actions setup for e-commerce security scans using open-source tools]({{ site.baseurl }}/assets/images/GitHub-Actions-setup-for-ecommerce-security-scans-using-open-source-tools.webp){: .img-responsive loading="lazy"}
 
 1. **Use Strong Authentication:** Implement two-factor authentication for access to the GitHub repository to prevent unauthorized access.
 2. **Limit Access:** Only give team members the minimum permissions they need to do their job.

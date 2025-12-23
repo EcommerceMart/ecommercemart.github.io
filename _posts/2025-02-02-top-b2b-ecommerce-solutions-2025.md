@@ -26,7 +26,7 @@ In this guide, we’ll explore the **top B2B ecommerce solutions for 2025**, ana
 
 ## Why Use a B2B Ecommerce Solution?
 
-![B2B ecommerce platform dashboard displaying product listings, pricing structures, and bulk order processing.]({{ site.baseurl }}/assets/images/Why-Use-B2B-Ecommerce-Solution.webp)
+![B2B ecommerce platform dashboard displaying product listings, pricing structures, and bulk order processing.]({{ site.baseurl }}/assets/images/Why-Use-B2B-Ecommerce-Solution.webp){: .img-responsive loading="lazy"}
 
 
 A **B2B ecommerce solution** provides businesses with a platform to sell products or services to other companies. These solutions offer:
@@ -135,7 +135,7 @@ Now, let's explore the best B2B ecommerce solutions available in 2025!
 
 ## How to Choose the Best B2B Ecommerce Solution
 
-![Business professionals discussing B2B ecommerce strategies with analytics displayed on a digital screen.]({{ site.baseurl }}/assets/images/How-to-Choose-the-Best-B2B-Ecommerce-Solution.webp)
+![Business professionals discussing B2B ecommerce strategies with analytics displayed on a digital screen.]({{ site.baseurl }}/assets/images/How-to-Choose-the-Best-B2B-Ecommerce-Solution.webp){: .img-responsive loading="lazy"}
 
 Before selecting a **B2B ecommerce solution**, consider these key factors:
 

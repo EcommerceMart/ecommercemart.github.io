@@ -50,7 +50,7 @@ The brand attracts young professionals, office workers, and anyone looking for s
 
 ### **1. Materials and Fabrics**
 
-![Close-up of Banana Republic shirt showing fabric texture and stitching quality]({{ site.baseurl }}/assets/images/Materials-and-Fabrics.webp)
+![Close-up of Banana Republic shirt showing fabric texture and stitching quality]({{ site.baseurl }}/assets/images/Materials-and-Fabrics.webp){: .img-responsive loading="lazy"}
 
 Banana Republic is recognized for using high-quality materials in many of its products, including:
 
@@ -122,7 +122,7 @@ If you buy during a sale and focus on natural fabrics, many customers say you ge
 
 ### **5. Customer Service Experience**
 
-![Banana Republic store interior with neatly arranged clothing racks and stylish apparel]({{ site.baseurl }}/assets/images/Customer-Service-Experience.webp)
+![Banana Republic store interior with neatly arranged clothing racks and stylish apparel]({{ site.baseurl }}/assets/images/Customer-Service-Experience.webp){: .img-responsive loading="lazy"}
 
 Banana Republic’s customer service receives mixed reviews:
 

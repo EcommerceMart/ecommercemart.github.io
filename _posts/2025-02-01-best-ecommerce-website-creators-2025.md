@@ -26,7 +26,7 @@ In this guide, we’ll explore the **best ecommerce website creators for 2025**,
 
 ## Why Use an Ecommerce Website Creator?
 
-![A modern ecommerce website builder dashboard showing drag-and-drop design tools, product listings, and customization options.]({{ site.baseurl }}/assets/images/Why-Use-an-Ecommerce-Website-Creator.webp)
+![A modern ecommerce website builder dashboard showing drag-and-drop design tools, product listings, and customization options.]({{ site.baseurl }}/assets/images/Why-Use-an-Ecommerce-Website-Creator.webp){: .img-responsive loading="lazy"}
 
 An **ecommerce website creator** is a tool or platform that enables users to design, build, and manage online stores without needing technical expertise. These platforms offer:  
 ✅ **Pre-designed templates** for a professional look  
@@ -133,7 +133,7 @@ Now, let’s dive into the best ecommerce website creators available in 2025!
 
 ## How to Choose the Best Ecommerce Website Creator
 
-![A side-by-side comparison chart of popular ecommerce website creators, highlighting features, pricing, and key benefits.]({{ site.baseurl }}/assets/images/How-to-Choose-the-Best-Ecommerce-Website-Creator.webp)
+![A side-by-side comparison chart of popular ecommerce website creators, highlighting features, pricing, and key benefits.]({{ site.baseurl }}/assets/images/How-to-Choose-the-Best-Ecommerce-Website-Creator.webp){: .img-responsive loading="lazy"}
 
 Before selecting an **ecommerce website creator**, consider the following:
 

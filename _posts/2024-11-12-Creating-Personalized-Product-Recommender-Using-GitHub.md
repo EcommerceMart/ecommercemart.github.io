@@ -46,7 +46,7 @@ Let's start!
 ## Step 1: Set Up the Project Repository on GitHub
 The first step is to create a GitHub repository where you and your team can store and manage your recommendation system project.
 
-![Diagram illustrating steps in building a product recommendation system: data collection, model training, and making recommendations]({{ site.baseurl }}/assets/images/Diagram-illustrating-steps-in-building-product-recommendation-system-data-collection-model-training-and-making-recommendations.webp)
+![Diagram illustrating steps in building a product recommendation system: data collection, model training, and making recommendations]({{ site.baseurl }}/assets/images/Diagram-illustrating-steps-in-building-product-recommendation-system-data-collection-model-training-and-making-recommendations.webp){: .img-responsive loading="lazy"}
 
 1. Go to [GitHub](https://github.com/) and sign in.
 2. Click the New button to create a new repository.
@@ -92,7 +92,7 @@ user_id,product_id,rating
 ## Step 3: Build a Simple Product Recommendation System
 Let’s build a simple recommendation model using collaborative filtering, a common method for recommendations based on user interactions.
 
-![Jupyter Notebook displaying code for data loading and setting up a product recommendation model]({{ site.baseurl }}/assets/images/Jupyter-Notebook-displaying-code-for-data-loading-and-setting-up-product-recommendation-model.webp)
+![Jupyter Notebook displaying code for data loading and setting up a product recommendation model]({{ site.baseurl }}/assets/images/Jupyter-Notebook-displaying-code-for-data-loading-and-setting-up-product-recommendation-model.webp){: .img-responsive loading="lazy"}
 
 1. **Open Jupyter Notebook:** In the root folder of your repository, create a new Jupyter Notebook (e.g., recommendation_model.ipynb).
 

@@ -23,7 +23,7 @@ In this article, we will compare **electronic commerce vs. traditional commerce*
 
 ## Understanding Electronic Commerce and Traditional Commerce
 
-![E-commerce offers 24/7 shopping convenience, unlike traditional stores with long checkout lines.]({{ site.baseurl }}/assets/images/Convenience-and-Accessibility.webp)
+![E-commerce offers 24/7 shopping convenience, unlike traditional stores with long checkout lines.]({{ site.baseurl }}/assets/images/Convenience-and-Accessibility.webp){: .img-responsive loading="lazy"}
 
 ### **What is Electronic Commerce (E-Commerce)?**
 **Electronic commerce (e-commerce)** refers to buying and selling goods and services online through websites, mobile apps, and digital platforms. It includes various models such as:
@@ -58,7 +58,7 @@ In this article, we will compare **electronic commerce vs. traditional commerce*
 
 ## Why E-Commerce is Winning in 2025
 
-![E-commerce enables businesses to sell globally, while traditional stores are restricted by location.]({{ site.baseurl }}/assets/images/Wider-Market-Reach.webp)
+![E-commerce enables businesses to sell globally, while traditional stores are restricted by location.]({{ site.baseurl }}/assets/images/Wider-Market-Reach.webp){: .img-responsive loading="lazy"}
 
 ### 1. **Convenience and Accessibility**
 E-commerce allows shoppers to browse, compare, and purchase products **24/7** without leaving their homes. This convenience is unmatched by traditional retail stores.

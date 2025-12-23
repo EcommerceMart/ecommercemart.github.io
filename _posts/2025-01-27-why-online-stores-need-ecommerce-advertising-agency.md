@@ -33,7 +33,7 @@ From pay-per-click (PPC) advertising to social media campaigns, ecommerce advert
 
 ## Why Your Online Store Needs an Ecommerce Advertising Agency
 
-![A laptop screen showing an ecommerce store homepage with a sale banner and product categories, representing online store marketing.]({{ site.baseurl }}/assets/images/Why-Your-Online-Store-Needs-an-Ecommerce-Advertising-Agency.webp)
+![A laptop screen showing an ecommerce store homepage with a sale banner and product categories, representing online store marketing.]({{ site.baseurl }}/assets/images/Why-Your-Online-Store-Needs-an-Ecommerce-Advertising-Agency.webp){: .img-responsive loading="lazy"}
 
 Running an online store comes with unique challenges, including rising competition, changing consumer behavior, and evolving digital trends. Here’s why hiring an ecommerce advertising agency is essential for your business:
 
@@ -104,7 +104,7 @@ A visually appealing ad can make all the difference. Agencies provide profession
 
 ## How to Choose the Right Ecommerce Advertising Agency
 
-![A team collaborating on an ecommerce advertising strategy, analyzing charts and planning campaigns in a modern office setting.]({{ site.baseurl }}/assets/images/How-to-Choose-the-Right-Ecommerce-Advertising-Agency.webp)
+![A team collaborating on an ecommerce advertising strategy, analyzing charts and planning campaigns in a modern office setting.]({{ site.baseurl }}/assets/images/How-to-Choose-the-Right-Ecommerce-Advertising-Agency.webp){: .img-responsive loading="lazy"}
 
 Finding the right ecommerce advertising agency is crucial to achieving your business goals. Here are some tips to guide you:
 

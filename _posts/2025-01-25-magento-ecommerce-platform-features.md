@@ -22,7 +22,7 @@ Running a successful online store requires a reliable and feature-rich platform,
 
 ## What is Magento Ecommerce Platform?
 
-![Magento ecommerce platform dashboard showcasing product management and analytics.]({{ site.baseurl }}/assets/images/What-is-Magento-Ecommerce-Platform.webp)
+![Magento ecommerce platform dashboard showcasing product management and analytics.]({{ site.baseurl }}/assets/images/What-is-Magento-Ecommerce-Platform.webp){: .img-responsive loading="lazy"}
 
 The **Magento ecommerce platform** is an open-source solution designed for businesses to create, manage, and grow their online stores. Developed by Adobe, Magento offers unmatched flexibility, scalability, and customization options. It powers thousands of websites globally, ranging from small businesses to large enterprises, making it a popular choice in the ecommerce industry.
 
@@ -40,7 +40,7 @@ One of the standout features of Magento is its **open-source nature**, which all
 
 ## 2. Scalability for Businesses of All Sizes
 
-![Magento ecommerce platform driving business growth through scalable features and advanced analytics.]({{ site.baseurl }}/assets/images/Scalability-for-Businesses-of-All-Sizes.webp)
+![Magento ecommerce platform driving business growth through scalable features and advanced analytics.]({{ site.baseurl }}/assets/images/Scalability-for-Businesses-of-All-Sizes.webp){: .img-responsive loading="lazy"}
 
 The Magento ecommerce platform is built to handle businesses of all sizes. Whether you’re running a small store or managing an enterprise-level operation, Magento can scale with your needs. 
 

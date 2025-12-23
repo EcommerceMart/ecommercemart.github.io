@@ -221,7 +221,7 @@ Walmart Pay works seamlessly at self-checkout lanes. Simply choose Walmart Pay a
 
 ### Teaching Teens About Mobile Payments
 
-![ Step-by-step Walmart Pay setup on the Walmart mobile app.]({{ site.baseurl }}/assets/images/Teaching-Teens-About-Mobile-Payments.webp)
+![ Step-by-step Walmart Pay setup on the Walmart mobile app.]({{ site.baseurl }}/assets/images/Teaching-Teens-About-Mobile-Payments.webp){: .img-responsive loading="lazy"}
 
 * Allow teens to use digital wallets with guidance
 * Set spending limits with prepaid cards

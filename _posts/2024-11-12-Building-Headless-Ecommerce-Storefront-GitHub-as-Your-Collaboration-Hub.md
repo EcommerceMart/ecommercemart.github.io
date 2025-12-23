@@ -55,7 +55,7 @@ With GitHub as your hub, your team can work efficiently, track progress, and avo
 
 Let’s dive into how you can build a headless storefront and use GitHub for collaboration. We’ll break this down into five key steps.
 
-![Step-by-Step Guide to Building a Headless E-commerce Storefront]({{ site.baseurl }}/assets/images/Step-by-Step-Guide-to-Building-Headless-Ecommerce-Storefront.webp)
+![Step-by-Step Guide to Building a Headless E-commerce Storefront]({{ site.baseurl }}/assets/images/Step-by-Step-Guide-to-Building-Headless-Ecommerce-Storefront.webp){: .img-responsive loading="lazy"}
 
 #### Step 1: Set Up the Backend
 

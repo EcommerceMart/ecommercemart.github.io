@@ -47,7 +47,7 @@ The reason behind the viral nature of Shein reviews lies in its controversial re
 
 ## Community Insights: What Reddit Users Are Saying
 
-![Shein Reviews 2025 – What Real Users Say]({{ site.baseurl }}/assets/images/What-Reddit-Users-Are-Saying.webp)
+![Shein Reviews 2025 – What Real Users Say]({{ site.baseurl }}/assets/images/What-Reddit-Users-Are-Saying.webp){: .img-responsive loading="lazy"}
 
 ### r/Shein on Reddit: A Goldmine of Opinions
 
@@ -131,7 +131,7 @@ This question often sparks debate. Most answers highlight Shein’s lack of tran
 
 ## Review Focus: Shein Clothing Categories
 
-![Shein Reviews 2025 – What Real Users Say]({{ site.baseurl }}/assets/images/shein-Clothing-Categories.webp)
+![Shein Reviews 2025 – What Real Users Say]({{ site.baseurl }}/assets/images/shein-Clothing-Categories.webp){: .img-responsive loading="lazy"}
 
 ### Dresses and Formalwear
 

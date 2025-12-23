@@ -61,7 +61,7 @@ Yes, but it’s best accessed using translators, agents, or international shippi
 
 ## Step-by-Step Guide: How to Make Money on Taobao
 
-![Affordable products listed on Taobao for resale opportunities.]({{ site.baseurl }}/assets/images/How-to-Make-Money-on-Taobao.webp)
+![Affordable products listed on Taobao for resale opportunities.]({{ site.baseurl }}/assets/images/How-to-Make-Money-on-Taobao.webp){: .img-responsive loading="lazy"}
 
 ### Step 1: Find a Profitable Niche
 
@@ -111,7 +111,7 @@ Sarah, a college student, started sourcing cute phone cases from Taobao and rese
 ### Step 4: Handle Shipping and Logistics
 
 
-![Young entrepreneur packing products for resale after sourcing from Taobao]({{ site.baseurl }}/assets/images/Handle-Shipping-and-Logistics.webp)
+![Young entrepreneur packing products for resale after sourcing from Taobao]({{ site.baseurl }}/assets/images/Handle-Shipping-and-Logistics.webp){: .img-responsive loading="lazy"}
 
 Handling logistics correctly keeps customers happy.
 

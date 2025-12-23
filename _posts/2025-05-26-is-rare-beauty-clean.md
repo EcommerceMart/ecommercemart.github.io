@@ -68,7 +68,7 @@ While Rare Beauty does not explicitly market itself as a 100% clean beauty brand
 
 ## Ingredients Policy of Rare Beauty
 
-![Close-up of Rare Beauty product ingredient label showing a clean and transparent formulation focus.]({{ site.baseurl }}/assets/images/Ingredients-Policy-of-Rare-Beauty.webp)
+![Close-up of Rare Beauty product ingredient label showing a clean and transparent formulation focus.]({{ site.baseurl }}/assets/images/Ingredients-Policy-of-Rare-Beauty.webp){: .img-responsive loading="lazy"}
 
 ### Ingredient Transparency
 

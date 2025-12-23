@@ -37,7 +37,7 @@ Investing in ecommerce photography is an investment in **higher sales and better
 
 ## Essential Equipment for Ecommerce Photography
 
-![Close-up of a high-end DSLR camera capturing a stylish product on a white backdrop with soft lighting.]({{ site.baseurl }}/assets/images/Essential-Equipment-for-Ecommerce-Photography.webp)
+![Close-up of a high-end DSLR camera capturing a stylish product on a white backdrop with soft lighting.]({{ site.baseurl }}/assets/images/Essential-Equipment-for-Ecommerce-Photography.webp){: .img-responsive loading="lazy"}
 
 To capture **stunning product images**, you need the right tools. Here’s what you’ll need:
 
@@ -100,7 +100,7 @@ Customers want to see **all aspects** of a product before purchasing. Include:
 
 ## Post-Processing & Editing Tips
 
-![A professional editing product images on a computer screen using photo retouching software for eCommerce.]({{ site.baseurl }}/assets/images/Post-Processing-and-Editing-Tips.webp)
+![A professional editing product images on a computer screen using photo retouching software for eCommerce.]({{ site.baseurl }}/assets/images/Post-Processing-and-Editing-Tips.webp){: .img-responsive loading="lazy"}
 
 Even the best raw photos need some **editing touch-ups**. Follow these steps:
 

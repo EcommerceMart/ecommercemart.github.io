@@ -35,7 +35,7 @@ Ecommerce offers immense potential for entrepreneurs. Here’s why it’s a grea
 
 ### Essential Tools for Ecommerce Success
 
-![Shopify dashboard showing product listings and analytics for a growing ecommerce business.]({{ site.baseurl }}/assets/images/Building-Your-Online-Store-with-Essential-Tools.webp)
+![Shopify dashboard showing product listings and analytics for a growing ecommerce business.]({{ site.baseurl }}/assets/images/Building-Your-Online-Store-with-Essential-Tools.webp){: .img-responsive loading="lazy"}
 
 #### 1. **Ecommerce Platforms**
 Choose a platform that meets your needs. Popular options include:
@@ -107,7 +107,7 @@ Build trust and loyalty by:
 
 ### Proven Strategies for Ecommerce Growth
 
-![A smartphone displaying an Instagram shop, showcasing how social media drives ecommerce growth.]({{ site.baseurl }}/assets/images/Social-Media-Key-to-Ecommerce-Growth.webp)
+![A smartphone displaying an Instagram shop, showcasing how social media drives ecommerce growth.]({{ site.baseurl }}/assets/images/Social-Media-Key-to-Ecommerce-Growth.webp){: .img-responsive loading="lazy"}
 
 #### 1. **Leverage Social Media**
 Promote your store on platforms like Instagram, Facebook, and TikTok. Share engaging content, run ads, and collaborate with influencers.

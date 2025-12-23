@@ -226,11 +226,13 @@ timezone: "Asia/Kolkata" # Your timezone
 
 
 # Pagination with jekyll-paginate
-paginate: 10 # amount of posts to show
+paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-responsive-image
+  - jekyll-picture-tag
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -269,9 +271,13 @@ tag_archive:
 # - https://jch.penibelst.de/
 compress_html:
   clippings: all
+  comments: all  # Remove HTML comments
+  endings: all
+  startings: [html, head, body]
+  blanklines: false
+  profile: false
   ignore:
-    envs: development
-
+    envs: [] 
 
 # Defaults
 defaults:
@@ -281,12 +287,13 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      show_date: true
+      image_lazy_load: false
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      show_date: false
       toc: true # Table of contents - IMPORTANT for tutorials
       toc_sticky: true # Sticky TOC - Better UX
       toc_label: "Ecommerce Content"

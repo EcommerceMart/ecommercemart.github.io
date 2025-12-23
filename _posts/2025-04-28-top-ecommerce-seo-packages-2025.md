@@ -43,7 +43,7 @@ In 2025, online shopping continues to dominate. Without strong SEO strategies, e
 
 ## Key Features of Top eCommerce SEO Packages in 2025
 
-![Voice search optimization for eCommerce SEO in 2025]({{ site.baseurl }}/assets/images/Key-Features-of-Top-eCommerce-SEO-Packages-in-2025.webp)
+![Voice search optimization for eCommerce SEO in 2025]({{ site.baseurl }}/assets/images/Key-Features-of-Top-eCommerce-SEO-Packages-in-2025.webp){: .img-responsive loading="lazy"}
 
 ### Voice Search Optimization
 
@@ -73,7 +73,7 @@ Today's SEO extends beyond websites. Effective packages include SEO for marketpl
 
 ## Top eCommerce SEO Packages for 2025
 
-![Voice search optimization for eCommerce SEO in 2025]({{ site.baseurl }}/assets/images/Top-eCommerce-SEO-Packages-for-2025.webp)
+![Voice search optimization for eCommerce SEO in 2025]({{ site.baseurl }}/assets/images/Top-eCommerce-SEO-Packages-for-2025.webp){: .img-responsive loading="lazy"}
 
 ### 1. SmartBoost eCommerce SEO Package
 

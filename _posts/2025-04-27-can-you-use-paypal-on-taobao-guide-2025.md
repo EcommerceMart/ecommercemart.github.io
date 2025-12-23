@@ -90,7 +90,7 @@ Alibaba prefers to **keep payments within its own ecosystem** to maximize profit
 
 ## Alternatives to PayPal for Shopping on Taobao
 
-![Alipay interface for Taobao payment showing credit card option.]({{ site.baseurl }}/assets/images/Alternatives-to-PayPal-for-Shopping-on-Taobao.webp)
+![Alipay interface for Taobao payment showing credit card option.]({{ site.baseurl }}/assets/images/Alternatives-to-PayPal-for-Shopping-on-Taobao.webp){: .img-responsive loading="lazy"}
 
 ### 1. Alipay with International Credit Cards
 
@@ -106,7 +106,7 @@ Alibaba prefers to **keep payments within its own ecosystem** to maximize profit
 
 ### 2. Using a Taobao Agent
 
-![Taobao agent website where users can buy products on behalf of customers using PayPal.]({{ site.baseurl }}/assets/images/Using-Taobao-Agent.webp)
+![Taobao agent website where users can buy products on behalf of customers using PayPal.]({{ site.baseurl }}/assets/images/Using-Taobao-Agent.webp){: .img-responsive loading="lazy"}
 
 - **What is a Taobao Agent?**  
   A third-party service that buys products for you, handles payment, and ships them internationally.

@@ -23,7 +23,7 @@ We address user intent by providing actionable insights, practical steps, and ex
 
 ## Understanding Shopify and Dropshipping
 
-![Infographic illustrating the dropshipping process from customer order through Shopify to supplier fulfillment]({{ site.baseurl }}/assets/images/Understanding-Shopify-and-Dropshipping.webp)
+![Infographic illustrating the dropshipping process from customer order through Shopify to supplier fulfillment]({{ site.baseurl }}/assets/images/Understanding-Shopify-and-Dropshipping.webp){: .img-responsive loading="lazy"}
 
 ### What Is Shopify?
 
@@ -111,7 +111,7 @@ Dropshipping is an ecommerce business model where you sell products through your
 
 ## Shopify Dropshipping: Pros and Cons
 
-![Example of a successful Shopify dropshipping store homepage with organized collections and promotional banners]({{ site.baseurl }}/assets/images/Shopify-Dropshipping-Pros-and-Cons.webp)
+![Example of a successful Shopify dropshipping store homepage with organized collections and promotional banners]({{ site.baseurl }}/assets/images/Shopify-Dropshipping-Pros-and-Cons.webp){: .img-responsive loading="lazy"}
 
 ### Pros of Shopify Dropshipping
 

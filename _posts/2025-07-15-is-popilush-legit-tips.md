@@ -69,7 +69,7 @@ However, like many online retailers, some customers have raised concerns about s
 
 ## What Products Does Popilush Offer?
 
-![Popilush shapewear dress styled for a casual day out]({{ site.baseurl }}/assets/images/What-Products-Does-Popilush-Offer.webp)
+![Popilush shapewear dress styled for a casual day out]({{ site.baseurl }}/assets/images/What-Products-Does-Popilush-Offer.webp){: .img-responsive loading="lazy"}
 
 Popilush’s product catalog is diverse, catering to different preferences and needs. Their main categories include:
 
@@ -95,7 +95,7 @@ Popilush utilizes a blend of nylon, spandex, and polyester to deliver stretchy, 
 
 ### Durability
 
-![Close-up of Popilush fabric showing fine stitching and soft, stretchy texture]({{ site.baseurl }}/assets/images/Popilush-Product-Quality.webp)
+![Close-up of Popilush fabric showing fine stitching and soft, stretchy texture]({{ site.baseurl }}/assets/images/Popilush-Product-Quality.webp){: .img-responsive loading="lazy"}
 
 Most customers report that Popilush products maintain their shape and elasticity after multiple washes. The stitching quality is commendable, minimizing the risk of tears or loose threads.
 

@@ -57,7 +57,7 @@ Walmart credit cards are issued by Synchrony Bank, which uses credit reports fro
 
 ## How the Pre-Approval Process Works
 
-![Screenshot of Walmart credit card application form highlighting required fields]({{ site.baseurl }}/assets/images/How-the-Pre-Approval-Process-Works.webp)
+![Screenshot of Walmart credit card application form highlighting required fields]({{ site.baseurl }}/assets/images/How-the-Pre-Approval-Process-Works.webp){: .img-responsive loading="lazy"}
 
 ### Step-by-Step Overview
 
@@ -84,7 +84,7 @@ Walmart credit cards are issued by Synchrony Bank, which uses credit reports fro
 
 ## Reddit Insights: Real People, Real Questions
 
-![Reddit discussion thread about Walmart credit card pre-approval experiences]({{ site.baseurl }}/assets/images/Reddit-Insights-Real-People.webp)
+![Reddit discussion thread about Walmart credit card pre-approval experiences]({{ site.baseurl }}/assets/images/Reddit-Insights-Real-People.webp){: .img-responsive loading="lazy"}
 
 ### Popular Reddit Threads
 

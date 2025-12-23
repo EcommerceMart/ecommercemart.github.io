@@ -72,7 +72,7 @@ While affordability is crucial, extremely cheap services can harm your site. Alw
 
 ## Key Features of the Best Affordable eCommerce SEO Packages in 2025
 
-![Local SEO optimization for small businesses in 2025]({{ site.baseurl }}/assets/images/Key-Features-of-the-Best-Affordable-eCommerce-SEO-Packages-in-2025.webp)
+![Local SEO optimization for small businesses in 2025]({{ site.baseurl }}/assets/images/Key-Features-of-the-Best-Affordable-eCommerce-SEO-Packages-in-2025.webp){: .img-responsive loading="lazy"}
 
 ### Technical SEO Optimization
 
@@ -103,7 +103,7 @@ For small businesses, targeting local customers can drastically increase sales.
 
 ### Content Marketing Tailored to Small Businesses
 
-![Local SEO optimization for small businesses in 2025]({{ site.baseurl }}/assets/images/Content-Marketing-Tailored-to-Small-Businesses.webp)
+![Local SEO optimization for small businesses in 2025]({{ site.baseurl }}/assets/images/Content-Marketing-Tailored-to-Small-Businesses.webp){: .img-responsive loading="lazy"}
 
 #### Why Content Marketing is a Must
 

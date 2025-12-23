@@ -108,7 +108,7 @@ This alone makes CNShopper appealing for budget-conscious shoppers.
 
 ## How CNShopper Helps You Save Money Step by Step  
 
-![How CNShopper Helps You Save Money Step by Step]({{ site.baseurl }}/assets/images/How-CNShopper-Helps-You-Save-Money.webp)
+![How CNShopper Helps You Save Money Step by Step]({{ site.baseurl }}/assets/images/How-CNShopper-Helps-You-Save-Money.webp){: .img-responsive loading="lazy"}
 
 ### Step 1: Browsing and Purchasing  
 - You paste the Taobao product link into CNShopper’s system.  

@@ -38,7 +38,7 @@ A **B2B eCommerce solution** is an online platform designed to facilitate transa
 
 ## Benefits of Using B2B eCommerce Solutions
 
-![Automated B2B eCommerce workflow with AI-driven order management and real-time inventory tracking]({{ site.baseurl }}/assets/images/Benefits-of-Using-B2B-eCommerce-Solutions.webp)
+![Automated B2B eCommerce workflow with AI-driven order management and real-time inventory tracking]({{ site.baseurl }}/assets/images/Benefits-of-Using-B2B-eCommerce-Solutions.webp){: .img-responsive loading="lazy"}
 
 
 Using the right **B2B eCommerce solution** offers several advantages, including:
@@ -135,7 +135,7 @@ It’s ideal for businesses that want to turn their WordPress website into a B2B
 
 ## How to Choose the Best B2B eCommerce Solution
 
-![Business owner reviewing B2B eCommerce sales analytics and performance metrics on a dashboard.]({{ site.baseurl }}/assets/images/How-to-Choose-the-Best-B2B-eCommerce-Solutions.webp)
+![Business owner reviewing B2B eCommerce sales analytics and performance metrics on a dashboard.]({{ site.baseurl }}/assets/images/How-to-Choose-the-Best-B2B-eCommerce-Solutions.webp){: .img-responsive loading="lazy"}
 
 When selecting a **B2B eCommerce solution**, consider the following factors:
 

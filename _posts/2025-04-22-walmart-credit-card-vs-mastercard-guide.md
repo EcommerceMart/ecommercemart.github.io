@@ -66,7 +66,7 @@ However, the **Walmart Credit Card** is limited to Walmart-related purchases, wh
 
 ## 💰 Rewards Comparison Table
 
-![Walmart Credit Card vs Walmart Mastercard rewards comparison chart]({{ site.baseurl }}/assets/images/Rewards-Comparison-Table.webp)
+![Walmart Credit Card vs Walmart Mastercard rewards comparison chart]({{ site.baseurl }}/assets/images/Rewards-Comparison-Table.webp){: .img-responsive loading="lazy"}
 
 | Purchase Location         | Walmart Credit Card | Walmart Mastercard |
 |---------------------------|----------------------|--------------------|

@@ -64,7 +64,7 @@ Both cards offer similar reward systems for Walmart purchases, but the Mastercar
 
 ## 💳 Key Features and Rewards
 
-![Walmart Card rewards chart showing cashback percentages for online and in-store purchases]({{ site.baseurl }}/assets/images/Key-Features-and-Rewards.webp)
+![Walmart Card rewards chart showing cashback percentages for online and in-store purchases]({{ site.baseurl }}/assets/images/Key-Features-and-Rewards.webp){: .img-responsive loading="lazy"}
 
 The rewards program is straightforward and appealing for Walmart shoppers:
 
@@ -149,7 +149,7 @@ If approved, you may be offered the Store Card first, depending on your creditwo
 
 ## 📱 Managing Your Walmart Card
 
-![Walmart Card rewards chart showing cashback percentages for online and in-store purchases]({{ site.baseurl }}/assets/images/Managing-Your-Walmart-Card.webp)
+![Walmart Card rewards chart showing cashback percentages for online and in-store purchases]({{ site.baseurl }}/assets/images/Managing-Your-Walmart-Card.webp){: .img-responsive loading="lazy"}
 
 Capital One offers a great mobile app for managing your card. Features include:
 - Real-time transaction alerts

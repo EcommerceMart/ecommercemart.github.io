@@ -82,7 +82,7 @@ One common concern with Zaful is **sizing inconsistencies**. Here’s what to kn
 
 ## Zaful Shipping Review 2025
 
-![Zaful packaging process showing items being folded and packed in a warehouse]({{ site.baseurl }}/assets/images/Zaful-Shipping-Review-2025.webp)
+![Zaful packaging process showing items being folded and packed in a warehouse]({{ site.baseurl }}/assets/images/Zaful-Shipping-Review-2025.webp){: .img-responsive loading="lazy"}
 
 ### How Long Does Zaful Take to Ship?
 

@@ -331,7 +331,7 @@ Subscribe to Hollister's newsletter to receive early access to sales and promo c
 
 ## Hollister Rewards Program: Club Cali
 
-![Flat lay of Hollister hoodie, jeans, and mobile shopping app for 2025 review]({{ site.baseurl }}/assets/images/Hollister-Rewards-Program-Club-Cali.webp)
+![Flat lay of Hollister hoodie, jeans, and mobile shopping app for 2025 review]({{ site.baseurl }}/assets/images/Hollister-Rewards-Program-Club-Cali.webp){: .img-responsive loading="lazy"}
 
 ### What is Club Cali?
 

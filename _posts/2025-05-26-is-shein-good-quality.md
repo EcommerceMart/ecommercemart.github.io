@@ -69,7 +69,7 @@ Let’s explore each of these in detail.
 
 ## Fabric and Material Quality
 
-![Flat lay of three Shein clothing items labeled Hit, Miss, and Average to compare product quality]({{ site.baseurl }}/assets/images/Fabric-and-Material-Quality.webp)
+![Flat lay of three Shein clothing items labeled Hit, Miss, and Average to compare product quality]({{ site.baseurl }}/assets/images/Fabric-and-Material-Quality.webp){: .img-responsive loading="lazy"}
 
 ### What Are Shein Clothes Made Of?
 

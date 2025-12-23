@@ -118,7 +118,7 @@ Banana Republic Factory (the outlet line) is even more closely aligned with fast
 
 ## What About Sustainability at Banana Republic?
 
-![Textile factory producing sustainable fabrics used by Banana Republic]({{ site.baseurl }}/assets/images/What-About-Sustainability-at-Banana-Republic.webp)
+![Textile factory producing sustainable fabrics used by Banana Republic]({{ site.baseurl }}/assets/images/What-About-Sustainability-at-Banana-Republic.webp){: .img-responsive loading="lazy"}
 
 ### **Sustainability Claims**
 
@@ -202,7 +202,7 @@ Banana Republic Factory is often compared to Old Navy for quality and price, whi
 
 ## How to Shop Responsibly at Banana Republic
 
-![Customer browsing clothing racks inside a Banana Republic retail store]({{ site.baseurl }}/assets/images/How-to-Shop-Responsibly-at-Banana-Republic.webp)
+![Customer browsing clothing racks inside a Banana Republic retail store]({{ site.baseurl }}/assets/images/How-to-Shop-Responsibly-at-Banana-Republic.webp){: .img-responsive loading="lazy"}
 
 ### **If You Choose to Shop Banana Republic:**
 

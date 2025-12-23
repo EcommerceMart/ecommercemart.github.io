@@ -57,7 +57,7 @@ They offer international shipping services, often consolidating multiple items i
 
 ### Advantages of Using a Taobao Agent
 
-![Advantages of Using a Taobao Agent.]({{ site.baseurl }}/assets/images/Advantages-of-Using-a-Taobao-Agent.webp)
+![Advantages of Using a Taobao Agent.]({{ site.baseurl }}/assets/images/Advantages-of-Using-a-Taobao-Agent.webp){: .img-responsive loading="lazy"}
 
 * **Language Assistance:** Agents help you communicate with Chinese sellers.
 * **Logistics Support:** Handle everything from warehouse storage to international shipping.

@@ -87,7 +87,7 @@ jobs:
 
 ### 3. Automate Product Feed Updates
 
-![GitHub Actions dashboard showing a workflow for automating e-commerce product updates.]({{ site.baseurl }}/assets/images/Automate-Product-Feed-Updates.webp)
+![GitHub Actions dashboard showing a workflow for automating e-commerce product updates.]({{ site.baseurl }}/assets/images/Automate-Product-Feed-Updates.webp){: .img-responsive loading="lazy"}
 
 #### Example: Updating Google Merchant Center Feed
 
@@ -169,7 +169,7 @@ This workflow can be triggered manually (`workflow_dispatch`) or scheduled to ru
 
 ## Connecting GitHub with Third-Party Tools
 
-![Flowchart of GitHub integrated with third-party tools for automated e-commerce data synchronization.]({{ site.baseurl }}/assets/images/Connecting-GitHub-with-Third-Party-Tools.webp)
+![Flowchart of GitHub integrated with third-party tools for automated e-commerce data synchronization.]({{ site.baseurl }}/assets/images/Connecting-GitHub-with-Third-Party-Tools.webp){: .img-responsive loading="lazy"}
 
 ### 1. Zapier for Automation
 Zapier connects GitHub with over 3,000 apps, enabling workflows like:

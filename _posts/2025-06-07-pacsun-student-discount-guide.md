@@ -101,7 +101,7 @@ Once you are on the PacSun website, shop as normal. When you check out, your stu
 
 ## What Documents Do You Need for a PacSun Student Discount?
 
-![ What Documents Do You Need for a PacSun Student Discount]({{ site.baseurl }}/assets/images/Documents-PacSun-Student-Discount.webp)
+![ What Documents Do You Need for a PacSun Student Discount]({{ site.baseurl }}/assets/images/Documents-PacSun-Student-Discount.webp){: .img-responsive loading="lazy"}
 
 To prove you are a student, you may need to show:
 

@@ -49,7 +49,7 @@ Taobao, China’s largest online marketplace, offers a vast selection of product
 
 ## Shipping Methods from Taobao to Canada
 
-![Taobao Canada Shipping Options: Comparison of delivery times and costs for Air, Sea, and Express shipping methods]({{ site.baseurl }}/assets/images/Shipping-Methods-from-Taobao-to-Canada.webp)
+![Taobao Canada Shipping Options: Comparison of delivery times and costs for Air, Sea, and Express shipping methods]({{ site.baseurl }}/assets/images/Shipping-Methods-from-Taobao-to-Canada.webp){: .img-responsive loading="lazy"}
 
 Taobao offers several shipping methods for Canadian buyers. Each method has different costs and delivery times.
 
@@ -159,7 +159,7 @@ Shipping costs depend on:
 
 ## Tracking Your Taobao Canada Shipment
 
-![Taobao Canada Shipping Tracking: Example of order status updates from Taobao to Canada]({{ site.baseurl }}/assets/images/Tracking-Your-Taobao-Canada-Shipment.webp)
+![Taobao Canada Shipping Tracking: Example of order status updates from Taobao to Canada]({{ site.baseurl }}/assets/images/Tracking-Your-Taobao-Canada-Shipment.webp){: .img-responsive loading="lazy"}
 
 - **Tracking Number:** Provided once your order is shipped from the warehouse.
 - **How to Track:** Use Taobao’s order page, your agent’s tracking portal, or international tracking sites.

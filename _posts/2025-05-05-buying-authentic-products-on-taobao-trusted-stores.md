@@ -40,7 +40,7 @@ International buyers, especially non-Chinese speakers, often rely on images and 
 
 ## Types of Trusted Sellers on Taobao
 
-![Taobao flagship store interface showing verified badge and branded layout for trusted sellers]({{ site.baseurl }}/assets/images/Types-of-Trusted-Sellers-on-Taobao.webp)
+![Taobao flagship store interface showing verified badge and branded layout for trusted sellers]({{ site.baseurl }}/assets/images/Types-of-Trusted-Sellers-on-Taobao.webp){: .img-responsive loading="lazy"}
 
 ### Flagship Stores
 
@@ -85,7 +85,7 @@ Authentic listings include real customer-uploaded images and detailed feedback.
 
 ## Verifying Product Authenticity
 
-![Taobao flagship store interface showing verified badge and branded layout for trusted sellers]({{ site.baseurl }}/assets/images/Verifying-Product-Authenticity.webp)
+![Taobao flagship store interface showing verified badge and branded layout for trusted sellers]({{ site.baseurl }}/assets/images/Verifying-Product-Authenticity.webp){: .img-responsive loading="lazy"}
 
 ### Product Descriptions and Specs
 

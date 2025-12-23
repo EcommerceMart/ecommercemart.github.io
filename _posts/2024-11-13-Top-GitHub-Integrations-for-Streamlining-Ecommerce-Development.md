@@ -29,7 +29,7 @@ Let’s dive into each integration, exploring what it does and how it helps impr
 
 ## 1. Slack: Team Communication Made Easy
 
-![GitHub notifications in a Slack channel, showing real-time updates from GitHub in Slack]({{ site.baseurl }}/assets/images/GitHub-notifications-in-Slack-channel.webp)
+![GitHub notifications in a Slack channel, showing real-time updates from GitHub in Slack]({{ site.baseurl }}/assets/images/GitHub-notifications-in-Slack-channel.webp){: .img-responsive loading="lazy"}
 
 **What Slack Does:** Slack is a popular messaging platform that keeps your team connected and organized. It allows for instant messaging, file sharing, and channel creation for different topics.
 
@@ -104,7 +104,7 @@ Let’s dive into each integration, exploring what it does and how it helps impr
 
 ## 6. Sentry: Error Monitoring and Logging
 
-![Sentry error monitoring dashboard showing logged errors with links to specific GitHub issues, helping track and fix problems in e-commerce development]({{ site.baseurl }}/assets/images/Sentry-error-monitoring-dashboard-showing-logged-errors-with-links-to-specific-GitHub-issues.webp)
+![Sentry error monitoring dashboard showing logged errors with links to specific GitHub issues, helping track and fix problems in e-commerce development]({{ site.baseurl }}/assets/images/Sentry-error-monitoring-dashboard-showing-logged-errors-with-links-to-specific-GitHub-issues.webp){: .img-responsive loading="lazy"}
 
 **What Sentry Does:** Sentry is an error-tracking tool that helps developers monitor and fix bugs in real-time.
 

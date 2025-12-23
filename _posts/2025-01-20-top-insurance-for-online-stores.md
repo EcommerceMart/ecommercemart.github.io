@@ -47,7 +47,7 @@ Without proper insurance, your ecommerce venture may face significant setbacks i
 
 ## Top Insurance Options for Ecommerce Entrepreneurs
 
-![Step-by-step guide to creating a Taobao account, including filling out details, OTP verification, and linking Alipay.]({{ site.baseurl }}/assets/images/Top-Insurance-Options-for-Ecommerce-Entrepreneurs.webp)
+![Step-by-step guide to creating a Taobao account, including filling out details, OTP verification, and linking Alipay.]({{ site.baseurl }}/assets/images/Top-Insurance-Options-for-Ecommerce-Entrepreneurs.webp){: .img-responsive loading="lazy"}
 
 Here are the most important types of insurance to consider for your ecommerce business:
 
@@ -137,7 +137,7 @@ If you employ staff, this insurance is often legally required and ensures your e
 
 ## How to Choose the Right Insurance Policy
 
-![Graphic of a checklist surrounded by icons for cyber threats, product damage, and lawsuits, highlighting risk assessment for ecommerce businesses.]({{ site.baseurl }}/assets/images/How-to-Choose-the-Right-Insurance-Policy.webp)
+![Graphic of a checklist surrounded by icons for cyber threats, product damage, and lawsuits, highlighting risk assessment for ecommerce businesses.]({{ site.baseurl }}/assets/images/How-to-Choose-the-Right-Insurance-Policy.webp){: .img-responsive loading="lazy"}
 
 Selecting the best insurance policy for your ecommerce business involves understanding your specific needs and risks. Follow these steps:
 

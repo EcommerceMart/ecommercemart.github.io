@@ -62,7 +62,7 @@ Choose a framework or library for your ecommerce site. Popular choices include:
 
 ## Leveraging GitHub Tools for Ecommerce Website Development
 
-![Diagram of GitHub Actions workflow]({{ site.baseurl }}/assets/images/workflow-YAML-running-automated-tasks-with-GitHub-Actions.webp)
+![Diagram of GitHub Actions workflow]({{ site.baseurl }}/assets/images/workflow-YAML-running-automated-tasks-with-GitHub-Actions.webp){: .img-responsive loading="lazy"}
 
 ### 1. **GitHub Actions for Automation**
 GitHub Actions lets you automate workflows such as testing, building, and deploying your ecommerce website. For example:

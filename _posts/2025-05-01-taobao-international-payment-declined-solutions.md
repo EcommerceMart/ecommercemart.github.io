@@ -51,7 +51,7 @@ Let’s address each cause with practical fixes tailored for international users
 
 ## 1. Unsupported Foreign Payment Methods
 
-![Virtual global credit card showing multiple currency symbols like CNY, USD, and EUR]({{ site.baseurl }}/assets/images/Unsupported-Foreign-Payment-Methods.webp)
+![Virtual global credit card showing multiple currency symbols like CNY, USD, and EUR]({{ site.baseurl }}/assets/images/Unsupported-Foreign-Payment-Methods.webp){: .img-responsive loading="lazy"}
 
 ### Why It Happens
 
@@ -111,7 +111,7 @@ Some countries impose limits on outbound currency conversion. Contact your bank 
 
 ## 3. Alipay Verification Problems
 
-![Virtual global credit card showing multiple currency symbols like CNY, USD, and EUR]({{ site.baseurl }}/assets/images/Alipay-Verification-Problems.webp)
+![Virtual global credit card showing multiple currency symbols like CNY, USD, and EUR]({{ site.baseurl }}/assets/images/Alipay-Verification-Problems.webp){: .img-responsive loading="lazy"}
 
 ### Why It Happens
 

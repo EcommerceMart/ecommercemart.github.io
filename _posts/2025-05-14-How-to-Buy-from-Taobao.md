@@ -107,7 +107,7 @@ You purchase items directly on Taobao, ship them to a Chinese warehouse, and the
 
 ## Step-by-Step: How to Buy from Taobao Using an Agent
 
-![Taobao registration and login interface for new international users]({{ site.baseurl }}/assets/images/How-to-Buy-from-Taobao-Using.webp)
+![Taobao registration and login interface for new international users]({{ site.baseurl }}/assets/images/How-to-Buy-from-Taobao-Using.webp){: .img-responsive loading="lazy"}
 
 ### Step 1: Choose an Agent
 
@@ -290,7 +290,7 @@ Research your country’s import laws and limits.
 
 ## Real User Experiences
 
-![Taobao product listing with English translation using browser extension]({{ site.baseurl }}/assets/images/Real-User-Experiences.webp)
+![Taobao product listing with English translation using browser extension]({{ site.baseurl }}/assets/images/Real-User-Experiences.webp){: .img-responsive loading="lazy"}
 
 ### Reddit Reviews
 

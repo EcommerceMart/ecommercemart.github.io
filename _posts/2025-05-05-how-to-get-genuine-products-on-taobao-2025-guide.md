@@ -111,7 +111,7 @@ These agents offer photo inspections and can help assess a product’s legitimac
 
 ### Step 5: Compare Listings and Prices
 
-![Comparing fake and authentic product listings on Taobao to spot red flags]({{ site.baseurl }}/assets/images/Compare-Listings-and-Prices.webp)
+![Comparing fake and authentic product listings on Taobao to spot red flags]({{ site.baseurl }}/assets/images/Compare-Listings-and-Prices.webp){: .img-responsive loading="lazy"}
 
 #### Price Comparison Across Sellers
 
@@ -123,7 +123,7 @@ Upload product images to Google or Baidu to trace back the original product sour
 
 ## Using Taobao’s Rating and Trust Systems
 
-![Understanding Taobao’s seller rating system to find trustworthy stores]({{ site.baseurl }}/assets/images/Using-Taobao-Rating-and-Trust-Systems.webp)
+![Understanding Taobao’s seller rating system to find trustworthy stores]({{ site.baseurl }}/assets/images/Using-Taobao-Rating-and-Trust-Systems.webp){: .img-responsive loading="lazy"}
 
 ### Understanding Taobao’s Feedback System
 

@@ -100,7 +100,7 @@ With **[CNShopper](https://cnshopper.com/){:target="_blank"}**, international sh
 
 Using CNShopper is straightforward, even if you’re new to Taobao or other Chinese sites. Here’s the step-by-step process:  
 
-![Step-by-step process of how CNShopper helps international shoppers buy from China in 2025]({{ site.baseurl }}/assets/images/How-CNShopper-Works.webp)
+![Step-by-step process of how CNShopper helps international shoppers buy from China in 2025]({{ site.baseurl }}/assets/images/How-CNShopper-Works.webp){: .img-responsive loading="lazy"}
 
 1. **Create an Account** – Sign up on the CNShopper website.  
 2. **Search for Products** – Browse directly on Taobao or through CNShopper’s platform.  
@@ -217,7 +217,7 @@ Overall, reviews show that CNShopper is trusted by many international buyers, th
 
 When choosing a Taobao agent, most buyers compare **CNShopper, Superbuy, Bhiner, and CSSBuy**.  
 
-![CNShopper vs. Other Taobao Agents]({{ site.baseurl }}/assets/images/CNShopper-vs-Other-Taobao-Agents.webp)
+![CNShopper vs. Other Taobao Agents]({{ site.baseurl }}/assets/images/CNShopper-vs-Other-Taobao-Agents.webp){: .img-responsive loading="lazy"}
 
 Here’s how CNShopper stands out:
 

@@ -24,7 +24,7 @@ El comercio electrónico, también conocido como **ecommerce**, se ha convertido
 
 ## ¿Qué es el ecommerce?
 
-![Proceso de compra en una tienda ecommerce con pago digital y carrito de compras]({{ site.baseurl }}/assets/images/Qué-es-el-ecommerce.webp)
+![Proceso de compra en una tienda ecommerce con pago digital y carrito de compras]({{ site.baseurl }}/assets/images/Qué-es-el-ecommerce.webp){: .img-responsive loading="lazy"}
 
 El **ecommerce** o comercio electrónico es la compra y venta de productos o servicios a través de plataformas digitales. Puede realizarse mediante tiendas online, marketplaces o redes sociales.
 
@@ -82,7 +82,7 @@ Define también los métodos de envío según tu ubicación y clientes.
 
 ### 6. Implementar estrategias de marketing
 
-![Estrategias de marketing digital para tiendas online en 2025]({{ site.baseurl }}/assets/images/Implementar-estrategias-de-marketing.webp)
+![Estrategias de marketing digital para tiendas online en 2025]({{ site.baseurl }}/assets/images/Implementar-estrategias-de-marketing.webp){: .img-responsive loading="lazy"}
 
 Algunas técnicas clave para atraer clientes:
 - **SEO**: Optimiza tu tienda para aparecer en Google.

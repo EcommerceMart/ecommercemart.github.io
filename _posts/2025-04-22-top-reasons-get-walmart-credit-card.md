@@ -60,7 +60,7 @@ Both cards are issued by Capital One and offer substantial benefits for everyday
 
 ## 💸 Top Reasons to Get a Walmart Credit Card
 
-![Customer using Walmart Credit Card at self-checkout for cashback rewards]({{ site.baseurl }}/assets/images/Top-Reasons-to-Get-Walmart-Credit-Card.webp)
+![Customer using Walmart Credit Card at self-checkout for cashback rewards]({{ site.baseurl }}/assets/images/Top-Reasons-to-Get-Walmart-Credit-Card.webp){: .img-responsive loading="lazy"}
 
 ### 1. **Up to 5% Cashback**
 Walmart credit cards reward loyal customers with:

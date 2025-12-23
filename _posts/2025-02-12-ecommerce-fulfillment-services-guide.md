@@ -23,7 +23,7 @@ This guide will help you understand the different types of **ecommerce fulfillme
 
 ## What Are Ecommerce Fulfillment Services?
 
-![Warehouse worker packing ecommerce orders in a fulfillment center.]({{ site.baseurl }}/assets/images/What-Are-Ecommerce-Fulfillment-Services.webp)
+![Warehouse worker packing ecommerce orders in a fulfillment center.]({{ site.baseurl }}/assets/images/What-Are-Ecommerce-Fulfillment-Services.webp){: .img-responsive loading="lazy"}
 
 Ecommerce fulfillment services manage the entire order fulfillment process, from **warehousing and inventory management** to **packing, shipping, and returns processing**. The main types of fulfillment include:
 
@@ -68,7 +68,7 @@ An effective fulfillment service should offer a streamlined return process to ke
 
 ## Best Ecommerce Fulfillment Service Providers in 2025
 
-![Courier trucks loading ecommerce packages for fast delivery.]({{ site.baseurl }}/assets/images/Best-Ecommerce-Fulfillment-Service-Providers-in-2025.webp)
+![Courier trucks loading ecommerce packages for fast delivery.]({{ site.baseurl }}/assets/images/Best-Ecommerce-Fulfillment-Service-Providers-in-2025.webp){: .img-responsive loading="lazy"}
 
 Here are some of the top-rated **ecommerce fulfillment services** available today:
 

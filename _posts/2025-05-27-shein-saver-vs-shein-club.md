@@ -60,7 +60,7 @@ We'll also provide real user opinions and examples from platforms like Reddit to
 
 ## Shein Saver vs Shein Club: A Side-by-Side Comparison
 
-![ Side-by-side comparison table showing features of Shein Saver vs Shein Club]({{ site.baseurl }}/assets/images/Shein-Saver-vs-Shein-Club.webp)
+![ Side-by-side comparison table showing features of Shein Saver vs Shein Club]({{ site.baseurl }}/assets/images/Shein-Saver-vs-Shein-Club.webp){: .img-responsive loading="lazy"}
 
 
 | Feature                  | Shein Saver         | Shein Club                   |

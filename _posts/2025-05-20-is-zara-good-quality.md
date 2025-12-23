@@ -42,7 +42,7 @@ Zara shoppers often wonder about quality for several reasons:
 
 ## Materials and Construction: What Are Zara Clothes Made Of?
 
-![Materials and Construction: What Are Zara Clothes Made Of]({{ site.baseurl }}/assets/images/What-Are-Zara-Clothes-Made-Of.webp)
+![Materials and Construction: What Are Zara Clothes Made Of]({{ site.baseurl }}/assets/images/What-Are-Zara-Clothes-Made-Of.webp){: .img-responsive loading="lazy"}
 
 ### Fabric Types Commonly Used by Zara
 
@@ -122,7 +122,7 @@ Proper washing and drying play a huge role. Zara’s fabric tags often include s
 
 ## Sustainability and Ethical Considerations
 
-![Zara Join Life sustainable collection featuring eco-friendly clothing with organic cotton and recycled fabrics.]({{ site.baseurl }}/assets/images/Sustainability-and-Ethical-Considerations.webp)
+![Zara Join Life sustainable collection featuring eco-friendly clothing with organic cotton and recycled fabrics.]({{ site.baseurl }}/assets/images/Sustainability-and-Ethical-Considerations.webp){: .img-responsive loading="lazy"}
 
 ### Zara's Join Life Collection
 

@@ -78,7 +78,7 @@ You’ll receive a confirmation email and be able to access your Walmart Pass be
 
 ## Using Walmart Pass Effectively
 
-![Screenshot of Walmart+ app showing delivery tracking, savings dashboard, and grocery list features]({{ site.baseurl }}/assets/images/Additional-Benefits-and-Use-Cases.webp)
+![Screenshot of Walmart+ app showing delivery tracking, savings dashboard, and grocery list features]({{ site.baseurl }}/assets/images/Additional-Benefits-and-Use-Cases.webp){: .img-responsive loading="lazy"}
 
 ### How to Get Free Delivery
 
@@ -127,7 +127,7 @@ Total: \~\$34/month in savings for a \$12.95 subscription
 
 ## Tips to Maximize Walmart Pass
 
-![Screenshot of Walmart+ app showing delivery tracking, savings dashboard, and grocery list features]({{ site.baseurl }}/assets/images/How-Walmart-plus-Adds-Value-Beyond-Walmart-Pass.webp)
+![Screenshot of Walmart+ app showing delivery tracking, savings dashboard, and grocery list features]({{ site.baseurl }}/assets/images/How-Walmart-plus-Adds-Value-Beyond-Walmart-Pass.webp){: .img-responsive loading="lazy"}
 
 
 

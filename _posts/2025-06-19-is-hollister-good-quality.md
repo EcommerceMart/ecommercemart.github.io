@@ -46,7 +46,7 @@ Let’s see how Hollister stacks up against these criteria.
 
 ## Hollister Fabric Quality: What Materials Are Used?
 
-![Close-up of Hollister t-shirt fabric texture and stitching]({{ site.baseurl }}/assets/images/Hollister-Fabric-Quality-What-Materials-Are-Used.webp)
+![Close-up of Hollister t-shirt fabric texture and stitching]({{ site.baseurl }}/assets/images/Hollister-Fabric-Quality-What-Materials-Are-Used.webp){: .img-responsive loading="lazy"}
 
 ### T-Shirts and Tops
 
@@ -142,7 +142,7 @@ Hollister positions itself between trendy affordability and consistent performan
 
 ## Product-by-Product Quality Breakdown
 
-![Assortment of Hollister jeans, hoodies, and graphic tees displayed on a retail wall]({{ site.baseurl }}/assets/images/Product-by-Product-Quality-Breakdown.webp)
+![Assortment of Hollister jeans, hoodies, and graphic tees displayed on a retail wall]({{ site.baseurl }}/assets/images/Product-by-Product-Quality-Breakdown.webp){: .img-responsive loading="lazy"}
 
 ### Jeans
 

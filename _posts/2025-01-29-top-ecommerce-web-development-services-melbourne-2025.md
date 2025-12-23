@@ -29,7 +29,7 @@ Melbourne is home to some of the **best ecommerce developers** in Australia, off
 
 ## Key Features of a High-Performing Ecommerce Website
 
-![A team of developers working on an ecommerce website, with coding screens and UX design elements visible.]({{ site.baseurl }}/assets/images/Key-Features-of-a-High-Performing-Ecommerce-Website.webp)
+![A team of developers working on an ecommerce website, with coding screens and UX design elements visible.]({{ site.baseurl }}/assets/images/Key-Features-of-a-High-Performing-Ecommerce-Website.webp){: .img-responsive loading="lazy"}
 
 A successful ecommerce website should have:
 
@@ -86,7 +86,7 @@ Here are some of the **best ecommerce web development services** you can opt for
 
 ## How to Choose the Right Ecommerce Web Development Service in Melbourne
 
-![An analytics dashboard showing increased sales, conversion rates, and user engagement for an ecommerce store.]({{ site.baseurl }}/assets/images/How-to-Choose-the-Right-Ecommerce-Web-Development-Service-in-Melbourne.webp)
+![An analytics dashboard showing increased sales, conversion rates, and user engagement for an ecommerce store.]({{ site.baseurl }}/assets/images/How-to-Choose-the-Right-Ecommerce-Web-Development-Service-in-Melbourne.webp){: .img-responsive loading="lazy"}
 
 Selecting the best ecommerce development service can be overwhelming. Here’s a step-by-step guide:
 

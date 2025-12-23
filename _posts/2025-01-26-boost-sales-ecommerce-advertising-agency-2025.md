@@ -22,7 +22,7 @@ An ecommerce advertising agency specializes in promoting online stores and drivi
 
 ### Key Benefits of Hiring an Ecommerce Advertising Agency
 
-![Ecommerce advertising agency team analyzing digital campaign metrics to boost sales.]({{ site.baseurl }}/assets/images/Why-an-Ecommerce-Advertising-Agency-Matters.webp)
+![Ecommerce advertising agency team analyzing digital campaign metrics to boost sales.]({{ site.baseurl }}/assets/images/Why-an-Ecommerce-Advertising-Agency-Matters.webp){: .img-responsive loading="lazy"}
 
 1. **Expertise in Digital Marketing**: With years of experience and deep knowledge of digital platforms, agencies can craft effective campaigns tailored to your niche.
 2. **Cost Efficiency**: Professional agencies know how to allocate your ad budget for maximum ROI, ensuring you get the most value from every dollar spent.
@@ -74,7 +74,7 @@ A good agency maintains open lines of communication and provides regular updates
 
 ## Top Strategies Used by Leading Ecommerce Advertising Agencies
 
-![Digital marketing tools for ecommerce advertising agencies, including PPC, SEO, and social media ads.]({{ site.baseurl }}/assets/images/Top-Strategies-Used-by-Leading-Ecommerce-Advertising-Agencies.webp)
+![Digital marketing tools for ecommerce advertising agencies, including PPC, SEO, and social media ads.]({{ site.baseurl }}/assets/images/Top-Strategies-Used-by-Leading-Ecommerce-Advertising-Agencies.webp){: .img-responsive loading="lazy"}
 
 What separates the best ecommerce advertising agencies from the rest? It’s their ability to implement cutting-edge strategies that deliver results. Here are some of the most effective approaches:
 

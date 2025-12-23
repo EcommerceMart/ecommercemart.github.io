@@ -45,7 +45,7 @@ E-commerce websites often contain hundreds or even thousands of pages, making ma
 
 ### Setting Up GitHub Actions for E-commerce SEO Audits
 
-![Setting Up GitHub Actions for E-commerce SEO Audits]({{ site.baseurl }}/assets/images/Setting-Up-GitHub-Actions-for-Ecommerce-SEO-Audits.webp)
+![Setting Up GitHub Actions for E-commerce SEO Audits]({{ site.baseurl }}/assets/images/Setting-Up-GitHub-Actions-for-Ecommerce-SEO-Audits.webp){: .img-responsive loading="lazy"}
 
 Follow these steps to integrate GitHub Actions into your SEO auditing process:
 
@@ -128,7 +128,7 @@ Save this script in your repository and call it from your workflow file.
 
 ### Key SEO Metrics to Automate with GitHub Actions
 
-![Key SEO Metrics to Automate with GitHub Actions]({{ site.baseurl }}/assets/images/Key-SEO-Metrics-to-Automate-with-GitHub-Actions.webp)
+![Key SEO Metrics to Automate with GitHub Actions]({{ site.baseurl }}/assets/images/Key-SEO-Metrics-to-Automate-with-GitHub-Actions.webp){: .img-responsive loading="lazy"}
 
 When setting up SEO audits, focus on the following metrics:
 

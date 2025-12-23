@@ -29,7 +29,7 @@ EcommDirect is an advanced ecommerce platform designed to simplify online shoppi
 
 ### Key Features of EcommDirect
 
-![A person browsing a personalized online shopping experience with product recommendations on their laptop.]({{ site.baseurl }}/assets/images/Why-Connective-Ecommerce-is-the-Future.webp)
+![A person browsing a personalized online shopping experience with product recommendations on their laptop.]({{ site.baseurl }}/assets/images/Why-Connective-Ecommerce-is-the-Future.webp){: .img-responsive loading="lazy"}
 
 1. **AI-Powered Shopping Assistant** - Personalized recommendations based on user preferences and past behavior.
 2. **One-Click Checkout** - A frictionless shopping experience that reduces cart abandonment rates.
@@ -42,7 +42,7 @@ EcommDirect is an advanced ecommerce platform designed to simplify online shoppi
 
 ## How EcommDirect is Transforming Online Shopping
 
-![An AI-powered shopping assistant displaying personalized product recommendations on a futuristic digital interface, enhancing the online shopping experience.]({{ site.baseurl }}/assets/images/Personalized-Shopping-with-AI.webp)
+![An AI-powered shopping assistant displaying personalized product recommendations on a futuristic digital interface, enhancing the online shopping experience.]({{ site.baseurl }}/assets/images/Personalized-Shopping-with-AI.webp){: .img-responsive loading="lazy"}
 
 ### 1. Personalized Shopping with AI
 EcommDirect leverages artificial intelligence to analyze user behavior and preferences, offering highly tailored product suggestions. This enhances user experience and boosts sales conversions.
@@ -66,7 +66,7 @@ Consumers are becoming more eco-conscious. EcommDirect partners with **sustainab
 
 ## Why Businesses Are Adopting EcommDirect
 
-![A customer making a purchase directly through a social media platform, showcasing seamless ecommerce integration with Instagram, Facebook, and TikTok.]({{ site.baseurl }}/assets/images/Why-Businesses-Are-Adopting-EcommDirect.webp)
+![A customer making a purchase directly through a social media platform, showcasing seamless ecommerce integration with Instagram, Facebook, and TikTok.]({{ site.baseurl }}/assets/images/Why-Businesses-Are-Adopting-EcommDirect.webp){: .img-responsive loading="lazy"}
 
 ### 1. Increased Sales and Conversions
 With AI-driven marketing tools, EcommDirect helps businesses **target the right audience**, improving conversions and customer retention.

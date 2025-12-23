@@ -66,7 +66,7 @@ Polo Ralph Lauren often releases limited-edition collections and collaborations,
 
 ### **4. Retail Experience and Store Locations**
 
-![Interior of Polo Ralph Lauren store showing elegant clothing displays and luxury shopping environment]({{ site.baseurl }}/assets/images/Retail-Experience-and-Store-Locations.webp)
+![Interior of Polo Ralph Lauren store showing elegant clothing displays and luxury shopping environment]({{ site.baseurl }}/assets/images/Retail-Experience-and-Store-Locations.webp){: .img-responsive loading="lazy"}
 
 Polo Ralph Lauren stores are located in premium shopping districts like Rodeo Drive in Beverly Hills and Bond Street in London. The brand invests in beautiful store designs, attentive customer service, and a luxury shopping experience, all of which add to the overall cost.
 

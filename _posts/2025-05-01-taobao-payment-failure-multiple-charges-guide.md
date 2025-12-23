@@ -23,7 +23,7 @@ This guide dives deep into why multiple charges occur, how to identify them, and
 
 ## Understanding the Root Problem: "Taobao Payment Failed" with Multiple Charges
 
-![Bank statement showing duplicate Taobao transactions causing confusion for the international shopper]({{ site.baseurl }}/assets/images/Understanding-the-Root-Problem.webp)
+![Bank statement showing duplicate Taobao transactions causing confusion for the international shopper]({{ site.baseurl }}/assets/images/Understanding-the-Root-Problem.webp){: .img-responsive loading="lazy"}
 
 When a payment fails on Taobao or Alipay, the system may attempt to retry the transaction, especially if it’s stuck between authorization and final settlement. This creates a loop where your bank might register several pending payments for the same order.
 
@@ -71,7 +71,7 @@ Check if the same order ID appears multiple times or if Taobao shows a “paymen
 
 Request clarification on whether multiple charges are pending or finalized. Banks can reverse duplicate pre-authorizations within a few days.
 
-![User contacting Taobao customer support online to resolve duplicate payment issues]({{ site.baseurl }}/assets/images/Contact-Your-Bank.webp)
+![User contacting Taobao customer support online to resolve duplicate payment issues]({{ site.baseurl }}/assets/images/Contact-Your-Bank.webp){: .img-responsive loading="lazy"}
 
 ### b. File a Dispute with Alipay
 

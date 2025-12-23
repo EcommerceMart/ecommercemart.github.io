@@ -43,7 +43,7 @@ Carhartt started this program to help the environment and give you more ways to 
 
 ## How Does Carhartt Reworked Work?
 
-![Carhartt Reworked cargo pants displayed to highlight durability and style in sustainable workwear.]({{ site.baseurl }}/assets/images/How-Does-Carhartt-Reworked-Work.webp)
+![Carhartt Reworked cargo pants displayed to highlight durability and style in sustainable workwear.]({{ site.baseurl }}/assets/images/How-Does-Carhartt-Reworked-Work.webp){: .img-responsive loading="lazy"}
 
 ### How to Trade In Your Carhartt Gear
 
@@ -159,7 +159,7 @@ Some buyers mention that sizing can vary, since the items are used. Others wish 
 
 ## The Environmental Impact of Carhartt Reworked
 
-![Unique Carhartt Reworked patchwork jackets, showcasing one-of-a-kind designs made from recycled Carhartt materials]({{ site.baseurl }}/assets/images/The-Environmental-Impact-of-Carhartt-Reworked.webp)
+![Unique Carhartt Reworked patchwork jackets, showcasing one-of-a-kind designs made from recycled Carhartt materials]({{ site.baseurl }}/assets/images/The-Environmental-Impact-of-Carhartt-Reworked.webp){: .img-responsive loading="lazy"}
 
 ### Reducing Waste
 

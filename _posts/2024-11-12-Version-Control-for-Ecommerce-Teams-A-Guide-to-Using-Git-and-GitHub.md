@@ -43,7 +43,7 @@ These settings help Git keep track of who is making changes.
 #### Step 2: Create a New Repository on GitHub
 
 A **repository** (or “repo”) is like a folder that contains all the files for your project.
-![Screenshot of a GitHub-repository layout, showing repository name, description, branches, commits, and pull requests sections.]({{ site.baseurl }}/assets/images/Screenshot-of-GitHub-repository-layout.webp)
+![Screenshot of a GitHub-repository layout, showing repository name, description, branches, commits, and pull requests sections.]({{ site.baseurl }}/assets/images/Screenshot-of-GitHub-repository-layout.webp){: .img-responsive loading="lazy"}
 
 1. **Log in to GitHub:**
 After logging in, click the **New** button to create a new repository.
@@ -107,7 +107,7 @@ Your changes are now saved in your GitHub repository, where your team members ca
 
 #### Step 6: Collaborate with Your Team
 GitHub offers features to help teams work together effectively.
-![Diagram of GitHub branches and pull request flow, with main branch and feature branch linked through a pull request for review.]({{ site.baseurl }}/assets/images/Diagram-of-GitHub-branches-and-pull-request-flow.webp)
+![Diagram of GitHub branches and pull request flow, with main branch and feature branch linked through a pull request for review.]({{ site.baseurl }}/assets/images/Diagram-of-GitHub-branches-and-pull-request-flow.webp){: .img-responsive loading="lazy"}
 
 1. **Branches:** Use branches to work on new ideas without changing the main project. For example, you could create a new-design branch to test a new layout.
 2. **Pull Requests:** After working on a branch, you can open a pull request on GitHub. A pull request lets team members review your work before adding it to the main project.

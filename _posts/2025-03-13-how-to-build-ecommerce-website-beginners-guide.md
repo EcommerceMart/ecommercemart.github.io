@@ -57,7 +57,7 @@ To make your website accessible online, you need:
 
 ## Step 3: Design Your eCommerce Website
 
-![A user customizing an eCommerce website layout using a drag-and-drop builder on Shopify]({{ site.baseurl }}/assets/images/Design-Your-eCommerce-Website.webp)
+![A user customizing an eCommerce website layout using a drag-and-drop builder on Shopify]({{ site.baseurl }}/assets/images/Design-Your-eCommerce-Website.webp){: .img-responsive loading="lazy"}
 
 A well-designed website boosts customer trust. Consider:
 
@@ -71,7 +71,7 @@ A well-designed website boosts customer trust. Consider:
 
 ## Step 4: Add Products to Your Store
 
-![An eCommerce dashboard showing product listings, pricing, and inventory management options]({{ site.baseurl }}/assets/images/Add-Products-to-Your-Store.webp)
+![An eCommerce dashboard showing product listings, pricing, and inventory management options]({{ site.baseurl }}/assets/images/Add-Products-to-Your-Store.webp){: .img-responsive loading="lazy"}
 
 Your products are the heart of your store. When adding them:
 

@@ -39,7 +39,7 @@ If you’re facing any of these issues, read on to learn the best ways to contac
 
 ## How to Contact DHL eCommerce Customer Service in 2025
 
-![Customer using live chat to contact DHL eCommerce customer service on a laptop]({{ site.baseurl }}/assets/images/How-to-Contact-DHL-eCommerce-Customer-Service-in-2025.webp)
+![Customer using live chat to contact DHL eCommerce customer service on a laptop]({{ site.baseurl }}/assets/images/How-to-Contact-DHL-eCommerce-Customer-Service-in-2025.webp){: .img-responsive loading="lazy"}
 
 ### 1. **DHL eCommerce Customer Service Phone Number**
 
@@ -97,7 +97,7 @@ Using the self-help portal can save you time and provide instant solutions.
 
 ## Common DHL eCommerce Issues and How to Fix Them
 
-![DHL eCommerce tracking page on a smartphone, showing shipment status updates]({{ site.baseurl }}/assets/images/Common-DHL-eCommerce-Issues-and-How-to-Fix-Them.webp)
+![DHL eCommerce tracking page on a smartphone, showing shipment status updates]({{ site.baseurl }}/assets/images/Common-DHL-eCommerce-Issues-and-How-to-Fix-Them.webp){: .img-responsive loading="lazy"}
 
 ### **1. My Package is Stuck in Transit**
 - Check the tracking page for updates.

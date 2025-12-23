@@ -18,7 +18,7 @@ In the rapidly evolving digital landscape of 2025, Retail Ecommerce Ventures (RE
 
 ## The Rise of Retail Ecommerce Ventures
 
-![A digital transformation concept showing an online storefront with rising sales charts and a shopping cart icon.]({{ site.baseurl }}/assets/images/The-Rise-of-Retail-Ecommerce-Ventures.webp)
+![A digital transformation concept showing an online storefront with rising sales charts and a shopping cart icon.]({{ site.baseurl }}/assets/images/The-Rise-of-Retail-Ecommerce-Ventures.webp){: .img-responsive loading="lazy"}
 
 REV specializes in acquiring distressed retail brands and transitioning them into thriving online businesses. By leveraging advanced technologies and innovative strategies, REV has successfully transformed numerous brands, preserving their legacy while adapting them to the digital age.
 
@@ -42,7 +42,7 @@ Several trends are influencing the ecommerce landscape and, by extension, the jo
 
 ## Impact on U.S. Jobs
 
-![A diverse team of ecommerce professionals working in digital marketing, customer support, and logistics, highlighting U.S. job opportunities in online retail.]({{ site.baseurl }}/assets/images/Impact-on-US-Jobs.webp)
+![A diverse team of ecommerce professionals working in digital marketing, customer support, and logistics, highlighting U.S. job opportunities in online retail.]({{ site.baseurl }}/assets/images/Impact-on-US-Jobs.webp){: .img-responsive loading="lazy"}
 
 The expansion of ecommerce, driven by companies like REV, has significant implications for the U.S. job market:
 

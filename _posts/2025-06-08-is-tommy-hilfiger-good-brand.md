@@ -24,7 +24,7 @@ Tommy Hilfiger is a popular American fashion brand known for its classic styles 
 
 ## What is Tommy Hilfiger? Brand Overview
 
-![Close-up of Tommy Hilfiger logo embroidered on a navy blue polo shirt]({{ site.baseurl }}/assets/images/What-is-Tommy-Hilfiger.webp)
+![Close-up of Tommy Hilfiger logo embroidered on a navy blue polo shirt]({{ site.baseurl }}/assets/images/What-is-Tommy-Hilfiger.webp){: .img-responsive loading="lazy"}
 
 ### **History of Tommy Hilfiger**  
 Founded in 1985 by designer Thomas Jacob Hilfiger, the brand started with a focus on modern American fashion. Its iconic Times Square billboard campaign in the 1980s compared it to Ralph Lauren and Calvin Klein, quickly making it a household name. Today, Tommy Hilfiger sells clothing, accessories, fragrances, and home goods worldwide.
@@ -153,7 +153,7 @@ Tommy Hilfiger ranks **#3 in fashion** behind Ralph Lauren and Burberry. Its col
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script> -->
 
-![Model wearing Tommy Hilfiger casual outfit including jeans and jacket in an outdoor urban setting]({{ site.baseurl }}/assets/images/Who-Should-Buy-Tommy-Hilfiger.webp)
+![Model wearing Tommy Hilfiger casual outfit including jeans and jacket in an outdoor urban setting]({{ site.baseurl }}/assets/images/Who-Should-Buy-Tommy-Hilfiger.webp){: .img-responsive loading="lazy"}
 
 **Good for you if:**  
 ✅ You want timeless, preppy styles  

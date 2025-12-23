@@ -61,7 +61,7 @@ Before you begin writing, outline the structure of your API documentation. A wel
 
 ### Step 2: Write Documentation in Markdown
 
-![Screenshot of a GitHub repository with organized folders and API documentation files in Markdown format.]({{ site.baseurl }}/assets/images/Use-GitHub-Repositories-for-Version-Control.webp)
+![Screenshot of a GitHub repository with organized folders and API documentation files in Markdown format.]({{ site.baseurl }}/assets/images/Use-GitHub-Repositories-for-Version-Control.webp){: .img-responsive loading="lazy"}
 
 Markdown is a lightweight markup language that GitHub supports natively. It’s perfect for creating developer-friendly documentation. Here’s an example of an API endpoint documentation written in Markdown:
 
@@ -150,7 +150,7 @@ url: "https://yourusername.github.io"
 
 ## Best Practices for API Documentation
 
-![API documentation hosted on GitHub Pages with a professional layout and navigation.]({{ site.baseurl }}/assets/images/Best-Practices-for-API-Documentation.webp)
+![API documentation hosted on GitHub Pages with a professional layout and navigation.]({{ site.baseurl }}/assets/images/Best-Practices-for-API-Documentation.webp){: .img-responsive loading="lazy"}
 
 ### 1. **Clarity and Simplicity**
 Write concise and clear explanations. Avoid technical jargon unless necessary, and always include examples.

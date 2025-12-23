@@ -69,7 +69,7 @@ Superbuy is **not a scam**. It is a legitimate business with active customer sup
 
 ## How Superbuy Works: Step-by-Step Walkthrough
 
-![Superbuy staff handling packages in a clean, organized warehouse environment.]({{ site.baseurl }}/assets/images/How-Superbuy-Works.webp)
+![Superbuy staff handling packages in a clean, organized warehouse environment.]({{ site.baseurl }}/assets/images/How-Superbuy-Works.webp){: .img-responsive loading="lazy"}
 
 ### Step 1: Create an Account
 

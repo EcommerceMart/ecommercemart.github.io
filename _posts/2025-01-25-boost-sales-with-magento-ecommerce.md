@@ -120,7 +120,7 @@ By choosing the right extensions, you can customize your store to better meet cu
 
 ## 7. Analyze and Improve with Magento Analytics  
 
-![Magento admin dashboard showing analytics for sales, product performance, and customer data.]({{ site.baseurl }}/assets/images/Analyze-and-Improve-with-Magento-Analytics.webp)
+![Magento admin dashboard showing analytics for sales, product performance, and customer data.]({{ site.baseurl }}/assets/images/Analyze-and-Improve-with-Magento-Analytics.webp){: .img-responsive loading="lazy"}
 
 Magento offers robust analytics tools to help you track performance and identify areas for improvement.  
 
@@ -136,7 +136,7 @@ Regularly analyzing these metrics can help you make data-driven decisions to opt
 
 ## 8. Create a Seamless Omnichannel Experience  
 
-![Omnichannel integration with Magento connecting online store, mobile app, physical store, and social media platforms.]({{ site.baseurl }}/assets/images/Enable-Multi-Store-Management-for-Global-Reach.webp)
+![Omnichannel integration with Magento connecting online store, mobile app, physical store, and social media platforms.]({{ site.baseurl }}/assets/images/Enable-Multi-Store-Management-for-Global-Reach.webp){: .img-responsive loading="lazy"}
 
 Today’s customers expect a consistent shopping experience across all channels. Magento’s integration capabilities make it easy to create an **omnichannel strategy**.  
 

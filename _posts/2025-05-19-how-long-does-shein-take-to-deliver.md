@@ -27,7 +27,7 @@ Shein is a global fast-fashion brand that delivers affordable clothing, accessor
 
 ## Overview of Shein Delivery Process
 
-![Comparison chart of Shein standard vs express shipping delivery times by country]({{ site.baseurl }}/assets/images/Overview-of-Shein-Delivery-Process.webp)
+![Comparison chart of Shein standard vs express shipping delivery times by country]({{ site.baseurl }}/assets/images/Overview-of-Shein-Delivery-Process.webp){: .img-responsive loading="lazy"}
 
 ### How Shein Processes Orders
 
@@ -212,7 +212,7 @@ Ensure your shipping details are correct to avoid return-to-sender delays.
 
 ## What to Do If Your Shein Order Is Late
 
-![Example of delayed Shein order showing tracking status and support options]({{ site.baseurl }}/assets/images/What-to-Do-If-Your-Shein-Order-Is-Late.webp)
+![Example of delayed Shein order showing tracking status and support options]({{ site.baseurl }}/assets/images/What-to-Do-If-Your-Shein-Order-Is-Late.webp){: .img-responsive loading="lazy"}
 
 ### Step-by-Step:
 
