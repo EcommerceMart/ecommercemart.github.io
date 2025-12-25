@@ -258,4 +258,4 @@ Polo Ralph Lauren is a trusted, respected brand that delivers on quality, style,
 ---
 
 ## Related Posts
-[Why Is Polo Ralph Lauren So Expensive? Honest Guide for USA Shoppers]({{ site.baseurl }}/{why-is-polo-ralph-lauren-so-expensive}/)
+[Why Is Polo Ralph Lauren So Expensive? Honest Guide for USA Shoppers]({{ site.baseurl }}/why-is-polo-ralph-lauren-so-expensive/)

@@ -161,4 +161,4 @@ So, there’s my **NetSuite ecommerce** saga! From taming inventory to boosting 
 
 Ready to power up your ecommerce dreams? Whether it’s NetSuite or Shopify, 2025’s your year to shine! Drop a comment if you dive in—I’d love to cheer you on! 🎉 Happy selling, friends! 🚀
 ## Related Posts
-[My Shopify Website Journey: Why It’s My Go-To for Building an Online Empire in 2025 🌟]({{ site.baseurl }}/{my-shopify-website-journey-2025}/)
+[My Shopify Website Journey: Why It’s My Go-To for Building an Online Empire in 2025 🌟]({{ site.baseurl }}/my-shopify-website-journey-2025/)

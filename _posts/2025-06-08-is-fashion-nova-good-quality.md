@@ -303,4 +303,4 @@ Fashion Nova is a popular brand for trendy, affordable clothes. The quality is m
 ---
 
 ## Related Posts
-[Is Fashion Nova Legit?]({{ site.baseurl }}/{is-fashion-nova-legit}/)
+[Is Fashion Nova Legit?]({{ site.baseurl }}/is-fashion-nova-legit/)

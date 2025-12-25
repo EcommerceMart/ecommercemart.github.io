@@ -309,5 +309,5 @@ Yes. Buying during holiday events or Club Cali promos brings maximum value.
 ---
 
 ## Related Posts
-[Is Hollister Expensive? A Complete Guide to Hollister Prices]({{ site.baseurl }}/{is-hollister-expensive}/)
-[Is Hollister Legit? What You Need to Know Before Buying]({{ site.baseurl }}/{is-hollister-legit-tips}/)
+[Is Hollister Expensive? A Complete Guide to Hollister Prices]({{ site.baseurl }}/is-hollister-expensive/)
+[Is Hollister Legit? What You Need to Know Before Buying]({{ site.baseurl }}/is-hollister-legit-tips/)

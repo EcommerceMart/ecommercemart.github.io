@@ -294,4 +294,4 @@ If you’ve been wondering, *is Rare Beauty worth it?* — the answer is likely 
 Let us know your experience with Rare Beauty, or explore our full product comparisons to help guide your next beauty buy.
 
 ## Related Posts
-[Is Rare Beauty Clean? Uncover the ingredients inside]({{ site.baseurl }}/{is-rare-beauty-clean}/)
+[Is Rare Beauty Clean? Uncover the ingredients inside]({{ site.baseurl }}/is-rare-beauty-clean/)

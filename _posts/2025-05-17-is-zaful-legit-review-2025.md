@@ -300,8 +300,8 @@ All images should include descriptive alt text and be optimized for fast load ti
 
 
 ## Related Posts
-[Change Language on Taobao App: Quick Guide (2025)]({{ site.baseurl }}/{change-language-taobao-app}/)
-[Is Taobao Safe? What You Need to Know Before Buying]({{ site.baseurl }}/{is-taobao-safe-tips}/)
-[Avoiding Multiple Charges: What to Do When Taobao Payment Fails]({{ site.baseurl }}/{taobao-payment-failure-multiple-charges-guide}/)
-[Is ezbuy Safe? A Comprehensive Guide for Shoppers]({{ site.baseurl }}/{is-ezbuy-safe-tips}/)
-[Taobao Payment Failed? 5 Common Reasons and How to Fix Them]({{ site.baseurl }}/{taobao-payment-failed-fix-common-errors}/)
+[Change Language on Taobao App: Quick Guide (2025)]({{ site.baseurl }}/change-language-taobao-app/)
+[Is Taobao Safe? What You Need to Know Before Buying]({{ site.baseurl }}/is-taobao-safe-tips/)
+[Avoiding Multiple Charges: What to Do When Taobao Payment Fails]({{ site.baseurl }}/taobao-payment-failure-multiple-charges-guide/)
+[Is ezbuy Safe? A Comprehensive Guide for Shoppers]({{ site.baseurl }}/is-ezbuy-safe-tips/)
+[Taobao Payment Failed? 5 Common Reasons and How to Fix Them]({{ site.baseurl }}/taobao-payment-failed-fix-common-errors/)

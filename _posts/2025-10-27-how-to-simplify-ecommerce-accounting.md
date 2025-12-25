@@ -271,4 +271,4 @@ Whether you’re a solo entrepreneur or managing a growing ecommerce brand, inve
 ---
 
 ## Related Posts
-[Top 10 Ecommerce Accounting Mistakes and How to Avoid Them]({{ site.baseurl }}/{top-ecommerce-accounting-mistakes}/)
+[Top 10 Ecommerce Accounting Mistakes and How to Avoid Them]({{ site.baseurl }}/top-ecommerce-accounting-mistakes/)

@@ -282,4 +282,4 @@ Fashion Nova is a popular, affordable fashion brand that offers trendy styles an
 ---
 
 ## Related Posts
-[Is Fashion Nova Good Quality? Pros, Cons, and Honest Customer Feedback]({{ site.baseurl }}/{is-fashion-nova-good-quality}/)
+[Is Fashion Nova Good Quality? Pros, Cons, and Honest Customer Feedback]({{ site.baseurl }}/is-fashion-nova-good-quality/)

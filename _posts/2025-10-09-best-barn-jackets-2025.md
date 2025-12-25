@@ -177,5 +177,5 @@ If you’re building a wardrobe that blends **functionality, style, and trend-dr
 ---
 
 ## Related Posts
-[Barn Jacket Style Guide: How to Wear This Timeless Classic]({{ site.baseurl }}/{barn-jacket-style-guide}/)
-[Barn Jacket vs. Field Jacket: Key Differences You Should Know]({{ site.baseurl }}/{barn-jacket-vs-field-jacket-differences-guide}/)
+[Barn Jacket Style Guide: How to Wear This Timeless Classic]({{ site.baseurl }}/barn-jacket-style-guide/)
+[Barn Jacket vs. Field Jacket: Key Differences You Should Know]({{ site.baseurl }}/barn-jacket-vs-field-jacket-differences-guide/)

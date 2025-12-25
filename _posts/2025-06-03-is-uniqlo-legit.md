@@ -135,5 +135,5 @@ Uniqlo has made efforts toward sustainability and supply chain transparency, but
 
 
 ## Related Posts
-[Is Uniqlo Fast Fashion? A Comprehensive Guide]({{ site.baseurl }}/{is-uniqlo-fast-fashion}/)
-[Is Uniqlo Good Quality? A Comprehensive Review]({{ site.baseurl }}/{is-uniqlo-good-quality}/)
+[Is Uniqlo Fast Fashion? A Comprehensive Guide]({{ site.baseurl }}/is-uniqlo-fast-fashion/)
+[Is Uniqlo Good Quality? A Comprehensive Review]({{ site.baseurl }}/is-uniqlo-good-quality/)

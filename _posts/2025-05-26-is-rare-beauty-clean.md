@@ -226,4 +226,4 @@ Rare Beauty stands out as a brand that puts consumer health, emotional well-bein
 If clean, conscious, and skin-friendly beauty is your goal, **Rare Beauty is absolutely worth exploring.**
 
 ## Related Posts
-[Is Rare Beauty Worth It? Honest reviews may surprise you]({{ site.baseurl }}/{is-rare-beauty-worth-it}/)
+[Is Rare Beauty Worth It? Honest reviews may surprise you]({{ site.baseurl }}/is-rare-beauty-worth-it/)

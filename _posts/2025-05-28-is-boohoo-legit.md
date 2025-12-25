@@ -283,4 +283,4 @@ If you are considering buying from Boohoo, this guide should give you confidence
 
 
 ## Related Posts
-[Is Boohoo Good Quality? Honest Insights for Smart Shoppers]({{ site.baseurl }}/{is-boohoo-good-quality}/)
+[Is Boohoo Good Quality? Honest Insights for Smart Shoppers]({{ site.baseurl }}/is-boohoo-good-quality/)

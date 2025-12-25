@@ -227,8 +227,8 @@ Packages under $800 are typically duty-free in the USA. But check current import
 
 
 ## Related Posts
-[Change Language on Taobao App: Quick Guide (2025)]({{ site.baseurl }}/{change-language-taobao-app}/)
-[How to Use Taobao in English: A Step-by-Step Guide]({{ site.baseurl }}/{how-to-use-taobao-in-english}/)
-[Taobao Shipping Explained: Delivery Times & Costs in 2025]({{ site.baseurl }}/{taobao-shipping-explained-delivery-times-costs-2025}/)
-[Avoiding Multiple Charges: What to Do When Taobao Payment Fails]({{ site.baseurl }}/{taobao-payment-failure-multiple-charges-guide}/)
-[Taobao Payment Failed? 5 Common Reasons and How to Fix Them]({{ site.baseurl }}/{taobao-payment-failed-fix-common-errors}/)
+[Change Language on Taobao App: Quick Guide (2025)]({{ site.baseurl }}/change-language-taobao-app/)
+[How to Use Taobao in English: A Step-by-Step Guide]({{ site.baseurl }}/how-to-use-taobao-in-english/)
+[Taobao Shipping Explained: Delivery Times & Costs in 2025]({{ site.baseurl }}/taobao-shipping-explained-delivery-times-costs-2025/)
+[Avoiding Multiple Charges: What to Do When Taobao Payment Fails]({{ site.baseurl }}/taobao-payment-failure-multiple-charges-guide/)
+[Taobao Payment Failed? 5 Common Reasons and How to Fix Them]({{ site.baseurl }}/taobao-payment-failed-fix-common-errors/)

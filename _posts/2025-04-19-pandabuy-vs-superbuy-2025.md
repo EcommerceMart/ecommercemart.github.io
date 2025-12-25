@@ -222,8 +222,8 @@ Happy shopping!
 
 
 ## Related Posts
-[Change Language on Taobao App: Quick Guide (2025)]({{ site.baseurl }}/{change-language-taobao-app}/)
-[Is Taobao Safe? What You Need to Know Before Buying]({{ site.baseurl }}/{is-taobao-safe-tips}/)
-[Is Taobao Good Quality? A 2025 Guide to Shopping Smart on China's Biggest E-commerce Platform]({{ site.baseurl }}/{Is-Taobao-Good-Quality}/)
-[How to Join Pandabuy Affiliate Program]({{ site.baseurl }}/{How-to-join-pandabuy-affiliate-program}/)
-[Avoiding Multiple Charges: What to Do When Taobao Payment Fails]({{ site.baseurl }}/{taobao-payment-failure-multiple-charges-guide}/)
+[Change Language on Taobao App: Quick Guide (2025)]({{ site.baseurl }}/change-language-taobao-app/)
+[Is Taobao Safe? What You Need to Know Before Buying]({{ site.baseurl }}/is-taobao-safe-tips/)
+[Is Taobao Good Quality? A 2025 Guide to Shopping Smart on China's Biggest E-commerce Platform]({{ site.baseurl }}/Is-Taobao-Good-Quality/)
+[How to Join Pandabuy Affiliate Program]({{ site.baseurl }}/How-to-join-pandabuy-affiliate-program/)
+[Avoiding Multiple Charges: What to Do When Taobao Payment Fails]({{ site.baseurl }}/taobao-payment-failure-multiple-charges-guide/)

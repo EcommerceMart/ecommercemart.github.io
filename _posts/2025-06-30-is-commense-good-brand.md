@@ -380,5 +380,5 @@ No. Return shipping is usually paid by the customer.
 ---
 
 ## Related Posts
-[Is Commense Fast Fashion? The Truth Behind the Brand]({{ site.baseurl }}/{is-commense-fast-fashion}/)
-[Is Commense Legit? What You Need to Know Before Buying]({{ site.baseurl }}/{is-commense-legit}/)
+[Is Commense Fast Fashion? The Truth Behind the Brand]({{ site.baseurl }}/is-commense-fast-fashion/)
+[Is Commense Legit? What You Need to Know Before Buying]({{ site.baseurl }}/is-commense-legit/)

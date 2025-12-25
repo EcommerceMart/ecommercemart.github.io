@@ -216,8 +216,8 @@ Happy shopping on **Taobao Canada**! 🇨🇦 🛍️
 
 
 ## Related Posts
-[Is Taobao Safe? What You Need to Know Before Buying]({{ site.baseurl }}/{is-taobao-safe-tips}/)
-[Understanding Taobao Payment Options for Canadian Shoppers]({{ site.baseurl }}/{understanding-taobao-payment-options-canada}/)
-[Taobao Payment Failed? 5 Common Reasons and How to Fix Them]({{ site.baseurl }}/{taobao-payment-failed-fix-common-errors}/)
-[Best Practices for Collaborative E-commerce Development on GitHub]({{ site.baseurl }}/{Best-Practices-for-Collaborative-Ecommerce-Development-on-GitHub}/)
-[Unlock the Best Deals on Taobao in 2025]({{ site.baseurl }}/{how-to-shop-on-taobao}/)
+[Is Taobao Safe? What You Need to Know Before Buying]({{ site.baseurl }}/is-taobao-safe-tips/)
+[Understanding Taobao Payment Options for Canadian Shoppers]({{ site.baseurl }}/understanding-taobao-payment-options-canada/)
+[Taobao Payment Failed? 5 Common Reasons and How to Fix Them]({{ site.baseurl }}/taobao-payment-failed-fix-common-errors/)
+[Best Practices for Collaborative E-commerce Development on GitHub]({{ site.baseurl }}/Best-Practices-for-Collaborative-Ecommerce-Development-on-GitHub/)
+[Unlock the Best Deals on Taobao in 2025]({{ site.baseurl }}/how-to-shop-on-taobao/)

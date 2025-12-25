@@ -340,4 +340,4 @@ If you’re a Shopify merchant looking for a cash boost to scale operations, Sho
 ---
 
 ## Related Posts
-[Is Shopify Capital Worth It in 2025? Pros, Cons, and Real Merchant Experiences]({{ site.baseurl }}/{is-shopify-capital-worth-it-2025}/)
+[Is Shopify Capital Worth It in 2025? Pros, Cons, and Real Merchant Experiences]({{ site.baseurl }}/is-shopify-capital-worth-it-2025/)

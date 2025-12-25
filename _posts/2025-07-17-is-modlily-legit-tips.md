@@ -238,4 +238,4 @@ Always shop with caution, read customer reviews, and use secure payment methods 
 ---
 
 ## Related Posts
-[Is Modlily Reputable? Everything You Need to Know Before Shopping]({{ site.baseurl }}/{is-modlily-reputable-site}/)
+[Is Modlily Reputable? Everything You Need to Know Before Shopping]({{ site.baseurl }}/is-modlily-reputable-site/)

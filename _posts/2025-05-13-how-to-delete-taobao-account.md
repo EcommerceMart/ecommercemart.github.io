@@ -282,4 +282,4 @@ Deleting your **Taobao account** isn’t a complicated process, but it does requ
 ---
 
 ## Related Posts
-[How to Buy from Taobao: A Complete 2025 Guide for International Shoppers]({{ site.baseurl }}/{How-to-Buy-from-Taobao}/)
+[How to Buy from Taobao: A Complete 2025 Guide for International Shoppers]({{ site.baseurl }}/How-to-Buy-from-Taobao/)

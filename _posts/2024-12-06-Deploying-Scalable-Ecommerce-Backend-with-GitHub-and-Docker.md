@@ -199,8 +199,8 @@ By following this guide and implementing best practices for scalability and reli
 
 Would you like additional customization for this workflow or more details on any specific part? Let me know!
 ## Related Posts
-[Automating E-commerce Testing with GitHub Actions and Selenium]({{ site.baseurl }}/{Automating-ecommerce-testing-with-GitHub-Actions-and-Selenium}/)
-[Using GitHub Actions for E-commerce SEO Audits]({{ site.baseurl }}/{Using-GitHub-Actions-for-E-commerce-SEO-Audits}/)
-[How to Use GitHub’s Community Features to Gather Feedback on E-commerce Features]({{ site.baseurl }}/{How-to-Use-GitHubs-Community-Features-to-Gather-Feedback}/)
-[Best Practices for Collaborative E-commerce Development on GitHub]({{ site.baseurl }}/{Best-Practices-for-Collaborative-Ecommerce-Development-on-GitHub}/)
-[The Role of GitHub in Supporting Multi-language E-commerce Sites]({{ site.baseurl }}/{The-Role-of-GitHub-in-Supporting-Multi-language-Ecommerce-Sites}/)
+[Automating E-commerce Testing with GitHub Actions and Selenium]({{ site.baseurl }}/Automating-ecommerce-testing-with-GitHub-Actions-and-Selenium/)
+[Using GitHub Actions for E-commerce SEO Audits]({{ site.baseurl }}/Using-GitHub-Actions-for-E-commerce-SEO-Audits/)
+[How to Use GitHub’s Community Features to Gather Feedback on E-commerce Features]({{ site.baseurl }}/How-to-Use-GitHubs-Community-Features-to-Gather-Feedback/)
+[Best Practices for Collaborative E-commerce Development on GitHub]({{ site.baseurl }}/Best-Practices-for-Collaborative-Ecommerce-Development-on-GitHub/)
+[The Role of GitHub in Supporting Multi-language E-commerce Sites]({{ site.baseurl }}/The-Role-of-GitHub-in-Supporting-Multi-language-Ecommerce-Sites/)

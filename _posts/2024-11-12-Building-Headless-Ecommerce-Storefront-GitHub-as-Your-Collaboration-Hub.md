@@ -181,8 +181,8 @@ Building a headless e-commerce storefront provides flexibility and customization
 
 With this guide, you’re ready to set up your own headless store and make GitHub the central hub for your development team’s work. Happy coding!
 ## Related Posts
-[Automating E-commerce Testing with GitHub Actions and Selenium]({{ site.baseurl }}/{Automating-ecommerce-testing-with-GitHub-Actions-and-Selenium}/)
-[Using GitHub Actions for E-commerce SEO Audits]({{ site.baseurl }}/{Using-GitHub-Actions-for-E-commerce-SEO-Audits}/)
-[How to Use GitHub’s Community Features to Gather Feedback on E-commerce Features]({{ site.baseurl }}/{How-to-Use-GitHubs-Community-Features-to-Gather-Feedback}/)
-[Best Practices for Collaborative E-commerce Development on GitHub]({{ site.baseurl }}/{Best-Practices-for-Collaborative-Ecommerce-Development-on-GitHub}/)
-[Deploying a Scalable E-commerce Backend with GitHub Actions and Docker]({{ site.baseurl }}/{Deploying-Scalable-Ecommerce-Backend-with-GitHub-and-Docker}/)
+[Automating E-commerce Testing with GitHub Actions and Selenium]({{ site.baseurl }}/Automating-ecommerce-testing-with-GitHub-Actions-and-Selenium/)
+[Using GitHub Actions for E-commerce SEO Audits]({{ site.baseurl }}/Using-GitHub-Actions-for-E-commerce-SEO-Audits/)
+[How to Use GitHub’s Community Features to Gather Feedback on E-commerce Features]({{ site.baseurl }}/How-to-Use-GitHubs-Community-Features-to-Gather-Feedback/)
+[Best Practices for Collaborative E-commerce Development on GitHub]({{ site.baseurl }}/Best-Practices-for-Collaborative-Ecommerce-Development-on-GitHub/)
+[Deploying a Scalable E-commerce Backend with GitHub Actions and Docker]({{ site.baseurl }}/Deploying-Scalable-Ecommerce-Backend-with-GitHub-and-Docker/)

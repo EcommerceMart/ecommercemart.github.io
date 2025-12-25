@@ -215,6 +215,6 @@ Temu’s ultra-low prices come from a combination of direct sourcing, efficient 
 ---
 
 ## Related Posts
-[Is Temu Legit in Canada? A 2025 Deep Dive for Cautious Shoppers]({{ site.baseurl }}/{is-temu-legit-in-canada}/)
-[Why Is Temu So Bad? An Honest Review Explaining User Concerns]({{ site.baseurl }}/{why-is-temu-so-bad}/)
-[How Long Does Temu Take to Ship to Canada?]({{ site.baseurl }}/{temu-shipping-time-to-canada}/)
+[Is Temu Legit in Canada? A 2025 Deep Dive for Cautious Shoppers]({{ site.baseurl }}/is-temu-legit-in-canada/)
+[Why Is Temu So Bad? An Honest Review Explaining User Concerns]({{ site.baseurl }}/why-is-temu-so-bad/)
+[How Long Does Temu Take to Ship to Canada?]({{ site.baseurl }}/temu-shipping-time-to-canada/)

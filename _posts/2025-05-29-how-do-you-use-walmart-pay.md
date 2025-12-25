@@ -291,4 +291,4 @@ No, it's currently limited to in-store usage.
 Need more help or updates? Check the [official Walmart Help Center](https://www.walmart.com/help) for the latest Walmart Pay support information.
 
 ## Related Posts
-[Is BoohooMAN Legit? A Complete Review Before You Buy]({{ site.baseurl }}/{is-bohooman-legit}/)
+[Is BoohooMAN Legit? A Complete Review Before You Buy]({{ site.baseurl }}/is-bohooman-legit/)

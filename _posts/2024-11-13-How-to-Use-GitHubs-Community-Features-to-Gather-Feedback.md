@@ -148,8 +148,8 @@ GitHub’s community features — Discussions, Issues, and Pull Requests — mak
 By engaging with your community and valuing their input, you can improve your e-commerce project and create a product that truly meets users' needs. Start using these GitHub features today to bring your community into the development process, make informed decisions, and grow a supportive, involved user base.
 
 ## Related Posts
-[Automating E-commerce Testing with GitHub Actions and Selenium]({{ site.baseurl }}/{Automating-ecommerce-testing-with-GitHub-Actions-and-Selenium}/)
-[Using GitHub Actions for E-commerce SEO Audits]({{ site.baseurl }}/{Using-GitHub-Actions-for-E-commerce-SEO-Audits}/)
-[Best Practices for Collaborative E-commerce Development on GitHub]({{ site.baseurl }}/{Best-Practices-for-Collaborative-Ecommerce-Development-on-GitHub}/)
-[Deploying a Scalable E-commerce Backend with GitHub Actions and Docker]({{ site.baseurl }}/{Deploying-Scalable-Ecommerce-Backend-with-GitHub-and-Docker}/)
-[The Role of GitHub in Supporting Multi-language E-commerce Sites]({{ site.baseurl }}/{The-Role-of-GitHub-in-Supporting-Multi-language-Ecommerce-Sites}/)
+[Automating E-commerce Testing with GitHub Actions and Selenium]({{ site.baseurl }}/Automating-ecommerce-testing-with-GitHub-Actions-and-Selenium/)
+[Using GitHub Actions for E-commerce SEO Audits]({{ site.baseurl }}/Using-GitHub-Actions-for-E-commerce-SEO-Audits/)
+[Best Practices for Collaborative E-commerce Development on GitHub]({{ site.baseurl }}/Best-Practices-for-Collaborative-Ecommerce-Development-on-GitHub/)
+[Deploying a Scalable E-commerce Backend with GitHub Actions and Docker]({{ site.baseurl }}/Deploying-Scalable-Ecommerce-Backend-with-GitHub-and-Docker/)
+[The Role of GitHub in Supporting Multi-language E-commerce Sites]({{ site.baseurl }}/The-Role-of-GitHub-in-Supporting-Multi-language-Ecommerce-Sites/)

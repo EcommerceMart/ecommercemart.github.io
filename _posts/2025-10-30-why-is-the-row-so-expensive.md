@@ -236,4 +236,4 @@ In an era where trends come and go, The Row stands as a reminder that **true lux
 ---
 
 ## Related Posts
-[Who Wears The Row Clothing: Inside the Quiet Luxury Fashion Phenomenon]({{ site.baseurl }}/{who-wears-the-row-clothing}/)
+[Who Wears The Row Clothing: Inside the Quiet Luxury Fashion Phenomenon]({{ site.baseurl }}/who-wears-the-row-clothing/)

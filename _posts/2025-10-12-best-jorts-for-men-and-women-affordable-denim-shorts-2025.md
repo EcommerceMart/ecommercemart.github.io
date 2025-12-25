@@ -220,4 +220,4 @@ Jorts are more than a nostalgic throwback—they’re a practical and stylish st
 
 ---
 ## Related Posts
-[Top Jorts Trends in 2025: How to Wear Denim Shorts with Style]({{ site.baseurl }}/{jorts-trends-2025-style-guide}/)
+[Top Jorts Trends in 2025: How to Wear Denim Shorts with Style]({{ site.baseurl }}/jorts-trends-2025-style-guide/)

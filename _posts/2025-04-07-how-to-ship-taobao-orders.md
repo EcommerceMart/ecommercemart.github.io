@@ -156,6 +156,6 @@ Shipping from **Taobao internationally** is easy once you understand the **metho
 
 
 ## Related Posts
-[What Are the Reasons People Buy from Taobao Over AliExpress]({{ site.baseurl }}/{taobao-vs-aliexpress-why-people-prefer-taobao}/)
-[Why Shopify Website Builder Is Perfect for Beginners]({{ site.baseurl }}/{shopify-website-builder-for-beginners}/)
-[Is Pandabuy Legit? What Users Are Saying This Week]({{ site.baseurl }}/{is-pandabuy-legit}/)
+[What Are the Reasons People Buy from Taobao Over AliExpress]({{ site.baseurl }}/taobao-vs-aliexpress-why-people-prefer-taobao/)
+[Why Shopify Website Builder Is Perfect for Beginners]({{ site.baseurl }}/shopify-website-builder-for-beginners/)
+[Is Pandabuy Legit? What Users Are Saying This Week]({{ site.baseurl }}/is-pandabuy-legit/)

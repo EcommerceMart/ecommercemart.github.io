@@ -254,5 +254,5 @@ Taobao Global continues to grow in 2025, providing millions of users worldwide a
 * Parcel tracking platforms like 17track.net
 
 ## Related Posts
-[Taobao Global Shipping Explained: Costs, Methods, and Tips for 2025]({{ site.baseurl }}/{taobao-global-shipping-costs-methods-tips-2025}/)
-[Ecommerce SEO Optimization in 2025: Strategies to Boost Your Online Store's Visibility]({{ site.baseurl }}/{ecommerce-seo-optimization-2025-strategies}/)
+[Taobao Global Shipping Explained: Costs, Methods, and Tips for 2025]({{ site.baseurl }}/taobao-global-shipping-costs-methods-tips-2025/)
+[Ecommerce SEO Optimization in 2025: Strategies to Boost Your Online Store's Visibility]({{ site.baseurl }}/ecommerce-seo-optimization-2025-strategies/)

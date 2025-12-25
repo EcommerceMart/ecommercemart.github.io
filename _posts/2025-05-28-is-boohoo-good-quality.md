@@ -322,4 +322,4 @@ Use it as a guide, but read customer reviews for real-world fit insights.
 ---
 
 ## Related Posts
-[Is Boohoo Legit? Uncover Real Reviews and Quality Insights]({{ site.baseurl }}/{is-boohoo-legit}/)
+[Is Boohoo Legit? Uncover Real Reviews and Quality Insights]({{ site.baseurl }}/is-boohoo-legit/)

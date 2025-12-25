@@ -390,6 +390,6 @@ If you want to shop on Taobao from Canada in 2025, choosing the right agent is t
 ---
 
 ## Related Posts
-[Understanding Taobao Payment Options for Canadian Shoppers]({{ site.baseurl }}/{understanding-taobao-payment-options-canada}/)
-[How to Shop on Taobao from Canada: A Complete Guide]({{ site.baseurl }}/{how-to-shop-on-taobao-from-canada}/)
-[How Long Does Taobao Shipping Take to Canada? A Complete Guide for 2025]({{ site.baseurl }}/{taobao-canada-shipping-time}/)
+[Understanding Taobao Payment Options for Canadian Shoppers]({{ site.baseurl }}/understanding-taobao-payment-options-canada/)
+[How to Shop on Taobao from Canada: A Complete Guide]({{ site.baseurl }}/how-to-shop-on-taobao-from-canada/)
+[How Long Does Taobao Shipping Take to Canada? A Complete Guide for 2025]({{ site.baseurl }}/taobao-canada-shipping-time/)

@@ -227,5 +227,5 @@ Carhartt is a trusted, reliable brand that offers high-quality clothing for work
 ---
 
 ## Related Posts
-[Is Carhartt Reworked Legit? Your Easy Guide to Carhartt Reworked]({{ site.baseurl }}/{is-carhartt-reworked-legit}/)
-[Is Carhartt a Luxury Brand? Honest Review for 2025]({{ site.baseurl }}/{is-carhartt-luxury-brand}/)
+[Is Carhartt Reworked Legit? Your Easy Guide to Carhartt Reworked]({{ site.baseurl }}/is-carhartt-reworked-legit/)
+[Is Carhartt a Luxury Brand? Honest Review for 2025]({{ site.baseurl }}/is-carhartt-luxury-brand/)

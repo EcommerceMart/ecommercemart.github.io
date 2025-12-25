@@ -324,4 +324,4 @@ If you’d like, I can help build a simple spreadsheet model to test repayment t
 
 ---
 ## Related Posts
-[Shopify Capital Explained: How It Helps eCommerce Stores Grow Without Traditional Loans]({{ site.baseurl }}/{shopify-capital-explained}/)
+[Shopify Capital Explained: How It Helps eCommerce Stores Grow Without Traditional Loans]({{ site.baseurl }}/shopify-capital-explained/)

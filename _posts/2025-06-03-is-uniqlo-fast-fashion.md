@@ -232,5 +232,5 @@ Choose timeless, durable pieces, participate in recycling programs, and buy only
 
 
 ## Related Posts
-[Is Uniqlo Good Quality? A Comprehensive Review]({{ site.baseurl }}/{is-uniqlo-good-quality}/)
-[Is Uniqlo Legit? A Deep Dive into Customer Experiences, Quality, and Ethics]({{ site.baseurl }}/{is-uniqlo-legit}/)
+[Is Uniqlo Good Quality? A Comprehensive Review]({{ site.baseurl }}/is-uniqlo-good-quality/)
+[Is Uniqlo Legit? A Deep Dive into Customer Experiences, Quality, and Ethics]({{ site.baseurl }}/is-uniqlo-legit/)

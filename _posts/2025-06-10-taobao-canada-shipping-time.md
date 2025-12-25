@@ -236,6 +236,6 @@ By following these guidelines, you can make the most of your Taobao Canada exper
 ---
 
 ## Related Posts
-[Understanding Taobao Payment Options for Canadian Shoppers]({{ site.baseurl }}/{understanding-taobao-payment-options-canada}/)
-[How to Shop on Taobao from Canada: A Complete Guide]({{ site.baseurl }}/{how-to-shop-on-taobao-from-canada}/)
-[Best Taobao Agents for Canadian Shoppers in 2025]({{ site.baseurl }}/{best-taobao-agents-for-canadian-shoppers}/)
+[Understanding Taobao Payment Options for Canadian Shoppers]({{ site.baseurl }}/understanding-taobao-payment-options-canada/)
+[How to Shop on Taobao from Canada: A Complete Guide]({{ site.baseurl }}/how-to-shop-on-taobao-from-canada/)
+[Best Taobao Agents for Canadian Shoppers in 2025]({{ site.baseurl }}/best-taobao-agents-for-canadian-shoppers/)

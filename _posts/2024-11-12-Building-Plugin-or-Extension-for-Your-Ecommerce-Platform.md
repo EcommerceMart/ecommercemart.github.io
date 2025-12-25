@@ -182,8 +182,8 @@ Building a plugin or extension for your e-commerce platform with GitHub provides
 
 Following these steps can help you efficiently build plugins that extend and improve your e-commerce site while leveraging the powerful tools GitHub offers.
 ## Related Posts
-[Automating E-commerce Testing with GitHub Actions and Selenium]({{ site.baseurl }}/{Automating-ecommerce-testing-with-GitHub-Actions-and-Selenium}/)
-[Using GitHub Actions for E-commerce SEO Audits]({{ site.baseurl }}/{Using-GitHub-Actions-for-E-commerce-SEO-Audits}/)
-[How to Use GitHub’s Community Features to Gather Feedback on E-commerce Features]({{ site.baseurl }}/{How-to-Use-GitHubs-Community-Features-to-Gather-Feedback}/)
-[Best Practices for Collaborative E-commerce Development on GitHub]({{ site.baseurl }}/{Best-Practices-for-Collaborative-Ecommerce-Development-on-GitHub}/)
-[Deploying a Scalable E-commerce Backend with GitHub Actions and Docker]({{ site.baseurl }}/{Deploying-Scalable-Ecommerce-Backend-with-GitHub-and-Docker}/)
+[Automating E-commerce Testing with GitHub Actions and Selenium]({{ site.baseurl }}/Automating-ecommerce-testing-with-GitHub-Actions-and-Selenium/)
+[Using GitHub Actions for E-commerce SEO Audits]({{ site.baseurl }}/Using-GitHub-Actions-for-E-commerce-SEO-Audits/)
+[How to Use GitHub’s Community Features to Gather Feedback on E-commerce Features]({{ site.baseurl }}/How-to-Use-GitHubs-Community-Features-to-Gather-Feedback/)
+[Best Practices for Collaborative E-commerce Development on GitHub]({{ site.baseurl }}/Best-Practices-for-Collaborative-Ecommerce-Development-on-GitHub/)
+[Deploying a Scalable E-commerce Backend with GitHub Actions and Docker]({{ site.baseurl }}/Deploying-Scalable-Ecommerce-Backend-with-GitHub-and-Docker/)

@@ -304,4 +304,4 @@ Banana Republic stands out for its classic style, improved fabrics, and growing 
 
 ---
 ## Related Posts
-[Is Banana Republic Fast Fashion? Honest Guide for USA Shoppers]({{ site.baseurl }}/{is-banana-republic-fast-fashion}/)
+[Is Banana Republic Fast Fashion? Honest Guide for USA Shoppers]({{ site.baseurl }}/is-banana-republic-fast-fashion/)

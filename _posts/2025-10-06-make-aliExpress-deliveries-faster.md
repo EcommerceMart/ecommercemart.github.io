@@ -189,6 +189,6 @@ If you shop regularly on AliExpress, Cainiao is the invisible force making your 
 ---
 
 ## Related Posts
-[Cainiao vs Other Global Shipping Services: Which Is Best for You?]({{ site.baseurl }}/{cainiao-vs-other-global-shipping-services}/)
-[Is Cainiao Reliable? Pros and Cons for Online Shoppers]({{ site.baseurl }}/{is-cainiao-reliable}/)
-[What Is Cainiao? Everything You Need to Know About Alibaba’s Logistics Giant]({{ site.baseurl }}/{what-is-cainiao}/)
+[Cainiao vs Other Global Shipping Services: Which Is Best for You?]({{ site.baseurl }}/cainiao-vs-other-global-shipping-services/)
+[Is Cainiao Reliable? Pros and Cons for Online Shoppers]({{ site.baseurl }}/is-cainiao-reliable/)
+[What Is Cainiao? Everything You Need to Know About Alibaba’s Logistics Giant]({{ site.baseurl }}/what-is-cainiao/)

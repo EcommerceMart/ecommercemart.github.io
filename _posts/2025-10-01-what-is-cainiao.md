@@ -291,6 +291,6 @@ If you’ve ever wondered why your AliExpress package says “Cainiao,” now yo
 
 
 ## Related Posts
-[Cainiao vs Other Global Shipping Services: Which Is Best for You?]({{ site.baseurl }}/{cainiao-vs-other-global-shipping-services}/)
-[How Cainiao Makes AliExpress Deliveries Faster and Cheaper]({{ site.baseurl }}/{make-aliExpress-deliveries-faster}/)
-[Is Cainiao Reliable? Pros and Cons for Online Shoppers]({{ site.baseurl }}/{is-cainiao-reliable}/)
+[Cainiao vs Other Global Shipping Services: Which Is Best for You?]({{ site.baseurl }}/cainiao-vs-other-global-shipping-services/)
+[How Cainiao Makes AliExpress Deliveries Faster and Cheaper]({{ site.baseurl }}/make-aliExpress-deliveries-faster/)
+[Is Cainiao Reliable? Pros and Cons for Online Shoppers]({{ site.baseurl }}/is-cainiao-reliable/)

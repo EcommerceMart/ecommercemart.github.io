@@ -323,5 +323,5 @@ Hollister offers stylish, casual clothes at prices that are fair for the quality
 ---
 
 ## Related Posts
-[Is Hollister Good Quality? Honest Review of Their Clothing in 2025]({{ site.baseurl }}/{is-hollister-good-quality}/)
-[Is Hollister Legit? What You Need to Know Before Buying]({{ site.baseurl }}/{is-hollister-legit-tips}/)
+[Is Hollister Good Quality? Honest Review of Their Clothing in 2025]({{ site.baseurl }}/is-hollister-good-quality/)
+[Is Hollister Legit? What You Need to Know Before Buying]({{ site.baseurl }}/is-hollister-legit-tips/)

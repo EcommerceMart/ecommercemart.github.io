@@ -238,4 +238,4 @@ Polo Ralph Lauren stands out for its quality, heritage, and status. The high pri
 ---
 
 ## Related Posts
-[Is Polo Ralph Lauren a Good Brand? Honest Review for USA Shoppers]({{ site.baseurl }}/{is-polo-ralph-lauren-a-good-brand}/)
+[Is Polo Ralph Lauren a Good Brand? Honest Review for USA Shoppers]({{ site.baseurl }}/is-polo-ralph-lauren-a-good-brand/)

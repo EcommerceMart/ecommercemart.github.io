@@ -268,4 +268,4 @@ Banana Republic is a fast fashion brand that combines mass-market production wit
 ---
 
 ## Related Posts
-[Is Banana Republic Good Quality? Honest Review for USA Shoppers]({{ site.baseurl }}/{is-banana-republic-good-quality}/)
+[Is Banana Republic Good Quality? Honest Review for USA Shoppers]({{ site.baseurl }}/is-banana-republic-good-quality/)

@@ -272,4 +272,4 @@ Avoiding these ecommerce accounting mistakes isn’t about perfection—it’s a
 ---
 
 ## Related Posts
-[How to Simplify Ecommerce Accounting: Tools, Tips, and Best Practices]({{ site.baseurl }}/{how-to-simplify-ecommerce-accounting}/)
+[How to Simplify Ecommerce Accounting: Tools, Tips, and Best Practices]({{ site.baseurl }}/how-to-simplify-ecommerce-accounting/)

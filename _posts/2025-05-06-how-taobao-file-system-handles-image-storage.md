@@ -208,7 +208,7 @@ TFS is optimized for performance, small file handling, and distributed scalabili
 
 
 ## Related Posts
-[Understanding Taobao File System (TFS): Architecture and Use Cases]({{ site.baseurl }}/{taobao-file-system-architecture-and-use-cases}/)
-[5 Reasons Why Ecommdirect is a Game-Changer for Online Retailers]({{ site.baseurl }}/{ecommdirect-revolutionizing-ecommerce-businesses}/)
-[EcommDirect: The Future of Seamless Online Shopping in 2025]({{ site.baseurl }}/{ecommdirect-future-seamless-shopping-2025}/)
-[Connective Ecommerce: The Future of Seamless Online Shopping]({{ site.baseurl }}/{connective-ecommerce-future-seamless-online-shopping}/)
+[Understanding Taobao File System (TFS): Architecture and Use Cases]({{ site.baseurl }}/taobao-file-system-architecture-and-use-cases/)
+[5 Reasons Why Ecommdirect is a Game-Changer for Online Retailers]({{ site.baseurl }}/ecommdirect-revolutionizing-ecommerce-businesses/)
+[EcommDirect: The Future of Seamless Online Shopping in 2025]({{ site.baseurl }}/ecommdirect-future-seamless-shopping-2025/)
+[Connective Ecommerce: The Future of Seamless Online Shopping]({{ site.baseurl }}/connective-ecommerce-future-seamless-online-shopping/)

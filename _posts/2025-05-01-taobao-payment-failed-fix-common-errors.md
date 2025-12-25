@@ -283,8 +283,8 @@ Refunds are typically processed within 3–7 business days depending on your pay
 
 
 ## Related Posts
-[Change Language on Taobao App: Quick Guide (2025)]({{ site.baseurl }}/{change-language-taobao-app}/)
-[Is Taobao Safe? What You Need to Know Before Buying]({{ site.baseurl }}/{is-taobao-safe-tips}/)
-[Can Taobao Ship to USA? Everything You Need to Know in 2025]({{ site.baseurl }}/{taobao-ship-to-usa}/)
-[How to Use Taobao in English: A Step-by-Step Guide]({{ site.baseurl }}/{how-to-use-taobao-in-english}/)
-[Avoiding Multiple Charges: What to Do When Taobao Payment Fails]({{ site.baseurl }}/{taobao-payment-failure-multiple-charges-guide}/)
+[Change Language on Taobao App: Quick Guide (2025)]({{ site.baseurl }}/change-language-taobao-app/)
+[Is Taobao Safe? What You Need to Know Before Buying]({{ site.baseurl }}/is-taobao-safe-tips/)
+[Can Taobao Ship to USA? Everything You Need to Know in 2025]({{ site.baseurl }}/taobao-ship-to-usa/)
+[How to Use Taobao in English: A Step-by-Step Guide]({{ site.baseurl }}/how-to-use-taobao-in-english/)
+[Avoiding Multiple Charges: What to Do When Taobao Payment Fails]({{ site.baseurl }}/taobao-payment-failure-multiple-charges-guide/)
