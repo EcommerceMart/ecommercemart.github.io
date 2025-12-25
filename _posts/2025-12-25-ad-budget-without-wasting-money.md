@@ -14,7 +14,6 @@ featured: false
 image: '/assets/images/ad-budget-without-wasting-money.webp'
 ---
 
-```markdown
 ## How to Set Your Ad Budget for Small Ecommerce Store (Without Wasting Money in 2024)
 
 Are you a small e-commerce store owner, dreading the thought of spending money on ads only to see it vanish with no sales? Many business owners feel this way. It's like throwing money into a black hole, hoping something good comes out.
