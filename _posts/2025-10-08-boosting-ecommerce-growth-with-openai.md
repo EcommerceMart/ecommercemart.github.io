@@ -225,3 +225,7 @@ If you’re running an online store, the time to start leveraging OpenAI is now.
 - Future trends include virtual AI shopping assistants and immersive ecommerce experiences.  
 
 ---
+
+## Related Posts
+[How OpenAI Is Transforming eCommerce: Smarter Stores in 2025]({{ site.baseurl }}/{2025}/{10}/{06}/{openai-transforming-ecommerce-2025}/)
+[OpenAI for eCommerce: Practical Use Cases to Boost Sales]({{ site.baseurl }}/{2025}/{10}/{06}/{openai-for-ecommerce-boost-sales}/)

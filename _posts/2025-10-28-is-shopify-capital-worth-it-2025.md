@@ -323,3 +323,5 @@ If you’re evaluating Shopify Capital now:
 If you’d like, I can help build a simple spreadsheet model to test repayment timelines and APRs using your store’s daily sales data.
 
 ---
+## Related Posts
+[Shopify Capital Explained: How It Helps eCommerce Stores Grow Without Traditional Loans]({{ site.baseurl }}/{2025}/{10}/{28}/{shopify-capital-explained}/)
