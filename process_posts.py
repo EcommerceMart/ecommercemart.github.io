@@ -82,7 +82,7 @@ for post in posts:
         content_start = post['fm_end'] + 1 if post['fm_end'] > 0 else 0
         related_section = '\n## Related Posts\n'
         for rel in related:
-            link = f'[{rel["title"]}]({{{{ site.baseurl }}}}/{{{rel["year"]}}}/{{{rel["month"]}}}/{{{rel["day"]}}}/{{{rel["slug"]}}}/)\n'
+            link = f'[{rel["title"]}]({{{{ site.baseurl }}}}/{{{rel["year"]}}}/{{{rel["month"]}}}/{{{rel["day"]}}}/{{{rel["slug"]}}/)\n'
             related_section += link
         new_content = '\n'.join(lines[:content_start]) + '\n' + '\n'.join(lines[content_start:]) + related_section
         with open(post['path'], 'w', encoding='utf-8') as f:

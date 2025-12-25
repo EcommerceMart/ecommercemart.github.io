@@ -15,8 +15,8 @@ for filename in os.listdir(posts_dir):
     match = re.search(r'(## Related Posts\n.*?)(?=##|\Z)', content, re.DOTALL)
     if match:
         section = match.group(1)
-        # Pattern to match {{ site.baseurl }}/{year}/{month}/{day}/{slug}/
-        pattern = r'\{\{ site\.baseurl \}\}/\{[^}]+\}/\{[^}]+\}/\{[^}]+\}/(\{[^}]+\}/)'
+        # Pattern to match {{ site.baseurl }}/year}/{month}/{day}/{slug}/
+        pattern = r'\{\{ site\.baseurl \}\}/\{[^}]+\}/\{[^}]+\}/\{[^}]+\}/(\{[^}]+\/)'
         new_section = re.sub(pattern, r'{{ site.baseurl }}/\1', section)
         if new_section != section:
             if example_change is None:
