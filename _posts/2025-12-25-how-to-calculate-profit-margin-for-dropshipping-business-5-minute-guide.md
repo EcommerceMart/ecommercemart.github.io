@@ -14,6 +14,104 @@ featured: false
 image: '/assets/images/how-to-calculate-profit-margin-for-dropshipping-business-5-minute-guide.webp'
 ---
 
+<style>
+.calculator-container {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 500px;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.calculator-container h3 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+    font-size: 1.8em;
+}
+.input-group {
+    margin-bottom: 15px;
+}
+.input-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #555;
+    font-size: 1em;
+}
+.input-group input[type="number"] {
+    width: calc(100% - 20px);
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    box-sizing: border-box; /* Ensures padding doesn't increase width beyond 100% */
+}
+.calculator-container button {
+    background-color: #007bff;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    width: 100%;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+}
+.calculator-container button:hover {
+    background-color: #0056b3;
+}
+.results {
+    margin-top: 25px;
+    border-top: 1px solid #eee;
+    padding-top: 20px;
+    text-align: center;
+}
+.results h4 {
+    color: #333;
+    margin-bottom: 10px;
+    font-size: 1.5em;
+}
+.results p {
+    font-size: 1.1em;
+    margin-bottom: 8px;
+    color: #444;
+}
+.results span {
+    font-weight: bold;
+    color: #28a745; /* A pleasant green for profit */
+    font-size: 1.2em;
+}
+</style>
+<script>
+function calculateProfit() {
+    const sellingPrice = parseFloat(document.getElementById('sellingPrice').value);
+    const productCost = parseFloat(document.getElementById('productCost').value);
+    const shippingCost = parseFloat(document.getElementById('shippingCost').value);
+    const paymentFeePercent = parseFloat(document.getElementById('paymentFee').value);
+    const marketingCost = parseFloat(document.getElementById('marketingCost').value);
+    const otherCost = parseFloat(document.getElementById('otherCost').value);
+
+    // Basic validation
+    if (isNaN(sellingPrice) || isNaN(productCost) || isNaN(shippingCost) || isNaN(paymentFeePercent) || isNaN(marketingCost) || isNaN(otherCost) || sellingPrice <= 0) {
+        alert("Please enter valid positive numbers for all fields, and ensure selling price is greater than zero.");
+        return;
+    }
+
+    const paymentFeeAmount = sellingPrice * (paymentFeePercent / 100);
+    const totalCosts = productCost + shippingCost + paymentFeeAmount + marketingCost + otherCost;
+    const grossProfit = sellingPrice - totalCosts;
+    const profitMargin = (grossProfit / sellingPrice) * 100;
+
+    document.getElementById('grossProfit').textContent = `$${grossProfit.toFixed(2)}`;
+    document.getElementById('profitMargin').textContent = `${profitMargin.toFixed(2)}%`;
+}
+</script>
+
+
 Do you want to start a dropshipping business but feel confused by all the numbers? Understanding your profit margin is super important, and it doesn't have to be complicated. This 5-minute guide will show you exactly how to calculate profit margin for dropshipping business, making it easy for any beginner to grasp. You'll learn the essential steps to make sure your dropshipping business is actually making money, not just busy.
 
 Calculating profit margin is a key step to becoming financially smart in your dropshipping journey. It helps you see clearly if your prices are right and if your business is healthy. Let's dive into this beginner-friendly business math without any fuss. You'll be a profit-calculating pro in no time, setting your dropshipping business up for success.
@@ -120,79 +218,6 @@ While both numbers are important, profit margin is generally more useful for und
 
 To make calculating your profit margin even easier, here's an interactive tool! Just plug in your numbers, and the calculator will do all the heavy lifting for you. This simple profit calculation method made easy is a fantastic resource for any dropshipping beginner.
 
-<style>
-.calculator-container {
-    background-color: #f9f9f9;
-    border: 1px solid #ddd;
-    padding: 20px;
-    border-radius: 8px;
-    max-width: 500px;
-    margin: 20px auto;
-    font-family: Arial, sans-serif;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-}
-.calculator-container h3 {
-    text-align: center;
-    color: #333;
-    margin-bottom: 20px;
-    font-size: 1.8em;
-}
-.input-group {
-    margin-bottom: 15px;
-}
-.input-group label {
-    display: block;
-    margin-bottom: 5px;
-    font-weight: bold;
-    color: #555;
-    font-size: 1em;
-}
-.input-group input[type="number"] {
-    width: calc(100% - 20px);
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    font-size: 16px;
-    box-sizing: border-box; /* Ensures padding doesn't increase width beyond 100% */
-}
-.calculator-container button {
-    background-color: #007bff;
-    color: white;
-    padding: 12px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 18px;
-    width: 100%;
-    margin-top: 10px;
-    transition: background-color 0.3s ease;
-}
-.calculator-container button:hover {
-    background-color: #0056b3;
-}
-.results {
-    margin-top: 25px;
-    border-top: 1px solid #eee;
-    padding-top: 20px;
-    text-align: center;
-}
-.results h4 {
-    color: #333;
-    margin-bottom: 10px;
-    font-size: 1.5em;
-}
-.results p {
-    font-size: 1.1em;
-    margin-bottom: 8px;
-    color: #444;
-}
-.results span {
-    font-weight: bold;
-    color: #28a745; /* A pleasant green for profit */
-    font-size: 1.2em;
-}
-</style>
-
 <div class="calculator-container">
     <h3>Dropshipping Profit Margin Calculator</h3>
     <div class="input-group">
@@ -226,31 +251,6 @@ To make calculating your profit margin even easier, here's an interactive tool! 
         <p>Profit Margin: <span id="profitMargin">0.00%</span></p>
     </div>
 </div>
-
-<script>
-function calculateProfit() {
-    const sellingPrice = parseFloat(document.getElementById('sellingPrice').value);
-    const productCost = parseFloat(document.getElementById('productCost').value);
-    const shippingCost = parseFloat(document.getElementById('shippingCost').value);
-    const paymentFeePercent = parseFloat(document.getElementById('paymentFee').value);
-    const marketingCost = parseFloat(document.getElementById('marketingCost').value);
-    const otherCost = parseFloat(document.getElementById('otherCost').value);
-
-    // Basic validation
-    if (isNaN(sellingPrice) || isNaN(productCost) || isNaN(shippingCost) || isNaN(paymentFeePercent) || isNaN(marketingCost) || isNaN(otherCost) || sellingPrice <= 0) {
-        alert("Please enter valid positive numbers for all fields, and ensure selling price is greater than zero.");
-        return;
-    }
-
-    const paymentFeeAmount = sellingPrice * (paymentFeePercent / 100);
-    const totalCosts = productCost + shippingCost + paymentFeeAmount + marketingCost + otherCost;
-    const grossProfit = sellingPrice - totalCosts;
-    const profitMargin = (grossProfit / sellingPrice) * 100;
-
-    document.getElementById('grossProfit').textContent = `$${grossProfit.toFixed(2)}`;
-    document.getElementById('profitMargin').textContent = `${profitMargin.toFixed(2)}%`;
-}
-</script>
 
 This calculator is a fantastic way to quickly test different pricing strategies or product ideas. It gives you immediate feedback on potential profitability. Bookmark this page or consider getting your own dedicated [spreadsheet calculators](https://www.etsy.com/search?q=dropshipping+profit+calculator+spreadsheet&ref=sr_suggestion_1) (Etsy templates $5-15) for more detailed tracking.
 
