@@ -300,7 +300,7 @@ defaults:
       show_date: false
       toc: true # Table of contents - IMPORTANT for tutorials
       toc_sticky: true # Sticky TOC - Better UX
-      toc_label: "Ecommerce Content"
+      toc_label: "Table of Content"
       toc_icon: "list-ul"
       # classes: wide # Wider layout for code examples
   # _pages
