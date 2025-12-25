@@ -187,4 +187,4 @@ Ready to build your own **Shopify website** and join the ecommerce party? [Click
 
 Happy selling, friends! 🚀
 ## Related Posts
-[My NetSuite Ecommerce Adventure: Powering Up My Online Store in 2025 🚀]({{ site.baseurl }}/{2025}/{03}/{24}/{my-netsuite-ecommerce-adventure-2025}/)
+[My NetSuite Ecommerce Adventure: Powering Up My Online Store in 2025 🚀]({{ site.baseurl }}/{my-netsuite-ecommerce-adventure-2025}/)

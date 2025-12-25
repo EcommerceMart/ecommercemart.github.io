@@ -250,4 +250,4 @@ If you’re on a budget and willing to take a risk for affordable fashion, Modli
 ---
 
 ## Related Posts
-[Is Modlily Legit? What You Need to Know Before Buying]({{ site.baseurl }}/{2025}/{07}/{17}/{is-modlily-legit-tips}/)
+[Is Modlily Legit? What You Need to Know Before Buying]({{ site.baseurl }}/{is-modlily-legit-tips}/)

@@ -276,5 +276,5 @@ You can open a dispute through Taobao within a limited time window. Resolution v
 Not with Taobao Global. The forwarding warehouse provides a Chinese domestic address for you.
 
 ## Related Posts
-[Taobao Global 2025: A Beginner's Guide to Shopping and Shipping Worldwide]({{ site.baseurl }}/{2025}/{05}/{07}/{taobao-global-2025-beginners-guide-shopping-shipping}/)
-[Ecommerce SEO Optimization in 2025: Strategies to Boost Your Online Store's Visibility]({{ site.baseurl }}/{2025}/{05}/{09}/{ecommerce-seo-optimization-2025-strategies}/)
+[Taobao Global 2025: A Beginner's Guide to Shopping and Shipping Worldwide]({{ site.baseurl }}/{taobao-global-2025-beginners-guide-shopping-shipping}/)
+[Ecommerce SEO Optimization in 2025: Strategies to Boost Your Online Store's Visibility]({{ site.baseurl }}/{ecommerce-seo-optimization-2025-strategies}/)

@@ -254,5 +254,5 @@ In short: **OpenAI is making ecommerce smarter—and the smartest stores are the
 ---
 
 ## Related Posts
-[OpenAI for eCommerce: Practical Use Cases to Boost Sales]({{ site.baseurl }}/{2025}/{10}/{06}/{openai-for-ecommerce-boost-sales}/)
-[Boosting eCommerce Growth with OpenAI: Case Studies & Strategies]({{ site.baseurl }}/{2025}/{10}/{08}/{boosting-ecommerce-growth-with-openai}/)
+[OpenAI for eCommerce: Practical Use Cases to Boost Sales]({{ site.baseurl }}/{openai-for-ecommerce-boost-sales}/)
+[Boosting eCommerce Growth with OpenAI: Case Studies & Strategies]({{ site.baseurl }}/{boosting-ecommerce-growth-with-openai}/)

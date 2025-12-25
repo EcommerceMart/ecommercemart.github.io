@@ -284,5 +284,5 @@ Yes—better transparency, shipping offsets, and eco-partnering would help.
 Still trying to decide if Nuuly aligns with your values? Read our companion post: *“Is Nuuly Worth It?”* to explore pricing, user reviews, and real-life experiences.
 
 ## Related Posts
-[Is Nuuly Worth It? A 2025 Deep Dive into the Fashion Rental Service]({{ site.baseurl }}/{2025}/{06}/{20}/{is-nuuly-worth-it}/)
-[Is Nuuly Legit? An In-Depth 2025 Review of the Fashion Rental Subscription]({{ site.baseurl }}/{2025}/{06}/{21}/{is-nuuly-legit}/)
+[Is Nuuly Worth It? A 2025 Deep Dive into the Fashion Rental Service]({{ site.baseurl }}/{is-nuuly-worth-it}/)
+[Is Nuuly Legit? An In-Depth 2025 Review of the Fashion Rental Subscription]({{ site.baseurl }}/{is-nuuly-legit}/)

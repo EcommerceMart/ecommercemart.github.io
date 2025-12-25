@@ -206,5 +206,5 @@ By understanding their key differences, you’ll be able to make an informed cho
 ---
 
 ## Related Posts
-[Barn Jacket Style Guide: How to Wear This Timeless Classic]({{ site.baseurl }}/{2025}/{10}/{10}/{barn-jacket-style-guide}/)
-[Best Barn Jackets for 2025: Stylish and Durable Picks for Every Season]({{ site.baseurl }}/{2025}/{10}/{09}/{best-barn-jackets-2025}/)
+[Barn Jacket Style Guide: How to Wear This Timeless Classic]({{ site.baseurl }}/{barn-jacket-style-guide}/)
+[Best Barn Jackets for 2025: Stylish and Durable Picks for Every Season]({{ site.baseurl }}/{best-barn-jackets-2025}/)

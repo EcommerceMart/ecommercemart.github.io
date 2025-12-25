@@ -203,4 +203,4 @@ Jorts in 2025 are more than just casual denim shorts—they are a versatile fash
 ---
 
 ## Related Posts
-[Best Jorts for Men and Women: Affordable Denim Shorts You’ll Love]({{ site.baseurl }}/{2025}/{10}/{12}/{best-jorts-for-men-and-women-affordable-denim-shorts-2025}/)
+[Best Jorts for Men and Women: Affordable Denim Shorts You’ll Love]({{ site.baseurl }}/{best-jorts-for-men-and-women-affordable-denim-shorts-2025}/)

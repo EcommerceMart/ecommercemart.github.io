@@ -409,6 +409,6 @@ Shopping on Taobao from Canada is easier than ever if you understand your paymen
 ---
 
 ## Related Posts
-[How to Shop on Taobao from Canada: A Complete Guide]({{ site.baseurl }}/{2025}/{04}/{10}/{how-to-shop-on-taobao-from-canada}/)
-[How Long Does Taobao Shipping Take to Canada? A Complete Guide for 2025]({{ site.baseurl }}/{2025}/{06}/{10}/{taobao-canada-shipping-time}/)
-[Best Taobao Agents for Canadian Shoppers in 2025]({{ site.baseurl }}/{2025}/{06}/{19}/{best-taobao-agents-for-canadian-shoppers}/)
+[How to Shop on Taobao from Canada: A Complete Guide]({{ site.baseurl }}/{how-to-shop-on-taobao-from-canada}/)
+[How Long Does Taobao Shipping Take to Canada? A Complete Guide for 2025]({{ site.baseurl }}/{taobao-canada-shipping-time}/)
+[Best Taobao Agents for Canadian Shoppers in 2025]({{ site.baseurl }}/{best-taobao-agents-for-canadian-shoppers}/)

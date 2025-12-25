@@ -180,8 +180,8 @@ Congratulations! You’ve created a simple product recommendation system and use
 
 GitHub is a powerful tool for sharing code, tracking improvements, and making collaborative machine learning projects more organized and effective. Enjoy building your product recommender, and happy coding!
 ## Related Posts
-[Automating E-commerce Testing with GitHub Actions and Selenium]({{ site.baseurl }}/{2024}/{11}/{12}/{Automating-ecommerce-testing-with-GitHub-Actions-and-Selenium}/)
-[Using GitHub Actions for E-commerce SEO Audits]({{ site.baseurl }}/{2024}/{12}/{24}/{Using-GitHub-Actions-for-E-commerce-SEO-Audits}/)
-[How to Use GitHub’s Community Features to Gather Feedback on E-commerce Features]({{ site.baseurl }}/{2024}/{11}/{13}/{How-to-Use-GitHubs-Community-Features-to-Gather-Feedback}/)
-[Best Practices for Collaborative E-commerce Development on GitHub]({{ site.baseurl }}/{2024}/{11}/{12}/{Best-Practices-for-Collaborative-Ecommerce-Development-on-GitHub}/)
-[Deploying a Scalable E-commerce Backend with GitHub Actions and Docker]({{ site.baseurl }}/{2024}/{12}/{06}/{Deploying-Scalable-Ecommerce-Backend-with-GitHub-and-Docker}/)
+[Automating E-commerce Testing with GitHub Actions and Selenium]({{ site.baseurl }}/{Automating-ecommerce-testing-with-GitHub-Actions-and-Selenium}/)
+[Using GitHub Actions for E-commerce SEO Audits]({{ site.baseurl }}/{Using-GitHub-Actions-for-E-commerce-SEO-Audits}/)
+[How to Use GitHub’s Community Features to Gather Feedback on E-commerce Features]({{ site.baseurl }}/{How-to-Use-GitHubs-Community-Features-to-Gather-Feedback}/)
+[Best Practices for Collaborative E-commerce Development on GitHub]({{ site.baseurl }}/{Best-Practices-for-Collaborative-Ecommerce-Development-on-GitHub}/)
+[Deploying a Scalable E-commerce Backend with GitHub Actions and Docker]({{ site.baseurl }}/{Deploying-Scalable-Ecommerce-Backend-with-GitHub-and-Docker}/)

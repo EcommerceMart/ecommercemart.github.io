@@ -232,5 +232,5 @@ Carhartt is not a luxury brand. It is a trusted, reliable name in workwear and n
 ---
 
 ## Related Posts
-[Is Carhartt Reworked Legit? Your Easy Guide to Carhartt Reworked]({{ site.baseurl }}/{2025}/{06}/{17}/{is-carhartt-reworked-legit}/)
-[Is Carhartt a Good Brand? Honest Review for 2025]({{ site.baseurl }}/{2025}/{06}/{17}/{is-carhartt-good-brand}/)
+[Is Carhartt Reworked Legit? Your Easy Guide to Carhartt Reworked]({{ site.baseurl }}/{is-carhartt-reworked-legit}/)
+[Is Carhartt a Good Brand? Honest Review for 2025]({{ site.baseurl }}/{is-carhartt-good-brand}/)

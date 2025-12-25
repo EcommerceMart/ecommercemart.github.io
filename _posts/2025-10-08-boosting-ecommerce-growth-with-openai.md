@@ -227,5 +227,5 @@ If you’re running an online store, the time to start leveraging OpenAI is now.
 ---
 
 ## Related Posts
-[How OpenAI Is Transforming eCommerce: Smarter Stores in 2025]({{ site.baseurl }}/{2025}/{10}/{06}/{openai-transforming-ecommerce-2025}/)
-[OpenAI for eCommerce: Practical Use Cases to Boost Sales]({{ site.baseurl }}/{2025}/{10}/{06}/{openai-for-ecommerce-boost-sales}/)
+[How OpenAI Is Transforming eCommerce: Smarter Stores in 2025]({{ site.baseurl }}/{openai-transforming-ecommerce-2025}/)
+[OpenAI for eCommerce: Practical Use Cases to Boost Sales]({{ site.baseurl }}/{openai-for-ecommerce-boost-sales}/)
