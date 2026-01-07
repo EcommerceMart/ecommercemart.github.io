@@ -33,4 +33,4 @@ GOOGLE_SPREADSHEET_ID = os.environ.get("GOOGLE_SPREADSHEET_ID")
 
 # Create directories
 os.makedirs(POSTS_DIR, exist_ok=True)
-os.makedirs(IMAGES_DIR, exist_ok=True)
+os.makedirs(IMAGES_DIR, exist_ok=True) 
