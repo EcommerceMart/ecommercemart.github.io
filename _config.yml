@@ -297,7 +297,7 @@ defaults:
       comments: false
       share: false
       related: false
-      show_date: false
+      show_date: true
       toc: true # Table of contents - IMPORTANT for tutorials
       toc_sticky: true # Sticky TOC - Better UX
       toc_label: "Table of Content"
