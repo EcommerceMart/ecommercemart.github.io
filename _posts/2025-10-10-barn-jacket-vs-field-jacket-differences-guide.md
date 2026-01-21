@@ -4,11 +4,11 @@ title: "Barn Jacket vs. Field Jacket: Key Differences You Should Know"
 description: "Confused between a Barn Jacket and a Field Jacket? This detailed guide explains the key differences, style tips, and buying advice so you can choose the perfect jacket."
 keywords: ["Barn Jacket", "Field Jacket", "Barn Jacket vs Field Jacket", "Barn Jacket guide", "jacket style differences"]
 categories: "BarnJackets"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

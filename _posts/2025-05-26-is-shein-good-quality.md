@@ -4,11 +4,11 @@ title: "Is Shein Good Quality? These Reviews Might Surprise You"
 description: "Wondering if Shein clothes are worth it? We break down the quality, materials, sizing, and real user reviews in this detailed 4000+ word guide."
 keywords: ["shein", "is shein good quality", "shein clothing review", "shein fashion", "fast fashion shein"]
 categories: "shein"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

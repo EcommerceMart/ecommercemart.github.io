@@ -3,11 +3,11 @@ layout: single
 title: "Ecommerce Business Insurance: Why It Matters in 2025"
 description: "Learn why ecommerce business insurance is crucial in 2025 and how it protects your online store from risks and liabilities."
 categories: [Business, Ecommerce, Insurance]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

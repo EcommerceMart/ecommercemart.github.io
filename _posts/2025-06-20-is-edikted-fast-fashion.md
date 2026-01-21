@@ -4,11 +4,11 @@ title: "Is Edikted Fast Fashion? Breaking Down the Truth in 2025"
 description: "Is Edikted a fast fashion brand? Explore its pricing, supply chain, and sustainability practices in this detailed 4000+ word analysis."
 keywords: ["edikted", "is edikted fast fashion", "edikted brand review", "edikted sustainability", "edikted supply chain"]
 categories: "edikted"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

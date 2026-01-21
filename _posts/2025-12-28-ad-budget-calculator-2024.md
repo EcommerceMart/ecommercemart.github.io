@@ -1,11 +1,11 @@
 ---
 title: "How to Set Ad Budget for Small Ecommerce Store: The 2024 Formula + Free Calculator"
 description: "Learn how to set ad budget for your small ecommerce store in 2024. Use our proven formula & free calculator to optimize spend and maximize your ROI now!"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

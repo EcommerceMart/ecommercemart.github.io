@@ -1,11 +1,11 @@
 ---
 title: "How to Calculate Profit Margin for Dropshipping Business: The 5-Minute Guide for Beginners"
 description: "Master how to calculate profit margin for dropshipping business in just 5 minutes. This beginner guide simplifies profitability for quick results."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

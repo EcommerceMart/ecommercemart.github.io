@@ -1,11 +1,11 @@
 ---
 title: "Product Pricing Calculator for Beginners: How to Set Profitable Prices That Actually Sell"
 description: "Unlock profit! Use our product pricing calculator to set profitable prices that attract buyers and boost your bottom line. Learn how today."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

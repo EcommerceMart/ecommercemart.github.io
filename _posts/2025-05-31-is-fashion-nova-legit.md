@@ -4,11 +4,11 @@ title: "Is Fashion Nova Legit?"
 description: "Discover the truth about Fashion Nova with our in-depth review. Is Fashion Nova legit? Find out everything you need to know."
 keywords: ["Fashion Nova"]
 categories: "FashionNova"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

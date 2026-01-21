@@ -3,11 +3,11 @@ layout: single
 title: "Is Kate Spade a Good Brand? Honest Review for 2025"
 description: "Is Kate Spade a good brand? Discover an easy, detailed review of Kate Spade's quality, style, and value for USA shoppers in 2025."
 categories: "KateSpade"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

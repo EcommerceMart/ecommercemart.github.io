@@ -3,11 +3,11 @@ layout: single
 title: "Is Macy's Outlet Legit? A Detailed Guide to Macy’s Sales and Discounts"
 description: "Is Macy's outlet legit? Explore detailed insights about the sale at Macy's, outlet store deals, return policies, and how to spot authentic bargains."
 category: [fashion, Macy]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

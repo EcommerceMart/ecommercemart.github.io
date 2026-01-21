@@ -1,11 +1,11 @@
 ---
 title: "Shopify Theme Detector: How to Find Any Store's Theme in Seconds (Step-by-Step)"
 description: "Want to know what Shopify theme a store uses? This shopify theme detector guide shows how to find any theme in seconds with a simple step-by-step process."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

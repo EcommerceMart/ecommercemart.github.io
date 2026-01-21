@@ -2,11 +2,11 @@
 layout: single
 title: "Shopify Shogun: Build Stunning Ecommerce Pages Easily"
 description: "Learn how Shopify Shogun helps you build stunning eCommerce pages easily with drag-and-drop tools and advanced customization options."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

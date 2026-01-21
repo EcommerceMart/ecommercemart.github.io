@@ -1,11 +1,11 @@
 ---
 title: "Dropshipping Profit Margin Calculator: How to Calculate Your Real Profit (Not Just Revenue)"
 description: "Master your dropshipping profits! Our dropshipping profit margin calculator reveals how to accurately determine your real earnings, not just revenue."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

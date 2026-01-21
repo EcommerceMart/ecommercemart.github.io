@@ -4,11 +4,11 @@ title: "Can You Trust Pandabuy for Replicas? Reddit and Quora Weigh In"
 description: "Curious about replica shopping? Find out if Pandabuy is trustworthy for buying replicas in 2025, based on Reddit and Quora discussions."
 keywords: "Pandabuy"
 categories: [Shopping, Online Platforms, Consumer Reviews]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

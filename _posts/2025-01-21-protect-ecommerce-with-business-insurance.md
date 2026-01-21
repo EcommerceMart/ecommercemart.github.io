@@ -3,11 +3,11 @@ layout: single
 title: "Protect Your Online Store with the Right Business Insurance"
 description: "Learn how ecommerce business insurance can safeguard your online store from risks, liabilities, and financial losses."
 categories: [Business, Ecommerce, Insurance]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

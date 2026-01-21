@@ -3,11 +3,11 @@ layout: single
 title: "Taobao Global Shipping Explained: Costs, Methods, and Tips for 2025"
 description: "Learn about Taobao Global shipping costs, delivery methods, and tips to optimize your shopping and international delivery experience in 2025."
 categories: [Taobao Global]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

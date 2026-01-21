@@ -3,11 +3,11 @@ layout: single
 title: "The Rise of Electronic Commerce (E-Commerce) and Its Impact on Businesses"
 description: "Discover how electronic commerce (e-commerce) is transforming businesses in 2025. Learn about its advantages, challenges, and future impact."
 categories: ecommerce
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

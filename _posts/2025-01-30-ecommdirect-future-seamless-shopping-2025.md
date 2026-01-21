@@ -3,11 +3,11 @@ layout: single
 title: "EcommDirect: The Future of Seamless Online Shopping in 2025"
 description: "Discover how EcommDirect is revolutionizing the ecommerce industry in 2025 with its cutting-edge features and seamless shopping experience."
 categories: [Ecommerce, Technology]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

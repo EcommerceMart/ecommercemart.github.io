@@ -1,11 +1,11 @@
 ---
 title: "How to Estimate Shipping Costs for Online Store: Free Calculator + Carrier Comparison (2024)"
 description: "Struggling with shipping? Learn how to estimate shipping costs for online store with our free 2024 calculator and carrier comparison guide."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

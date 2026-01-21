@@ -3,11 +3,11 @@ layout: single
 title: "Change Language on Taobao App: Quick Guide (2025)"
 categories: [Online Shopping, Taobao, App Guides]
 description: "Learn how to change language on the Taobao app in 2025. A step-by-step guide for international users to switch from Chinese to English."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -1,11 +1,11 @@
 ---
 title: "How to Estimate Shipping Costs for Online Store (Without Losing Money on Delivery)"
 description: "Master how to accurately estimate shipping costs without losing money on delivery for your online store. Get expert tips to stop overpaying and boost your pr..."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

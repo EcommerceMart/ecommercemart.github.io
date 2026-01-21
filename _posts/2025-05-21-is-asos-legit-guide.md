@@ -4,11 +4,11 @@ title: "Is ASOS Legit? Uncovering the Truth Behind the Online Fashion Giant"
 description: "Is ASOS legit? Discover the truth about ASOS's shipping, returns, customer support, and product quality in our comprehensive review."
 keywords: ["asos", "is asos legit", "asos reviews", "asos shipping", "asos return policy"]
 category: [fashion, ASOS]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

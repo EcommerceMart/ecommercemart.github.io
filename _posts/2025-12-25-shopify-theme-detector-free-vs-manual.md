@@ -1,11 +1,11 @@
 ---
 title: "How to Detect Shopify Theme on Competitor Site: Free Detector Tool vs Manual Method"
 description: "Uncover competitor Shopify themes fast! Learn the pros and cons of using a shopify theme detector free tool versus manual detection methods. Get insights here!"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

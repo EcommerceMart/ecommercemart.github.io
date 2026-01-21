@@ -1,11 +1,11 @@
 ---
 title: "Start Dropshipping with Limited Budget: Free Tools + Low-Cost Strategies That Actually Work"
 description: "Learn to start dropshipping with limited budget using free tools and proven low-cost strategies. Launch your online store and succeed without breaking the bank."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -1,11 +1,11 @@
 ---
 title: "How to Price Products for Ecommerce Beginners: Step-by-Step with Real Examples (Dropshipping & Handmade)"
 description: "Learn how to price products for dropshipping handmade businesses with our step-by-step guide and real examples to maximize your profit potential today."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

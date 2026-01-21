@@ -4,11 +4,11 @@ title: "Best Cameras and Tools for Ecommerce Photography in 2025"
 description: "Discover the top cameras and essential tools for ecommerce photography in 2025. Learn how to capture stunning product images with the best gear."
 keywords: "ecommerce photography, best cameras for ecommerce, product photography tools, ecommerce photo setup, 2025 photography gear"
 categories: [Ecommerce, Photography]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

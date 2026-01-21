@@ -3,11 +3,11 @@ layout: single
 title: "Is Commense Legit? What You Need to Know Before Buying"
 description: "Is Commense legit? Learn everything about Commense's authenticity, reviews, shipping, return policies, and what customers are really saying."
 categories: "commense"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

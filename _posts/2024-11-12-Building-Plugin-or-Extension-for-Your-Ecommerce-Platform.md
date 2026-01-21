@@ -2,11 +2,11 @@
 layout: single
 title:  "Building a Plugin or Extension for Your E-commerce Platform: Starting with GitHub"
 description: 'Discover how to kickstart building plugins or extensions for your e-commerce platform using GitHub, streamlining version control, collaboration, and deployment processes.'
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

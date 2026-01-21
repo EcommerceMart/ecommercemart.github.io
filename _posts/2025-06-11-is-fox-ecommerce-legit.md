@@ -3,11 +3,11 @@ layout: single
 title: "Is Fox Ecommerce Legit? What You Need to Know Before Buying"
 description: "Is Fox Ecommerce legit? Read our in-depth review of trust factors, customer feedback, and safety tips before making a purchase."
 categories: "FoxEcommerce"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

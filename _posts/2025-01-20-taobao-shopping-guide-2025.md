@@ -3,11 +3,11 @@ layout: single
 title: "Taobao Shopping Made Easy: Tips for Global Buyers"
 description: "Learn how to navigate Taobao and make the most of your shopping experience as an international buyer."
 categories: [Shopping, Taobao, Ecommerce]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -3,11 +3,11 @@ layout: single
 title: "Is Etsy Worth It in 2025?"
 description: "Explore whether Etsy is worth it in 2025 for sellers and buyers. Learn about fees, competition, profits, and platform comparisons."
 category: [Etsy]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

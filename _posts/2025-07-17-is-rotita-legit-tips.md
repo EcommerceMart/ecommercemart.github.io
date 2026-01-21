@@ -3,11 +3,11 @@ layout: single
 title: "Is Rotita Legit? What You Need to Know Before Buying"
 description: "Is Rotita legit? Discover insights on Rotita's product quality, customer experiences, shipping, and whether it's a trustworthy online store."
 categories: "Rotita"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

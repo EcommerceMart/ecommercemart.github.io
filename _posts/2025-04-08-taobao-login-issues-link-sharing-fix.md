@@ -4,11 +4,11 @@ title: "Taobao Login Issues & Link Sharing Problems: How to Fix Them"
 description: "Struggling with Taobao login issues or link sharing problems? Learn how to fix them easily with this step-by-step guide."
 keywords: "taobao, taobao login, taobao link sharing, fix taobao issues, taobao troubleshooting"
 categories: [Ecommerce, Taobao]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

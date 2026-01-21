@@ -3,11 +3,11 @@ layout: single
 title: "Top Tips for Buying Safely from a 1688 Shop"
 description: "Discover essential tips for buying safely from a 1688 shop, ensuring a secure and hassle-free shopping experience."
 keywords: "1688 shop, buy from 1688, 1688 buying guide, wholesale shopping, safe online shopping"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

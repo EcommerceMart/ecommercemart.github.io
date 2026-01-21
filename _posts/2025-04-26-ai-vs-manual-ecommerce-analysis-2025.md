@@ -4,11 +4,11 @@ title: "AI vs. Manual Ecommerce Management: What’s More Effective in 2025?"
 description: "Explore the effectiveness of AI vs. manual ecommerce management in 2025. Understand the benefits and challenges of AI in ecommerce."
 categories: [ Ecommerce ] 
 
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

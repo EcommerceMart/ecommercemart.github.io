@@ -4,11 +4,11 @@ title: "Is Shein Club Worth It? Full Review and User Insights"
 description: "Wondering if Shein Club is worth it? This guide breaks down costs, benefits, and real user reviews to help you decide."
 keywords: ["shein club"]
 categories: "shein"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

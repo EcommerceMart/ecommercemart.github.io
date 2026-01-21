@@ -1,11 +1,11 @@
 ---
 title: "Ecommerce Product Pricing Guide for Beginners: Cost-Plus vs Value-Based vs Competition Pricing"
 description: "Master optimal pricing with this ecommerce product pricing guide for beginners. Discover cost-plus, value, and competition strategies to boost sales."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

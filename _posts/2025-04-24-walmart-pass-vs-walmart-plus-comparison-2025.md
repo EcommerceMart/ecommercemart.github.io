@@ -4,11 +4,11 @@ title: "Walmart Pass vs Walmart+ in 2025: What’s the Difference & Which Should
 description: "Compare Walmart Pass and Walmart+ in 2025. Learn the differences, benefits, and which membership suits your lifestyle best."
 keywords: ["walmart pass"]
 categories: "walmart"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

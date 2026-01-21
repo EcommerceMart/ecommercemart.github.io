@@ -4,11 +4,11 @@ title: "Can Taobao Ship to USA? Everything You Need to Know in 2025"
 description: "Learn if Taobao ships to the USA, how to order, shipping options, and how to shop safely from the U.S. using the Taobao platform."
 keywords: "taobao"
 categories: [Shopping, Taobao, International Shipping]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

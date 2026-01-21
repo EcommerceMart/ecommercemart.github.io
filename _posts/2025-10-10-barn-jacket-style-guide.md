@@ -4,11 +4,11 @@ title: "Barn Jacket Style Guide: How to Wear This Timeless Classic"
 description: "Discover how to style a barn jacket in 2025 with this complete guide. Learn outfit ideas, seasonal styling tips, and why the barn jacket remains a timeless wardrobe essential."
 keywords: "Barn Jacket, barn jacket style, barn jacket outfits, barn jacket fashion, how to wear barn jacket"
 categories: "BarnJackets"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

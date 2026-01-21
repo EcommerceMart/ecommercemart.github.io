@@ -3,11 +3,11 @@ layout: single
 title: "Is Spryker Legit? What You Need to Know Before You Shop"
 description: "Is Spryker legit? Detailed 2500-word guide covering company background, safety tips, customer experiences, and shopping advice."
 categories: "Spryker"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

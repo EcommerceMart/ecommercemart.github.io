@@ -3,11 +3,11 @@ layout: single
 title: "Is Popilush Legit? What You Need to Know Before Buying"
 description: "Is Popilush legit? Discover everything about the Popilush brand, product quality, customer reviews, and shopping tips before buying."
 categories: "Popilush"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

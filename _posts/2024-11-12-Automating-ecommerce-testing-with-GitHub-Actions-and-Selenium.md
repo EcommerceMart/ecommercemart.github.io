@@ -2,11 +2,11 @@
 layout: single
 title:  "Automating E-commerce Testing with GitHub Actions and Selenium"
 description: 'Explore effective strategies for managing collaborative Ecommerce projects on GitHub, from version control to streamlined code reviews and workflow management.'
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

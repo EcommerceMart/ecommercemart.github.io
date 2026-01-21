@@ -4,11 +4,11 @@ title: "Grow Your Business with Shopify eCommerce Experts at RaveDigitalAgency"
 description: "Discover how RaveDigitalAgency, a leading Shopify eCommerce agency, can help you grow your online business with expert solutions and strategies."
 keywords: "shopify ecommerce agency ravedigitalagency"
 categories: [ecommerce, shopify]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

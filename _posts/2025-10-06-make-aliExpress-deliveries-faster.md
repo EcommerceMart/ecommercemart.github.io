@@ -3,11 +3,11 @@ layout: single
 title: "How Cainiao Makes AliExpress Deliveries Faster and Cheaper"
 description: "Discover how Cainiao, Alibaba’s logistics arm, powers AliExpress with faster and cheaper deliveries worldwide. Learn how its technology, partnerships, and smart logistics benefit online shoppers."
 categories: "Cainiao"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

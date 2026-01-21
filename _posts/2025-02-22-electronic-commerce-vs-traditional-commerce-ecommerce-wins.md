@@ -3,11 +3,11 @@ layout: single
 title: "Electronic Commerce vs. Traditional Commerce: Why E-Commerce Wins"
 description: "Discover the key differences between electronic commerce (e-commerce) and traditional commerce. Learn why e-commerce is dominating the retail industry in 2025."
 categories: ecommerce
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

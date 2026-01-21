@@ -1,11 +1,11 @@
 ---
 title: "How to Calculate Profit Margin for Dropshipping: Simple Formula + Free Calculator (2024)"
 description: "Learn how to calculate profit margin for dropshipping with our simple formula and free 2024 calculator to maximize your earnings instantly."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -1,11 +1,11 @@
 ---
 title: "How to Estimate Shipping Costs for Online Store: Beginner's Guide with Real Examples (India & International)"
 description: "Estimate shipping costs India international like a pro! This beginner's guide with real examples helps online stores master accurate shipping estimates."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

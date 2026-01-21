@@ -1,11 +1,11 @@
 ---
 title: "How to Optimize Product Descriptions for Conversions: Step-by-Step with Before/After Examples"
 description: "Unlock sales potential! Learn to optimize product descriptions for conversions with our step-by-step guide, complete with before and after examples."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

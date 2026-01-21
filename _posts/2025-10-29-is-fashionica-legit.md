@@ -4,11 +4,11 @@ title: "Is Fashionica Legit? An Honest Review of the Online Store in 2025"
 description: "Wondering if Fashionica is legit? This detailed 2025 review covers Fashionica’s product quality, customer feedback, shipping, refund policies, and trust score to help you decide before shopping."
 keywords: "is fashionica legit, fashionica reviews, fashionica scam, fashionica online store, fashionica trustworthiness"
 categories: "Fashionica"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

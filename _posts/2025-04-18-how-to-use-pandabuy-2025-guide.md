@@ -3,11 +3,11 @@ layout: single
 title: "How to Use Pandabuy in 2025: Step-by-Step for First-Time Buyers"
 description: "A complete guide to using Pandabuy in 2025 for first-time buyers. Learn how to register, order, pay, and ship smoothly."
 categories: [Shopping, Ecommerce, Pandabuy]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

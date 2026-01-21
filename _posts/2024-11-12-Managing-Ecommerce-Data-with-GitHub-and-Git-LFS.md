@@ -2,11 +2,11 @@
 layout: single
 title:  "Managing E-commerce Data with GitHub and Git LFS"
 description: 'Explore how to efficiently manage large e-commerce datasets using GitHub and Git LFS, ensuring seamless version control and storage optimization.'
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

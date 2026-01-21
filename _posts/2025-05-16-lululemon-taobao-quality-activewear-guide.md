@@ -3,11 +3,11 @@ layout: single
 title: "Lululemon on Taobao: How to Find Quality Activewear Without Breaking the Bank"
 description: "Explore how to find quality Lululemon-style activewear on Taobao without overspending. A detailed guide to smart and stylish shopping."
 categories: [Lululemon on Taobao]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

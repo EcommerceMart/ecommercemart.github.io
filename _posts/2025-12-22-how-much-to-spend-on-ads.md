@@ -1,11 +1,11 @@
 ---
 title: "Ecommerce Ad Budget Calculator: How Much Should Small Stores Spend on Ads?"
 description: "Struggling with ad spend? Use our ecommerce ad budget calculator to discover how much small stores should invest for maximum ROI. Plan your strategy now!"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

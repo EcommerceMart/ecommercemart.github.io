@@ -4,11 +4,11 @@ title: "Why Is Temu So Bad? An Honest Review Explaining User Concerns"
 description: "Discover why Temu is often considered bad by users. Detailed review covering shipping, quality, customer service, and more."
 keywords: ["Temu"]
 categories: "Temu"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

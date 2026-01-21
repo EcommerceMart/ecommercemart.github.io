@@ -3,11 +3,11 @@ layout: single
 title: "Best Jorts for Men and Women: Affordable Denim Shorts You’ll Love"
 description: "Discover the best jorts for men and women in 2025. Explore affordable denim shorts that combine comfort, style, and versatility, plus tips on how to wear them with confidence."
 categories: "Jorts"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

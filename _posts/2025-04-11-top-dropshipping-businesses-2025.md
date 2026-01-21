@@ -4,11 +4,11 @@ title: "Top Dropshipping Businesses to Start in 2025"
 description: "Explore the best dropshipping businesses to start in 2025. Learn niches, tips, and strategies for building profitable online stores."
 keywords: "dropshipping businesses, best dropshipping ideas 2025"
 categories: [Ecommerce, Dropshipping]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

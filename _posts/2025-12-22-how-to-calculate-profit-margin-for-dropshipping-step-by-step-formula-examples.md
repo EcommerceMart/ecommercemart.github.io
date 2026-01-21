@@ -1,11 +1,11 @@
 ---
 title: "How to Calculate Profit Margin for Dropshipping: Step-by-Step Formula (With Examples)"
 description: "Unlock dropshipping success! Discover exactly how to calculate profit margin dropshipping step by step using our simple formula and practical examples today."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

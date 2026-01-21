@@ -1,11 +1,11 @@
 ---
 title: "How to Optimize Product Descriptions for Conversions (Without Hiring a Copywriter)"
 description: "Boost your sales and learn how to optimize product descriptions without a copywriter, using our free expert tips to skyrocket your conversion rates today."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

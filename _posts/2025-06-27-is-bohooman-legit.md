@@ -4,11 +4,11 @@ title: "Is BoohooMAN Legit? A Complete Review Before You Buy"
 description: "Wondering if BoohooMAN is legit? Read our 4000+ word in-depth guide covering customer reviews, quality, delivery, sizing, and return policy."
 keywords: ["Is BoohooMAN Legit", "BoohooMAN review", "BoohooMAN quality", "BoohooMAN shipping", "BoohooMAN sizing"]
 categories: "boohooman"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

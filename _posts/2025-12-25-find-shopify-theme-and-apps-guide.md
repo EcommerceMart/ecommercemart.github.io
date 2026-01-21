@@ -1,11 +1,11 @@
 ---
 title: "Find Any Shopify Theme Instantly: Complete Guide to Detecting Competitor Themes + Apps"
 description: "Uncover competitor secrets and learn how to instantly find any Shopify theme and apps they use with our guide to gain an edge."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

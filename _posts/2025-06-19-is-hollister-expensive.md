@@ -4,11 +4,11 @@ title: "Is Hollister Expensive? A Complete Guide to Hollister Prices"
 description: "Is Hollister expensive? Get a detailed look at Hollister prices, deals, and value. Learn if Hollister fits your budget before you shop."
 keywords: ["hollister", "is hollister legit", "hollister review", "hollister quality", "hollister returns", "hollister shipping", "hollister clothing brand legit"]
 categories: "Hollister"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -4,11 +4,11 @@ title: "What Are the Reasons People Buy from Taobao Over AliExpress"
 description: "Discover why savvy shoppers prefer Taobao over AliExpress. Explore pricing, variety, quality, and more. A must-read for smart online buyers."
 keywords: "taobao"
 categories: [Shopping, E-commerce, Taobao]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

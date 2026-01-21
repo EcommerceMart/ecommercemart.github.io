@@ -1,11 +1,11 @@
 ---
 title: "Convert More Sales with Better Product Descriptions: Psychology-Backed Writing Formula for 2024"
 description: "Unlock higher sales in 2024 with proven psychology product descriptions conversions strategies. Get the writing formula to transform your product listings."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

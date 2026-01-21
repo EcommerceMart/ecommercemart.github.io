@@ -2,11 +2,11 @@
 layout: single
 title: "Your Shopify Website Builder Journey: From Struggles to Storefront Stardom in 2025! 🚀"
 description: "Imagine you’re launching your dream store with the Shopify website builder in 2025! This is your story—from tech chaos to thriving sales—packed with fun, simple steps, and real wins you can claim today!"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

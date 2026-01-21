@@ -1,11 +1,11 @@
 ---
 title: "How to Detect Shopify Theme on Competitor Site (And Copy Their Success in 2024)"
 description: "Want to know how to detect Shopify theme on competitor sites? Uncover their secrets and replicate their success in 2024 with our comprehensive guide."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

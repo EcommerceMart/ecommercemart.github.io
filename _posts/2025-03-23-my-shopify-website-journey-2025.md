@@ -3,11 +3,11 @@ layout: single
 title: "My Shopify Website Journey: Why It’s My Go-To for Building an Online Empire in 2025 🌟"
 categories: affiliate-marketing
 description: "Discover why I’m obsessed with my Shopify website in 2025! From easy setup to skyrocketing sales, here’s my honest review of how Shopify turned my online dreams into reality."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

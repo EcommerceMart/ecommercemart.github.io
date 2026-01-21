@@ -3,11 +3,11 @@ layout: single
 title: "Best Taobao Agents for Canadian Shoppers in 2025"
 description: "Discover the best Taobao agents for Canadian shoppers in 2025. Compare fees, shipping, and service to make your Taobao Canada shopping easy."
 categories: "taobaocanada"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

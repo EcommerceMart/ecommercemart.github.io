@@ -4,11 +4,11 @@ title: "Is Banana Republic Good Quality? Honest Review for USA Shoppers"
 description: "Is Banana Republic good quality? Get a detailed, easy-to-understand review of Banana Republic’s quality, value, and customer experiences."
 tags: banana republic, quality, fashion, review
 categories: "banana republic"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

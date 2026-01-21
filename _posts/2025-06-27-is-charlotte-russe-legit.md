@@ -3,11 +3,11 @@ layout: single
 title: "Is Charlotte Russe Legit? A Complete Buyer’s Guide for 2025"
 description: "Is Charlotte Russe legit? This in-depth 2025 review explores its trustworthiness, quality, shipping, customer reviews, and return policies."
 categories: "CharlotteRusse"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

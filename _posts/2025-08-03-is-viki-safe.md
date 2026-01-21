@@ -4,11 +4,11 @@ title: "Is Viki Safe? Everything You Need to Know"
 keywords: [viki, is viki safe, is rakuten viki legit, viki app review, is viki secure, streaming asian dramas]
 description: "Is Viki safe to use for streaming Asian dramas? Learn about Viki's safety, privacy, app security, and user trustworthiness in this in-depth review."
 categories: "Viki"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

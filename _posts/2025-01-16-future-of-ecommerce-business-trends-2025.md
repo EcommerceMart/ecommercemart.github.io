@@ -4,11 +4,11 @@ title: "The Future of Ecommerce Business: Trends to Watch in 2025"
 description: "Explore emerging trends shaping the future of ecommerce business in 2025. Learn how to stay ahead with innovative strategies and tools."
 keywords: "Ecommerce Business, ecommerce trends 2025, future of ecommerce, ecommerce strategies, online shopping trends"
 categories: [Ecommerce, Ecommerce Business]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

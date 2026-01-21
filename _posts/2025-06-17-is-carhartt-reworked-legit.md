@@ -3,11 +3,11 @@ layout: single
 title: "Is Carhartt Reworked Legit? Your Easy Guide to Carhartt Reworked"
 description: "Find out if Carhartt Reworked is legit. Learn about the Carhartt Reworked program, how it works, and if it's safe to buy or sell Carhartt reworked gear."
 categories: "Carhartt"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

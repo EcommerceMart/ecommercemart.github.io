@@ -1,11 +1,11 @@
 ---
 title: "How to Optimize Product Descriptions for Conversions: 15 Proven Techniques + Free Templates (2024)"
 description: "Unlock higher sales! Discover how to optimize product descriptions for conversions using 15 proven techniques and exclusive free templates for 2024."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -3,11 +3,11 @@ layout: single
 title: "Affordable eCommerce SEO Packages: Maximizing ROI for Small Businesses"
 description: "Discover budget-friendly eCommerce SEO packages that maximize ROI for small businesses with tailored technical SEO, local optimization, and content strategies."
 tags: ecommerce, seo, small-business, marketing, google-news
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

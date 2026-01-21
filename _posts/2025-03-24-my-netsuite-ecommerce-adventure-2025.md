@@ -3,11 +3,11 @@ layout: single
 title: "My NetSuite Ecommerce Adventure: Powering Up My Online Store in 2025 🚀"
 categories: affiliate-marketing
 description: "Join me on my NetSuite ecommerce journey! From seamless inventory to epic scalability, here’s my fun and honest review of how NetSuite transformed my online store in 2025."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

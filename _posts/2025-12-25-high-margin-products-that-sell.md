@@ -1,11 +1,11 @@
 ---
 title: "Product Research for Online Stores: How to Find High-Margin Winners That Actually Sell"
 description: "Learn essential product research online stores use to find high margin winners that actually sell. Boost your profits and accelerate your e-commerce success."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

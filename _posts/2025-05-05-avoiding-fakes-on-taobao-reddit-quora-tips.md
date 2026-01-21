@@ -2,11 +2,11 @@
 layout: single
 title: "Avoiding Fakes on Taobao: Insider Tips from Reddit and Quora Users"
 description: "Reddit and Quora users share real tips on how to get genuine products on Taobao by comparing listings, seller history, and reviews."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

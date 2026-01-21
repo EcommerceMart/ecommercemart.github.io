@@ -3,11 +3,11 @@ layout: single
 title: "Shein, AliExpress, Temu, and Wish Under Investigation for Selling Sex Dolls"
 description: "Shein, AliExpress, Temu, and Wish are under investigation for allegedly selling sex dolls that resemble minors. Here's a detailed report on what triggered the probe, regulatory responses, and its implications for global e-commerce giants."
 categories: "AliExpress"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

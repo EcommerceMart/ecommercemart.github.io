@@ -4,11 +4,11 @@ title: "Popilush Models and Sizing: See How the Fits Look on Different Bodies"
 description: "Discover how Popilush models showcase sizing on real bodies. See Popilush fits on diverse body types before you buy."
 keywords: ["Popilush Models", "Popilush sizing", "Popilush body types"]
 categories: "Popilush"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

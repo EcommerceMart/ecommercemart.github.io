@@ -4,11 +4,11 @@ title: "What Is Cainiao? Everything You Need to Know About Alibaba’s Logistics
 keywords: [Cainiao, Alibaba logistics, Cainiao tracking, Cainiao shipping, AliExpress delivery]
 description: "Learn everything about Cainiao, Alibaba’s logistics giant powering global e-commerce deliveries. Discover its history, tracking system, shipping times, pros, cons, and future."
 categories: "Cainiao"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

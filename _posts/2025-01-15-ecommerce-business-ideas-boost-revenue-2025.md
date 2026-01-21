@@ -4,11 +4,11 @@ title: "Top 10 Ecommerce Business Ideas to Boost Your Revenue This Year"
 description: "Discover the top ecommerce business ideas to boost your revenue in 2024. Learn how to kickstart your online store with innovative and profitable strategies."
 keywords: "Ecommerce Business, ecommerce business ideas, profitable ecommerce ideas, ecommerce trends 2024, online store ideas"
 categories: [Ecommerce, Ecommerce Business]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

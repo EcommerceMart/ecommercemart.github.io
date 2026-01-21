@@ -79,11 +79,11 @@ def create_custom_front_matter(title, focus_kw, permalink):
     front_matter = f"""---
 title: "{escaped_title}"
 description: "{description}"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

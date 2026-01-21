@@ -4,11 +4,11 @@ title: "Walmart Plus in 2025: Is It Worth the Subscription for Smart Shoppers?"
 description: "Walmart Plus in 2025 offers new perks, delivery upgrades, and savings. Discover if it's worth it for smart shoppers like you."
 keywords: ["walmart plus benefits", "is walmart plus worth it"]
 categories: "walmart"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

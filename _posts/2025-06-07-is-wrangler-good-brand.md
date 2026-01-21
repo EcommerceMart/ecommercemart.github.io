@@ -4,11 +4,11 @@ title: "Is Wrangler a Good Brand? Honest Review of Wrangler Jeans & Apparel"
 description: "Is Wrangler a good brand? Discover a detailed, easy-to-understand review of Wrangler jeans, quality, value, and customer experiences for USA shoppers."
 tags: wrangler, jeans, denim, review
 categories: [brand-reviews, fashion]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

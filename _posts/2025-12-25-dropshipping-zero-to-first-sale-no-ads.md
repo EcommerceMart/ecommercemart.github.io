@@ -1,11 +1,11 @@
 ---
 title: "How to Start Dropshipping with Limited Budget: From $0 to First Sale Without Ads"
 description: "Learn how to start dropshipping without ads budget and make your first sale with no money. Discover free strategies to launch your profitable online store to..."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -3,11 +3,11 @@ layout: single
 title: "How Taobao File System (TFS) Powers Massive Image Storage and Processing"
 description: "Explore how Taobao File System handles massive image storage needs with flat structure, metadata optimization, and fast small file access."
 categories: [Technology, Cloud Storage, Big Data]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

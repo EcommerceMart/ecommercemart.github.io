@@ -4,11 +4,11 @@ title: "How to Maximize Your Walmart Plus Membership: Tips, Tricks & Benefits"
 description: "Unlock Walmart Plus benefits in 2025 with insider tips, savings hacks, and a step-by-step guide to get the most from your subscription."
 keywords: ["walmart plus benefits", "walmart plus"]
 categories: "walmart"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

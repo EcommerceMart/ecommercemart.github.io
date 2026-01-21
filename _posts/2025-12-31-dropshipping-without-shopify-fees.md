@@ -1,11 +1,11 @@
 ---
 title: "How to Start Dropshipping with Limited Budget (No Shopify Monthly Fees Required)"
 description: "Learn to start dropshipping with no Shopify fees and a limited budget. Discover free platforms and strategies to launch your successful store today!"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

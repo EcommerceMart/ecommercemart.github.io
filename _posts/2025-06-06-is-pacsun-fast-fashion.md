@@ -3,11 +3,11 @@ layout: single
 title: "Is PacSun Fast Fashion?"
 description: "Discover if PacSun is fast fashion. Learn about PacSun’s style, quality, and sustainability."
 categories: "PacSun"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

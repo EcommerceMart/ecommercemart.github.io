@@ -4,11 +4,11 @@ title: "What Is CNShopper? Complete Guide for International Shoppers in 2025"
 description: "Discover CNShopper in 2025 with this complete guide. Learn what CNShopper is, how it works, fees, shipping options, pros and cons, reviews, and tips for global buyers."
 keywords: "CNShopper, CNShopper review 2025, CNShopper Taobao agent, CNShopper shipping, CNShopper guide"
 categories: "cnshopper"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

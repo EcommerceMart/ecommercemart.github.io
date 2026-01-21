@@ -4,11 +4,11 @@ title: "Ecommerce Website Development in Dubai: Build Your Store for Success"
 description: "Discover why Dubai is the ideal hub for ecommerce website development and how to create a successful online store with expert tips."
 keywords: [ecommerce website development Dubai, ecommerce development Dubai, online store Dubai]
 categories: Ecommerce
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

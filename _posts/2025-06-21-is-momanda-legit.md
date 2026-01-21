@@ -4,11 +4,11 @@ title: "Is Momanda Legit? What You Need to Know Before Buying"
 description: "Is Momanda legit? Discover the truth about Momanda's quality, sizing, reviews, and safety before shopping. Real insights from verified buyers."
 keywords: ["momanda", "is momanda legit", "momanda maternity bra reviews", "momanda store review"]
 categories: "windsor"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

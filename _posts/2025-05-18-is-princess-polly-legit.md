@@ -3,11 +3,11 @@ layout: single
 title: "Is Princess Polly Legit? 2025 Review for Smart Fashion Shoppers"
 description: "Is Princess Polly legit in 2025? Dive into a 4000+ word review covering quality, shipping, customer feedback, and fashion picks for smart shoppers."
 categories: [Fashion, Reviews, Online Shopping]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

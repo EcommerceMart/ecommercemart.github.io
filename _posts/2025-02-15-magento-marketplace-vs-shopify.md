@@ -3,11 +3,11 @@ layout: single
 title: "Magento Marketplace vs Shopify: Which Platform is Best for Sellers?"
 categories: [Ecommerce, Magento, Shopify]
 description: "Magento Marketplace vs Shopify - Compare features, pricing, flexibility, and ease of use to find the best ecommerce platform for your business."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

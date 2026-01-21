@@ -2,11 +2,11 @@
 layout: single
 title:  "Top GitHub Repos for Enhancing Security on Your E-commerce Site"
 description: 'Discover the top GitHub repositories offering tools and resources to enhance the security of your e-commerce site, from vulnerability scanning to secure coding practices.'
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -2,11 +2,11 @@
 layout: single
 title:  "Using GitHub Projects to Manage E-commerce Site Development"
 description: 'Learn how to streamline e-commerce site development with GitHub Projects, enabling effective task management, team collaboration, and project tracking.'
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -3,11 +3,11 @@ layout: single
 title: "How to Return on Shein: A Complete Step-by-Step Guide"
 description: "Learn how to return on Shein with this step-by-step guide. Understand Shein return policy, fees, methods, and timelines for every country."
 categories: "shein"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

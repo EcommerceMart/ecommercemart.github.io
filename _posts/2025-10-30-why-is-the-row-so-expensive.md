@@ -4,11 +4,11 @@ title: "Why Is The Row So Expensive? The Secret Behind the Brand’s Luxury Appe
 description: "Discover why The Row is so expensive and what makes it one of the most exclusive luxury fashion brands in the world. Explore its craftsmanship, materials, minimalist design, and celebrity influence."
 keywords: "The Row, why is The Row so expensive, The Row brand, Mary-Kate and Ashley Olsen, luxury fashion, designer clothing, minimalist style"
 categories: "TheRow"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

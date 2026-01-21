@@ -2,11 +2,11 @@
 layout: single
 title: "Taobao Agent Services Explained: What to Expect and How to Maximize Value"
 description: "Explore how Taobao agents help with sourcing, inspections, shipping, and customs while learning to make the most of their services in 2025."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

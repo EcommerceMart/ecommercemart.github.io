@@ -3,11 +3,11 @@ layout: single
 title: "Is Rare Beauty Good? What Real Users Are Saying Today"
 description: "Wondering if Rare Beauty is good? Get real reviews, pros and cons, and how it compares to top brands like Fenty and Glossier."
 category: ["Ulta Beauty"]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

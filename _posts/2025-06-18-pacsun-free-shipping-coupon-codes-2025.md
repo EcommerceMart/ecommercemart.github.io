@@ -4,11 +4,11 @@ title: "Updated PacSun Free Shipping Coupons You Can Use Right Now"
 description: "Find the best PacSun free shipping coupon codes that work in 2025. Updated guide including Reddit tips, student discounts, and verified promo codes."
 keywords: ["pacsun free shipping coupon", "pacsun free shipping coupon reddit", "pacsun free shipping coupon code reddit", "pacsun student discount", "pacsun discount code reddit", "pacsun coupon code 2025", "pacsun 15% off code", "pacsun 15% off code reddit", "pacsun spin the wheel"]
 categories: "PacSun"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

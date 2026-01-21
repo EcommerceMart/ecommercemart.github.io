@@ -4,11 +4,11 @@ title: "Taobao Payment Failed? 5 Common Reasons and How to Fix Them"
 description: "Facing the 'Taobao payment failed' issue? Discover 5 common reasons and easy fixes in this detailed guide to resolve payment errors quickly."
 categories: [Online Shopping, Taobao, Payment Issues]
 tags: [featured]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

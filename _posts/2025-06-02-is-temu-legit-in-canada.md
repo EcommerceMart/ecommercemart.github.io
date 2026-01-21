@@ -5,11 +5,11 @@ description: "Is Temu legit in Canada? Explore shipping reliability, product qua
 keywords: "is Temu legit in Canada"
 keywords: ["Temu", "Is Temu legit"]
 categories: "Temu"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

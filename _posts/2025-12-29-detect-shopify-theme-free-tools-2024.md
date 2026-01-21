@@ -1,11 +1,11 @@
 ---
 title: "How to Detect Shopify Theme on Competitor Site: 5 Free Tools + Chrome Extensions (2024)"
 description: "Want to know how to detect Shopify theme on competitor site? Use 5 free tools & Chrome extensions to easily identify themes in 2024. Get ahead today!"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -2,11 +2,11 @@
 layout: single
 title:  "Leveraging GitHub Pages for a Minimalist E-commerce Store"
 description: 'Learn how to use GitHub Pages to create a lightweight, minimalist e-commerce store with easy hosting, version control, and customization options.'
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

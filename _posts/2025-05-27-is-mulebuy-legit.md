@@ -4,11 +4,11 @@ title: "Is Mulebuy Legit? A Deep Dive into Trustworthiness, Safety, and Real Rev
 description: "Wondering if Mulebuy is legit? We examine if it's real, trustworthy, and safe using reviews, screenshots, comparisons, and user experiences."
 keywords: ["Mulebuy", "trustworthy", "safe", "real"]
 categories: "mulebuy"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

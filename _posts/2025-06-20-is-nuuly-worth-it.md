@@ -4,11 +4,11 @@ title: "Is Nuuly Worth It? A 2025 Deep Dive into the Fashion Rental Service"
 description: "Is Nuuly worth it? This detailed 2025 review covers pricing, quality, sustainability, and user experience of the clothing rental subscription."
 keywords: ["nuuly", "is nuuly worth it", "nuuly review", "nuuly subscription 2025", "nuuly clothing rental"]
 categories: "nuuly"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

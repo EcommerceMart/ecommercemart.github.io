@@ -2,11 +2,11 @@
 layout: single
 title:  "Building a Headless E-commerce Storefront: GitHub as Your Collaboration Hub"
 description: 'Learn how to create a headless e-commerce platform using GitHub as a central collaboration hub for version control, team management, and seamless workflow integration.'
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

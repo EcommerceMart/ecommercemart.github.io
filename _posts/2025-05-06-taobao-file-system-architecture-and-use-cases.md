@@ -3,11 +3,11 @@ layout: single
 title: "Understanding Taobao File System (TFS): Architecture and Use Cases"
 description: "Explore the architecture, scalability, and use cases of the Taobao File System (TFS), designed for massive small file storage."
 categories: [Technology, Cloud Storage, Big Data]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

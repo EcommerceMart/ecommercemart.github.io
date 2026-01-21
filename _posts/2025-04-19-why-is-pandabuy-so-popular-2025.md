@@ -4,11 +4,11 @@ title: "Why Is Pandabuy So Popular? A Deep Dive into Its Rise on Social Media"
 description: "Explore why Pandabuy has exploded in popularity across social media and what makes it a go-to platform for global shoppers in 2025."
 keywords: ["Pandabuy"]
 categories: [Shopping, Social Media Trends, Ecommerce]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

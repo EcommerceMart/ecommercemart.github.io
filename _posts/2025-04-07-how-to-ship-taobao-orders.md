@@ -4,11 +4,11 @@ title: "How to Ship Taobao Orders Internationally"
 description: "Learn how to ship Taobao orders internationally with ease. Step-by-step guide on shipping options, costs, and best practices for global buyers."
 keywords: "taobao, taobao international shipping, taobao shipping guide, how to ship from taobao"
 categories: ["E-commerce"]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

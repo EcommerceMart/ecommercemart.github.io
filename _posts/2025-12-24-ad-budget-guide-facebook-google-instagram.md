@@ -1,11 +1,11 @@
 ---
 title: "Small Ecommerce Ad Budget Guide: How Much to Spend on Facebook, Google & Instagram Ads"
 description: "This small ecommerce ad budget guide helps you maximize ad spend on Facebook, Google, and Instagram, achieving growth without breaking the bank."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

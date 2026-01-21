@@ -4,11 +4,11 @@ title: "How to Boost Sales with the Magento Ecommerce Platform"
 description: "Learn how to boost your sales using the Magento ecommerce platform with strategies like advanced customization, SEO, multi-store management, and marketing tools."
 keywords: [ecommerce, Magento]
 categories: [Ecommerce, Magento]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

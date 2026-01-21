@@ -3,11 +3,11 @@ layout: single
 title: "Is Popflex Legit? What You Need to Know Before Buying"
 description: "Wondering if Popflex is legit? Read this detailed guide on product quality, customer reviews, sizing, and return policies before purchasing."
 categories: "Popflex"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

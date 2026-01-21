@@ -3,11 +3,11 @@ layout: single
 title: "How Electronic Commerce (E-Commerce) is Transforming Retail in 2025"
 description: "Discover how electronic commerce e commerce is revolutionizing the retail industry in 2025. Learn about the latest trends, technologies, and innovations shaping the future of online and offline shopping."
 categories: ecommerce
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

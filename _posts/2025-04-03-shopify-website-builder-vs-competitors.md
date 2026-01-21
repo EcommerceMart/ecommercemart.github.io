@@ -4,11 +4,11 @@ title: "Shopify Website Builder vs Competitors: Which One Wins?"
 description: "Compare Shopify website builder with top competitors. Discover strengths, weaknesses, and the best choice for your online store."
 keywords: "Shopify website builder, Shopify vs competitors, best ecommerce platform"
 categories: ecommerce
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

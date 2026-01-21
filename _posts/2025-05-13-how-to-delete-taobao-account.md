@@ -3,11 +3,11 @@ layout: single
 title: "How to Delete Taobao Account: Step-by-Step Guide for 2025"
 description: "Learn how to delete your Taobao account permanently in 2025. Step-by-step guide to closing your Taobao account safely and easily."
 categories: [Taobao account]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

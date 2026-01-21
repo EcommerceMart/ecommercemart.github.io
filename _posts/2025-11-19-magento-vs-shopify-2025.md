@@ -4,11 +4,11 @@ title: "Magento vs Shopify in 2025: Which eCommerce Platform Helps You Grow Fast
 description: "Magento vs Shopify in 2025 compared: pricing, features, Magento eCommerce themes, Shopify performance, scalability, and growth potential. Learn which platform is better for your online store."
 keywords: Shein, affordable fashion, contemporary women’s fashion, Shein outfits, Shein review, trending outfits, budget clothing
 categories: "woocommerce"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

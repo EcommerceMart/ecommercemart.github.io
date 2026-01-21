@@ -1,11 +1,11 @@
 ---
 title: "How to Find Profitable Products for Online Store: 7 Free Research Tools + Winning Formula (2024)"
 description: "Master how to find profitable products for online store success using 7 free research tools and our proven 2024 formula to skyrocket your sales today."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

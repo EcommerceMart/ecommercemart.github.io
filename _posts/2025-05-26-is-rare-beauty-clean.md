@@ -4,11 +4,11 @@ title: "Is Rare Beauty Clean? Uncover the ingredients inside"
 description: "Is Rare Beauty clean? Explore ingredients, ethics, and expert insights on Rare Beauty’s clean beauty status in this detailed 4000-word review."
 keywords: ["rare beauty", "is rare beauty clean", "clean beauty brands", "rare beauty ingredients", "vegan makeup brands"]
 categories: "rare beauty"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -1,11 +1,11 @@
 ---
 title: "How to Price Products for Ecommerce Beginners: Simple Formula + Free Pricing Calculator (2024)"
 description: "Struggling how to price products for ecommerce beginners? Unlock our simple formula and free calculator to maximize profits and build a successful store."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

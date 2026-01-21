@@ -4,11 +4,11 @@ title: "Is Nuuly Fast Fashion? A Sustainability Deep Dive in 2025"
 description: "Is Nuuly considered fast fashion? Explore its sustainability practices, business model, and impact in this 2025 in-depth review."
 keywords: ["nuuly", "is nuuly fast fashion", "nuuly review", "nuuly sustainability", "nuuly clothing rental"]
 categories: "nuuly"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

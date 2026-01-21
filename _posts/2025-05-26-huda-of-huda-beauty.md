@@ -4,11 +4,11 @@ title: "Is Huda of Huda Beauty the real founder? Learn about her rise"
 description: "Discover who Huda Kattan is, the story behind Huda Beauty, her background, business journey, and influence in the global beauty industry."
 keywords: ["huda beauty", "huda kattan", "huda of huda beauty", "huda beauty founder", "beauty influencer"]
 categories: "huda beauty"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

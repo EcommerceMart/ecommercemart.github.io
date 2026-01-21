@@ -3,11 +3,11 @@ layout: single
 title: "Taobao vs. Alibaba: Which One is Right for You?"
 description: "Stuck choosing between Taobao and Alibaba for your shopping spree? Join me on my wild ride through both platforms—I’ve shopped, stumbled, and scored big! This fun, energetic guide spills all my secrets, with affiliate tools to solve your woes. 🌟 Let’s find your perfect match!"
 categories: ecommerce
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

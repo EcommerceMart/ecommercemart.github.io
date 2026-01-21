@@ -1,11 +1,11 @@
 ---
 title: "Find Winning Products for Online Store: Complete Guide from Trending Items to Evergreen Bestsellers"
 description: "Learn to find winning products trending evergreen for your online store with our complete guide, revealing strategies for consistent sales and growth."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

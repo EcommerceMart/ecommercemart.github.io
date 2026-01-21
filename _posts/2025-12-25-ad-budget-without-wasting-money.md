@@ -1,11 +1,11 @@
 ---
 title: "How to Set Your Ad Budget for Small Ecommerce Store (Without Wasting Money in 2024)"
 description: "Learn how to set ad budget without wasting money for your small ecommerce store in 2024. Get proven strategies to maximize ROAS and stop inefficient spending..."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -3,11 +3,11 @@ layout: single
 title: "How to Get a PacSun Student Discount: A Complete Guide to Saving Big"
 description: "Learn how to get a PacSun student discount. Save big on trendy clothes with easy steps and helpful tips for students."
 categories: "PacSun"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

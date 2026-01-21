@@ -5,11 +5,11 @@ description: "Learn how to shop on Taobao from Canada with this complete guide. 
 keywords: "taobao canada, taobao english site"
 categories: "taobaocanada"
 tags: [featured]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

@@ -2,11 +2,11 @@
 layout: single
 title:  "Securing Your E-commerce Codebase: Managing Access and Permissions in GitHub"
 description: 'Learn best practices for securing your e-commerce codebase by effectively managing access, permissions, and collaboration settings in GitHub.'
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

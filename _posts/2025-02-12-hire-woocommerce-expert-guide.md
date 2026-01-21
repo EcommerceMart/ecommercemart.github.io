@@ -3,11 +3,11 @@ layout: single
 title: "How to Hire a WooCommerce Expert: Skills, Costs, and Best Platforms"
 categories: [Ecommerce, WooCommerce]
 description: "Learn how to hire a WooCommerce expert, the skills to look for, costs involved, and the best platforms to find top professionals for your store."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

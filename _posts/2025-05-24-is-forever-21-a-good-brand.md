@@ -3,11 +3,11 @@ layout: single
 title: "Is Forever 21 a Good Brand?"
 description: "Wondering if Forever 21 is a good brand? Explore its quality, ethics, pricing, and how it compares to other fast fashion labels in 2025."
 category: [Forever 21]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

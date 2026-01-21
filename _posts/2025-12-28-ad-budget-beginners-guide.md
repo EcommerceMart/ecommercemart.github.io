@@ -1,11 +1,11 @@
 ---
 title: "How to Set Ad Budget for Small Ecommerce Store: Beginner's Guide with Real Examples (Under $500/Month)"
 description: "Struggling with ad spend? Discover how to set ad budget for small store beginners with this guide. Get real examples to maximize your $500 monthly budget."
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

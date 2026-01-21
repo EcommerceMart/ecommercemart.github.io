@@ -3,11 +3,11 @@ layout: single
 title: "Is It Safe to Buy from Ulta Online? Exploring If Ulta Beauty is Legit in 2025"
 description: "Wondering if Ulta Beauty is legit? Learn whether it's safe to shop Ulta online in 2025 with reviews, policies, and shopping tips."
 category: [ecommerce]
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"

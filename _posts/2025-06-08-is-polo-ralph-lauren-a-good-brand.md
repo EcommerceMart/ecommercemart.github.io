@@ -4,11 +4,11 @@ title: "Is Polo Ralph Lauren a Good Brand? Honest Review for USA Shoppers"
 description: "Is Polo Ralph Lauren a good brand? Discover the truth about quality, style, value, and reputation in this easy-to-read, detailed review."
 tags: polo ralph lauren, brand review, fashion, quality
 categories: "Polo Ralph Lauren"
-author_profile: false
-read_time: false
-comments: false
-share: false
-related: false
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 toc: true 
 toc_sticky: true 
 toc_icon: "list-ul"
