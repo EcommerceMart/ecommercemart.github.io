@@ -18,7 +18,6 @@ Rules:
 - If Article is related to calculators. create article relevant calculator using html, css, js and add it in blog posts
 - Use "you" to address the reader
 - link other websites for external linking where relevant
-- also include related  affiliate links where it fits best: {affiliate_links},
 - Use H2 and H3, h4, h5, h6 headings, no H1
 - Use lists, tables, snippets, and other data formats
 - Write more than 2000 words
