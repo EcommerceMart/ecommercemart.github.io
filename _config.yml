@@ -235,8 +235,6 @@ paginate_path: /page:num/
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-responsive-image
-  - jekyll-picture-tag
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
