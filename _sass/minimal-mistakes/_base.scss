@@ -344,22 +344,36 @@ input[type="submit"],
   transition: $global-transition;
 }
 
-// google ads right sidebar
-.google-ads-right-sidebar {
+// google ads sidebar
+.google-ads-sidebar {
   position: fixed;
-  right: 15px;
-  top: 15px;
+  top: 125px;
   max-width: 300px;
+  min-width: 300px;
+}
+
+.google-ads-right-sidebar {
+  right: 15px;
+}
+
+.google-ads-left-sidebar {
+  left: 15px;
 }
 
 @media (max-width: 768px) {
+
+  .google-ads-right-sidebar,
   .google-ads-right-sidebar {
     display: none;
   }
 }
 
 @media (min-width: 1600px) {
+
+  .google-ads-right-sidebar,
   .google-ads-right-sidebar {
-    max-width: 400px;
+    max-width: 450px;
+    min-width: 450px;
+
   }
 }
