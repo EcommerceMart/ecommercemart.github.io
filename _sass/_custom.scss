@@ -30,6 +30,9 @@
     font-size: 1.05rem;
     line-height: 1.35;
   }
+   .archive__item-title  a {
+    text-decoration: none;
+   }
 
   .page__meta {
     margin: 0 0 8px;
@@ -52,6 +55,7 @@
   }
 
   .grid__item {
+    text-align: center;
     @include breakpoint($small) {
       float: inline-start;
       width: span(5 of 10);
