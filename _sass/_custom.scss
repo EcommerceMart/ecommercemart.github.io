@@ -1,5 +1,8 @@
 /* Homepage post cards: 2-up grid with featured image teaser */
 .home-posts {
+  .grid__wrapper {
+    margin-inline-end: 0;
+  }
   .archive__item {
     background: #fff;
     border: 1px solid #e5e7eb;
