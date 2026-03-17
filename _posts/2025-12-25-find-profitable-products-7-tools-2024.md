@@ -13,7 +13,6 @@ tags: [how to find profitable products for online store]
 featured: false
 image: '/assets/images/find-profitable-products-7-tools-2024.webp'
 ---
-
 ## How to Find Profitable Products for Online Store: 7 Free Research Tools + Winning Formula (2024)
 
 Are you dreaming of starting an online store but stuck on what to sell? Finding profitable products can feel like searching for a hidden treasure. Many new online sellers struggle with this exact challenge. But don't worry, you're in the right place to get started.
@@ -78,6 +77,20 @@ Don't be scared of competition; it often proves there's a market! Instead, look 
 This is perhaps the most important step: figuring out if the product will make you money. `Profit margin assessment` helps you understand the numbers. You need to calculate all your costs and compare them to your potential selling price.
 
 Your costs include the price you pay for the product, shipping costs from your supplier, and shipping to your customer. Don't forget potential advertising costs and platform fees. All these add up.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 We'll use our special calculator (coming up soon!) to help you with this. A good rule of thumb for physical products is to aim for at least a 2-3x markup on your cost. This means if a product costs you $10 (including supplier shipping), you should aim to sell it for $20-$30. This margin covers your other business costs and gives you a profit.
 
@@ -154,6 +167,20 @@ Learning `how to find profitable products for online store` on Amazon is about u
 Social media platforms are visual powerhouses and excellent for `trend spotting strategies`. People often share products they love or new things they discover.
 
 **How to use them:**
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 *   **Pinterest:** Search for broad keywords related to your niche (e.g., "home decor ideas," "gift for travelers"). Look at popular pins, boards, and trending searches within the platform. Pinterest is great for discovering visually appealing products.
 *   **Instagram:** Use the Explore page to see what's popular. Follow relevant hashtags (e.g., #newgadgets, #fashiontrends, #ecofriendlyproducts). Look at influencer posts and comments to see what products people are engaging with.
@@ -283,22 +310,22 @@ Use this calculator to plug in your estimated numbers for any product idea. This
 <div class="calculator-container">
   <h4>Product Profitability Calculator</h4>
   <p>Enter your product costs and selling price to calculate your profit margin.</p>
-  
+
   <div class="form-group">
     <label for="sellingPrice">Selling Price (per item):</label>
     <input type="number" id="sellingPrice" placeholder="e.g., 29.99">
   </div>
-  
+
   <div class="form-group">
     <label for="productCost">Product Cost (from supplier):</label>
     <input type="number" id="productCost" placeholder="e.g., 5.00">
   </div>
-  
+
   <div class="form-group">
     <label for="shippingToCustomer">Shipping Cost (to customer):</label>
     <input type="number" id="shippingToCustomer" placeholder="e.g., 4.50">
   </div>
-  
+
   <div class="form-group">
     <label for="marketingCost">Marketing/Ad Cost (per item, estimate):</label>
     <input type="number" id="marketingCost" placeholder="e.g., 2.00">
@@ -308,9 +335,23 @@ Use this calculator to plug in your estimated numbers for any product idea. This
     <label for="platformFees">Platform Fees (e.g., Shopify, PayPal, per item, estimate):</label>
     <input type="number" id="platformFees" placeholder="e.g., 1.50">
   </div>
-  
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
   <button class="btn-calculate" onclick="calculateProfit()">Calculate Profit</button>
-  
+
   <div class="result" id="profitResult">
     <p>Your results will appear here.</p>
   </div>

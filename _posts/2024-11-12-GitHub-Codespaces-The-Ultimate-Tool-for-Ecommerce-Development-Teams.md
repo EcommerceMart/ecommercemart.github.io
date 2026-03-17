@@ -28,6 +28,20 @@ To get started with Codespaces, you’ll need access to GitHub and permission to
 
 ![GitHub Codespace with project board and terminal for setting up dependencies]({{ site.baseurl }}/assets/images/GitHub-Codespace-with-project-board-and-terminal-for-setting-up-dependencies.webp){: .img-responsive loading="lazy"}
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 1. **Open Your Repository**
 + Go to the e-commerce repository where you want to set up a Codespace.
 2. **Create a New Codespace**
@@ -75,6 +89,20 @@ Once your Codespace is set up, it functions just like any other development envi
 3. **Use Preview Mode**
 + GitHub Codespaces allows you to preview your e-commerce site in the browser as you develop. Run your local server (for example, `npm start` for Node.js) and open the preview link provided by Codespaces to see your changes in real time.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 #### Step 4: Setting Up Environment Variables
 Many e-commerce sites require environment variables, like API keys or database URLs, which are essential for running the site correctly.
 
@@ -110,6 +138,20 @@ To make sure your team gets the most out of GitHub Codespaces, consider the foll
 
 #### Step 6: Maintaining Your Codespace
 Codespaces are designed to save time, but it’s essential to keep them clean and updated to prevent issues.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 1. **Delete Old Codespaces**
 + Periodically review and delete old or unused Codespaces from your GitHub account to free up resources.

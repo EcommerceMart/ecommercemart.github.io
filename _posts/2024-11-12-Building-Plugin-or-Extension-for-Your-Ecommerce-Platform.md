@@ -19,7 +19,6 @@ Adding a custom plugin or extension to your e-commerce platform can greatly impr
 ### Why Use GitHub for Plugin Development?
 GitHub is an ideal platform for developing plugins because it provides:
 
- 
 <!-- Ads Homepage below top article -->
 <!-- <ins class="adsbygoogle"
      style="display:block"
@@ -37,6 +36,20 @@ GitHub is an ideal platform for developing plugins because it provides:
 Let’s get started!
 
 #### Step 1: Set Up Your GitHub Repository
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ![GitHub repository with files for an e-commerce plugin]({{ site.baseurl }}/assets/images/GitHub-repository-with-files-for-ecommerce-plugin.webp){: .img-responsive loading="lazy"}
 
@@ -73,7 +86,6 @@ git push origin main
 #### Step 2: Develop Your Plugin or Extension
 Start coding your plugin or extension based on your e-commerce platform's requirements (e.g., WooCommerce, Shopify, Magento).
 
- 
 <!-- Ads Homepage below top article -->
 <!-- <ins class="adsbygoogle"
      style="display:block"
@@ -96,6 +108,20 @@ Start coding your plugin or extension based on your e-commerce platform's requir
 + Update the README file to explain how the plugin works and any required configurations.
 
 #### Step 3: Version Control with GitHub
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ![Workflow diagram of Git branching and merging process for plugin development]({{ site.baseurl }}/assets/images/Workflow-diagram-of-Git-branching-and-merging-process-for-plugin-development.webp){: .img-responsive loading="lazy"}
 
@@ -136,7 +162,6 @@ Testing is essential to ensure your plugin works correctly across different setu
 4. **User Feedback**
 + If your plugin is open-source, invite users to provide feedback or report bugs through GitHub Issues.
 
- 
 <!-- Ads Homepage below top article -->
 <!-- <ins class="adsbygoogle"
      style="display:block"
@@ -158,6 +183,20 @@ Testing is essential to ensure your plugin works correctly across different setu
 + Attach the plugin files or folders as a zip file, so users can easily download it.
 3. **Upload to E-commerce Platform (Optional)**
 + For plugins meant to be used by others, consider uploading to the e-commerce platform’s marketplace (e.g., WordPress Plugin Directory for WooCommerce plugins).
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 #### Step 6: Open-Sourcing Your Plugin
 1. **Add a License**

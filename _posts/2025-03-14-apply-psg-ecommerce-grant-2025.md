@@ -14,7 +14,6 @@ toc_icon: "list-ul"
 featured: false
 image: /assets/images/featured_apply-psg-ecommerce-grant-2025.webp
 ---
-
 ## Introduction
 
 Are you a business owner looking to **digitize your operations**? The **PSG eCommerce Grant** in 2025 is designed to help small and medium enterprises (SMEs) in Singapore adopt eCommerce solutions with financial support from the government. 
@@ -22,7 +21,6 @@ Are you a business owner looking to **digitize your operations**? The **PSG eCom
 In this guide, we will walk you through **how to apply for the PSG eCommerce Grant**, eligibility criteria, and the benefits it offers for your business.
 
 ---
-
 ## What is the PSG eCommerce Grant?
 
 The **Productivity Solutions Grant (PSG)** is a government initiative that provides funding support to SMEs to adopt IT solutions, equipment, and consultancy services to improve productivity. 
@@ -34,8 +32,21 @@ The **Productivity Solutions Grant (PSG)** is a government initiative that provi
 ✅ Reduces initial costs for **digital transformation**.
 
 ---
-
 ## Eligibility Criteria for the PSG eCommerce Grant
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 <!-- <ins class="adsbygoogle"
      style="display:block"
@@ -56,7 +67,6 @@ To qualify for the PSG eCommerce Grant in 2025, businesses must meet the followi
 ✔ **Not have already signed or made payment for the solution before applying for the grant**.
 
 ---
-
 ## Step-by-Step Guide: How to Apply for the PSG eCommerce Grant
 
 ### **Step 1: Identify Your Business Needs**
@@ -81,6 +91,20 @@ Go to the **Business Grants Portal (BGP)** and log in with your **Corppass**.
 ### **Step 5: Wait for Approval**
 The processing time for the grant application is typically **4 to 6 weeks**.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ### **Step 6: Implement the eCommerce Solution**
 Once approved, **purchase the solution** and begin the implementation process.
 
@@ -91,7 +115,6 @@ After completing the project, submit a claim via the **Business Grants Portal** 
 - Vendor’s delivery order
 
 ---
-
 ## Important Deadlines and Processing Time
 
 📌 **Grant application window**: Open throughout 2025 (subject to available funding).
@@ -99,7 +122,6 @@ After completing the project, submit a claim via the **Business Grants Portal** 
 📌 **Claims submission**: Must be done **within 6 months** of project completion.
 
 ---
-
 <!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2784742237479601"
@@ -118,6 +140,20 @@ You can receive **up to 50% funding support** for eligible eCommerce solutions.
 ### **2. Can I apply for multiple PSG grants?**
 Yes, businesses can apply for multiple PSG grants, but each grant must be for a different IT solution.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ### **3. How long does it take to get PSG grant approval?**
 It typically takes **4-6 weeks** for the application to be processed.
 
@@ -128,7 +164,6 @@ If your application is rejected, you can reapply with the necessary corrections 
 Yes, if you are upgrading or implementing **new eCommerce solutions** that improve productivity.
 
 ---
-
 ## Conclusion
 
 Applying for the **PSG eCommerce Grant** in 2025 is a great way to **digitally transform your business** with government support. By following the **step-by-step guide**, you can secure funding to set up and enhance your **eCommerce operations**.

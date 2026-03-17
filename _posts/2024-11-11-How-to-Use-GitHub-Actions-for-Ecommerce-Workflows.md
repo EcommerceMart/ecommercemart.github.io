@@ -43,7 +43,6 @@ For e-commerce, GitHub Actions can help with tasks like:
 ### Step 2: Add Basic Workflow Code
 In the `main.yml` file, you can add code that tells GitHub Actions what tasks to run and when. Here’s an example of a simple workflow:
 
- 
 <!-- Ads Homepage below top article -->
 <!-- <ins class="adsbygoogle"
      style="display:block"
@@ -56,7 +55,6 @@ In the `main.yml` file, you can add code that tells GitHub Actions what tasks to
 </script> -->
 
 {% highlight ruby %}
-
 
     name: E-commerce Workflow
 
@@ -77,6 +75,20 @@ In the `main.yml` file, you can add code that tells GitHub Actions what tasks to
         uses: actions/setup-node@v2
         with:
             node-version: '14'
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
         - name: Install dependencies
         run: npm install
@@ -132,6 +144,20 @@ After testing, you may want to **automatically deploy** changes to your site. Fo
 
 {% highlight ruby %}
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
     name: Deploy to Netlify
 
     on:
@@ -168,7 +194,6 @@ In this workflow:
 
 ### Workflow 3: Running Security Checks
 
- 
 <!-- Ads Homepage below top article -->
 <!-- <ins class="adsbygoogle"
      style="display:block"
@@ -205,6 +230,20 @@ Security is vital in e-commerce. GitHub Actions can help you automatically scan 
 
 {% endhighlight %}
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 This workflow:
 
 + Runs security checks whenever you update `package-lock.json` or `yarn.lock`.
@@ -218,7 +257,6 @@ This workflow:
 
 Example of a scheduled workflow that runs every night:
 
- 
 <!-- Ads Homepage below top article -->
 <!-- <ins class="adsbygoogle"
      style="display:block"
@@ -256,7 +294,6 @@ Example of a scheduled workflow that runs every night:
 Using GitHub Actions for e-commerce workflows can make your development process smoother and more efficient. By automating tasks like testing, deploying, and security checks, you’ll have more time to focus on growing your business and improving your site.
 
 Start with the examples here, and explore more GitHub Actions to find the ones that best suit your e-commerce project’s needs. Happy automating!
-
 
 <!-- <p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p> -->
 ## Related Posts

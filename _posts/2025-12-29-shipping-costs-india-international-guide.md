@@ -13,7 +13,6 @@ tags: [estimate shipping costs india international]
 featured: false
 image: '/assets/images/shipping-costs-india-international-guide.webp'
 ---
-
 ## How to Estimate Shipping Costs for Online Store: Beginner's Guide with Real Examples (India & International)
 
 Starting an online store in India is exciting, isn't it? You've got amazing products, but now you need to get them to your customers. One big question often pops up: "How do I estimate shipping costs accurately?" This guide will help you understand everything about shipping costs for your online business, whether you're sending packages across India or to another country.
@@ -107,6 +106,20 @@ Private courier companies generally offer faster delivery, better tracking, and 
 ##### Delhivery Business Accounts
 
 Delhivery is one of India's largest and most technologically advanced logistics companies. They offer a comprehensive suite of services, including express parcel, partial truckload, and full truckload freight. Setting up a business account with them can unlock better rates and dedicated support.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 **Actionable Tip:** If you're looking for reliable domestic shipping with good tracking, consider exploring [Delhivery business accounts](https://www.delhivery.com/business-solutions/) for potentially better rates and services. They provide excellent end-to-end solutions for e-commerce.
 
@@ -213,6 +226,20 @@ Almost every major shipping carrier, whether India Post, Delhivery, Blue Dart, D
 *   **India Post Rate Calculator:** [https://www.indiapost.gov.in/VAS/DOP_PDFFiles/CalculatePostage.pdf](https://www.indiapost.gov.in/VAS/DOP_PDFFiles/CalculatePostage.pdf) (or direct online calculator if available on their site).
 *   **Delhivery Rate Calculator:** Usually integrated into their business portal.
 *   **Blue Dart Rate Finder:** [https://www.bluedart.com/ratefinder](https://www.bluedart.com/ratefinder)
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ### Shipping Aggregators/Platforms
 
@@ -418,7 +445,6 @@ Use this tool to play around with different weights, dimensions, and destination
             currency = '$';
             currencyNote = 'All costs are in US Dollars ($). Customs duty does not include potential brokerage fees.';
 
-
             // Hide domestic fields, show international fields
             document.getElementById('domesticFields').style.display = 'none';
             document.getElementById('internationalFields').style.display = 'block';
@@ -463,6 +489,20 @@ Use this tool to play around with different weights, dimensions, and destination
 
         shippingType.addEventListener('change', toggleFields);
         cod.addEventListener('change', toggleCodValueField);
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
         toggleFields(); // Set initial state
         toggleCodValueField(); // Set initial COD state

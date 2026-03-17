@@ -28,7 +28,6 @@ Traditional e-commerce platforms combine the front end and back end, which can m
 
 By separating the parts of your e-commerce store, a headless setup can offer a more tailored experience for customers and a smoother workflow for your team.
 
- 
 <!-- Ads Homepage below top article -->
 <!-- <ins class="adsbygoogle"
      style="display:block"
@@ -54,6 +53,20 @@ With GitHub as your hub, your team can work efficiently, track progress, and avo
 ### Step-by-Step Guide to Building a Headless E-commerce Storefront
 
 Let’s dive into how you can build a headless storefront and use GitHub for collaboration. We’ll break this down into five key steps.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ![Step-by-Step Guide to Building a Headless E-commerce Storefront]({{ site.baseurl }}/assets/images/Step-by-Step-Guide-to-Building-Headless-Ecommerce-Storefront.webp){: .img-responsive loading="lazy"}
 
@@ -91,7 +104,20 @@ The frontend is the customer-facing part of your store. Popular frontend framewo
 
 Now that the backend and frontend are set up, let’s bring GitHub into the process to manage and collaborate on the code.
 
- 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 <!-- Ads Homepage below top article -->
 <!-- <ins class="adsbygoogle"
      style="display:block"
@@ -135,6 +161,20 @@ Example Workflow Code for GitHub Actions:
 ```        
     name: CI/CD Pipeline
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
         on:
         push:
             branches:
@@ -162,7 +202,6 @@ Example Workflow Code for GitHub Actions:
 
 This example automatically checks out the code, installs dependencies, runs tests, and deploys to Netlify if everything passes.
 
- 
 <!-- Ads Homepage below top article -->
 <!-- <ins class="adsbygoogle"
      style="display:block"
@@ -173,7 +212,6 @@ This example automatically checks out the code, installs dependencies, runs test
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script> -->
-
 
 ## Conclusion 
 

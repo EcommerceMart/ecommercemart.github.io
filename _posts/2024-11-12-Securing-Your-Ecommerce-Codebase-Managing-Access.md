@@ -31,6 +31,20 @@ Let’s dive into each step in detail.
 ## Step 1: Set Up a Private Repository
 The first and most important step in securing your e-commerce code is to make the repository private.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ![GitHub repository creation page with the private repository option highlighted]({{ site.baseurl }}/assets/images/GitHub-repository-creation-page-with-private-repository-option-highlighted.webp){: .img-responsive loading="lazy"}
 
 1. **Create a New Repository:**
@@ -70,6 +84,20 @@ Two-Factor Authentication (2FA) adds an extra layer of security by requiring a s
 2. **Require 2FA for Your Organization (if applicable):**
 + If you have a GitHub organization, go to the organization settings.
 + Under **Security**, enable **Require two-factor authentication** for all members.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 **Why 2FA?**
 + Even if someone’s password is stolen, they won’t be able to access your account without the second form of verification.
@@ -111,6 +139,20 @@ config.yaml
 **Why This Matters?**
 + Sensitive information in your codebase is a potential security risk if someone gains unauthorized access.
 + By keeping secrets out of the code, you reduce the risk of exposing your e-commerce platform to attacks.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ## Step 6: Monitor and Review Access Regularly
 Regularly reviewing who has access to your repository is essential for security. People might leave the team or change roles, and it’s easy to forget to update access permissions.

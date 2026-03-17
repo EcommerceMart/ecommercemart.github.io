@@ -30,6 +30,20 @@ Go to GitHub’s website and sign up for a free account. Once you sign up, you�
 2. Install Git
 Git is a tool you’ll need on your computer. You can download it from Git’s website. Follow the installation instructions for your operating system.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 3. Configure Git
 Once Git is installed, open a terminal (or command prompt) and run these commands to set up your name and email for Git:
 
@@ -66,6 +80,19 @@ Now you’ll need to copy, or “clone,” the GitHub repo to your computer.
 2. **Open Your Terminal:** Go to your terminal or command prompt, and use this command to clone the repository (replace the link with your copied link):
 
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ```
     git clone https://github.com/username/ecommerce-website.git
 ```
@@ -85,19 +112,30 @@ After editing files, you need to “commit” (save a version of the change) and
 
 1. **Stage the Changes:** In your terminal, go to the project folder and use this command to tell Git which files to include:
 
-
 ```
     git add .
 ```
 
 2. **Commit the Changes:** Commit the changes with a message describing what you did:
 
-
 ```
     git commit -m "Updated product descriptions"
 ```
 
 3. **Push to GitHub:** Send your changes to GitHub:
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
 ```

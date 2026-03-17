@@ -31,7 +31,6 @@ Personalized product recommendation systems help e-commerce sites suggest produc
 5. **Improve and Update the Model Together**
 Let's start!
 
- 
 <!-- Ads Homepage below top article -->
 <!-- <ins class="adsbygoogle"
      style="display:block"
@@ -47,6 +46,20 @@ Let's start!
 The first step is to create a GitHub repository where you and your team can store and manage your recommendation system project.
 
 ![Diagram illustrating steps in building a product recommendation system: data collection, model training, and making recommendations]({{ site.baseurl }}/assets/images/Diagram-illustrating-steps-in-building-product-recommendation-system-data-collection-model-training-and-making-recommendations.webp){: .img-responsive loading="lazy"}
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 1. Go to [GitHub](https://github.com/) and sign in.
 2. Click the New button to create a new repository.
@@ -77,7 +90,6 @@ user_id,product_id,rating
 
 3. **Upload Data to GitHub:** Create a folder called `data` in your GitHub repository and upload the dataset (e.g., `product_data.csv`) there.
 
- 
 <!-- Ads Homepage below top article -->
 <!-- <ins class="adsbygoogle"
      style="display:block"
@@ -91,6 +103,20 @@ user_id,product_id,rating
 
 ## Step 3: Build a Simple Product Recommendation System
 Let’s build a simple recommendation model using collaborative filtering, a common method for recommendations based on user interactions.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ![Jupyter Notebook displaying code for data loading and setting up a product recommendation model]({{ site.baseurl }}/assets/images/Jupyter-Notebook-displaying-code-for-data-loading-and-setting-up-product-recommendation-model.webp){: .img-responsive loading="lazy"}
 
@@ -144,10 +170,23 @@ git checkout -b improve-model
 + Create **Issues** to track tasks, bugs, or feature requests.
 + For example, create an issue titled "Try matrix factorization for recommendations" to explore more advanced techniques.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ## Step 5: Improve and Update the Model Together
 As you and your team work together on GitHub, here are some best practices for improving the recommendation system over time:
 
- 
 <!-- Ads Homepage below top article -->
 <!-- <ins class="adsbygoogle"
      style="display:block"

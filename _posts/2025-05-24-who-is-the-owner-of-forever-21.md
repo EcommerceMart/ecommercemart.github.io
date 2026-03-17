@@ -15,7 +15,6 @@ toc_icon: "list-ul"
 featured: false
 image: /assets/images/featured_who-is-the-owner-of-forever-21.webp
 ---
-
 Forever 21, once a powerhouse in fast fashion, has undergone several ownership changes in the last decade. This article dives deep into the brand’s current ownership, historical transitions, and the stakeholders shaping its future. 
 
 We’ll explore whether it’s privately or publicly owned, examine the roles of major companies like Simon Property Group and Authentic Brands Group, and revisit the founding story of Forever 21. If you're curious about who truly owns Forever 21 today, this is your complete guide.
@@ -71,6 +70,20 @@ Despite early success, the company faced criticism for labor practices, rapid st
 In September 2019, Forever 21 filed for Chapter 11 bankruptcy. This shocked the retail world and signaled deeper problems in the fast fashion industry.
 
 #### Reasons Behind the Bankruptcy
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 * Overexpansion with too many large-format stores
 * Declining mall foot traffic
@@ -135,6 +148,20 @@ As of 2025, Forever 21 is not publicly traded. It is **privately owned** by this
 
 #### Day-to-Day Operations
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 The new structure separates operations, branding, and real estate. This allows Forever 21 to focus on digital growth, licensing, and store revitalization.
 
 ## Forever 21’s Business Under New Ownership
@@ -197,6 +224,20 @@ Do Won and Jin Sook Chang are no longer involved in day-to-day operations. They 
 
 ### 2020 – Acquired by ABG, Simon, and Brookfield
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ### 2022 – Digital revamp and brand relaunch
 
 ### 2024-2025 – Sustainability and licensing expansion
@@ -250,7 +291,6 @@ They exited the business after the 2020 acquisition.
 Forever 21's story is one of dramatic rise, sudden decline, and ongoing reinvention. With new ownership focused on sustainability, e-commerce, and operational efficiency, the brand is carving out a new future. Whether you're a fashion follower or industry analyst, understanding Forever 21’s ownership today offers insight into the evolving world of fast fashion.
 
 ---
-
 Let me know if you'd like to include internal links, outbound citations, or an image suggestion for this article.
 
 ## Related Posts

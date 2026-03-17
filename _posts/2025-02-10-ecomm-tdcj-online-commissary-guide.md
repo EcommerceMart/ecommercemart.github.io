@@ -13,7 +13,6 @@ toc_icon: "list-ul"
 featured: false
 image: /assets/images/featured_ecomm-tdcj-online-commissary-guide.webp
 ---
-
 ## Introduction
 
 Staying connected with incarcerated loved ones is essential, and the **Texas Department of Criminal Justice (TDCJ)** provides a secure way to send commissary items through **eCommDirect**. This online platform allows friends and family to purchase approved items and deposit funds into an inmate's trust account, ensuring they have access to necessary products. In this guide, we’ll walk you through how to use **eComm TDCJ** effectively.
@@ -34,6 +33,20 @@ Staying connected with incarcerated loved ones is essential, and the **Texas Dep
 ![Step-by-step guide to using Ecomm TDCJ for sending commissary orders to Texas inmates securely.]({{ site.baseurl }}/assets/images/How-to-Use-Ecomm-TDCJ.webp){: .img-responsive loading="lazy"}
 
 To successfully send items through **Ecomm TDCJ**, follow these steps:
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ### Step 1: Visit the EcommDirect Website
 
@@ -61,6 +74,20 @@ To successfully send items through **Ecomm TDCJ**, follow these steps:
 1. Review your order and make sure all details are correct.
 2. Enter your **billing and payment details** securely.
 3. Submit the order and save the confirmation receipt.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ## Important Considerations
 
@@ -92,6 +119,20 @@ Most major credit and debit cards are accepted for transactions.
 
 ![Current job openings at the Texas Department of Criminal Justice (TDCJ) for 2025.]({{ site.baseurl }}/assets/images/Recent-Job-Postings-at-TDCJ.webp){: .img-responsive loading="lazy"}
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 If you're interested in working with the **Texas Department of Criminal Justice**, here are some recent job openings:
 
 1. **Correctional Officer** – Multiple locations in Texas
@@ -106,7 +147,6 @@ Visit the [official TDCJ job portal](https://www.tdcj.texas.gov) to explore avai
 Using **eComm TDCJ** is a secure and convenient way to send commissary items to Texas inmates. By following the steps outlined in this guide, you can ensure that your loved ones receive the support they need while incarcerated. Always check for eligibility, follow spending limits, and verify payment details to ensure a smooth transaction.
 
 For more details, visit the **official eCommDirect website** and stay updated on any policy changes related to Texas inmate commissary services.
-
 
 ## Related Posts
 

@@ -13,7 +13,6 @@ tags: [ecommerce blogs]
 featured: false
 image: '/assets/images/start-ecommerce-blog-on-github-pages.webp'
 ---
-
 ## How to Start an Ecommerce Blog on GitHub Pages (Step-by-Step Guide)
 
 Starting an `ecommerce blog` is a smart move for any online store. It helps you connect with customers and share your story. This `ecommerce blogging guide` will show you exactly how to build one. You will use GitHub Pages, a free and powerful way to host your blog.
@@ -176,6 +175,20 @@ jekyll new my-ecommerce-blog
 ```
 
 Jekyll will create a new folder called `my-ecommerce-blog`. Inside this folder are all the basic files for your blog. It will take a minute to set everything up. This is the foundation of your `ecommerce blog tutorial`.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 #### H3: 2. Understand Jekyll's Folder Structure
 
@@ -386,6 +399,20 @@ If you want to override theme styles, you can often create your own `main.scss` 
 
 Jekyll uses layouts to define the structure of your pages. You'll find them in the `_layouts/` folder.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 *   `default.html`: This is the main layout that other layouts usually extend. It contains the `<head>` and `<body>` tags.
 *   `post.html`: This defines how a single blog post page looks.
 *   `page.html`: This defines how a regular static page (like "About Us") looks.
@@ -424,7 +451,6 @@ date: 2023-10-27 10:00:00 -0500
 categories: [coffee, kitchenware]
 tags: [mugs, coffee, gifts]
 ---
-
 ## Why a Good Mug Matters (H2)
 
 A great coffee experience starts with the perfect mug. It's not just about holding your drink; it's about the feel, the look, and even how it keeps your coffee warm.
@@ -562,6 +588,20 @@ Link to other relevant posts on your `ecommerce blog` and to specific product pa
 A sitemap is a file that lists all the pages on your website. It helps search engines find and crawl all your content. Jekyll automatically generates a sitemap for you (usually at `/sitemap.xml`). You don't need to do anything special, just make sure it exists.
 
 ##### H4: 6. Robots.txt
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 This file tells search engines which parts of your site they should or shouldn't crawl. Jekyll also generates a `robots.txt` file by default. For most `ecommerce blogs`, the default is fine. It usually looks like this:
 

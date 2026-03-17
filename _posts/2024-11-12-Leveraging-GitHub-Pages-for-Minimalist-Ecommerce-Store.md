@@ -38,6 +38,20 @@ GitHub Pages is a simple, free way to create websites hosted directly on GitHub.
 + Under **Source**, select the main branch and click **Save**.
 + Your site will be live at `https://yourusername.github.io/minimalist-ecommerce-store/`.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 #### Step 2: Install Jekyll Locally
 Jekyll allows you to create a customizable website structure. GitHub Pages supports Jekyll, which makes it easy to set up your e-commerce store.
 
@@ -83,6 +97,20 @@ image: "/images/product1.jpg"
 + These Markdown files will generate individual product pages for your site.
 3. **Update Configurations**
 + Open _config.yml and set the site title, author, and any other details you want to display on every page.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 #### Step 4: Add E-commerce Functionalities
 A minimalist GitHub Pages store won't have complex e-commerce functionalities (like checkout or inventory management) by default. However, you can integrate third-party tools to handle payments and orders.
@@ -130,6 +158,20 @@ git push origin main
 + Your GitHub Pages site will automatically update with your changes.
 
 #### Step 6: Share and Update Your Store
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 1. **Share Your Store Link**
 + Your store is now live at `https://yourusername.github.io/minimalist-ecommerce-store/`.

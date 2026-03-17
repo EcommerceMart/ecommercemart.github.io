@@ -13,7 +13,6 @@ tags: [small ecommerce ad budget guide]
 featured: false
 image: '/assets/images/ad-budget-guide-facebook-google-instagram.webp'
 ---
-
 ## Small Ecommerce Ad Budget Guide: How Much to Spend on Facebook, Google & Instagram Ads
 
 Are you running an online store and wondering how to make your marketing budget go further? You're in the right place! This **small ecommerce ad budget guide** will help you understand how to best spend your money on the most popular ad platforms: Facebook, Google, and Instagram. We'll break down the essentials so you can start attracting more customers without breaking the bank.
@@ -73,6 +72,20 @@ These platforms let you target people with incredible detail. You can show your 
 They are also great for building brand awareness and telling your brand's story. People might not buy right away, but seeing your ads repeatedly can make them remember you. This can lead to sales down the line. Plus, many small businesses find **Instagram advertising costs** and **Facebook ads budget strategy** more accessible than other platforms.
 
 #### How Much to Spend on Facebook & Instagram Ads
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 For a small ecommerce business, you can start with as little as $5-$10 per day on Facebook and Instagram. That's around $150-$300 a month. While this might seem small, consistent spending helps the platform learn and optimize your ads. Don't expect huge results overnight with tiny budgets, but it's a great starting point for testing.
 
@@ -254,6 +267,20 @@ Understanding how to split your budget can be tough. This simple calculator can 
       testingPercentage = 10;
     }
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
     // Adjustments based on product price (higher price = potentially more Google intent focus)
     if (productPrice > 100 && businessGoal === 'sales') {
         googlePercentage += 5;
@@ -263,7 +290,6 @@ Understanding how to split your budget can be tough. This simple calculator can 
         facebookPercentage += 5;
         googlePercentage -= 5;
     }
-
 
     const googleBudget = (totalBudget * googlePercentage / 100).toFixed(2);
     const facebookBudget = (totalBudget * facebookPercentage / 100).toFixed(2);
@@ -344,6 +370,20 @@ Review your ad performance regularly (daily or weekly). If an ad isn't working, 
 #### Focus on ROAS (Return On Ad Spend)
 
 ROAS tells you how much money you get back for every dollar you spend on ads. If your ROAS is 3x, it means you're making $3 for every $1 you spend. For a small ecommerce business, you want a ROAS that is comfortably above 1x (to make profit after product costs). Aim for 2x, 3x, or even higher.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 Constantly monitor your ROAS for different campaigns and ads. If a campaign has a low ROAS, it might be time to stop it or tweak it heavily. Focusing on ROAS ensures your advertising is profitable, not just spending money.
 

@@ -31,7 +31,6 @@ Automated testing brings several benefits to e-commerce teams:
 #### Step 1: Set Up Your GitHub Repository
 To get started, create a new repository on GitHub or use an existing one where your e-commerce code is stored.
 
- 
 <!-- Ads Homepage below top article -->
 <!-- <ins class="adsbygoogle"
      style="display:block"
@@ -53,6 +52,20 @@ git clone https://github.com/username/your-repository.git
 
 #### Step 2: Install Selenium for Automated Testing
 Selenium is a popular tool for automating web browsers. You can write test scripts in Python to automate tasks like navigating, clicking buttons, and filling out forms.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 1. **Install Selenium**
 Make sure you have Python installed, then install Selenium with this command:
@@ -101,6 +114,20 @@ Here’s an example of a simple Selenium test in Python:
 3. **Save the File**.\
 Save **test_search.py** to your project folder.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 #### Step 4: Set Up GitHub Actions for Automated Testing
 GitHub Actions lets you run tests automatically. Each time you push code to the repository, GitHub will run the test.
 
@@ -109,7 +136,6 @@ GitHub Actions lets you run tests automatically. Each time you push code to the 
 1. **Create a Workflow File**
 In your repository, create a new directory: `.github/workflows/`. Inside, create a file named `test.yml`.
 
- 
 <!-- Ads Homepage below top article -->
 <!-- <ins class="adsbygoogle"
      style="display:block"
@@ -151,6 +177,20 @@ Open `test.yml` and add the following YAML code:
         run: |
             python -m pip install --upgrade pip
             pip install selenium
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
         - name: Run Tests
         run: |

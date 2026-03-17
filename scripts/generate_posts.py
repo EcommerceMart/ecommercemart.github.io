@@ -11,6 +11,7 @@ from image_generator import generate_image_freepik
 from google_indexing import submit_to_google_indexing, check_indexing_status
 from google_sheets_logger import log_to_google_sheets
 from webpushr_notifier import send_blog_post_notification, get_subscriber_count
+from insert_ads import insert_ads_into_content
 
 
 def main():
@@ -103,9 +104,13 @@ def main():
             print(f"\n{'=' * 60}")
             print("Step 4: Saving Post")
             print("=" * 60)
+            
+            # Insert ads before saving
+            final_article = insert_ads_into_content(article)
+            
             with open(post_path, "w", encoding="utf-8") as f:
-                f.write(article)
-            print(f"✅ Post saved: {post_path}")
+                f.write(final_article)
+            print(f"✅ Post saved (with ads): {post_path}")
             
             post_url = f"{SITE_DOMAIN}/{permalink}"
             

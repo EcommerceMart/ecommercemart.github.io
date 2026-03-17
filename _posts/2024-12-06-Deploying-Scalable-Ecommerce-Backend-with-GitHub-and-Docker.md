@@ -19,8 +19,6 @@ In today’s competitive digital marketplace, a reliable and scalable backend is
 
 This guide walks you through the process of setting up CI/CD pipelines for deploying an e-commerce backend using GitHub Actions and Docker, followed by tips to maintain scalability and reliability.
 
-
-
 ### Why Use GitHub Actions and Docker?
 
 **GitHub Actions** is a powerful automation tool that integrates directly into GitHub repositories. It allows developers to define workflows for testing, building, and deploying code in response to repository events, such as pushes or pull requests.
@@ -33,7 +31,6 @@ This guide walks you through the process of setting up CI/CD pipelines for deplo
 2. `Consistency:` Ensures uniform environments across development, testing, and production.
 3. `Scalability:` Supports horizontal scaling by enabling multiple instances of a backend service to run simultaneously.
 4. `Efficiency:` Reduces deployment errors and accelerates the development lifecycle.
-
 
 ### Setting Up Your CI/CD Pipeline with GitHub Actions and Docker
 
@@ -49,6 +46,20 @@ Before you start, ensure you have:
 #### Step 2: Create a Dockerfile
 
 ![Visual representation of multiple Docker containers running on a cloud server, demonstrating scalability and efficiency]({{ site.baseurl }}/assets/images/Visual-representation-of-multiple-Docker-containers-running-on-a-cloud-server.webp){: .img-responsive loading="lazy"}
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 The Dockerfile is crucial for building your application image. Here’s an example for a Node.js e-commerce backend:
 
@@ -95,6 +106,20 @@ Here’s an example workflow:
     push:
         branches:
         - main
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
     jobs:
     build:
@@ -165,6 +190,20 @@ In your repository settings, add the following secrets:
 
 #### Step 5: Test Your Pipeline
 Push changes to the `main` branch. The pipeline should:
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 1. Build and push the Docker image.
 2. Deploy the updated backend to your server.

@@ -38,6 +38,20 @@ GitHub Projects uses project boards, which are visual tools that help you organi
 + + **In Review:** Tasks that are completed but need to be reviewed.
 + + **Done:** Tasks that are fully completed.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 #### Step 2: Adding Tasks to the Project Board
 Each task in a GitHub Project board is represented by an issue or card. Here’s how to add tasks to your board:
 
@@ -66,6 +80,20 @@ GitHub Issues can be organized with labels and assigned to team members to make 
 
 #### Step 4: Setting Milestones
 Milestones help you group related tasks and track progress toward major goals, like launching a new feature or completing a development phase.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 1. **Create a New Milestone**
 + Go to the **Issues** tab, click on **Milestones**, and then **New Milestone**.
@@ -100,6 +128,20 @@ Once a task is complete, review it to ensure it meets quality standards and proj
 When a card reaches the **In Review** column, team members can review the task, test the code, or give feedback.
 2. **Close Issues When Done**
 After the review, move the card to **Done** and close the issue. This signals that the task is fully completed.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ### Tips for Effective Project Management with GitHub Projects
 1. **Set Clear Deadlines:** Assign target dates to milestones and tasks to help everyone stay on track.

@@ -47,6 +47,20 @@ In the Discussions section:
 3. Title your post to encourage feedback on a specific feature. For example, “Feedback Needed: New Cart Design for Mobile.”
 4. Describe the feature you’re working on, and ask for specific input. For example, “We’re testing a new cart design for mobile devices. What do you think about the layout? Any suggestions for improvement?”
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 ## Step 3: Respond and Engage
 Regularly check your Discussions to respond to comments and questions. This engagement:
 
@@ -85,6 +99,20 @@ This approach lets you organize feedback and track suggestions directly in GitHu
 ### Step 3: Label and Prioritize Feedback
 Use labels to organize your Issues:
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 1. Create labels like **Feedback**, **Bug**, and **Feature Request** under **Settings > Labels**.
 2. Tag each Issue appropriately to keep your repository organized.
 This helps you and your team quickly understand which issues need attention and how to prioritize tasks.
@@ -120,6 +148,20 @@ Responding to comments helps ensure that all perspectives are considered and tha
 Using GitHub’s community features isn’t just about gathering feedback; it’s about building a collaborative environment where users and contributors feel like a part of your project. Here are some tips:
 
 ![Illustration of a network of users collaborating around a GitHub repository, symbolizing a community contributing to an e-commerce project]({{ site.baseurl }}/assets/images/Illustration-of-network-of-users-collaborating-around-GitHub-repository.webp){: .img-responsive loading="lazy"}
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ### Encourage Open Communication
 Be open to feedback, whether it’s positive or critical. A welcoming attitude encourages users to share their thoughts and report issues without hesitation.

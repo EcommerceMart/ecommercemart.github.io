@@ -37,7 +37,6 @@ After downloading, open the installer and follow the steps to install Git LFS.
 3. **Enable Git LFS for Your Project**
 Once installed, open your terminal (or command prompt) and enter this command to enable Git LFS for your project:
 
-
 ```
 git lfs install
 ```
@@ -45,6 +44,20 @@ Now you’re ready to start using Git LFS with your Git projects!
 
 #### Step 2: Track Large Files with Git LFS
 Once Git LFS is installed, you can choose which types of files should be tracked. Let’s set it up for common e-commerce files, like images and videos.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ![Screenshot showing Git LFS commands tracking large files, including images and videos, with a sample .gitattributes file listing tracked file types.]({{ site.baseurl }}/assets/images/Screenshot-showing-Git-LFS-commands-tracking-large-files.webp){: .img-responsive loading="lazy"}
 
@@ -58,7 +71,6 @@ Promotional graphics (.gif, .tiff)
 2. **Tell Git LFS to Track These Files**
 Use the following commands to tell Git LFS to track specific file types. For example:
 
-
 ```
 git lfs track "*.jpg"
 git lfs track "*.png"
@@ -67,7 +79,6 @@ git lfs track "*.mp4"
 
 3. **Confirm the Tracking**
 After setting this up, you can check which files are being tracked by running:
-
 
 ```
 git lfs ls-files
@@ -84,9 +95,22 @@ If you haven’t added the files to your project yet, use:
 git add .
 ```
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 2. **Commit Your Changes**
 Write a commit message to record the changes:
-
 
 ```
 git commit -m "Added high-quality product images with Git LFS"
@@ -107,7 +131,6 @@ When other team members need to access your files, Git LFS will ensure they only
 1. **Clone the Repository with Git LFS**
 When cloning a repository that uses Git LFS, your team members should clone as usual:
 
-
 ```
 git clone https://github.com/username/repository.git
 ```
@@ -121,6 +144,20 @@ Working with large media files in e-commerce can quickly get complex. Here are a
 
 ### 1. Keep Track of File Sizes
 GitHub has storage limits for Git LFS, so it’s important to monitor file sizes regularly. Consider compressing images or resizing videos when possible to reduce storage space.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ### 2. Use Branches for Media Changes
 If you’re making big updates to your media assets (e.g., updating all product images), it’s a good idea to use a separate branch. This helps you keep the main branch clean while you’re still working on the changes.
@@ -151,9 +188,6 @@ Using Git LFS makes it much easier to handle large e-commerce files on GitHub. H
 5. **Manage your large files efficiently** to keep your repository fast and organized.
 
 With Git LFS, you can manage large data files for your e-commerce site while keeping your GitHub repository organized and easy to use.
-
-
-
 
 ## Related Posts
 [How Electronic Commerce (E-Commerce) is Transforming Retail in 2025]({{ site.baseurl }}/electronic-commerce-ecommerce-transforming-retail-2025/)

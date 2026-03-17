@@ -14,7 +14,6 @@ featured: false
 categories: "github"
 image: /assets/images/Top-GitHub-Repositories-for-Ecommerce-Development.webp
 ---
-
 E-commerce development can be time-consuming and complex, but the open-source community has created a wealth of tools to streamline the process. In this guide, we’ll explore some of the top GitHub repositories for e-commerce development, from full-stack platforms to helpful utilities for frontend, backend, and security.
 
 ## 1. Saleor
@@ -43,7 +42,6 @@ E-commerce development can be time-consuming and complex, but the open-source co
 
 **Key Features:**
 
- 
 <!-- Ads Homepage below top article -->
 <!-- <ins class="adsbygoogle"
      style="display:block"
@@ -62,11 +60,24 @@ E-commerce development can be time-consuming and complex, but the open-source co
 
 **How to Use:**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 1. Clone the repository and configure MongoDB.
 2. Install dependencies and start the server.
 3. Connect a frontend framework of choice (e.g., Next.js or Gatsby).
 4. Customize the core and add plugins as needed for a tailored e-commerce experience.
-
 
 ## 3. Shopify’s Hydrogen and Oxygen
 `Repository:` [Shopify Hydrogen on GitHub](https://github.com/Shopify/hydrogen).\
@@ -87,10 +98,8 @@ E-commerce development can be time-consuming and complex, but the open-source co
 3. Use pre-built components and templates to customize the storefront.
 4. Deploy on Shopify Oxygen or another compatible hosting provider.
 
-
 ## 4. Vue Storefront
 
- 
 <!-- Ads Homepage below top article -->
 <!-- <ins class="adsbygoogle"
      style="display:block"
@@ -115,11 +124,24 @@ E-commerce development can be time-consuming and complex, but the open-source co
 
 **How to Use:**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 1. Clone the repository and configure the backend platform (Magento, Shopify, etc.).
 2. Install dependencies and connect to your chosen backend.
 3. Customize the frontend using Vue.js.
 4. Deploy on a PWA-compatible hosting provider.
-
 
 ## 5. Medusa
 
@@ -156,6 +178,20 @@ E-commerce development can be time-consuming and complex, but the open-source co
 
 **How to Use:**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 1. Install Magento 2 using Composer.
 2. Set up the environment and configure database settings.
 3. Customize themes and modules to fit your brand.
@@ -174,7 +210,6 @@ E-commerce development can be time-consuming and complex, but the open-source co
 + `Well-Documented API:` Easy to integrate with other tools or platforms.
 Flexible Product Management: Supports complex product variations.
 
- 
 <!-- Ads Homepage below top article -->
 <!-- <ins class="adsbygoogle"
      style="display:block"
