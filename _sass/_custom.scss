@@ -1,0 +1,63 @@
+/* Homepage post cards: 2-up grid with featured image teaser */
+.home-posts {
+  .archive__item {
+    background: #fff;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 16px 18px 18px;
+    transition: box-shadow 180ms ease, transform 180ms ease, border-color 180ms ease;
+  }
+
+  .archive__item:hover {
+    border-color: #d1d5db;
+    box-shadow: 0 10px 28px rgba(17, 24, 39, 0.12);
+    transform: translateY(-2px);
+  }
+
+  .archive__item-teaser {
+    aspect-ratio: 16 / 9;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 12px;
+    background: #f3f4f6;
+  }
+
+  .grid__item {
+    @include breakpoint($small) {
+      float: inline-start;
+      width: span(5 of 10);
+
+      &:nth-child(2n + 1) {
+        clear: both;
+        margin-inline-start: 0;
+      }
+
+      &:nth-child(2n + 2) {
+        clear: none;
+        margin-inline-start: gutter(of 10);
+      }
+    }
+
+    @include breakpoint($medium) {
+      margin-inline: 0;
+      width: span(6 of 12);
+
+      &:nth-child(2n + 1) {
+        clear: both;
+        margin-inline-start: 0;
+      }
+
+      &:nth-child(2n + 2) {
+        clear: none;
+        margin-inline-start: gutter(1 of 12);
+      }
+    }
+  }
+
+  .archive__item-teaser img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+}

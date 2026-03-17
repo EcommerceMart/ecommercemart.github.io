@@ -12,9 +12,11 @@ layout: archive
   {% assign posts = site.posts %}
 {% endif %}
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% include documents-collection.html entries=posts type=entries_layout %}
+{% assign entries_layout = page.entries_layout | default: 'grid' %}
+<div class="entries-{{ entries_layout }} home-posts">
+  {% if entries_layout == "grid" %}<div class="grid__wrapper">{% endif %}
+    {% include documents-collection.html entries=posts type=entries_layout %}
+  {% if entries_layout == "grid" %}</div>{% endif %}
 </div>
 
 {% include paginator.html %}
