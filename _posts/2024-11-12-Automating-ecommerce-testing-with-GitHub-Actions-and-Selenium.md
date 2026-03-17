@@ -179,6 +179,11 @@ Open `test.yml` and add the following YAML code:
             pip install selenium
 
 
+        - name: Run Tests
+        run: |
+            python test_search.py
+```
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
@@ -190,12 +195,6 @@ Open `test.yml` and add the following YAML code:
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-
-        - name: Run Tests
-        run: |
-            python test_search.py
-```
 
 3. **Save and Push Changes**
 Add, commit, and push your changes to GitHub:

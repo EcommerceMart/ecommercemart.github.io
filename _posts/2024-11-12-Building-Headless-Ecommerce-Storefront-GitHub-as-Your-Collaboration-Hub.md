@@ -161,20 +161,6 @@ Example Workflow Code for GitHub Actions:
 ```        
     name: CI/CD Pipeline
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-2784742237479601"
-     data-ad-slot="7340313511"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
         on:
         push:
             branches:
@@ -201,6 +187,19 @@ Example Workflow Code for GitHub Actions:
 ```
 
 This example automatically checks out the code, installs dependencies, runs tests, and deploys to Netlify if everything passes.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2784742237479601"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2784742237479601"
+     data-ad-slot="7340313511"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 <!-- Ads Homepage below top article -->
 <!-- <ins class="adsbygoogle"
