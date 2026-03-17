@@ -34,24 +34,9 @@
     text-decoration: none;
    }
 
-  .page__meta {
-    margin: 0 0 8px;
-    font-size: 0.78rem;
-    color: #6b7280;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 6px 10px;
-  }
-
-  .page__meta-sep {
-    display: none;
-  }
-
+  .page__meta,
   .archive__item-excerpt {
-    margin-top: 0;
-    font-size: 0.92rem;
-    line-height: 1.5;
-    color: #374151;
+    display: none;
   }
 
   .grid__item {
