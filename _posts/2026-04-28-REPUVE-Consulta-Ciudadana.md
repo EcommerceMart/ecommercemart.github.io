@@ -18,7 +18,7 @@ image: '/assets/images/REPUVE-Consulta-Ciudadana.webp'
 
 ### What Is REPUVE Consulta Ciudadana
 
-Registro Público Vehicular (REPUVE) is a public consultation system that helps people in Mexico verify basic information about a vehicle before making an important decision. The name REPUVE refers to the Public Vehicle Registry, which stores records connected to vehicles that are registered within the country. Through REPUVE Consulta Ciudadana, drivers, buyers, and sellers can review whether a vehicle has any report related to theft or recovery. This makes the system useful for anyone who wants more confidence before purchasing a used car.
+[Registro Público Vehicular](https://repuve-consulta-ciudadana.com/) (REPUVE) is a public consultation system that helps people in Mexico verify basic information about a vehicle before making an important decision. The name REPUVE refers to the Public Vehicle Registry, which stores records connected to vehicles that are registered within the country. Through REPUVE Consulta Ciudadana, drivers, buyers, and sellers can review whether a vehicle has any report related to theft or recovery. This makes the system useful for anyone who wants more confidence before purchasing a used car.
 
 The main purpose of REPUVE Consulta Ciudadana is to improve transparency in vehicle ownership. Many people purchase used vehicles without knowing the complete history of the unit. A car may look in excellent condition on the outside while still having legal problems attached to it. By checking the database, a person can avoid future problems and reduce the risk of buying a vehicle with a serious record.
 
