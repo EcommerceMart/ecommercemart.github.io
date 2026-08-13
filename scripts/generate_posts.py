@@ -1,4 +1,4 @@
-"""Main script to generate eCommerce blog posts automatically from trending topics or keywords"""
+"""Main script to generate eCommerce blog posts automatically from trending Google News topics"""
 import os
 import sys
 import time
@@ -9,7 +9,6 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 # Import all modules
 from config import *
-from keywords_handler import get_keyword_row, parse_keyword_row, remove_keyword_from_file, get_keywords_count
 from google_news_fetcher import GoogleNewsFetcher
 from article_generator import generate_article, generate_image_prompt
 from image_generator import generate_image_freepik
@@ -21,7 +20,7 @@ from insert_ads import insert_ads_into_content
 
 def main():
     print("=" * 60)
-    print("🚀 Starting EcommerceMart AI Blog Generator")
+    print("🚀 Starting AI Blog Generator - Google News Trending Mode")
     print("=" * 60)
 
     # Verify environment variables
@@ -35,12 +34,9 @@ def main():
         return
     print("✅ FREEPIK_API_KEY found")
 
-    # Check available manual keywords
-    manual_keywords_count = get_keywords_count()
     print(f"\n📊 Posts to generate this run: {POSTS_PER_RUN}")
-    print(f"📋 Manual keywords in keywords.txt: {manual_keywords_count}")
 
-    # Initialize Google News trending fetcher & existing posts analyzer
+    # Initialize Google News fetcher and existing post deduplicator
     news_fetcher = GoogleNewsFetcher()
 
     posts_generated = 0
@@ -50,31 +46,13 @@ def main():
         print(f"📝 Processing Post {post_num}/{POSTS_PER_RUN}")
         print("=" * 60)
 
-        keyword_data = None
-        source_is_manual_file = False
-
-        # Priority 1: Check if manual keywords exist in keywords.txt
-        if manual_keywords_count > 0:
-            row = get_keyword_row()
-            if row:
-                parsed = parse_keyword_row(row)
-                if parsed:
-                    keyword_data = parsed
-                    source_is_manual_file = True
-                    print(f"📋 Using keyword from keywords.txt: {keyword_data['title'][:60]}...")
-                else:
-                    print("⚠️ Invalid keyword format in keywords.txt, removing...")
-                    remove_keyword_from_file()
-                    manual_keywords_count -= 1
-
-        # Priority 2: Fetch trending topic from Google News
-        if not keyword_data:
-            print("🔥 Discovering trending eCommerce topic from Google News...")
-            keyword_data = news_fetcher.get_trending_topic_for_blog()
+        # Fetch trending topic from Google News
+        print("\n🔥 Fetching trending eCommerce topic from Google News...")
+        keyword_data = news_fetcher.get_trending_topic_for_blog()
 
         if not keyword_data:
-            print("❌ Failed to obtain topic for generation.")
-            break
+            print("❌ Failed to fetch trending topic")
+            continue
 
         title = keyword_data['title']
         focus_kw = keyword_data['focus_kw']
@@ -86,7 +64,7 @@ def main():
         tags = keyword_data.get('tags', '')
         source_link = keyword_data.get('source_link', '')
 
-        print(f"\n🎯 Selected Topic: {title}")
+        print(f"\n✅ Topic selected: {title}")
         print(f"   Focus Keyword: {focus_kw}")
         print(f"   Permalink: {permalink}")
         if source_link:
@@ -97,12 +75,10 @@ def main():
         post_path = f"{POSTS_DIR}/{today}-{permalink}.md"
         image_file = f"{IMAGES_DIR}/featured_{permalink}.webp"
 
-        # Check if post already exists on disk
+        # Check if post already exists
         if os.path.exists(post_path):
-            print(f"\n⚠️ Post already exists at {post_path}, skipping...")
-            if source_is_manual_file:
-                remove_keyword_from_file()
-                manual_keywords_count -= 1
+            print(f"\n⚠️ Post already exists: {post_path}")
+            print("   This topic may have already been covered, trying next...")
             continue
 
         try:
@@ -110,6 +86,9 @@ def main():
             print(f"\n{'=' * 60}")
             print("Step 1: Generating SEO Article with Gemini AI")
             print("=" * 60)
+            if source_link:
+                print(f"📰 Source: {source_link}")
+
             article = generate_article(
                 title=title,
                 focus_kw=focus_kw,
@@ -120,9 +99,9 @@ def main():
                 search_kw=search_kw,
                 tags=tags
             )
-            print(f"✅ Article generated successfully ({len(article)} chars)")
+            print(f"✅ Article generated ({len(article)} characters)")
 
-            # Step 2: Generate Freepik image prompt
+            # Step 2: Generate featured image prompt
             print(f"\n{'=' * 60}")
             print("Step 2: Creating Photorealistic Featured Image Prompt")
             print("=" * 60)
@@ -131,76 +110,103 @@ def main():
 
             # Step 3: Generate and compress featured image via Freepik
             print(f"\n{'=' * 60}")
-            print("Step 3: Generating Image with Freepik AI & Compressing to WebP")
+            print("Step 3: Generating & Compressing Featured Image via Freepik AI")
             print("=" * 60)
-            generate_image_freepik(image_prompt, image_file)
-            print(f"✅ Featured image created: {image_file}")
+            try:
+                generate_image_freepik(image_prompt, image_file)
+                print(f"✅ Featured image created: {image_file}")
+            except Exception as img_err:
+                print(f"❌ Image creation failed: {img_err}")
+                print("⚠️ Skipping this post - will try a different topic next run")
+                import traceback
+                traceback.print_exc()
+                continue
 
             # Step 4: Insert AdSense in-article ads and save post
             print(f"\n{'=' * 60}")
-            print("Step 4: Inserting Ads & Saving Markdown Post")
+            print("Step 4: Inserting Ads & Saving Post")
             print("=" * 60)
             final_article = insert_ads_into_content(article)
 
             with open(post_path, "w", encoding="utf-8") as f:
                 f.write(final_article)
-            print(f"✅ Post saved: {post_path}")
+            print(f"✅ Post saved (with ads): {post_path}")
 
             post_url = f"{SITE_DOMAIN}/{permalink}"
 
             print(f"\n{'=' * 60}")
-            print(f"🎉 SUCCESS: Post {post_num} Created!")
+            print(f"✅ SUCCESS! Post {post_num} Generated")
             print("=" * 60)
             print(f"📰 Title: {title}")
             print(f"🌐 URL: {post_url}")
+            if source_link:
+                print(f"📰 Source: {source_link}")
 
             posts_generated += 1
 
-            # Remove manual keyword from file if source was keywords.txt
-            if source_is_manual_file:
-                remove_keyword_from_file()
-                manual_keywords_count -= 1
-
-            # Step 5: Post-publish integrations (Indexing, Push, Sheets)
+            # Step 5: Post-publish integrations (Push Notifications, Indexing, Sheets)
             if post_num == POSTS_PER_RUN or post_num == posts_generated:
-                # Webpushr Notification
+                # Step 5a: Push Notification
+                print(f"\n{'=' * 60}")
+                print("Step 5a: Sending Push Notification")
+                print("=" * 60)
                 try:
                     send_blog_post_notification(title, permalink, focus_kw)
+                    print("✅ Push notification sent")
                 except Exception as e:
-                    print(f"ℹ️ Webpushr notification skipped/failed: {e}")
+                    print(f"⚠️ Push notification skipped/failed: {e}")
 
-                # Google Indexing Submission
+                # Step 5b: Google Indexing
                 indexing_status = "Not Attempted"
                 try:
                     if GOOGLE_SERVICE_ACCOUNT_JSON:
+                        print(f"\n{'=' * 60}")
+                        print("Step 5b: Submitting to Google Indexing")
+                        print("=" * 60)
                         success = submit_to_google_indexing(post_url)
                         indexing_status = "Success" if success else "Failed"
+                        print(f"✅ Google Indexing status: {indexing_status}")
                 except Exception as e:
                     indexing_status = f"Failed - {str(e)[:50]}"
-                    print(f"ℹ️ Google Indexing API skipped/failed: {e}")
+                    print(f"⚠️ Google Indexing API skipped/failed: {e}")
 
-                # Google Sheets Logger
+                # Step 5c: Google Sheets Logger
                 try:
                     if GOOGLE_SERVICE_ACCOUNT_JSON and GOOGLE_SPREADSHEET_ID:
+                        print(f"\n{'=' * 60}")
+                        print("Step 5c: Logging to Google Sheets")
+                        print("=" * 60)
                         log_to_google_sheets(
                             title, focus_kw, permalink,
                             image_file, final_article, indexing_status
                         )
+                        print("✅ Logged to Google Sheets")
                 except Exception as e:
-                    print(f"ℹ️ Sheets logger skipped/failed: {e}")
+                    print(f"⚠️ Sheets logger skipped/failed: {e}")
+
+            print(f"\n{'=' * 60}")
+            print("✅ Post Complete!")
+            print("=" * 60)
 
         except Exception as e:
             print(f"\n{'=' * 60}")
-            print(f"❌ Error during post generation: {e}")
+            print(f"❌ FAILED: {e}")
             print("=" * 60)
+            print("⚠️ Will try a different topic next run")
             import traceback
             traceback.print_exc()
             continue
 
+    # Final summary
     print(f"\n{'=' * 60}")
-    print("🏁 WORKFLOW COMPLETE")
+    print("🎉 WORKFLOW COMPLETE")
     print("=" * 60)
-    print(f"✅ Total Posts Generated: {posts_generated}")
+    print(f"✅ Posts generated: {posts_generated}")
+    print(f"📰 Source: Google News (Trending Topics)")
+
+    if posts_generated == 0:
+        print("\n⚠️ No posts were generated this run")
+        print("💡 Check the logs above for errors")
 
 
 if __name__ == "__main__":
