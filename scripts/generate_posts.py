@@ -29,10 +29,10 @@ def main():
         return
     print("✅ GEMINI_API_KEY found")
 
-    if not FREEPIK_API_KEY:
-        print("❌ FREEPIK_API_KEY not found in environment")
-        return
-    print("✅ FREEPIK_API_KEY found")
+    if FREEPIK_API_KEY:
+        print("✅ FREEPIK_API_KEY found")
+    else:
+        print("ℹ️ FREEPIK_API_KEY not set - using Google Imagen 3 & Pollinations AI (Flux)")
 
     print(f"\n📊 Posts to generate this run: {POSTS_PER_RUN}")
 
