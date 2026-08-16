@@ -9,7 +9,7 @@ IMAGES_DIR = "assets/images"
 SITE_DOMAIN = "https://ecommercemart.github.io"
 
 # AI Models
-TEXT_MODEL = "gemini-2.5-flash"
+TEXT_MODEL = "gemini-2.0-flash"
 FREEPIK_ENDPOINT = "https://api.freepik.com/v1/ai/text-to-image/flux-dev"
 
 # Generation settings

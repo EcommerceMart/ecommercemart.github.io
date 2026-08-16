@@ -21,6 +21,36 @@ def get_genai_client():
     return client
 
 
+def generate_text_with_retry_and_fallback(contents, preferred_model=TEXT_MODEL):
+    """Generate content with automatic fallback across Gemini flash models and retry on rate limits"""
+    import time
+    ai_client = get_genai_client()
+    models_to_try = [preferred_model]
+    for m in ["gemini-2.0-flash", "gemini-1.5-flash", "gemini-2.5-flash"]:
+        if m not in models_to_try:
+            models_to_try.append(m)
+
+    last_error = None
+    for model_name in models_to_try:
+        for attempt in range(2):
+            try:
+                response = ai_client.models.generate_content(
+                    model=model_name,
+                    contents=contents
+                )
+                return response
+            except Exception as e:
+                last_error = e
+                err_str = str(e)
+                if "429" in err_str or "RESOURCE_EXHAUSTED" in err_str:
+                    print(f"ℹ️ Model {model_name} quota hit / rate-limited. Trying fallback model...")
+                    time.sleep(2)
+                    break
+                else:
+                    time.sleep(1)
+    raise last_error
+
+
 def generate_article(title, focus_kw, permalink, semantic_kw, affiliate_links="", hook_kw="", search_kw="", tags=""):
     """Generate SEO-optimized blog article"""
     prompt = f"""
@@ -46,11 +76,7 @@ Rules & Guidelines:
 """
 
     print("🤖 Generating comprehensive article with Gemini...")
-    ai_client = get_genai_client()
-    response = ai_client.models.generate_content(
-        model=TEXT_MODEL,
-        contents=prompt
-    )
+    response = generate_text_with_retry_and_fallback(prompt)
 
     # Remove any front matter that AI might have added
     content = remove_front_matter(response.text)
@@ -147,11 +173,7 @@ Return ONLY the description text, nothing else.
 """
 
     print("📝 Generating meta description...")
-    ai_client = get_genai_client()
-    response = ai_client.models.generate_content(
-        model=TEXT_MODEL,
-        contents=prompt
-    )
+    response = generate_text_with_retry_and_fallback(prompt)
 
     description = response.text.strip().replace('"', '').replace("'", "")
 
@@ -178,11 +200,7 @@ Return ONLY a comma-separated list of 3 queries. No quotes, no markdown, no expl
 """
     try:
         print("🔍 Generating stock photo search queries...")
-        ai_client = get_genai_client()
-        response = ai_client.models.generate_content(
-            model=TEXT_MODEL,
-            contents=prompt
-        )
+        response = generate_text_with_retry_and_fallback(prompt)
         queries = [q.strip().strip('"').strip("'") for q in response.text.strip().split(',') if q.strip()]
         return queries if queries else [focus_kw, "ecommerce shopping", "retail"]
     except Exception as e:
@@ -211,9 +229,5 @@ Output ONLY the final image generation prompt (1-2 vivid sentences describing th
 """
 
     print("🎨 Generating contextual AI image prompt...")
-    ai_client = get_genai_client()
-    response = ai_client.models.generate_content(
-        model=TEXT_MODEL,
-        contents=prompt
-    )
+    response = generate_text_with_retry_and_fallback(prompt)
     return response.text.strip()

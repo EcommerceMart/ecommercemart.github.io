@@ -294,11 +294,8 @@ Your response:
 """
 
         try:
-            ai_client = get_genai_client()
-            response = ai_client.models.generate_content(
-                model=TEXT_MODEL,
-                contents=prompt
-            )
+            from article_generator import generate_text_with_retry_and_fallback
+            response = generate_text_with_retry_and_fallback(prompt)
 
             selected = response.text.strip()
             indices = [int(x.strip()) for x in re.findall(r'\d+', selected)]
@@ -356,11 +353,8 @@ Return ONLY these 7 lines.
 """
 
         try:
-            ai_client = get_genai_client()
-            response = ai_client.models.generate_content(
-                model=TEXT_MODEL,
-                contents=prompt
-            )
+            from article_generator import generate_text_with_retry_and_fallback
+            response = generate_text_with_retry_and_fallback(prompt)
 
             lines = response.text.strip().split('\n')
             metadata = {}
