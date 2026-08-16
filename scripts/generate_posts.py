@@ -29,10 +29,13 @@ def main():
         return
     print("✅ GEMINI_API_KEY found")
 
+    if POLLINATIONS_API_KEY:
+        masked_p_key = f"{POLLINATIONS_API_KEY[:7]}...{POLLINATIONS_API_KEY[-4:]}"
+        print(f"✅ POLLINATIONS_API_KEY configured ({masked_p_key})")
     if FREEPIK_API_KEY:
         print("✅ FREEPIK_API_KEY found")
     else:
-        print("ℹ️ FREEPIK_API_KEY not set - using Google Imagen 3 & Pollinations AI (Flux)")
+        print("ℹ️ Image Providers: Google Imagen 3 & Pollinations AI (Flux with App Key)")
 
     print(f"\n📊 Posts to generate this run: {POSTS_PER_RUN}")
 
@@ -108,9 +111,9 @@ def main():
             image_prompt = generate_image_prompt(title, focus_kw)
             print(f"📝 Prompt: {image_prompt[:120]}...")
 
-            # Step 3: Generate and compress featured image via Freepik
+            # Step 3: Generate and compress featured image
             print(f"\n{'=' * 60}")
-            print("Step 3: Generating & Compressing Featured Image via Freepik AI")
+            print("Step 3: Generating & Compressing Featured Image via AI")
             print("=" * 60)
             try:
                 generate_image_freepik(image_prompt, image_file)

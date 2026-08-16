@@ -163,23 +163,34 @@ Return ONLY the description text, nothing else.
 
 
 def generate_image_prompt(title, focus_kw=""):
-    """Generate image prompt for Freepik AI"""
+    """Generate a highly relevant, visually distinct image prompt tailored specifically to the article topic"""
     prompt = f"""
-Create a detailed, photorealistic featured image prompt for an eCommerce business article:
-Title: {title}
-Focus Keyword: {focus_kw}
+You are an expert art director creating an ultra-realistic, custom featured image prompt for an eCommerce & digital retail publication.
 
-Requirements:
-- Photorealistic, professional commercial photography, 4K quality
-- Modern eCommerce / digital retail theme (e.g. sleek laptop with store dashboard, modern fulfillment center, stylish product packaging, retail store strategy, clean aesthetic)
-- Absolutely NO text, words, labels, letters, or logos in the image
-- 16:9 widescreen composition suitable as a blog header
-- Vibrant, modern studio lighting and balanced colors
+Article Title: "{title}"
+Focus Keyword: "{focus_kw}"
 
-Return ONLY the image prompt text, nothing else.
+Task:
+Design a unique, visually captivating, photorealistic commercial scene that DIRECTLY symbolizes or illustrates the specific theme of this article.
+
+CRITICAL VARIETY & RELEVANCE RULES:
+1. TOPIC-SPECIFIC SUBJECT:
+   - For conversion / checkout / UX: A stylish customer holding a high-end smartphone with a glowing boutique app, or an upscale minimalist retail boutique with warm ambient lighting.
+   - For shipping / fulfillment / logistics / warehouse: High-tech automated fulfillment center with organized conveyor belts, robotic sorting arms, neatly stacked shipping parcels, or delivery fleet.
+   - For Amazon / Marketplace / Social Ads: Dynamic creator workspace with professional ring light, DSLR camera setup, and trendy product unboxing items.
+   - For DTC / Packaging / Branding: Aesthetic luxury product packaging on a marble pedestal with botanical accents and elegant soft studio lighting.
+   - For Global / International / Regional trade (e.g. Japan, Europe): Contemporary regional retail concept store (e.g. sleek Tokyo boutique with cedar wood and minimalist displays), or global trade visualization.
+   - For Inventory / ERP / Order management: Modern warehouse manager with a smart digital barcode scanner, organized clean shelving with ambient neon accents.
+   - For Pricing / ROI / Growth / Finance: Modern executive glass boardroom overlooking a sunlit skyline, or tactile financial/retail elements with warm premium lighting.
+2. DO NOT use generic clichés. NEVER generate a standard laptop showing wavy abstract blue graphs/charts on a desk unless the topic is specifically coding.
+3. VISUAL VARIETY: Choose distinct camera angles (e.g., flat lay, macro close-up, wide-angle cinematic, low angle, overhead hero shot), diverse color temperatures, and rich textures.
+4. ABSOLUTE REQUIREMENT: NO text, NO typography, NO letters, NO words, NO numbers, and NO brand logos anywhere in the image.
+5. Format: 16:9 widescreen composition, 8k resolution, photorealistic commercial photography, masterpiece, sharp focus, cinematic lighting.
+
+Output ONLY the final image generation prompt string (1-3 vivid sentences describing the scene, lighting, camera angle, and style). Do not include any explanations, markdown code blocks, or intro/outro.
 """
 
-    print("🎨 Generating Freepik image prompt...")
+    print("🎨 Generating contextual AI image prompt...")
     ai_client = get_genai_client()
     response = ai_client.models.generate_content(
         model=TEXT_MODEL,

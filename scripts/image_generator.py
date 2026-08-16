@@ -2,6 +2,7 @@
 import os
 import sys
 import time
+import random
 import urllib.parse
 import requests
 from io import BytesIO
@@ -9,7 +10,7 @@ from PIL import Image
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from config import (
-    GEMINI_API_KEY, FREEPIK_API_KEY, FREEPIK_ENDPOINT,
+    GEMINI_API_KEY, FREEPIK_API_KEY, FREEPIK_ENDPOINT, POLLINATIONS_API_KEY,
     IMAGE_QUALITY, IMAGE_MAX_WIDTH, IMAGE_MAX_HEIGHT, OPTIMIZE_IMAGE
 )
 from google import genai
@@ -30,7 +31,7 @@ def generate_image_featured(prompt, output_path):
     """
     Generate high-quality featured image using the best available provider with automatic fallback:
     1. Google Imagen 3 (via GEMINI_API_KEY)
-    2. Pollinations.ai (Flux - 100% free, no API key required)
+    2. Pollinations.ai (Flux with API Key authentication)
     3. Freepik AI (if FREEPIK_API_KEY is configured and valid)
     """
     print(f"\n🎨 Starting AI Image Generation for: {output_path}")
@@ -59,42 +60,51 @@ def generate_image_featured(prompt, output_path):
         except Exception as e:
             print(f"ℹ️ Google Imagen 3 unavailable or failed: {e}")
 
-    # Method 2: Try Freepik if key is provided
-    if FREEPIK_API_KEY:
-        try:
-            print("🚀 Trying Provider 2: Freepik AI...")
-            generate_image_freepik_direct(prompt, output_path)
-            print("✅ Image successfully generated with Freepik AI!")
-            return output_path
-        except Exception as e:
-            print(f"ℹ️ Freepik API failed ({e}), falling back to Pollinations Flux...")
-
-    # Method 3: Pollinations.ai (Flux model - 100% free, no key required)
+    # Method 2: Try Pollinations AI (Flux with API Key authentication)
     try:
-        print("🚀 Trying Provider 3: Pollinations AI (Flux - Free)...")
+        masked_key = f"{POLLINATIONS_API_KEY[:7]}...{POLLINATIONS_API_KEY[-4:]}" if POLLINATIONS_API_KEY else "None"
+        print(f"🚀 Trying Provider 2: Pollinations AI (Flux | Key: {masked_key})...")
         generate_image_pollinations(prompt, output_path)
         print("✅ Image successfully generated with Pollinations AI (Flux)!")
         return output_path
     except Exception as e:
-        print(f"❌ Pollinations AI failed: {e}")
-        raise RuntimeError(f"All image generation providers failed for: {prompt[:80]}")
+        print(f"ℹ️ Pollinations AI failed ({e}), falling back to Freepik AI...")
+
+    # Method 3: Try Freepik if key is provided
+    if FREEPIK_API_KEY:
+        try:
+            print("🚀 Trying Provider 3: Freepik AI...")
+            generate_image_freepik_direct(prompt, output_path)
+            print("✅ Image successfully generated with Freepik AI!")
+            return output_path
+        except Exception as e:
+            print(f"❌ Freepik API failed: {e}")
+
+    raise RuntimeError(f"All image generation providers failed for: {prompt[:80]}")
 
 
 def generate_image_pollinations(prompt, output_path):
-    """Generate image via Pollinations.ai (Flux model, completely free, no API key)"""
+    """Generate image via Pollinations.ai (Flux model with API Key and random seed)"""
     clean_prompt = prompt.replace('\n', ' ').strip()
     encoded = urllib.parse.quote(clean_prompt)
-    url = f"https://image.pollinations.ai/prompt/{encoded}?width=1280&height=720&nologo=true&model=flux"
+    seed = random.randint(1, 999999999)
 
-    print(f"📥 Requesting image from Pollinations.ai (Flux)...")
+    url = f"https://image.pollinations.ai/prompt/{encoded}?width=1280&height=720&nologo=true&model=flux&seed={seed}"
+    if POLLINATIONS_API_KEY:
+        url += f"&key={POLLINATIONS_API_KEY}"
+
+    print(f"📥 Requesting image from Pollinations.ai (Flux, Seed: {seed})...")
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
     }
+    if POLLINATIONS_API_KEY:
+        headers['Authorization'] = f'Bearer {POLLINATIONS_API_KEY}'
+
     response = requests.get(url, headers=headers, timeout=90)
     response.raise_for_status()
 
     if len(response.content) < 1000:
-        raise ValueError("Received invalid/empty image response from Pollinations")
+        raise ValueError(f"Received invalid/empty image response from Pollinations ({len(response.content)} bytes)")
 
     save_and_compress_image_bytes(response.content, output_path)
 
