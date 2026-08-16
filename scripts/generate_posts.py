@@ -10,8 +10,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 # Import all modules
 from config import *
 from google_news_fetcher import GoogleNewsFetcher
-from article_generator import generate_article, generate_image_prompt
-from image_generator import generate_image_freepik
+from article_generator import generate_article, generate_image_prompt, generate_stock_photo_keywords
+from image_generator import generate_image_featured, generate_image_freepik
 from google_indexing import submit_to_google_indexing, check_indexing_status
 from google_sheets_logger import log_to_google_sheets
 from webpushr_notifier import send_blog_post_notification
@@ -29,13 +29,15 @@ def main():
         return
     print("✅ GEMINI_API_KEY found")
 
+    if PEXELS_API_KEY:
+        print("✅ PEXELS_API_KEY configured (Commercial Stock Photos)")
+    if UNSPLASH_ACCESS_KEY:
+        print("✅ UNSPLASH_ACCESS_KEY configured (Commercial Stock Photos)")
     if POLLINATIONS_API_KEY:
         masked_p_key = f"{POLLINATIONS_API_KEY[:7]}...{POLLINATIONS_API_KEY[-4:]}"
         print(f"✅ POLLINATIONS_API_KEY configured ({masked_p_key})")
     if FREEPIK_API_KEY:
         print("✅ FREEPIK_API_KEY found")
-    else:
-        print("ℹ️ Image Providers: Google Imagen 3 & Pollinations AI (Flux with App Key)")
 
     print(f"\n📊 Posts to generate this run: {POSTS_PER_RUN}")
 
@@ -104,20 +106,22 @@ def main():
             )
             print(f"✅ Article generated ({len(article)} characters)")
 
-            # Step 2: Generate featured image prompt
+            # Step 2: Generate featured image prompt and stock search queries
             print(f"\n{'=' * 60}")
-            print("Step 2: Creating Photorealistic Featured Image Prompt")
+            print("Step 2: Preparing Featured Image Prompt & Stock Queries")
             print("=" * 60)
+            stock_keywords = generate_stock_photo_keywords(title, focus_kw)
             image_prompt = generate_image_prompt(title, focus_kw)
-            print(f"📝 Prompt: {image_prompt[:120]}...")
+            print(f"🔍 Stock Queries: {stock_keywords}")
+            print(f"📝 AI Prompt: {image_prompt[:120]}...")
 
-            # Step 3: Generate and compress featured image
+            # Step 3: Retrieve or generate and compress featured image
             print(f"\n{'=' * 60}")
-            print("Step 3: Generating & Compressing Featured Image via AI")
+            print("Step 3: Retrieving/Generating Featured Image (Pexels/Unsplash/AI)")
             print("=" * 60)
             try:
-                generate_image_freepik(image_prompt, image_file)
-                print(f"✅ Featured image created: {image_file}")
+                generate_image_featured(prompt=image_prompt, output_path=image_file, keywords=stock_keywords)
+                print(f"✅ Featured image ready: {image_file}")
             except Exception as img_err:
                 print(f"❌ Image creation failed: {img_err}")
                 print("⚠️ Skipping this post - will try a different topic next run")

@@ -27,7 +27,9 @@ WAIT_TIME_BEFORE_INDEXING = 180  # seconds (3 minutes)
 # API Keys (from environment)
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip() or None
 FREEPIK_API_KEY = os.environ.get("FREEPIK_API_KEY", "").strip() or None
-POLLINATIONS_API_KEY = os.environ.get("POLLINATIONS_API_KEY", "").strip() or None
+POLLINATIONS_API_KEY = os.environ.get("POLLINATIONS_API_KEY", "").strip() or "pk_yvqxNqZLkkdeQaYW"
+PEXELS_API_KEY = os.environ.get("PEXELS_API_KEY", "").strip() or None
+UNSPLASH_ACCESS_KEY = os.environ.get("UNSPLASH_ACCESS_KEY", "").strip() or None
 GOOGLE_SERVICE_ACCOUNT_JSON = os.environ.get("GOOGLE_SERVICE_ACCOUNT_JSON")
 GOOGLE_SPREADSHEET_ID = os.environ.get("GOOGLE_SPREADSHEET_ID")
 

@@ -162,32 +162,52 @@ Return ONLY the description text, nothing else.
     return description
 
 
-def generate_image_prompt(title, focus_kw=""):
-    """Generate a highly relevant, visually distinct image prompt tailored specifically to the article topic"""
+def generate_stock_photo_keywords(title, focus_kw=""):
+    """Generate clean, highly relevant stock photo search queries for Pexels and Unsplash"""
     prompt = f"""
-You are an expert art director creating an ultra-realistic, custom featured image prompt for an eCommerce & digital retail publication.
+Given this eCommerce article title: "{title}" and focus keyword: "{focus_kw}"
+Generate 3 distinct, clean search queries (1-3 words each) suitable for finding authentic, relevant commercial stock photos on Pexels or Unsplash.
+
+Examples of good queries:
+- For "Amazon Review Variation Split": "product packaging, retail display, shopping cart"
+- For "eCommerce CRO Strategies": "customer shopping, retail store, mobile checkout"
+- For "Order Management Software": "warehouse logistics, delivery boxes, automated shipping"
+- For "DTC Brand Marketing": "product unboxing, boutique retail, beauty cosmetics"
+
+Return ONLY a comma-separated list of 3 queries. No quotes, no markdown, no explanations.
+"""
+    try:
+        print("🔍 Generating stock photo search queries...")
+        ai_client = get_genai_client()
+        response = ai_client.models.generate_content(
+            model=TEXT_MODEL,
+            contents=prompt
+        )
+        queries = [q.strip().strip('"').strip("'") for q in response.text.strip().split(',') if q.strip()]
+        return queries if queries else [focus_kw, "ecommerce shopping", "retail"]
+    except Exception as e:
+        print(f"⚠️ Stock query generation fallback: {e}")
+        return [focus_kw, "ecommerce", "online retail"]
+
+
+def generate_image_prompt(title, focus_kw=""):
+    """Generate a highly relevant, visually distinct, strictly physical image prompt tailored to the article"""
+    prompt = f"""
+You are an expert art director creating an ultra-realistic, custom featured image prompt for an eCommerce publication.
 
 Article Title: "{title}"
 Focus Keyword: "{focus_kw}"
 
-Task:
-Design a unique, visually captivating, photorealistic commercial scene that DIRECTLY symbolizes or illustrates the specific theme of this article.
+CRITICAL RULES:
+1. MUST BE A CONCRETE PHYSICAL REAL-WORLD SCENE:
+   - Depict tangible, physical objects: actual products, boutique shelves, cardboard delivery packages, smartphone in hand with a clean shop app, organized warehouse aisles, modern unboxing setups, studio product photography pedestals.
+   - STRICTLY FORBIDDEN: NO abstract metaphors, NO glowing energy hands, NO floating magical symbols, NO fantasy vortexes, NO sci-fi holograms.
+   - AVOID CLICHÉS: Do NOT generate a standard laptop showing wavy abstract blue graphs on an empty desk.
+2. HIGH RELEVANCE: The scene must directly match what the article is about (e.g. products on a counter, retail store, package shipping, unboxing experience, customer shopping).
+3. ABSOLUTE ZERO TEXT: NO text, NO letters, NO words, NO numbers, NO watermarks, NO brand logos anywhere.
+4. STYLE: Commercial editorial photography, 8K resolution, realistic natural & studio lighting, shallow depth of field, 16:9 widescreen composition.
 
-CRITICAL VARIETY & RELEVANCE RULES:
-1. TOPIC-SPECIFIC SUBJECT:
-   - For conversion / checkout / UX: A stylish customer holding a high-end smartphone with a glowing boutique app, or an upscale minimalist retail boutique with warm ambient lighting.
-   - For shipping / fulfillment / logistics / warehouse: High-tech automated fulfillment center with organized conveyor belts, robotic sorting arms, neatly stacked shipping parcels, or delivery fleet.
-   - For Amazon / Marketplace / Social Ads: Dynamic creator workspace with professional ring light, DSLR camera setup, and trendy product unboxing items.
-   - For DTC / Packaging / Branding: Aesthetic luxury product packaging on a marble pedestal with botanical accents and elegant soft studio lighting.
-   - For Global / International / Regional trade (e.g. Japan, Europe): Contemporary regional retail concept store (e.g. sleek Tokyo boutique with cedar wood and minimalist displays), or global trade visualization.
-   - For Inventory / ERP / Order management: Modern warehouse manager with a smart digital barcode scanner, organized clean shelving with ambient neon accents.
-   - For Pricing / ROI / Growth / Finance: Modern executive glass boardroom overlooking a sunlit skyline, or tactile financial/retail elements with warm premium lighting.
-2. DO NOT use generic clichés. NEVER generate a standard laptop showing wavy abstract blue graphs/charts on a desk unless the topic is specifically coding.
-3. VISUAL VARIETY: Choose distinct camera angles (e.g., flat lay, macro close-up, wide-angle cinematic, low angle, overhead hero shot), diverse color temperatures, and rich textures.
-4. ABSOLUTE REQUIREMENT: NO text, NO typography, NO letters, NO words, NO numbers, and NO brand logos anywhere in the image.
-5. Format: 16:9 widescreen composition, 8k resolution, photorealistic commercial photography, masterpiece, sharp focus, cinematic lighting.
-
-Output ONLY the final image generation prompt string (1-3 vivid sentences describing the scene, lighting, camera angle, and style). Do not include any explanations, markdown code blocks, or intro/outro.
+Output ONLY the final image generation prompt (1-2 vivid sentences describing the tangible objects, setting, lighting, and camera perspective).
 """
 
     print("🎨 Generating contextual AI image prompt...")

@@ -1,4 +1,4 @@
-"""Multi-provider AI image generator (Imagen 3, Pollinations Flux, Freepik) with automatic fallback and WebP compression"""
+"""Multi-provider image generator (Pexels, Unsplash, Google Imagen 3, Pollinations Flux, Freepik) with automatic fallback and WebP compression"""
 import os
 import sys
 import time
@@ -11,6 +11,7 @@ from PIL import Image
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from config import (
     GEMINI_API_KEY, FREEPIK_API_KEY, FREEPIK_ENDPOINT, POLLINATIONS_API_KEY,
+    PEXELS_API_KEY, UNSPLASH_ACCESS_KEY,
     IMAGE_QUALITY, IMAGE_MAX_WIDTH, IMAGE_MAX_HEIGHT, OPTIMIZE_IMAGE
 )
 from google import genai
@@ -27,20 +28,41 @@ def get_genai_client():
     return client
 
 
-def generate_image_featured(prompt, output_path):
+def generate_image_featured(prompt, output_path, keywords=None):
     """
-    Generate high-quality featured image using the best available provider with automatic fallback:
-    1. Google Imagen 3 (via GEMINI_API_KEY)
-    2. Pollinations.ai (Flux with API Key authentication)
-    3. Freepik AI (if FREEPIK_API_KEY is configured and valid)
+    Generate or fetch high-quality featured image using the best available provider:
+    1. Pexels API (Real Stock Photography - if PEXELS_API_KEY configured)
+    2. Unsplash API (Real Stock Photography - if UNSPLASH_ACCESS_KEY configured)
+    3. Google Imagen 3 (via GEMINI_API_KEY)
+    4. Pollinations.ai (Flux with API Key authentication)
+    5. Freepik AI (if FREEPIK_API_KEY is configured and valid)
     """
-    print(f"\n🎨 Starting AI Image Generation for: {output_path}")
-    print(f"📝 Prompt: {prompt[:120]}...")
+    print(f"\n🎨 Starting Image Retrieval/Generation for: {output_path}")
 
-    # Method 1: Try Google Imagen 3 via Gemini API
+    # Method 1: Try Pexels Free Stock Photos
+    if PEXELS_API_KEY and keywords:
+        try:
+            print("📸 Trying Provider 1: Pexels Commercial Stock API...")
+            if fetch_image_pexels(keywords, output_path):
+                return output_path
+        except Exception as e:
+            print(f"ℹ️ Pexels API skipped/failed: {e}")
+
+    # Method 2: Try Unsplash Free Stock Photos
+    if UNSPLASH_ACCESS_KEY and keywords:
+        try:
+            print("📸 Trying Provider 2: Unsplash Commercial Stock API...")
+            if fetch_image_unsplash(keywords, output_path):
+                return output_path
+        except Exception as e:
+            print(f"ℹ️ Unsplash API skipped/failed: {e}")
+
+    print(f"📝 AI Prompt: {prompt[:120]}...")
+
+    # Method 3: Try Google Imagen 3 via Gemini API
     if GEMINI_API_KEY:
         try:
-            print("🚀 Trying Provider 1: Google Imagen 3...")
+            print("🚀 Trying Provider 3: Google Imagen 3...")
             ai_client = get_genai_client()
             if ai_client:
                 result = ai_client.models.generate_images(
@@ -60,27 +82,91 @@ def generate_image_featured(prompt, output_path):
         except Exception as e:
             print(f"ℹ️ Google Imagen 3 unavailable or failed: {e}")
 
-    # Method 2: Try Pollinations AI (Flux with API Key authentication)
+    # Method 4: Try Pollinations AI (Flux with API Key authentication)
     try:
         masked_key = f"{POLLINATIONS_API_KEY[:7]}...{POLLINATIONS_API_KEY[-4:]}" if POLLINATIONS_API_KEY else "None"
-        print(f"🚀 Trying Provider 2: Pollinations AI (Flux | Key: {masked_key})...")
+        print(f"🚀 Trying Provider 4: Pollinations AI (Flux | Key: {masked_key})...")
         generate_image_pollinations(prompt, output_path)
         print("✅ Image successfully generated with Pollinations AI (Flux)!")
         return output_path
     except Exception as e:
         print(f"ℹ️ Pollinations AI failed ({e}), falling back to Freepik AI...")
 
-    # Method 3: Try Freepik if key is provided
+    # Method 5: Try Freepik if key is provided
     if FREEPIK_API_KEY:
         try:
-            print("🚀 Trying Provider 3: Freepik AI...")
+            print("🚀 Trying Provider 5: Freepik AI...")
             generate_image_freepik_direct(prompt, output_path)
             print("✅ Image successfully generated with Freepik AI!")
             return output_path
         except Exception as e:
             print(f"❌ Freepik API failed: {e}")
 
-    raise RuntimeError(f"All image generation providers failed for: {prompt[:80]}")
+    raise RuntimeError(f"All image providers failed for: {output_path}")
+
+
+def fetch_image_pexels(keywords, output_path):
+    """Fetch commercial stock photo from Pexels API"""
+    if not PEXELS_API_KEY:
+        return False
+
+    headers = {"Authorization": PEXELS_API_KEY}
+    search_list = keywords if isinstance(keywords, list) else [keywords]
+
+    for kw in search_list:
+        if not kw or len(kw.strip()) < 2:
+            continue
+        try:
+            clean_kw = kw.strip()
+            print(f"🔎 Searching Pexels for: '{clean_kw}'...")
+            url = f"https://api.pexels.com/v1/search?query={urllib.parse.quote(clean_kw)}&orientation=landscape&size=large&per_page=5"
+            res = requests.get(url, headers=headers, timeout=15)
+            if res.status_code == 200:
+                data = res.json()
+                photos = data.get("photos", [])
+                if photos:
+                    img_url = photos[0]["src"].get("large2x") or photos[0]["src"].get("landscape") or photos[0]["src"].get("large")
+                    if img_url:
+                        img_res = requests.get(img_url, timeout=30)
+                        img_res.raise_for_status()
+                        save_and_compress_image_bytes(img_res.content, output_path)
+                        print(f"✅ Found and downloaded high-res Pexels photo for '{clean_kw}'!")
+                        return True
+        except Exception as e:
+            print(f"⚠️ Pexels search for '{kw}' failed: {e}")
+    return False
+
+
+def fetch_image_unsplash(keywords, output_path):
+    """Fetch commercial stock photo from Unsplash API"""
+    if not UNSPLASH_ACCESS_KEY:
+        return False
+
+    headers = {"Authorization": f"Client-ID {UNSPLASH_ACCESS_KEY}"}
+    search_list = keywords if isinstance(keywords, list) else [keywords]
+
+    for kw in search_list:
+        if not kw or len(kw.strip()) < 2:
+            continue
+        try:
+            clean_kw = kw.strip()
+            print(f"🔎 Searching Unsplash for: '{clean_kw}'...")
+            url = f"https://api.unsplash.com/search/photos?query={urllib.parse.quote(clean_kw)}&orientation=landscape&per_page=5"
+            res = requests.get(url, headers=headers, timeout=15)
+            if res.status_code == 200:
+                data = res.json()
+                results = data.get("results", [])
+                if results:
+                    img_url = results[0]["urls"].get("regular") or results[0]["urls"].get("full")
+                    if img_url:
+                        img_res = requests.get(img_url, timeout=30)
+                        img_res.raise_for_status()
+                        save_and_compress_image_bytes(img_res.content, output_path)
+                        print(f"✅ Found and downloaded high-res Unsplash photo for '{clean_kw}'!")
+                        return True
+        except Exception as e:
+            print(f"⚠️ Unsplash search for '{kw}' failed: {e}")
+    return False
 
 
 def generate_image_pollinations(prompt, output_path):
