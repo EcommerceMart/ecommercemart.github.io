@@ -121,10 +121,13 @@ analytics:
 author:
   name             : "Coding Rhodes"
   avatar           : "/assets/images/Author-codingRhodes.webp"
-  bio              : "Hi, I am Coding Rhodes, the author of this article, Do let me know If you have any Questions."
+  bio              : "Hi, I am Coding Rhodes — Senior Shopify Developer & E-Commerce Architect. Need a high-converting store, custom Liquid theme, or app architecture?"
   location         : "Online"
   email            : CodingRhodes@gmail.com
   links:
+    - label: "Shopify Portfolio"
+      icon: "fas fa-fw fa-shopping-bag"
+      url: "https://shopify-developer-portfolio.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EcommerceMart"

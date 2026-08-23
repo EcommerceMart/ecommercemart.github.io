@@ -1,6 +1,17 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  {% if page.author_profile or layout.author_profile %}
+    {% include author-profile.html %}
+    <div class="sidebar-shopify-promo" style="background: #0A0F1D; border: 1px solid #1E293B; border-radius: 10px; padding: 16px; margin: 18px 0; color: #FFFFFF; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.12);">
+      <div style="display: flex; align-items: center; gap: 6px; margin-bottom: 8px;">
+        <span style="width: 8px; height: 8px; border-radius: 50%; background: #10B981; display: inline-block;"></span>
+        <span style="font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: #60A5FA; font-weight: 700;">Hire Shopify Expert</span>
+      </div>
+      <h4 style="margin: 0 0 6px; font-size: 0.98rem; color: #FFFFFF; font-weight: 700; line-height: 1.35;">Need Custom Shopify Theme & App Development?</h4>
+      <p style="font-size: 0.82rem; color: #94A3B8; margin: 0 0 12px; line-height: 1.45;">Bespoke Liquid themes, sub-2.5s speed optimization, and custom Shopify Plus builds.</p>
+      <a href="https://shopify-developer-portfolio.github.io/" target="_blank" rel="noopener" style="display: block; text-align: center; background: #008060; color: #FFFFFF; padding: 8px 12px; border-radius: 6px; font-size: 0.82rem; font-weight: 700; text-decoration: none; transition: background 0.2s;">View Portfolio & Stores →</a>
+    </div>
+  {% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}

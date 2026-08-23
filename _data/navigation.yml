@@ -5,6 +5,8 @@ main:
     url: /
   - title: "Categories"
     url: /categories/
+  - title: "Shopify Services"
+    url: "https://shopify-developer-portfolio.github.io/"
   - title: "About Us"
     url: /about-us
   - title: "Contact Us"
@@ -13,8 +15,12 @@ main:
     url: /write-for-us/
 
 tools:
-  - title: "Calculators"
+  - title: "Calculators & Tools"
     children:
+      - title: "Shopify Developer Portfolio"
+        url: "https://shopify-developer-portfolio.github.io/"
+      - title: "RecommendIQ Shopify App"
+        url: "https://apps.shopify.com/recommendiq-quiz"
       - title: "Profit Margin Calculator"
         url: /Ecommerce-Profit-Margin-Calculator/
       - title: "Ad Budget Calculator"
