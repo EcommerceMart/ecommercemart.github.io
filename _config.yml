@@ -125,9 +125,6 @@ author:
   location         : "Online"
   email            : CodingRhodes@gmail.com
   links:
-    - label: "Shopify Portfolio"
-      icon: "fas fa-fw fa-shopping-bag"
-      url: "https://shopify-developer-portfolio.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EcommerceMart"
