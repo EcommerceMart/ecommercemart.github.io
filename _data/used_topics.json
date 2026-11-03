@@ -1,9 +1,4 @@
 {
-  "master direct-to-consumer: launch & grow your brand online today": {
-    "title": "Master Direct-to-Consumer: Launch & Grow Your Brand Online Today",
-    "permalink": "master-direct-to-consumer-selling",
-    "date": "2026-09-19T14:18:09.624816"
-  },
   "headless shopify: the ultimate guide to unlocking growth & flexibility": {
     "title": "Headless Shopify: The Ultimate Guide to Unlocking Growth & Flexibility",
     "permalink": "headless-shopify-guide",
@@ -428,5 +423,10 @@
     "title": "WooCommerce vs Shopify: The Ultimate Guide to Choosing Your Store Platform",
     "permalink": "woocommerce-vs-shopify-guide",
     "date": "2026-11-03T03:25:57.988444"
+  },
+  "mastering ecommerce operations: strategies for growth & efficiency": {
+    "title": "Mastering Ecommerce Operations: Strategies for Growth & Efficiency",
+    "permalink": "ecommerce-operations-guide",
+    "date": "2026-11-03T18:21:19.084916"
   }
 }
