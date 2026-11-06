@@ -1,9 +1,4 @@
 {
-  "master d2c: your ultimate guide to direct-to-consumer ecommerce success": {
-    "title": "Master D2C: Your Ultimate Guide to Direct-to-Consumer eCommerce Success",
-    "permalink": "direct-to-consumer-ecommerce-guide",
-    "date": "2026-09-22T00:41:34.411632"
-  },
   "headless cms for shopify: boost performance & future-proof your store": {
     "title": "Headless CMS for Shopify: Boost Performance & Future-Proof Your Store",
     "permalink": "headless-cms-shopify-guide",
@@ -438,5 +433,10 @@
     "title": "Mastering DTC: Your Guide to Direct-to-Consumer Success & Top Brands",
     "permalink": "dtc-brands-guide",
     "date": "2026-11-05T18:39:13.922824"
+  },
+  "dtc brands: your ultimate guide to launching, growth & examples": {
+    "title": "DTC Brands: Your Ultimate Guide to Launching, Growth & Examples",
+    "permalink": "dtc-brands-ultimate-guide",
+    "date": "2026-11-06T02:09:53.906340"
   }
 }
