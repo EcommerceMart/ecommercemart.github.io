@@ -1,9 +1,4 @@
 {
-  "how to launch & scale your dtc brand: the direct-to-consumer playbook": {
-    "title": "How to Launch & Scale Your DTC Brand: The Direct-to-Consumer Playbook",
-    "permalink": "direct-to-consumer-guide",
-    "date": "2026-09-30T16:46:11.802116"
-  },
   "unlock ecommerce growth: how retailers can leverage amazon ai tech": {
     "title": "Unlock eCommerce Growth: How Retailers Can Leverage Amazon AI Tech",
     "permalink": "amazon-ai-for-retailers",
@@ -433,5 +428,10 @@
     "title": "Ecommerce UX Design: Boost Sales with Top Strategies & Best Practices",
     "permalink": "ecommerce-ux-design",
     "date": "2026-11-14T02:11:19.690174"
+  },
+  "unlock agentic commerce: ai agents reshaping ecommerce for growth": {
+    "title": "Unlock Agentic Commerce: AI Agents Reshaping eCommerce for Growth",
+    "permalink": "agentic-commerce-ai-agents",
+    "date": "2026-11-14T16:56:51.255689"
   }
 }
